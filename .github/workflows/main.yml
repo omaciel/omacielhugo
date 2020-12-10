@@ -28,13 +28,13 @@ jobs:
           hugo-version: '0.79.0'
 
       - name: Preflight
-        run: tree
+        run: ls -R
 
       - name: Build
         run: hugo -v
 
       - name: Postflight
-        run: tree
+        run: ls -R
 
       - name: Deploy to live website
         uses: peaceiris/actions-gh-pages@v3
