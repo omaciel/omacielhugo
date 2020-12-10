@@ -1,4 +1,4 @@
-baseURL: "https://omaciel.github.io"
+baseURL: "https://omaciel.github.io/"
 languageCode: "en-us"
 title: "Og Maciel"
 theme: "hugo-profile"
