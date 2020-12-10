@@ -36,6 +36,6 @@ jobs:
           personal_token: ${{ secrets.REPO_TOKEN }}
           publish_dir: ./public
           external_repository: omaciel/omaciel.github.io
-          publish_branch: master
+          publish_branch: main
           user_name: Github Actions deployment bot
           user_email: githubactionsbot@users.noreply.github.com
