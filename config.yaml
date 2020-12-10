@@ -1,0 +1,58 @@
+baseURL: "https://omaciel.github.io"
+languageCode: "en-us"
+title: "Og Maciel"
+theme: "hugo-profile"
+
+# googleanalytics: UA-xxxxxxx-x
+disqusShortname: journalofanopensourcee
+Paginate: 5
+
+taxonomies:
+  tag: ""
+#  category: "categories"
+
+params:
+  favicon: "/images/fav.png"
+  description: ""
+  copyright: "2020"
+
+  # Navbar Menus
+  customMenus:
+    - name: "Posts"
+      Url: "/posts"
+
+  # social
+  name: "Og Maciel"
+  github: "https://github.com/omaciel"
+  linkedin: "https://www.linkedin.com/in/ogmaciel/"
+  twitter: "https://twitter.com/OgMaciel"
+  instagram: "http://instagram.com/ogmaciel"
+  amazon: "https://www.amazon.com/author/ogmaciel"
+  goodreads: "https://www.goodreads.com/author/show/7762080.Og_Maciel"
+
+  # About
+  profile_image: "/images/ogmaciel.png"
+  descripe_l1_person: "Og Maciel is a Director of Quality Engineering for the Management and Automation organization, and considers himself  the linchpin for a diverse team of Quality Engineers, solving problems that people haven’t predicted, seeing things people haven’t seen, and connecting people who need to be connected."
+  descripe_l2_person: "He is also a Continuous Integration enthusiast with a strong background in Python and Software Automation. Avid reader! Knowledge Seeker and Sharer!"
+
+  # Things I do
+  usedothings: true
+  Things:
+    - logo: fab fa-python
+      title: Python
+      description: I build something beautiful using Python.
+
+    - logo: fas fa-robot
+      title: Machine learning
+      description: I train robust models for various tasks.
+
+    - logo: fab fa-amazon
+      title: Write
+      description: I'm an aspiring author of fiction.
+
+  #blog ( Description for seo. If you want to show description in your listing or single page, let's make it true)
+  showdescription: false
+
+Author:
+  name: "Og Maciel"
+  website: "https://omaciel.github.io"
