@@ -13,6 +13,46 @@
                         {{ .Site.Params.name }}
                         {{ end }}
                     </div>
+                    <div class="social px-3">
+
+                        {{ if .Site.Params.github }}
+                        <a class="text-dark" href="{{ .Site.Params.github }}" aria-label="github">
+                            <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/github.svg" alt="github" height="22" width="22" />
+                        </a>
+                        {{ end }}
+
+                        {{ if .Site.Params.linkedin }}
+                        <a class="text-white" href="{{ .Site.Params.linkedin }}" aria-label="linkedin">
+                            <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/linkedin.svg" alt="linkedin" height="22" width="22" />
+                        </a>
+
+                        {{ end }}
+
+                        {{ if .Site.Params.twitter }}
+                        <a class="text-info" href="{{ .Site.Params.twitter }}" aria-label="twitter">
+                            <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/twitter.svg" alt="twitter" height="22" width="22" />
+                        </a>
+                        {{ end }}
+
+                        {{ if .Site.Params.instagram }}
+                        <a class="text-danger" href="{{ .Site.Params.instagram }}" aria-label="instagram">
+                            <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/instagram.svg" alt="instagram" height="22" width="22" />
+                        </a>
+                        {{ end }}
+
+                        {{ if .Site.Params.amazon }}
+                        <a class="text-info" href="{{ .Site.Params.amazon }}" aria-label="amazon">
+                            <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/amazon.svg" alt="amazon" height="22" width="22" />
+                        </a>
+                        {{ end }}
+
+                        {{ if .Site.Params.goodreads }}
+                        <a class="text-info" href="{{ .Site.Params.goodreads }}" aria-label="goodreads">
+                            <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/goodreads.svg" alt="goodreads" height="22" width="22" />
+                        </a>
+                        {{ end }}
+
+                    </div>
                 </div>
 
                 <div class="col-lg-7 ">
@@ -25,46 +65,6 @@
                         <br><br>
                         {{ .Site.Params.descripe_l2_person }}
                         {{ end }}
-                    </div>
-                    <div class="social px-3">
-
-                        {{ if .Site.Params.github }}
-                        <a class="text-dark" href="{{ .Site.Params.github }}" aria-label="github">
-                            <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/github.svg" alt="github" height="30" width="30" />
-                        </a>
-                        {{ end }}
-
-                        {{ if .Site.Params.linkedin }}
-                        <a class="text-white" href="{{ .Site.Params.linkedin }}" aria-label="linkedin">
-                            <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
-                        </a>
-
-                        {{ end }}
-
-                        {{ if .Site.Params.twitter }}
-                        <a class="text-info" href="{{ .Site.Params.twitter }}" aria-label="twitter">
-                            <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/twitter.svg" alt="twitter" height="30" width="30" />
-                        </a>
-                        {{ end }}
-
-                        {{ if .Site.Params.instagram }}
-                        <a class="text-danger" href="{{ .Site.Params.instagram }}" aria-label="instagram">
-                            <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/instagram.svg" alt="instagram" height="30" width="30" />
-                        </a>
-                        {{ end }}
-
-                        {{ if .Site.Params.amazon }}
-                        <a class="text-info" href="{{ .Site.Params.amazon }}" aria-label="amazon">
-                            <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/amazon.svg" alt="amazon" height="30" width="30" />
-                        </a>
-                        {{ end }}
-
-                        {{ if .Site.Params.goodreads }}
-                        <a class="text-info" href="{{ .Site.Params.goodreads }}" aria-label="goodreads">
-                            <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/goodreads.svg" alt="goodreads" height="30" width="30" />
-                        </a>
-                        {{ end }}
-
                     </div>
                 </div>
             </div>
