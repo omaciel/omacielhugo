@@ -38,13 +38,13 @@ params:
   # Things I do
   usedothings: true
   Things:
-    - logo: fab fa-python
-      title: Python
-      description: I build something beautiful using Python.
+    - logo: fas fa-fist-raised
+      title: Linchpin
+      description: I bring people together and unlock their potential.
 
-    - logo: fas fa-robot
-      title: Machine learning
-      description: I train robust models for various tasks.
+    - logo: fas fa-university
+      title: Learning
+      description: I strongly believe in Continuous Improvements.
 
     - logo: fab fa-amazon
       title: Write
