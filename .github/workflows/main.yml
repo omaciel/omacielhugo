@@ -27,14 +27,8 @@ jobs:
         with:
           hugo-version: '0.79.0'
 
-      - name: Preflight
-        run: ls -R public
-
       - name: Build
         run: hugo -v
-
-      - name: Postflight
-        run: ls -R public
 
       - name: Deploy to live website
         uses: peaceiris/actions-gh-pages@v3
@@ -45,6 +39,3 @@ jobs:
           publish_branch: main
           user_name: Github Actions deployment bot
           user_email: githubactionsbot@users.noreply.github.com
-
-      - name: Postflight
-        run: ls -R public
