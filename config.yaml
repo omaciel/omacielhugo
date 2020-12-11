@@ -21,6 +21,9 @@ params:
     - name: "Posts"
       Url: "/posts"
 
+    - name: "Books"
+      Url: "/books"
+
   # social
   name: "Og Maciel"
   github: "https://github.com/omaciel"
