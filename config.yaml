@@ -8,7 +8,7 @@ disqusShortname: journalofanopensourcee
 Paginate: 5
 
 taxonomies:
-  tag: ""
+  tag: "tags"
 #  category: "categories"
 
 params:

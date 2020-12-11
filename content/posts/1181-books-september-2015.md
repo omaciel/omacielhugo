@@ -6,11 +6,24 @@ date: 2015-10-06
 description: |
   Books from September 2015
 tags:
- - Rubem Fonseca, Saul Bellow, Osamu Tezuka, Herman Melville, Jane
-  Austen, Clarice Lispector, Gilberto Freire, Franz Kafka, Jose de
-  Alencar, Paolo Bacigalupi, William Faulkner, Jose Saramago, Joaquim
-  Manuel de Macedo, Leo Tolstoy, Dias Gomes, Machado de Assis, Nick
-  Hornby, Ariano Suassuma
+ - Rubem Fonseca
+ - Saul Bellow
+ - Osamu Tezuka
+ - Herman Melville
+ - Jane Austen
+ - Clarice Lispector
+ - Gilberto Freire
+ - Franz Kafka
+ - Jose de Alencar
+ - Paolo Bacigalupi
+ - William Faulkner
+ - Jose Saramago
+ - Joaquim   Manuel de Macedo
+ - Leo Tolstoy
+ - Dias Gomes
+ - Machado de Assis
+ - Nick   Hornby
+ - Ariano Suassuma
 title: Books - September 2015
 ---
 

@@ -6,13 +6,32 @@ date: 2015-06-30
 description: |
   A post about the books I read this June 2015
 tags:
- - Anton Chekhov, Arthur Conan Doyle, Luciano Ramalho, Henry David
-  Thoreau, Marcel Proust, Fyodor Dostoyevsky, Sophocles, Ray Bradbury,
-  Herman Melville, Robert M. Pirsig, J. J. Abrams, Neal Stephenson, Jim
-  Whitehurst, Graciliano Ramos, Machado de Assis, Nick Hornby, Edgar
-  Rice Burroughs, Isaac Asimov, Flannery O\'Connor, Jack London, John
-  Steinbeck, Howard Mittelmark, Michael Kelahan, John Cheever, Camus,
-  Jorge Amado
+ - Anton Chekhov
+ - Arthur Conan Doyle
+ - Luciano Ramalho
+ - Henry David Thoreau
+ - Marcel Proust
+ - Fyodor Dostoyevsky
+ - Sophocles
+ - Ray Bradbury
+ - Herman Melville
+ - Robert M. Pirsig
+ - J. J. Abrams
+ - Neal Stephenson
+ - Jim Whitehurst
+ - Graciliano Ramos
+ - Machado de Assis
+ - Nick Hornby
+ - Edgar Rice Burroughs
+ - Isaac Asimov
+ - Flannery O'Connor
+ - Jack London
+ - John Steinbeck
+ - Howard Mittelmark
+ - Michael Kelahan
+ - John Cheever
+ - Camus
+ - Jorge Amado
 title: Books - June 2015
 ---
 

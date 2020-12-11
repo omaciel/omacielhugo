@@ -6,10 +6,20 @@ date: 2015-07-29
 description: |
   A post about the books I read this July 2015
 tags:
- - Azar Nafisi, Junot Díaz, Ernest Cline, Arthur Conan Doyle, Luciano
-  Ramalho, Harper Lee, J. J. Abrams, Ray Bradbury, C. S. Lewis, Neal
-  Stephenson, Raymond Chandler, Mario Vargas Llosa, Michael Lopp, Erich
-  Maria Remarque
+ - Azar Nafisi
+ - Junot Díaz
+ - Ernest Cline
+ - Arthur Conan Doyle
+ - Luciano Ramalho
+ - Harper Lee
+ - J. J. Abrams
+ - Ray Bradbury
+ - C. S. Lewis
+ - Neal Stephenson
+ - Raymond Chandler
+ - Mario Vargas Llosa
+ - Michael Lopp
+ - Erich Maria Remarque
 title: Books - July 2015
 ---
 

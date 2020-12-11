@@ -6,12 +6,32 @@ date: 2015-08-31
 description: |
   A post about the books I read this August 2015
 tags:
- - Edgar Allan Poe, Marcel Proust, Franz Kafka, Nikolai Gogol, Bram
-  Stoker, William Golding, Arthur C. Clarke, Ray Bradbury, Herman
-  Melville, Jane Austen, Edgar Rice Burroughs, Graciliano Ramos, Stieg
-  Larsson, Shirley Jackson, Nick Hornby, Neil Gaiman, Robert M. Pirsig,
-  John Steinbeck, Flannery O\'Connor, Henry James, Saul Bellow, Lewis
-  Carrol, Dan Brown, Milan Kundera, Alexandre Dumas, Henry Miller
+ - Edgar Allan Poe
+ - Marcel Proust
+ - Franz Kafka
+ - Nikolai Gogol
+ - Bram Stoker
+ - William Golding
+ - Arthur C. Clarke
+ - Ray Bradbury
+ - Herman Melville
+ - Jane Austen
+ - Edgar Rice Burroughs
+ - Graciliano Ramos
+ - Stieg Larsson
+ - Shirley Jackson
+ - Nick Hornby
+ - Neil Gaiman
+ - Robert M. Pirsig,
+  John Steinbeck
+ - Flannery O'Connor
+ - Henry James
+ - Saul Bellow
+ - Lewis Carrol
+ - Dan Brown
+ - Milan Kundera
+ - Alexandre Dumas
+ - Henry Miller
 title: Books - August 2015
 ---
 
