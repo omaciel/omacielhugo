@@ -1,11 +1,8 @@
 ---
-
-date: "2008-01-31 04:05"
-slug: |
-  chiclete-com-banana
+title: Chiclete com Banana
+date: 2008-01-31
 tags:
  - portuguese
-title: Chiclete com Banana
 ---
 
 [![I used to love this Brazilian comic
