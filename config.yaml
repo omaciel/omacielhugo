@@ -41,17 +41,20 @@ params:
   # Things I do
   usedothings: true
   Things:
-    - logo: fas fa-fist-raised
-      title: Linchpin
-      description: I bring people together and unlock their potential.
+    - cover: bookcover1.png
+      title: "Quality Engineer: Tales From The Trenches"
+      description: Buy It Now
+      url: https://www.amazon.com/gp/product/B07PN1GZMM
 
-    - logo: fas fa-university
-      title: Learning
-      description: I strongly believe in Continuous Improvements.
+    - cover: bookcover2.jpeg
+      title: "I.C.Q.: A Novel"
+      description: Buy It Now
+      url: https://www.amazon.com/dp/B08THVG8YY/
 
-    - logo: fab fa-amazon
-      title: Write
-      description: I'm an aspiring author of fiction.
+    - cover: bookcover3.jpeg
+      title: "The Big Score"
+      description: Coming Soon
+      url: https://www.amazon.com/author/ogmaciel
 
   #blog ( Description for seo. If you want to show description in your listing or single page, let's make it true)
   showdescription: false
