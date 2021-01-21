@@ -32,8 +32,8 @@ params:
 
   # About
   profile_image: "/images/ogmaciel.png"
-  descripe_l1_person: "Og Maciel is a Director of Quality Engineering for the Management and Automation organization at Red Hat, and considers himself  the linchpin for a diverse team of Quality Engineers, solving problems that people haven’t predicted, seeing things people haven’t seen, and connecting people who need to be connected."
-  descripe_l2_person: "He is also a Continuous Integration enthusiast with a strong background in Python and Software Automation. Avid reader! Knowledge Seeker and Sharer!"
+  descripe_l1_person: "Og Maciel is a Brazilian-American software engineer and author of fiction and short stories. His works include Software Quality Engineering: Tales From The Trenches, and I.C.Q - A Novel."
+  descripe_l2_person: "He lives in Chapel Hill, NC, with his wife and three daughters."
 
   # Things I do
   usedothings: true
