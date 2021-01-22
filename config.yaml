@@ -39,7 +39,7 @@ params:
   usedothings: true
   Things:
     - cover: bookcover1.png
-      title: "Quality Engineer: Tales From The Trenches"
+      title: "Quality Engineering: Tales From The Trenches"
       description: Buy It Now
       url: https://www.amazon.com/gp/product/B07PN1GZMM
 
