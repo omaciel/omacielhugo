@@ -20,6 +20,9 @@ params:
   customMenus:
     - name: "Archive"
       Url: "/posts"
+    
+    - name: "I.C.Q."
+      Url: "/icq"
 
   # social
   name: "Og Maciel"
