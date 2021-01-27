@@ -23,6 +23,7 @@ developed by [Jonh Wendell](http://www.bani.com.br/). For those curious
 as to what the recipe for packaging it was, take a look:
 
 ```python
+
 loadRecipe('gnomepackage.recipe')
 class Vinagre(GnomePackageRecipe):
 
@@ -37,7 +38,8 @@ class Vinagre(GnomePackageRecipe):
       'gtk-vnc:devel',
       'libglade:devel',
     ]
-    ```
+
+```
 
 Then it is a matter of executing:
 
