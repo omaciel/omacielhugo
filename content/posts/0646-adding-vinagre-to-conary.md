@@ -23,12 +23,20 @@ developed by [Jonh Wendell](http://www.bani.com.br/). For those curious
 as to what the recipe for packaging it was, take a look:
 
 ```python
-loadRecipe('gnomepackage.recipe') class Vinagre(GnomePackageRecipe):
+loadRecipe('gnomepackage.recipe')
+class Vinagre(GnomePackageRecipe):
 
     name = 'vinagre'
     version = '0.3'
 
-    buildRequires = ['GConf:devel', 'ORBit2:devel', 'desktop-file-utils:runtime', 'gnutls:devel', 'gtk-vnc:devel', 'libglade:devel']
+    buildRequires = [
+      'GConf:devel',
+      'ORBit2:devel',
+      'desktop-file-utils:runtime',
+      'gnutls:devel',
+      'gtk-vnc:devel',
+      'libglade:devel',
+    ]
     ```
 
 Then it is a matter of executing:
