@@ -1,6 +1,6 @@
 ---
 
-date: "2010-04-30 15:00"
+date: 2010-04-30
 slug: |
   a-hamster-a-lynx-and-the-princess-bride-what
 tags:
@@ -8,10 +8,9 @@ tags:
 title: A Hamster, a Lynx and The Princess Bride\... What???
 ---
 
-\[caption id="attachment_1008" align="alignleft" width="300"
-caption="Keep track of your time with Hamster"\][![Keep track of your
+![Keep track of your
 time with
-Hamster](http://www.ogmaciel.com/wp-content/uploads/2010/04/hamster-300x226.png)](http://www.ogmaciel.com/wp-content/uploads/2010/04/hamster.png)\[/caption\]
+Hamster](https://i1.wp.com/farm3.static.flickr.com/2715/4332774392_93e9a59f7b.jpg)
 
 Got a couple of interesting bits for you today, starting with some
 really great news from the [Hamster
@@ -22,10 +21,12 @@ be handled by dbus. What that really means is that it will be easier to
 script against hamster and tap into the data that it captures. Here's a
 simple code sample from Tom's page:
 
+```python
     import from hamster.client
     storage = hamster.client.Storage()
 
     storage.get_todays_facts()  # or any other function for that matter
+```
 
 The future looks very bright and interesting for this project and Tom's
 [hamster experiments](http://github.com/tbaugis/hamster_experiments)
@@ -46,9 +47,7 @@ the spiffy "slides" they display as your system is being installed, it
 is easy to see why so many have made Ubuntu their distribution of
 choice.
 
-\[caption id="attachment_1009" align="aligncenter" width="300"
-caption="Ubuntu's spiffy boot screen"\][![Ubuntu\'s spiffy boot
-screen](http://www.ogmaciel.com/wp-content/uploads/2010/04/boot-300x225.png)](http://www.ogmaciel.com/wp-content/uploads/2010/04/boot.png)\[/caption\]
+[!Ubuntu's spiffy boot screen]()
 
 Once the system was installed, the first thing that caught my attention
 was the integration with social media through the handy applet in the
@@ -67,9 +66,8 @@ attention to minute details shows how much work was put into it and for
 the entire Desktop Experience (DX) Team I offer my most sincere
 congratulations!
 
-\[caption id="" align="alignright" width="223" caption="The Princess
-Bride movie"\]![The Princess Bride
-movie](http://bit.ly/PrincessBride)\[/caption\]
+![The Princess Bride
+movie](http://bit.ly/PrincessBride)
 
 Finally, the other day I was shooting the breeze with the guys from
 [work](http://www.rpath.com) when [Tom](http://www.winebythebar.com/)
