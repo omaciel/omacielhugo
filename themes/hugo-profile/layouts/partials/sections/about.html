@@ -5,7 +5,7 @@
             <div class="row justify-content-center ">
                 <div class="col-lg-3 pt-3 text-center">
                     {{ if .Site.Params.profile_image }}
-                    <img src="{{ .Site.Params.profile_image }}" width="200" height="200" alt="{{ .Site.Params.name }}"
+                    <img src="{{ .Site.Params.profile_image }}" class="img-thumbnail" width="200" height="200" alt="{{ .Site.Params.name }}"
                         class="rounded">
                     {{ end }}
                     <div class="about-me jop font-weight-bold text-secondary">

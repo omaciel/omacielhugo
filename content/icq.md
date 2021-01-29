@@ -105,7 +105,7 @@ date: 2021-01-25
 
         <div class="single-right">
             
-             <img src="https://m.media-amazon.com/images/I/41IO-k1wSvL.jpg" alt=""> 
+             <img src="https://m.media-amazon.com/images/I/41IO-k1wSvL.jpg" class="img-thumbnail" alt="Book Cover"> 
 
         </div>
        
