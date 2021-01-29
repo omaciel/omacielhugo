@@ -4,128 +4,32 @@ date: 2021-01-25
 ---
 
 {{< rawhtml >}}
+
 <style>
 
-.single-main .chat p {
-    font-family: "courier";
-    font-size: 18px;
-    line-height: 28px;
-}
-
-#single-top {
-  margin-top: 50px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex; }
-
-.single-left {
-  float: left;
-  display: block;
-  width: 60%;
-  padding: 80px 50px 30px 0;
-  color: #6d6e71; }
-
-.single-left p {
-    font-size: 28px;
-    line-height: 24px; }
-
-.single-left h1 {
-    font-size: 42px;
-    color: #424143; }
-
-.single-left h4 {
-    text-align: left;
-    text-transform: capitalize;
-    font-weight: 600;
-    margin-bottom: 20px;
-    color: #424143; }
-
-.single-right {
-  float: right;
-  display: block;
-  width: 40%;
-  text-align: center; }
-
-.single-right img {
-    width: 90%;
-    padding-top: 50px;
-    
-    }
-
-.single-main {
-  float: left;
-  width: 100%;
-  display: block;
-  margin-bottom: 40px; }
-
-.single-lower h4 {
-    margin-top: 40px;
-    margin-bottom: 40px;
-    text-align: center;
-    font-weight: 600;
-    color: #424143;
-    font-size: 24px; }
-
-.single-main p {
-    font-size: 28px;
-    line-height: 28px; }
-
-.single-main iframe {
-    width: 100%; }
-
-.single-side {
-  float: left;
-  width: 40%;
-  display: block;
-  padding-left: 10%; }
-
-.single-side h4 {
-    text-align: center;
-    font-weight: 600;
-    color: #424143;
-    font-size: 24px; }
-
-.single-side p {
-    font-size: 16px;
-    line-height: 24px; }
-
-.clearfix:after {
-  visibility: hidden;
-  display: block;
-  font-size: 0;
-  content: " ";
-  clear: both;
-  height: 0; }
-
+.chat p {
+    font-family: "monospace";
+    font-size: initial;
+};
 </style>
 
-<section id="single-top" role="main" class="clearfix inner-wrapper books-page">
-
-    <div class="single-header clearfix">
-
-        <div class="single-right">
-            
-             <img src="https://m.media-amazon.com/images/I/41IO-k1wSvL.jpg" class="img-thumbnail" alt="Book Cover"> 
-
-        </div>
-       
-       <div class="single-left">
-
-           <h1>I.C.Q. - A Novel</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-8">
             <p>Auggie Benson is a high school senior boy who freelances as a software developer and hacker after school to improve his skills and make some money on the side. Expanding his clientele from AOL to I.C.Q. users led him to meet Clarissa, a high school senior from nearby Scarsdale, NY, beginning a love story that took place in the summer of 1997.</p>
-            <p><a href="https://www.amazon.com/dp/B08THVG8YY/">Buy It Now</a></p>
-        </div>        
+        </div>
+        <div class="col-4">
+            <img src="https://m.media-amazon.com/images/I/41IO-k1wSvL.jpg" class="img-thumbnail" alt="Book Cover"> 
+            <p class="text-center"><a href="https://www.amazon.com/dp/B08THVG8YY/">Buy It Now</a></p>
+        </div>
     </div>
-
-</section>
-
-<section id="single-lower">
-
-    <div class="single-lower">
-    <h4>Read the first 10 pages</h4>
-
-    <div class="single-main">
-
+    <div class="row">
+        <div class="col">
+            <p class="text-center text-primary">Read the first 10 pages</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
     <p>The best and worst summer of my life started shortly before I graduated from high school.</p>
 
     <p>It was close to six o’clock in the evening when my dad finally decided to call it a day and got up from the computer desk. It wasn’t that I really cared or followed his work so closely; I could care less to be honest, but since his was the only computer in the house and, more importantly, the only phone line entirely dedicated to connecting to the Internet, I had no choice other than to wait until I could have the computer to myself. But once I did, from that point onward, that small breakfast-turned-to-home-office nook would be all mine until seven in the morning the next day if I so desired.</p>
@@ -251,8 +155,8 @@ date: 2021-01-25
     <p>I spent the next two hours reading up on the rules and game dynamics for Monopoly, downloading the manual straight from Hasbro’s website. I also played a couple of rounds of games on AOL just to get a feeling for what was possible. I knew that I’d be way out of my element if I were to take on this job, but I’d be lying if I said that I wasn’t also excited about the challenge of writing a multiplayer online game. It would push me and my coding skills to a much higher level.</p>
 
     <p>I was just about getting ready to sign out and get some shut-eye when my Juno email notification bar, one of my own inventions, chimed. I automatically clicked the flashing icon to display a list of all new email messages and their subject so I could decide whether I wanted to open the Juno email server or not. What I saw took my breath away.</p>
-</div></div>
-
-</section>
+        </div>
+    </div>
+</div>
 
 {{< /rawhtml >}}
