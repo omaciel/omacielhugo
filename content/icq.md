@@ -11,23 +11,20 @@ date: 2021-01-25
     font-family: "monospace";
     font-size: initial;
 };
+
 </style>
 
 <div class="container">
-    <div class="row">
+    <div class="row jumbotron p-4 rounded bg-light">
         <div class="col-8">
-            <p>Auggie Benson is a high school senior boy who freelances as a software developer and hacker after school to improve his skills and make some money on the side. Expanding his clientele from AOL to I.C.Q. users led him to meet Clarissa, a high school senior from nearby Scarsdale, NY, beginning a love story that took place in the summer of 1997.</p>
+            <p class="font-italic">Auggie Benson is a high school senior boy who freelances as a software developer and hacker after school to improve his skills and make some money on the side. Expanding his clientele from AOL to I.C.Q. users led him to meet Clarissa, a high school senior from nearby Scarsdale, NY, beginning a love story that took place in the summer of 1997.</p>
         </div>
         <div class="col-4">
             <img src="https://m.media-amazon.com/images/I/41IO-k1wSvL.jpg" class="img-thumbnail" alt="Book Cover"> 
             <p class="text-center"><a href="https://www.amazon.com/dp/B08THVG8YY/">Buy It Now</a></p>
         </div>
     </div>
-    <div class="row">
-        <div class="col">
-            <p class="text-center text-primary">Read the first 10 pages</p>
-        </div>
-    </div>
+    <header class="text-center text-primary">Read the first 10 pages</header>
     <div class="row">
         <div class="col">
     <p>The best and worst summer of my life started shortly before I graduated from high school.</p>
