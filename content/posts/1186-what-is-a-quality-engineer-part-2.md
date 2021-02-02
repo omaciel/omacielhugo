@@ -6,7 +6,10 @@ date: 2017-07-03
 description: |
   Part 2 of a series of posts talking about quality engineering.
 tags:
- - qa, qe, quality engineering, work
+ - qa
+ - qe
+ - quality engineering
+ - work
 title: Just What Is A Quality Engineer? Part 2
 ---
 

@@ -7,7 +7,10 @@ description: |
   Great advice from Stephen King about writing which also applies to
   reading.
 tags:
- - books, reading, writing, stephen king
+ - books
+ - reading
+ - writing
+ - stephen king
 title: On Reading and writing
 ---
 

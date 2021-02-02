@@ -6,7 +6,12 @@ date: 2015-12-31
 description: |
   Review of 2015
 tags:
- - brno, czech republic, israel, 2015, manager, books
+ - brno
+ - czech republic
+ - israel
+ - 2015
+ - manager
+ - books
 title: End of Year - 2015
 ---
 
