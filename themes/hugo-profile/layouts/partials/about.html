@@ -1,26 +1,22 @@
-<section>
-    <div class="about pt-2 bg-white">
-        <div class="container">
-
-            <div class="row justify-content-center ">
-                <div class="col-lg-3 pt-3 text-center">
-                    {{ if .Site.Params.profile_image }}
+<div class="jumbotron p-4 p-md-4 rounded bg-light">
+    <div class="row mb-2">
+        <div class="col-3 px-4">
+            <div class="row mb-2">
+                <div class="col">
+                {{ if .Site.Params.profile_image }}
                     <img src="{{ .Site.Params.profile_image }}" class="img-thumbnail" width="200" height="200" alt="{{ .Site.Params.name }}"
                         class="rounded">
-                    {{ end }}
-                    <div class="about-me jop font-weight-bold text-secondary">
-                        {{ if .Site.Params.name }}
-                        {{ .Site.Params.name }}
-                        {{ end }}
-                    </div>
+                {{ end }}
+                </div>
+            </div>
+            <div class="row mb-2">
+                <div class="col">
                     <div class="social px-3">
-
                         {{ if .Site.Params.github }}
                         <a class="text-dark" href="{{ .Site.Params.github }}" aria-label="github">
                             <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/github.svg" alt="github" height="22" width="22" />
                         </a>
                         {{ end }}
-
                         {{ if .Site.Params.linkedin }}
                         <a class="text-white" href="{{ .Site.Params.linkedin }}" aria-label="linkedin">
                             <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/linkedin.svg" alt="linkedin" height="22" width="22" />
@@ -50,24 +46,27 @@
                         <a class="text-info" href="{{ .Site.Params.goodreads }}" aria-label="goodreads">
                             <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/goodreads.svg" alt="goodreads" height="22" width="22" />
                         </a>
-                        {{ end }}
-
-                    </div>
-                </div>
-
-                <div class="col-lg-7 ">
-                    <div class="about-content text-dark p-3">
-                        {{ if .Site.Params.descripe_l1_person }}
-                        {{ .Site.Params.descripe_l1_person }}
-                        {{ end }}
-
-                        {{ if .Site.Params.descripe_l2_person }}
-                        <br><br>
-                        {{ .Site.Params.descripe_l2_person }}
-                        {{ end }}
+                        {{ end }}    
                     </div>
                 </div>
             </div>
         </div>
+        <div class="col-md-9 px-0">
+            <h1 class="display-4 font-italic">
+                {{ if .Site.Params.name }}
+                {{ .Site.Params.name }}
+                {{ end }}
+            </h1>
+            <p class="lead my-3">
+                {{ if .Site.Params.descripe_l1_person }}
+                {{ .Site.Params.descripe_l1_person }}
+                {{ end }}
+            </p>
+            <p class="lead mb-0"><a href="#" class="font-weight-bold">
+                {{ if .Site.Params.descripe_l2_person }}
+                {{ .Site.Params.descripe_l2_person }}
+                {{ end }}
+            </a></p>
+        </div>
     </div>
-</section>
+</div>
