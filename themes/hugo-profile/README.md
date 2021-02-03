@@ -104,8 +104,8 @@ params:
 
   # About
   profile_image: ""
-  descripe_l1_person: "A high performance hugo theme for personal website and blog. It is a single page portfolio."
-  descripe_l2_person: "This is just a example for about section. You can easily change with the help of cofig file."
+  describe_l1_person: "A high performance hugo theme for personal website and blog. It is a single page portfolio."
+  describe_l2_person: "This is just a example for about section. You can easily change with the help of cofig file."
   job: "Your job"
   useresume: true
   resume: ""
