@@ -14,7 +14,7 @@ taxonomies:
 params:
   favicon: "/images/fav.png"
   description: ""
-  copyright: "2020"
+  copyright: "2021"
 
   # Navbar Menus
   customMenus:
