@@ -5,7 +5,7 @@ theme: "hugo-profile"
 
 # googleanalytics: UA-xxxxxxx-x
 disqusShortname: journalofanopensourcee
-Paginate: 5
+Paginate: 7
 
 taxonomies:
   tag: "tags"
@@ -16,14 +16,6 @@ params:
   description: ""
   copyright: "2021"
 
-  # Navbar Menus
-  customMenus:
-    - name: "Archive"
-      Url: "/posts"
-    
-    - name: "I.C.Q."
-      Url: "/icq"
-
   # social
   name: "Og Maciel"
   github: "https://github.com/omaciel"
@@ -33,28 +25,6 @@ params:
   amazon: "https://www.amazon.com/author/ogmaciel"
   goodreads: "https://www.goodreads.com/author/show/7762080.Og_Maciel"
 
-  # About
-  profile_image: "/images/ogmaciel.png"
-  describe_l1_person: "Og Maciel is a Brazilian-American software engineer and author of fiction and short stories. His works include Software Quality Engineering: Tales From The Trenches, and I.C.Q - A Novel."
-  describe_l2_person: "He lives in Chapel Hill, NC, with his wife and three daughters."
-
-  # Things I do
-  usedothings: true
-  Things:
-    - cover: bookcover1.png
-      title: "Quality Engineering: Tales From The Trenches"
-      description: Buy It Now
-      url: https://www.amazon.com/gp/product/B07PN1GZMM
-
-    - cover: bookcover2.jpeg
-      title: "I.C.Q.: A Novel"
-      description: Buy It Now
-      url: https://www.amazon.com/dp/B08THVG8YY/
-
-    - cover: bookcover3.jpeg
-      title: "The Big Score"
-      description: Coming Soon
-      url: https://www.amazon.com/author/ogmaciel
 
   #blog ( Description for seo. If you want to show description in your listing or single page, let's make it true)
   showdescription: false
