@@ -68,14 +68,10 @@
     .h-md-250 { height: 250px; }
   }
   
-  /* Pagination */
-  .blog-pagination {
-    margin-bottom: 4rem;
+  .pagination {
+      margin-left: auto!important;
+      margin-right: auto!important;
   }
-  .blog-pagination > .btn {
-    border-radius: 2rem;
-  }
-  
   /*
    * Blog posts
    */
