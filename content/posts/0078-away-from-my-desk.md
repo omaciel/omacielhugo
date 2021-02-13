@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-11 11:50"
+date: 2005-05-11
 slug: |
   away-from-my-desk
 tags:

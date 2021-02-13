@@ -1,6 +1,6 @@
 ---
 
-date: "2010-04-13 20:00"
+date: 2010-04-13
 slug: |
   stop-whining-and-improve-your-life
 tags:

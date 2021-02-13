@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-18 23:55"
+date: 2007-03-18
 slug: |
   dont-forget-to-pay-your-bills-again-or-else
 tags:

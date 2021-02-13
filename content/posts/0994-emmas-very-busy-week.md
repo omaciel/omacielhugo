@@ -1,6 +1,6 @@
 ---
 
-date: "2010-06-04 15:00"
+date: 2010-06-04
 slug: |
   emmas-very-busy-week
 tags:

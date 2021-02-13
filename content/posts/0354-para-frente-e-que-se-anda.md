@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-14 18:22"
+date: 2006-07-14
 slug: |
   para-frente-e-que-se-anda
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-05-05 19:05"
+date: 2008-05-05
 slug: |
   atualizacao-sobre-o-video-aula
 tags:

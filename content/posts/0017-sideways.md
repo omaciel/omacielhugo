@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-10 16:48"
+date: 2005-03-10
 slug: |
   sideways
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-17 13:43"
+date: 2006-04-17
 slug: |
   a-whole-lotta-hacking-in-the-tropics
 tags:

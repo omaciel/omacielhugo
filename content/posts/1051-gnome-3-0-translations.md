@@ -1,6 +1,6 @@
 ---
 
-date: "2011-03-18 02:26"
+date: 2011-03-18
 slug: |
   gnome-3-0-translations
 tags:

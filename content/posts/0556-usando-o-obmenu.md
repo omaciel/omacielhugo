@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-26 14:08"
+date: 2007-05-26
 slug: |
   usando-o-obmenu
 tags:

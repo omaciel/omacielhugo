@@ -1,6 +1,6 @@
 ---
 
-date: "2009-01-23 14:02"
+date: 2009-01-23
 slug: |
   blog-posts-pelo-twitter
 tags:

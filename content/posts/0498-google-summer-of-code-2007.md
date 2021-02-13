@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-13 00:40"
+date: 2007-03-13
 slug: |
   google-summer-of-code-2007
 tags:

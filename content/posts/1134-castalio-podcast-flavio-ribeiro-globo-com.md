@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-05-28 09:42"
+date: 2012-05-28
 slug: |
   castalio-podcast-flavio-ribeiro-globo-com
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-10-15 23:39"
+date: 2007-10-15
 slug: |
   packagekit-e-gnome-packagekit-010-lancados
 tags:

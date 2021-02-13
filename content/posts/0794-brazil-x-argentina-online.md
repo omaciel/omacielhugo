@@ -1,6 +1,6 @@
 ---
 
-date: "2008-06-19 01:55"
+date: 2008-06-19
 slug: |
   brazil-x-argentina-online
 tags:

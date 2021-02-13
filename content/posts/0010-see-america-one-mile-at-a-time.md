@@ -1,6 +1,6 @@
 ---
 
-date: "2005-02-25 19:50"
+date: 2005-02-25
 slug: |
   see-america-one-mile-at-a-time
 tags:

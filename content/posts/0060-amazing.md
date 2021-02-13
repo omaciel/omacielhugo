@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-26 15:10"
+date: 2005-04-26
 slug: |
   amazing
 tags:

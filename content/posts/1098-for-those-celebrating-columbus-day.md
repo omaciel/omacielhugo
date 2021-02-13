@@ -1,6 +1,6 @@
 ---
 
-date: "2011-10-10 16:28"
+date: 2011-10-10
 slug: |
   for-those-celebrating-columbus-day
 tags:

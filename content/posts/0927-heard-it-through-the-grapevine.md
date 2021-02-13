@@ -1,6 +1,6 @@
 ---
 
-date: "2009-11-13 22:27"
+date: 2009-11-13
 slug: |
   heard-it-through-the-grapevine
 tags:

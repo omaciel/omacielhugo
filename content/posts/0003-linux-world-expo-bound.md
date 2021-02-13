@@ -1,10 +1,11 @@
 ---
 
-date: "2005-02-16 21:26"
+date: 2005-02-16
 slug: |
   linux-world-expo-bound
 tags:
  - english
+ - linux world expo
 title: Linux World Expo Bound
 ---
 

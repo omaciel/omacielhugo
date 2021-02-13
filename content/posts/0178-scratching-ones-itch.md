@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-22 14:18"
+date: 2005-09-22
 slug: |
   scratching-ones-itch
 tags:

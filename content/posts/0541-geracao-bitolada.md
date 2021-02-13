@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-04 16:30"
+date: 2007-05-04
 slug: |
   geracao-bitolada
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-16 22:04"
+date: 2005-05-16
 slug: |
   its-a-wireless-world-after-all
 tags:

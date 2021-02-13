@@ -1,6 +1,6 @@
 ---
 
-date: "2009-12-12 05:27"
+date: 2009-12-12
 slug: |
   ditching-mysql-for-postgresql
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2011-02-13 19:34"
+date: 2011-02-13
 slug: |
   barrabin-barrabash-sql-inception
 tags:

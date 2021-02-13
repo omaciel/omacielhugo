@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-06 00:43"
+date: 2005-09-06
 slug: |
   when-geeks-attack
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-02-25 19:40"
+date: 2005-02-25
 slug: |
   cute-visitor
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-07 18:13"
+date: 2005-03-07
 slug: |
   the-saga-continues
 tags:

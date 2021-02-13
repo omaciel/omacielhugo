@@ -1,6 +1,6 @@
 ---
 
-date: "2005-11-01 22:15"
+date: 2005-11-01
 slug: |
   northern-nj-mysql-meetup
 tags:

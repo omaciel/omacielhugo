@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-15 00:48"
+date: 2005-05-15
 slug: |
   watch-star-wars-iii-with-microsoft
 tags:

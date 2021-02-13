@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-20 11:41"
+date: 2005-05-20
 slug: |
   my-google
 tags:

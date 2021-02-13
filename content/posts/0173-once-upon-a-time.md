@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-19 00:03"
+date: 2005-09-19
 slug: |
   once-upon-a-time
 tags:

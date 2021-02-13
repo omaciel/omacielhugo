@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-22 22:19"
+date: 2006-07-22
 slug: |
   botando-a-mao-na-massa
 tags:

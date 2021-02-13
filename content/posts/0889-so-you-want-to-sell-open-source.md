@@ -1,6 +1,6 @@
 ---
 
-date: "2009-03-11 17:05"
+date: 2009-03-11
 slug: |
   so-you-want-to-sell-open-source
 tags:

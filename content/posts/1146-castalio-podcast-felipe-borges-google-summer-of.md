@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-08-19 22:50"
+date: 2012-08-19
 slug: |
   castalio-podcast-felipe-borges-google-summer-of
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-02-11 17:50"
+date: 2008-02-11
 slug: |
   ask-and-you-shall-receive
 tags:

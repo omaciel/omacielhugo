@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-10 16:04"
+date: 2006-08-10
 slug: |
   continuando-com-nagasaki
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-12-07 22:30"
+date: 2005-12-07
 slug: |
   can-you-hear-the-crickets
 tags:

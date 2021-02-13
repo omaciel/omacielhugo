@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-04 22:03"
+date: 2008-09-04
 slug: |
   another-coffee-flavor-moment
 tags:

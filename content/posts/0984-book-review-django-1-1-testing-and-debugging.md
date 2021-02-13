@@ -1,6 +1,6 @@
 ---
 
-date: "2010-05-19 15:00"
+date: 2010-05-19
 slug: |
   book-review-django-1-1-testing-and-debugging
 tags:

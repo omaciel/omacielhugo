@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-19 17:15"
+date: 2005-05-19
 slug: |
   about-to-get-rough
 tags:

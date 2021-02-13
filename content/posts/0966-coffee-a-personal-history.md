@@ -1,6 +1,6 @@
 ---
 
-date: "2010-04-26 15:00"
+date: 2010-04-26
 slug: |
   coffee-a-personal-history
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2010-01-04 01:25"
+date: 2010-01-04
 slug: |
   re-is-foresight-linux-dead
 tags:

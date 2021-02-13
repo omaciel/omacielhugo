@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-23 22:15"
+date: 2008-09-23
 slug: |
   alguns-updates
 tags:

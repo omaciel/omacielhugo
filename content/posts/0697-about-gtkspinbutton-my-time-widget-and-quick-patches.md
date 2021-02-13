@@ -1,6 +1,6 @@
 ---
 
-date: "2008-01-06 04:59"
+date: 2008-01-06
 slug: |
   about-gtkspinbutton-my-time-widget-and-quick-patches
 tags:

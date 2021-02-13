@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-04 04:43"
+date: 2007-03-04
 slug: |
   poedit-and-translate-toolkit-packaged-in-foresight
 tags:

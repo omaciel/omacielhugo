@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-02 01:11"
+date: 2007-09-02
 slug: |
   rise-to-the-challenge
 tags:

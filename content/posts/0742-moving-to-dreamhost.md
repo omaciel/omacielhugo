@@ -1,6 +1,6 @@
 ---
 
-date: "2008-03-31 14:52"
+date: 2008-03-31
 slug: |
   moving-to-dreamhost
 tags:

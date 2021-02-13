@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-08 15:56"
+date: 2006-06-08
 slug: |
   tabletpc-98-ubuntunizado
 tags:

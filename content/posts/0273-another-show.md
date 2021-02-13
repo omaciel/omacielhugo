@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-13 16:29"
+date: 2006-04-13
 slug: |
   another-show
 tags:

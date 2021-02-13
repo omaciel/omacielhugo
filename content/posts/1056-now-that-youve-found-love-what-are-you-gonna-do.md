@@ -1,6 +1,6 @@
 ---
 
-date: "2011-03-30 04:00"
+date: 2011-03-30
 slug: |
   now-that-youve-found-love-what-are-you-gonna-do
 tags:

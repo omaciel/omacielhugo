@@ -1,6 +1,6 @@
 ---
 
-date: "2008-10-02 22:11"
+date: 2008-10-02
 slug: |
   get-your-pork-right-here
 tags:

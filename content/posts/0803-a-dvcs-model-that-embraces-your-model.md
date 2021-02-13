@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-02 13:11"
+date: 2008-07-02
 slug: |
   a-dvcs-model-that-embraces-your-model
 tags:

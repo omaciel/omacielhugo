@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-25 12:24"
+date: 2005-08-25
 slug: |
   the-chicken-and-the-egg
 tags:

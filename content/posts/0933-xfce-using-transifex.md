@@ -1,6 +1,6 @@
 ---
 
-date: "2010-01-18 04:11"
+date: 2010-01-18
 slug: |
   xfce-using-transifex
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-19 17:30"
+date: 2005-05-19
 slug: |
   portable-firefox-104-released
 tags:

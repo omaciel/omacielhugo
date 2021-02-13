@@ -1,6 +1,6 @@
 ---
 
-date: "2010-04-28 15:00"
+date: 2010-04-28
 slug: |
   restful-web-services-beautiful-soup-and-launchpad
 tags:

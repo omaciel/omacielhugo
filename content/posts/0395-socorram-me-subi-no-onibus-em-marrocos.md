@@ -1,6 +1,6 @@
 ---
 
-date: "2006-09-12 10:50"
+date: 2006-09-12
 slug: |
   socorram-me-subi-no-onibus-em-marrocos
 tags:

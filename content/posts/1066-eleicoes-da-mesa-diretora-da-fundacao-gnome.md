@@ -1,6 +1,6 @@
 ---
 
-date: "2011-05-11 12:21"
+date: 2011-05-11
 slug: |
   eleicoes-da-mesa-diretora-da-fundacao-gnome
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-07 14:55"
+date: 2007-04-07
 slug: |
   watching-the-wheels-go-round-and-round
 tags:

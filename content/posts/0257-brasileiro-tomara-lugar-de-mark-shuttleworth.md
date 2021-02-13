@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-01 02:50"
+date: 2006-04-01
 slug: |
   brasileiro-tomara-lugar-de-mark-shuttleworth
 tags:

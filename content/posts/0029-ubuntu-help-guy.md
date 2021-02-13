@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-21 20:33"
+date: 2005-03-21
 slug: |
   ubuntu-help-guy
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2009-12-04 21:43"
+date: 2009-12-04
 slug: |
   my-own-personal-translation-portal-in-the-cloud
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-22 00:16"
+date: 2008-07-22
 slug: |
   de-volta-a-escola
 tags:

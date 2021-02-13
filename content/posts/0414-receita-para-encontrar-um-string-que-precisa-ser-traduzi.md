@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-11 14:54"
+date: 2006-10-11
 slug: |
   receita-para-encontrar-um-string-que-precisa-ser-traduzi
 tags:

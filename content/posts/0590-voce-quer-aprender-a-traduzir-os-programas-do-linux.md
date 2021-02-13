@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-24 23:10"
+date: 2007-06-24
 slug: |
   voce-quer-aprender-a-traduzir-os-programas-do-linux
 tags:

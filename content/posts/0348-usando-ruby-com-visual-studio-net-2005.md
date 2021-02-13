@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-05 13:17"
+date: 2006-07-05
 slug: |
   usando-ruby-com-visual-studio-net-2005
 tags:

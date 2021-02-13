@@ -1,6 +1,6 @@
 ---
 
-date: "2010-03-09 18:19"
+date: 2010-03-09
 slug: |
   gnome-developer-kit-now-with-less-fat
 tags:

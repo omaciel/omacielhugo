@@ -1,6 +1,6 @@
 ---
 
-date: "2008-01-27 17:59"
+date: 2008-01-27
 slug: |
   rumores-falam-que
 tags:

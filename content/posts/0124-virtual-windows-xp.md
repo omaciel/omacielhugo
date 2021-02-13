@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-15 11:55"
+date: 2005-07-15
 slug: |
   virtual-windows-xp
 tags:

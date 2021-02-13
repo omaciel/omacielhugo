@@ -1,6 +1,6 @@
 ---
 
-date: "2013-09-09 15:17"
+date: 2013-09-09
 slug: |
   anuncio-final-do-planeta-gnu-linux-brasil
 tags:

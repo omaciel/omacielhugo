@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-20 12:51"
+date: 2005-10-20
 slug: |
   sci-fi-character
 tags:

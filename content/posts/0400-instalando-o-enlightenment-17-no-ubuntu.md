@@ -1,6 +1,6 @@
 ---
 
-date: "2006-09-17 21:10"
+date: 2006-09-17
 slug: |
   instalando-o-enlightenment-17-no-ubuntu
 tags:

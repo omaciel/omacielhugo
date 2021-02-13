@@ -1,6 +1,6 @@
 ---
 
-date: "2008-06-02 00:43"
+date: 2008-06-02
 slug: |
   let-my-love-open-the-door
 tags:

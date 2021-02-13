@@ -1,6 +1,6 @@
 ---
 
-date: "2011-01-31 05:00"
+date: 2011-01-31
 slug: |
   disappointed-with-dreamhost-private-server-service
 tags:

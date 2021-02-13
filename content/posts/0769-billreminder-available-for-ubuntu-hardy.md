@@ -1,6 +1,6 @@
 ---
 
-date: "2008-05-06 10:41"
+date: 2008-05-06
 slug: |
   billreminder-available-for-ubuntu-hardy
 tags:

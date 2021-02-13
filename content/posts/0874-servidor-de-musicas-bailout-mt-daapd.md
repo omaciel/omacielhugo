@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2009-01-02 17:35"
+date: 2009-01-02
 slug: |
   servidor-de-musicas-bailout-mt-daapd
 tags:

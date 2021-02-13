@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-11 17:30"
+date: 2005-05-11
 slug: |
   primavera-project-management-class
 tags:

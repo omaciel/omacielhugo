@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2006-12-11 17:08"
+date: 2006-12-11
 slug: |
   usando-linux-como-eletrodomesticos
 tags:

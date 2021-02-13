@@ -1,6 +1,6 @@
 ---
 
-date: "2010-05-06 15:51"
+date: 2010-05-06
 slug: |
   can-a-plugin-help-you-improve-your-writing-skills
 tags:

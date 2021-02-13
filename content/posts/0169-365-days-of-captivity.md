@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-08 13:30"
+date: 2005-09-08
 slug: |
   365-days-of-captivity
 tags:

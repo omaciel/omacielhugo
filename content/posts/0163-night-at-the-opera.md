@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-31 15:54"
+date: 2005-08-31
 slug: |
   night-at-the-opera
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-19 17:39"
+date: 2006-10-19
 slug: |
   novos-autores-no-planeta
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-08 20:42"
+date: 2005-05-08
 slug: |
   15-things-you-can-do-with-rss
 tags:

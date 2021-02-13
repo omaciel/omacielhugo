@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-19 11:36"
+date: 2006-07-19
 slug: |
   new-kid-on-the-block
 tags:

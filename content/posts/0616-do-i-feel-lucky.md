@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-20 01:25"
+date: 2007-08-20
 slug: |
   do-i-feel-lucky
 tags:

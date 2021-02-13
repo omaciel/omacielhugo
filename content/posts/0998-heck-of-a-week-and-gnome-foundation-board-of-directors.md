@@ -1,6 +1,6 @@
 ---
 
-date: "2010-06-18 18:23"
+date: 2010-06-18
 slug: |
   heck-of-a-week-and-gnome-foundation-board-of-directors
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-11 18:48"
+date: 2008-04-11
 slug: |
   lisonjeado
 tags:

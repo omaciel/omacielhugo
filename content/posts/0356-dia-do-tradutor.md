@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-18 11:03"
+date: 2006-07-18
 slug: |
   dia-do-tradutor
 tags:

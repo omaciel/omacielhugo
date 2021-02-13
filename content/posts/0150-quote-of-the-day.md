@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-18 13:01"
+date: 2005-08-18
 slug: |
   quote-of-the-day
 tags:

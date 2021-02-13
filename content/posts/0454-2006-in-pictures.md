@@ -1,6 +1,6 @@
 ---
 
-date: "2007-01-01 08:08"
+date: 2007-01-01
 slug: |
   2006-in-pictures
 tags:

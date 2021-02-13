@@ -1,6 +1,6 @@
 ---
 
-date: "2009-03-10 01:58"
+date: 2009-03-10
 slug: |
   your-translations-update
 tags:

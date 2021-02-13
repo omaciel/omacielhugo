@@ -1,6 +1,6 @@
 ---
 
-date: "2008-06-05 03:20"
+date: 2008-06-05
 slug: |
   introducing-pylyglot
 tags:

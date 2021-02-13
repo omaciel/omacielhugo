@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-10 16:50"
+date: 2006-04-10
 slug: |
   alo-mamae
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2010-05-05 15:00"
+date: 2010-05-05
 slug: |
   the-road-to-guadec-2010
 tags:

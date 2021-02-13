@@ -1,6 +1,6 @@
 ---
 
-date: "2008-01-26 21:38"
+date: 2008-01-26
 slug: |
   enquanto-isso
 tags:

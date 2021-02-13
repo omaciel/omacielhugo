@@ -1,6 +1,6 @@
 ---
 
-date: "2005-02-28 04:38"
+date: 2005-02-28
 slug: |
   tar-heel-wanna-be
 tags:

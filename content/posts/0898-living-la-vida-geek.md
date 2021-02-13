@@ -1,6 +1,6 @@
 ---
 
-date: "2009-04-15 22:43"
+date: 2009-04-15
 slug: |
   living-la-vida-geek
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-02-11 00:36"
+date: 2007-02-11
 slug: |
   baby-on-board
 tags:

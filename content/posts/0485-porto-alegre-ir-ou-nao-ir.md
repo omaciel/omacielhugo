@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-05 03:45"
+date: 2007-03-05
 slug: |
   porto-alegre-ir-ou-nao-ir
 tags:

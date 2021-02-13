@@ -1,6 +1,6 @@
 ---
 
-date: "2012-05-02 14:58"
+date: 2012-05-02
 slug: |
   now-my-adopted-state-has-chosen-to-turn-its-back
 tags:

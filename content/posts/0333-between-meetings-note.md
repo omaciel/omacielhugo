@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-14 14:51"
+date: 2006-06-14
 slug: |
   between-meetings-note
 tags:

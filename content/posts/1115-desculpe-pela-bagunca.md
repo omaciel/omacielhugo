@@ -1,6 +1,6 @@
 ---
 
-date: "2012-02-17 16:00"
+date: 2012-02-17
 slug: |
   desculpe-pela-bagunca
 tags:

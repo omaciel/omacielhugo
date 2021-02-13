@@ -1,6 +1,6 @@
 ---
 
-date: "2006-11-05 06:49"
+date: 2006-11-05
 slug: |
   cheguei-na-california
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-14 02:27"
+date: 2007-05-14
 slug: |
   que-lingua-falo-eu
 tags:

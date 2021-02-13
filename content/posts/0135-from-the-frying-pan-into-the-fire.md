@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-03 14:27"
+date: 2005-08-03
 slug: |
   from-the-frying-pan-into-the-fire
 tags:

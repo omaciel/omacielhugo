@@ -1,6 +1,6 @@
 ---
 
-date: "2008-01-08 15:17"
+date: 2008-01-08
 slug: |
   billreminder-vai-para-hollywood
 tags:

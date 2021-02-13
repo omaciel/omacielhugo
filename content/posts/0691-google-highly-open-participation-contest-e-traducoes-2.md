@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2007-12-29 22:35"
+date: 2007-12-29
 slug: |
   google-highly-open-participation-contest-e-traducoes-2
 tags:

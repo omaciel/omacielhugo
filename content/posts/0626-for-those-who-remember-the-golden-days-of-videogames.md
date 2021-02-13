@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-29 18:20"
+date: 2007-08-29
 slug: |
   for-those-who-remember-the-golden-days-of-videogames
 tags:

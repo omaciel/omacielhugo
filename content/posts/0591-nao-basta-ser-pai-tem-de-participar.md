@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-26 01:54"
+date: 2007-06-26
 slug: |
   nao-basta-ser-pai-tem-de-participar
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2011-07-18 01:00"
+date: 2011-07-18
 slug: |
   faxina
 tags:

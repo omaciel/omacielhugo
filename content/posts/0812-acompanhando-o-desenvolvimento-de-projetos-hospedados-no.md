@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-16 10:31"
+date: 2008-07-16
 slug: |
   acompanhando-o-desenvolvimento-de-projetos-hospedados-no
 tags:

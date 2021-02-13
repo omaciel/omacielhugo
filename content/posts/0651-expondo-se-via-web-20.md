@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-24 16:23"
+date: 2007-09-24
 slug: |
   expondo-se-via-web-20
 tags:

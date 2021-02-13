@@ -1,6 +1,6 @@
 ---
 
-date: "2006-09-12 21:51"
+date: 2006-09-12
 slug: |
   im-in-a-nc-state-of-mind
 tags:

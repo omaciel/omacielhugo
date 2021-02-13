@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-29 15:22"
+date: 2006-06-29
 slug: |
   eu-ubuntu-tu-ubuntas
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2010-03-02 03:23"
+date: 2010-03-02
 slug: |
   gnome-2-30-translations-for-the-faint-of-heart
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-03 13:33"
+date: 2006-07-03
 slug: |
   vamos-abrir-as-portas-da-esperanca
 tags:

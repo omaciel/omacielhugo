@@ -1,6 +1,6 @@
 ---
 
-date: "2007-07-06 02:18"
+date: 2007-07-06
 slug: |
   membro-da-fundacao-gnome
 tags:

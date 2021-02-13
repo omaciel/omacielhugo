@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-30 16:14"
+date: 2006-08-30
 slug: |
   minha-experiencia-nas-nacoes-unidas
 tags:

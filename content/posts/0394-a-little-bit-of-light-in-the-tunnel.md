@@ -1,6 +1,6 @@
 ---
 
-date: "2006-09-08 21:08"
+date: 2006-09-08
 slug: |
   a-little-bit-of-light-in-the-tunnel
 tags:

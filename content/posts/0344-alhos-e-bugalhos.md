@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-28 17:51"
+date: 2006-06-28
 slug: |
   alhos-e-bugalhos
 tags:

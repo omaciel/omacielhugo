@@ -1,6 +1,6 @@
 ---
 
-date: "2010-11-30 20:33"
+date: 2010-11-30
 slug: |
   when-hard-work-pays-off-rbuilder-5-8-for-linux-and-windo
 tags:

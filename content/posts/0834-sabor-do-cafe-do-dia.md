@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-03 18:30"
+date: 2008-09-03
 slug: |
   sabor-do-cafe-do-dia
 tags:

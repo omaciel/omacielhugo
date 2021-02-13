@@ -1,6 +1,6 @@
 ---
 
-date: "2008-06-29 14:02"
+date: 2008-06-29
 slug: |
   united-states-of-censorship
 tags:

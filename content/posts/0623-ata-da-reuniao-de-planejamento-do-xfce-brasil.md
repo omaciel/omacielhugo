@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-26 16:30"
+date: 2007-08-26
 slug: |
   ata-da-reuniao-de-planejamento-do-xfce-brasil
 tags:

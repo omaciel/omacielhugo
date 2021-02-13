@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-25 15:07"
+date: 2006-05-25
 slug: |
   nao-quero-saber-se-a-mula-e-manca-eu-quero-e-rosettar
 tags:

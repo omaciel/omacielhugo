@@ -1,6 +1,6 @@
 ---
 
-date: "2008-01-27 17:57"
+date: 2008-01-27
 slug: |
   rumor-has-it
 tags:

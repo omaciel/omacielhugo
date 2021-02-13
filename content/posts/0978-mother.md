@@ -1,6 +1,6 @@
 ---
 
-date: "2010-05-10 15:00"
+date: 2010-05-10
 slug: |
   mother
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2010-04-19 15:00"
+date: 2010-04-19
 slug: |
   from-the-useful-django-tip-department-reset-the-admin-pa
 tags:

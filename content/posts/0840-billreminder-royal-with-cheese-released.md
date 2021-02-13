@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-12 03:19"
+date: 2008-09-12
 slug: |
   billreminder-royal-with-cheese-released
 tags:

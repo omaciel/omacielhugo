@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-22 20:45"
+date: 2007-04-22
 slug: |
   escute-o-foocast-usando-rhythmboxlistenbansheeradinho-de
 tags:

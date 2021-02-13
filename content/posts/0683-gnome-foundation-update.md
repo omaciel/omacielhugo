@@ -1,6 +1,6 @@
 ---
 
-date: "2007-12-11 21:50"
+date: 2007-12-11
 slug: |
   gnome-foundation-update
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-01-10 03:22"
+date: 2008-01-10
 slug: |
   novo-pacote-do-billreminder-para-o-gutsy
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2009-01-20 17:56"
+date: 2009-01-20
 slug: |
   dia-de-neve
 tags:

@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-11-28 08:35"
+date: 2011-11-28
 slug: |
   castalio-podcast-elvis-pfutzenreuter-conectiva-linux
 tags:

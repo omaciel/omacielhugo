@@ -1,6 +1,6 @@
 ---
 
-date: "2009-10-19 01:35"
+date: 2009-10-19
 slug: |
   reuniao-da-equipe-de-traducoes-do-gnome-brasil
 tags:

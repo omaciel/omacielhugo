@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-07 01:09"
+date: 2008-07-07
 slug: |
   stormy-weekend-in-chapel-hill
 tags:

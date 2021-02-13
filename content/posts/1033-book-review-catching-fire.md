@@ -1,6 +1,6 @@
 ---
 
-date: "2011-01-19 18:09"
+date: 2011-01-19
 slug: |
   book-review-catching-fire
 tags:

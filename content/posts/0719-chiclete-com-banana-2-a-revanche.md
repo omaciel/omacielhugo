@@ -1,6 +1,6 @@
 ---
 
-date: "2008-02-10 13:39"
+date: 2008-02-10
 slug: |
   chiclete-com-banana-2-a-revanche
 tags:

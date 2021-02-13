@@ -1,6 +1,6 @@
 ---
 
-date: "2011-03-09 03:30"
+date: 2011-03-09
 slug: |
   foresight-linux-2-5-0-release-candidate-galore
 tags:

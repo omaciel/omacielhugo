@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-24 02:52"
+date: 2006-04-24
 slug: |
   frequently-heard-questions
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2010-03-26 19:22"
+date: 2010-03-26
 slug: |
   wish-list-distutils-best-practice-guide
 tags:

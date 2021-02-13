@@ -1,6 +1,6 @@
 ---
 
-date: "2009-03-12 14:51"
+date: 2009-03-12
 slug: |
   another-open-source-project-100-translated
 tags:

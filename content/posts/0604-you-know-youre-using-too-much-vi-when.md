@@ -1,6 +1,6 @@
 ---
 
-date: "2007-07-19 19:55"
+date: 2007-07-19
 slug: |
   you-know-youre-using-too-much-vi-when
 tags:

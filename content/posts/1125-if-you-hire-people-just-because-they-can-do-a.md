@@ -1,6 +1,6 @@
 ---
 
-date: "2012-04-06 14:10"
+date: 2012-04-06
 slug: |
   if-you-hire-people-just-because-they-can-do-a
 tags:

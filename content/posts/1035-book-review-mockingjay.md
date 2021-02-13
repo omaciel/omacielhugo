@@ -1,6 +1,6 @@
 ---
 
-date: "2011-01-26 05:00"
+date: 2011-01-26
 slug: |
   book-review-mockingjay
 tags:

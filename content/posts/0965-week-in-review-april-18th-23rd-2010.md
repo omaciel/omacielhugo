@@ -1,6 +1,6 @@
 ---
 
-date: "2010-04-24 15:00"
+date: 2010-04-24
 slug: |
   week-in-review-april-18th-23rd-2010
 tags:

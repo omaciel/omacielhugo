@@ -1,6 +1,6 @@
 ---
 
-date: "2008-05-13 14:43"
+date: 2008-05-13
 slug: |
   billreminder-no-progbox
 tags:

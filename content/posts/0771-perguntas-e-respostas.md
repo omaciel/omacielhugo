@@ -1,6 +1,6 @@
 ---
 
-date: "2008-05-09 08:04"
+date: 2008-05-09
 slug: |
   perguntas-e-respostas
 tags:

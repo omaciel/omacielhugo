@@ -1,6 +1,6 @@
 ---
 
-date: "2006-03-09 18:54"
+date: 2006-03-09
 slug: |
   billreminder
 tags:

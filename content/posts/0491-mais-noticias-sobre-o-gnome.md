@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2007-03-07 22:15"
+date: 2007-03-07
 slug: |
   mais-noticias-sobre-o-gnome
 tags:

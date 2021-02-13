@@ -1,6 +1,6 @@
 ---
 
-date: "2009-01-06 17:59"
+date: 2009-01-06
 slug: |
   metas-para-2009
 tags:

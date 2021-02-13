@@ -1,6 +1,6 @@
 ---
 
-date: "2008-06-24 18:30"
+date: 2008-06-24
 slug: |
   help-me-translate-billreminder
 tags:

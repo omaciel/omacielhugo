@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-09 13:18"
+date: 2006-08-09
 slug: |
   customized-ubuntu-dapper-drake-live-cd-123
 tags:

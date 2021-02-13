@@ -1,6 +1,6 @@
 ---
 
-date: "2009-10-16 02:41"
+date: 2009-10-16
 slug: |
   using-wordpress-as-a-blog-aggregator
 tags:

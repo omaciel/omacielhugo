@@ -1,6 +1,6 @@
 ---
 
-date: "2010-08-11 13:16"
+date: 2010-08-11
 slug: |
   book-review-python-3-object-oriented-programming
 tags:

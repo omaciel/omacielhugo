@@ -1,6 +1,6 @@
 ---
 
-date: "2005-06-07 13:10"
+date: 2005-06-07
 slug: |
   sarge-is-out
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-28 13:15"
+date: 2008-07-28
 slug: |
   desktop-client-for-twitter-and-identica
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2010-12-13 11:00"
+date: 2010-12-13
 slug: |
   the-thrilling-adventures-of-lovelace-and-babbage
 tags:

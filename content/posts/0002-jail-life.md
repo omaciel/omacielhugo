@@ -1,10 +1,11 @@
 ---
 
-date: "2005-02-16 17:46"
+date: 2005-02-16
 slug: |
   jail-life
 tags:
  - english
+ - work
 title: Jail Life
 ---
 

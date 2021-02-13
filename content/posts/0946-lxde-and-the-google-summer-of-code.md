@@ -1,6 +1,6 @@
 ---
 
-date: "2010-03-24 13:25"
+date: 2010-03-24
 slug: |
   lxde-and-the-google-summer-of-code
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-02-23 16:18"
+date: 2005-02-23
 slug: |
   enemy-territory-night
 tags:

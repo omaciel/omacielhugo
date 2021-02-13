@@ -1,6 +1,6 @@
 ---
 
-date: "2007-12-15 16:06"
+date: 2007-12-15
 slug: |
   taca-perfume-no-ubuntu
 tags:

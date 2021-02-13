@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-15 12:43"
+date: 2008-04-15
 slug: |
   continuidade
 tags:

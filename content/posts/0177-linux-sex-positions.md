@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-21 19:11"
+date: 2005-09-21
 slug: |
   linux-sex-positions
 tags:

@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-10-31 02:01"
+date: 2011-10-31
 slug: |
   castalio-podcast-guilherme-salgado-canonical-e-linaro
 tags:

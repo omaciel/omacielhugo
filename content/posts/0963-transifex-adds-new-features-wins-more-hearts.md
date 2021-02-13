@@ -1,6 +1,6 @@
 ---
 
-date: "2010-04-22 15:00"
+date: 2010-04-22
 slug: |
   transifex-adds-new-features-wins-more-hearts
 tags:

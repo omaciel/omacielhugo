@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-25 19:38"
+date: 2008-09-25
 slug: |
   screencasts-do-inkscape-de-primeira-classe
 tags:

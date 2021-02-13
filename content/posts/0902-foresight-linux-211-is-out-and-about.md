@@ -1,6 +1,6 @@
 ---
 
-date: "2009-05-15 16:48"
+date: 2009-05-15
 slug: |
   foresight-linux-211-is-out-and-about
 tags:

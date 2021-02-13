@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-17 19:47"
+date: 2007-05-17
 slug: |
   bond-james-bond
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-08-04 13:45"
+date: 2008-08-04
 slug: |
   pra-que-complicar
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-11 00:37"
+date: 2007-04-11
 slug: |
   texto-livre-para-todos
 tags:

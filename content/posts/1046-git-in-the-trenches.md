@@ -1,6 +1,6 @@
 ---
 
-date: "2011-03-04 05:44"
+date: 2011-03-04
 slug: |
   git-in-the-trenches
 tags:

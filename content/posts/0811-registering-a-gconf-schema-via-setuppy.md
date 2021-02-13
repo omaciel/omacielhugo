@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-13 04:05"
+date: 2008-07-13
 slug: |
   registering-a-gconf-schema-via-setuppy
 tags:

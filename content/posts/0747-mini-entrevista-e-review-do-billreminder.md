@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-06 20:00"
+date: 2008-04-06
 slug: |
   mini-entrevista-e-review-do-billreminder
 tags:

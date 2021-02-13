@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-13 19:53"
+date: 2006-10-13
 slug: |
   sitio-deus-e-pai
 tags:

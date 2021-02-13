@@ -1,6 +1,6 @@
 ---
 
-date: "2007-02-10 20:36"
+date: 2007-02-10
 slug: |
   instalando-o-pypanel-no-ubuntu-feisty
 tags:

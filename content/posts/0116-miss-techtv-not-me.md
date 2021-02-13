@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-07 15:17"
+date: 2005-07-07
 slug: |
   miss-techtv-not-me
 tags:

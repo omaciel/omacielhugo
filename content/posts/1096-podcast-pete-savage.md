@@ -1,6 +1,6 @@
 ---
 
-date: "2011-09-19 01:53"
+date: 2011-09-19
 slug: |
   podcast-pete-savage
 tags:

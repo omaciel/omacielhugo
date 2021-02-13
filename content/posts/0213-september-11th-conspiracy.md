@@ -1,6 +1,6 @@
 ---
 
-date: "2005-12-19 20:09"
+date: 2005-12-19
 slug: |
   september-11th-conspiracy
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-17 19:31"
+date: 2006-10-17
 slug: |
   six-years
 tags:

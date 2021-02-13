@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-07 13:49"
+date: 2008-04-07
 slug: |
   prelude-to-letting-go
 tags:

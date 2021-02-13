@@ -1,6 +1,6 @@
 ---
 
-date: "2008-06-23 13:43"
+date: 2008-06-23
 slug: |
   fresh-material-for-all-the-professional-tweeters-out-the
 tags:

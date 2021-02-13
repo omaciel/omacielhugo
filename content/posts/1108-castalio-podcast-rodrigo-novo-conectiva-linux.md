@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-12-26 23:59"
+date: 2011-12-26
 slug: |
   castalio-podcast-rodrigo-novo-conectiva-linux
 tags:

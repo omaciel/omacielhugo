@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-17 14:11"
+date: 2005-08-17
 slug: |
   feedster-registered
 tags:

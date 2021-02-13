@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-24 20:19"
+date: 2006-04-24
 slug: |
   coisas-frequentemente-escutadas
 tags:

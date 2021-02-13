@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-01 17:00"
+date: 2005-09-01
 slug: |
   the-need-for-speed
 tags:

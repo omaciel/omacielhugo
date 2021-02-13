@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-11 17:37"
+date: 2005-05-11
 slug: |
   trying-out-perforce
 tags:

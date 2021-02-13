@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-10 21:02"
+date: 2006-06-10
 slug: |
   tabletpc-3-a-volta-dos-que-nao-foram
 tags:

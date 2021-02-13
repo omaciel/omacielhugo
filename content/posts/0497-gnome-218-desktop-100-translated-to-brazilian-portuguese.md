@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-12 12:22"
+date: 2007-03-12
 slug: |
   gnome-218-desktop-100-translated-to-brazilian-portuguese
 tags:

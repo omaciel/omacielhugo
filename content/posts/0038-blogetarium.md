@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-30 15:05"
+date: 2005-03-30
 slug: |
   blogetarium
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-12-08 16:28"
+date: 2006-12-08
 slug: |
   imagine
 tags:

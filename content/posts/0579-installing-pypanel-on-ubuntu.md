@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-15 20:40"
+date: 2007-06-15
 slug: |
   installing-pypanel-on-ubuntu
 tags:

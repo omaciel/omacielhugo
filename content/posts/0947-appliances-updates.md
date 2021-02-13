@@ -1,6 +1,6 @@
 ---
 
-date: "2010-03-25 00:39"
+date: 2010-03-25
 slug: |
   appliances-updates
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-25 13:26"
+date: 2006-04-25
 slug: |
   faca-de-dois-gumes
 tags:

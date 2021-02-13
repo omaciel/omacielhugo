@@ -1,6 +1,6 @@
 ---
 
-date: "2009-01-20 19:03"
+date: 2009-01-20
 slug: |
   snowy-day
 tags:

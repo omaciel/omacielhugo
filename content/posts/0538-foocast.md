@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-21 22:40"
+date: 2007-04-21
 slug: |
   foocast
 tags:

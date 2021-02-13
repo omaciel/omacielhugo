@@ -1,6 +1,6 @@
 ---
 
-date: "2008-01-01 15:13"
+date: 2008-01-01
 slug: |
   end-of-2007-and-new-beginnings
 tags:

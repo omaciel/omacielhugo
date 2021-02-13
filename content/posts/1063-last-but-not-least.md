@@ -1,6 +1,6 @@
 ---
 
-date: "2011-04-29 12:55"
+date: 2011-04-29
 slug: |
   last-but-not-least
 tags:

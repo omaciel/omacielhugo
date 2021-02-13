@@ -1,6 +1,6 @@
 ---
 
-date: "2009-09-30 03:00"
+date: 2009-09-30
 slug: |
   smorgasbord-news-for-september-2009
 tags:

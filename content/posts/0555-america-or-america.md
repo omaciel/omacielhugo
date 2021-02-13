@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-24 19:10"
+date: 2007-05-24
 slug: |
   america-or-america
 tags:

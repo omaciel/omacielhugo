@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-12 16:59"
+date: 2005-04-12
 slug: |
   if-you-thought-google-maps-was-cool
 tags:

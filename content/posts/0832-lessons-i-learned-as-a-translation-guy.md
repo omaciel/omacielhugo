@@ -1,6 +1,6 @@
 ---
 
-date: "2008-08-28 15:18"
+date: 2008-08-28
 slug: |
   lessons-i-learned-as-a-translation-guy
 tags:

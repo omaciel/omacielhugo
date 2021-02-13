@@ -1,6 +1,6 @@
 ---
 
-date: "2006-12-25 00:05"
+date: 2006-12-25
 slug: |
   feliz-natal
 tags:

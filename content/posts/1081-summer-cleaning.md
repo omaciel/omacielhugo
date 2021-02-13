@@ -1,6 +1,6 @@
 ---
 
-date: "2011-07-18 01:01"
+date: 2011-07-18
 slug: |
   summer-cleaning
 tags:

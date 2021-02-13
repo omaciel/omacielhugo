@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-12 14:28"
+date: 2006-04-12
 slug: |
   agora-sim
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-08 16:05"
+date: 2006-10-08
 slug: |
   sobre-as-regras-de-ingressao-a-equipe-de-tradutores
 tags:

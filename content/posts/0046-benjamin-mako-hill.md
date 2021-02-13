@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-07 18:21"
+date: 2005-04-07
 slug: |
   benjamin-mako-hill
 tags:

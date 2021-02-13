@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-27 18:25"
+date: 2006-05-27
 slug: |
   about-time
 tags:

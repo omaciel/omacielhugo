@@ -1,6 +1,6 @@
 ---
 
-date: "2006-11-06 05:50"
+date: 2006-11-06
 slug: |
   ubuntu-desktop-summit-mountain-view-primeiro-dia
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-11-20 15:11"
+date: 2008-11-20
 slug: |
   day-of-remembrance
 tags:

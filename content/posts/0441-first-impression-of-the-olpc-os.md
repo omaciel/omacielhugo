@@ -1,6 +1,6 @@
 ---
 
-date: "2006-11-29 23:35"
+date: 2006-11-29
 slug: |
   first-impression-of-the-olpc-os
 tags:

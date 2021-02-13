@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-13 19:47"
+date: 2005-04-13
 slug: |
   groovy
 tags:

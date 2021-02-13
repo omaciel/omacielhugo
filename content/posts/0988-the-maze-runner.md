@@ -1,6 +1,6 @@
 ---
 
-date: "2010-05-24 15:00"
+date: 2010-05-24
 slug: |
   the-maze-runner
 tags:

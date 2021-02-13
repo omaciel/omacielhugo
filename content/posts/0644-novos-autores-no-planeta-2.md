@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-12 16:48"
+date: 2007-09-12
 slug: |
   novos-autores-no-planeta-2
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-08 19:45"
+date: 2006-06-08
 slug: |
   early-christmas
 tags:

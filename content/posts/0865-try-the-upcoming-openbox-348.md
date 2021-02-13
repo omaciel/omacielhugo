@@ -1,6 +1,6 @@
 ---
 
-date: "2008-11-23 17:45"
+date: 2008-11-23
 slug: |
   try-the-upcoming-openbox-348
 tags:

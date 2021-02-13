@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-23 14:56"
+date: 2007-03-23
 slug: |
   problemas-usando-o-vmware-workstation-6-beta
 tags:

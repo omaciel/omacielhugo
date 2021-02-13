@@ -1,6 +1,6 @@
 ---
 
-date: "2008-02-11 02:28"
+date: 2008-02-11
 slug: |
   dialogos-e-brincando-com-o-wbar
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-05 00:09"
+date: 2007-09-05
 slug: |
   the-road-to-gnome-220
 tags:

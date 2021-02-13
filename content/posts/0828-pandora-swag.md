@@ -1,6 +1,6 @@
 ---
 
-date: "2008-08-12 03:14"
+date: 2008-08-12
 slug: |
   pandora-swag
 tags:

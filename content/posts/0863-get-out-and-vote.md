@@ -1,6 +1,6 @@
 ---
 
-date: "2008-11-04 15:31"
+date: 2008-11-04
 slug: |
   get-out-and-vote
 tags:

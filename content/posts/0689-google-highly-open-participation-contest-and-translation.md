@@ -1,6 +1,6 @@
 ---
 
-date: "2007-12-19 18:03"
+date: 2007-12-19
 slug: |
   google-highly-open-participation-contest-and-translation
 tags:

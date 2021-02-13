@@ -1,6 +1,6 @@
 ---
 
-date: "2005-06-22 19:58"
+date: 2005-06-22
 slug: |
   holding-my-breath
 tags:

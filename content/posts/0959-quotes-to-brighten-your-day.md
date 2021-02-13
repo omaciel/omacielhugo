@@ -1,6 +1,6 @@
 ---
 
-date: "2010-04-18 20:00"
+date: 2010-04-18
 slug: |
   quotes-to-brighten-your-day
 tags:

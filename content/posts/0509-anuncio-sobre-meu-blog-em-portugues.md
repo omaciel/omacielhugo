@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-21 15:58"
+date: 2007-03-21
 slug: |
   anuncio-sobre-meu-blog-em-portugues
 tags:

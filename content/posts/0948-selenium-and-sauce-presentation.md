@@ -1,6 +1,6 @@
 ---
 
-date: "2010-03-26 02:54"
+date: 2010-03-26
 slug: |
   selenium-and-sauce-presentation
 tags:

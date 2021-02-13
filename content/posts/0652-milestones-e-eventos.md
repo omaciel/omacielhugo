@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2007-10-03 13:20"
+date: 2007-10-03
 slug: |
   milestones-e-eventos
 tags:

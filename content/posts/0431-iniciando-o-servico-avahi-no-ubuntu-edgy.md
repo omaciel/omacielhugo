@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-31 19:23"
+date: 2006-10-31
 slug: |
   iniciando-o-servico-avahi-no-ubuntu-edgy
 tags:

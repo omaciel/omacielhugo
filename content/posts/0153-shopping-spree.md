@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-23 14:38"
+date: 2005-08-23
 slug: |
   shopping-spree
 tags:

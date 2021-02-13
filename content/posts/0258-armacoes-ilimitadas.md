@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-03 01:56"
+date: 2006-04-03
 slug: |
   armacoes-ilimitadas
 tags:

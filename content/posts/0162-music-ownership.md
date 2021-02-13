@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-30 19:51"
+date: 2005-08-30
 slug: |
   music-ownership
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-28 16:42"
+date: 2005-07-28
 slug: |
   guns-germs-metal
 tags:

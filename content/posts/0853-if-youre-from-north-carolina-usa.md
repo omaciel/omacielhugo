@@ -1,6 +1,6 @@
 ---
 
-date: "2008-10-01 01:35"
+date: 2008-10-01
 slug: |
   if-youre-from-north-carolina-usa
 tags:

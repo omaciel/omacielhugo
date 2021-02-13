@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-06 17:24"
+date: 2005-10-06
 slug: |
   installing-debian-by-edd-dumbill
 tags:

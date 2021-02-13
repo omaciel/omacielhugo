@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-08 14:18"
+date: 2007-08-08
 slug: |
   the-name-game-2-the-rematch
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-05 01:33"
+date: 2007-06-05
 slug: |
   keeping-organized-with-tasks-and-dates
 tags:

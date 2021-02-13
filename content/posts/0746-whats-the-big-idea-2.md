@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-03 15:06"
+date: 2008-04-03
 slug: |
   whats-the-big-idea-2
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-23 00:17"
+date: 2006-08-23
 slug: |
   iii-festiva-software-livre-da-bahia
 tags:

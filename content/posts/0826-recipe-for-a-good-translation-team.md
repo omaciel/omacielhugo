@@ -1,6 +1,6 @@
 ---
 
-date: "2008-08-11 18:06"
+date: 2008-08-11
 slug: |
   recipe-for-a-good-translation-team
 tags:

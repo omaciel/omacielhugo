@@ -1,6 +1,6 @@
 ---
 
-date: "2007-11-16 18:51"
+date: 2007-11-16
 slug: |
   running-for-the-gnome-board-of-directors
 tags:

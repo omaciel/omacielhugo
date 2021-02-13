@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-21 19:51"
+date: 2005-04-21
 slug: |
   the-good-stuff
 tags:

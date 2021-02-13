@@ -1,6 +1,6 @@
 ---
 
-date: "2008-06-18 22:49"
+date: 2008-06-18
 slug: |
   brasil-x-argentina-na-internet
 tags:

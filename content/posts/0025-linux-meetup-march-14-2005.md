@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-16 15:46"
+date: 2005-03-16
 slug: |
   linux-meetup-march-14-2005
 tags:

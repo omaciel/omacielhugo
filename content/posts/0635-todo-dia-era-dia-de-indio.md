@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-02 14:43"
+date: 2007-09-02
 slug: |
   todo-dia-era-dia-de-indio
 tags:

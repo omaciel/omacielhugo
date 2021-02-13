@@ -1,6 +1,6 @@
 ---
 
-date: "2008-12-26 16:18"
+date: 2008-12-26
 slug: |
   rosetta-takes-a-great-step-toward-supporting-upstream-tr
 tags:

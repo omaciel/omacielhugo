@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-16 20:02"
+date: 2006-05-16
 slug: |
   sinal-dos-tempos
 tags:

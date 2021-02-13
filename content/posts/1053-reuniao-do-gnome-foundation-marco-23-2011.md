@@ -1,6 +1,6 @@
 ---
 
-date: "2011-03-22 04:00"
+date: 2011-03-22
 slug: |
   reuniao-do-gnome-foundation-marco-23-2011
 tags:

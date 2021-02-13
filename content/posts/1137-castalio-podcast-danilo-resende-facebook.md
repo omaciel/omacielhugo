@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-07-09 15:26"
+date: 2012-07-09
 slug: |
   castalio-podcast-danilo-resende-facebook
 tags:

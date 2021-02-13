@@ -1,6 +1,6 @@
 ---
 
-date: "2008-10-26 15:35"
+date: 2008-10-26
 slug: |
   get-notifed-about-translation-commit-messages-on-irc
 tags:

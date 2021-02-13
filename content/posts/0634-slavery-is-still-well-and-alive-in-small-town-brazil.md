@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-02 14:39"
+date: 2007-09-02
 slug: |
   slavery-is-still-well-and-alive-in-small-town-brazil
 tags:

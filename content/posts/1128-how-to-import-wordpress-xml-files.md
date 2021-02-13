@@ -1,6 +1,6 @@
 ---
 
-date: "2012-04-23 20:59"
+date: 2012-04-23
 slug: |
   how-to-import-wordpress-xml-files
 tags:

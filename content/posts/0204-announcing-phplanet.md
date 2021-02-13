@@ -1,6 +1,6 @@
 ---
 
-date: "2005-11-04 18:58"
+date: 2005-11-04
 slug: |
   announcing-phplanet
 tags:

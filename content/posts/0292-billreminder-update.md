@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-15 17:59"
+date: 2006-05-15
 slug: |
   billreminder-update
 tags:

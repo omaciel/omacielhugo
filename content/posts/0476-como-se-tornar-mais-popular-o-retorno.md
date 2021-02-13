@@ -1,6 +1,6 @@
 ---
 
-date: "2007-02-22 20:03"
+date: 2007-02-22
 slug: |
   como-se-tornar-mais-popular-o-retorno
 tags:

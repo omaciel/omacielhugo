@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-18 19:51"
+date: 2005-04-18
 slug: |
   things-that-make-you-go-hummmm
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-03 20:51"
+date: 2007-03-03
 slug: |
   epiphany-is-the-bee-e2-80-99s-knees
 tags:

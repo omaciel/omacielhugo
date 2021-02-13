@@ -1,6 +1,6 @@
 ---
 
-date: "2006-11-28 04:33"
+date: 2006-11-28
 slug: |
   secret-santa-made-easy
 tags:

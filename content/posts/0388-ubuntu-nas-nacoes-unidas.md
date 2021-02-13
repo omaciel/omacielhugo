@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-28 18:23"
+date: 2006-08-28
 slug: |
   ubuntu-nas-nacoes-unidas
 tags:

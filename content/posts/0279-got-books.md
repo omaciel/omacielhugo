@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-21 03:32"
+date: 2006-04-21
 slug: |
   got-books
 tags:

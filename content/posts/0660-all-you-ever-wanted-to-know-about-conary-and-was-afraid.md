@@ -1,6 +1,6 @@
 ---
 
-date: "2007-10-16 21:27"
+date: 2007-10-16
 slug: |
   all-you-ever-wanted-to-know-about-conary-and-was-afraid
 tags:

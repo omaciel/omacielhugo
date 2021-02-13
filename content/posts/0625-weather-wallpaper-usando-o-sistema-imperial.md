@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-29 03:37"
+date: 2007-08-29
 slug: |
   weather-wallpaper-usando-o-sistema-imperial
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-24 14:39"
+date: 2006-04-24
 slug: |
   when-it-rains-it-pours
 tags:

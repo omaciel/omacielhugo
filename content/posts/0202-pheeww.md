@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-31 16:16"
+date: 2005-10-31
 slug: |
   pheeww
 tags:

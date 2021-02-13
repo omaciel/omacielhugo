@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-28 20:50"
+date: 2005-03-28
 slug: |
   paradise-city
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-01-26 21:29"
+date: 2008-01-26
 slug: |
   oh-yeah
 tags:

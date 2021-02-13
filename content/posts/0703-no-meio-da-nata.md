@@ -1,6 +1,6 @@
 ---
 
-date: "2008-01-09 18:25"
+date: 2008-01-09
 slug: |
   no-meio-da-nata
 tags:

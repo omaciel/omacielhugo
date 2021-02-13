@@ -1,6 +1,6 @@
 ---
 
-date: "2011-02-16 03:26"
+date: 2011-02-16
 slug: |
   moving-wordpress-blog-to-amazons-ec2
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2009-06-13 22:20"
+date: 2009-06-13
 slug: |
   geekdeck-issue-3-published
 tags:

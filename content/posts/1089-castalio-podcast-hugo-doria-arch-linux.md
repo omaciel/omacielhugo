@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-08-08 06:15"
+date: 2011-08-08
 slug: |
   castalio-podcast-hugo-doria-arch-linux
 tags:

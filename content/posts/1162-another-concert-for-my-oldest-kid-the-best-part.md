@@ -1,6 +1,6 @@
 ---
 
-date: "2013-03-28 02:28"
+date: 2013-03-28
 slug: |
   another-concert-for-my-oldest-kid-the-best-part
 title: Another Concert For My Oldest Kid The Best Part

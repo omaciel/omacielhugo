@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-10 00:30"
+date: 2008-07-10
 slug: |
   videocasts-sobrevivendo-com-linux
 tags:

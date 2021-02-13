@@ -1,6 +1,6 @@
 ---
 
-date: "2011-12-31 00:43"
+date: 2011-12-31
 slug: |
   meu-top-10-livros
 tags:

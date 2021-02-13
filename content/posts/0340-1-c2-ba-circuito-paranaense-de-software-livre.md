@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-21 01:40"
+date: 2006-06-21
 slug: |
   1-c2-ba-circuito-paranaense-de-software-livre
 tags:

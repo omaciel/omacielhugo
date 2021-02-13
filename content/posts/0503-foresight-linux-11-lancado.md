@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-15 20:29"
+date: 2007-03-15
 slug: |
   foresight-linux-11-lancado
 tags:

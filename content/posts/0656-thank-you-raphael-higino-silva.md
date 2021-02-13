@@ -1,6 +1,6 @@
 ---
 
-date: "2007-10-09 14:30"
+date: 2007-10-09
 slug: |
   thank-you-raphael-higino-silva
 tags:

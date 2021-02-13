@@ -1,6 +1,6 @@
 ---
 
-date: "2007-01-04 20:26"
+date: 2007-01-04
 slug: |
   portable-vlc
 tags:

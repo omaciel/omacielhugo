@@ -1,6 +1,6 @@
 ---
 
-date: "2007-02-27 22:27"
+date: 2007-02-27
 slug: |
   planeta-no-ar
 tags:

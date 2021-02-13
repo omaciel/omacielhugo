@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-09 20:57"
+date: 2008-07-09
 slug: |
   got-milk
 tags:

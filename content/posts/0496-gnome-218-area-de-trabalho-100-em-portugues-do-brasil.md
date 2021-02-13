@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-12 12:06"
+date: 2007-03-12
 slug: |
   gnome-218-area-de-trabalho-100-em-portugues-do-brasil
 tags:

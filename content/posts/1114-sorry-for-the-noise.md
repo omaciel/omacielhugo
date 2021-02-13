@@ -1,6 +1,6 @@
 ---
 
-date: "2012-02-17 15:53"
+date: 2012-02-17
 slug: |
   sorry-for-the-noise
 tags:

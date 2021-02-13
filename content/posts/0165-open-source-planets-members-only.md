@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-05 20:26"
+date: 2005-09-05
 slug: |
   open-source-planets-members-only
 tags:

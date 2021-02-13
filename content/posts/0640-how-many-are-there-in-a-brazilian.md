@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-09 14:09"
+date: 2007-09-09
 slug: |
   how-many-are-there-in-a-brazilian
 tags:

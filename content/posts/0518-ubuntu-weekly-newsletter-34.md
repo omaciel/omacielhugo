@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-04 12:22"
+date: 2007-04-04
 slug: |
   ubuntu-weekly-newsletter-34
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2010-06-29 16:41"
+date: 2010-06-29
 slug: |
   more-coffee-noise
 tags:

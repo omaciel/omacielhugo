@@ -1,6 +1,6 @@
 ---
 
-date: "2006-02-06 16:50"
+date: 2006-02-06
 slug: |
   is-less-better-take-2
 tags:

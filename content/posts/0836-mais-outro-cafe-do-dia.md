@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-04 19:06"
+date: 2008-09-04
 slug: |
   mais-outro-cafe-do-dia
 tags:

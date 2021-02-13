@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-27 00:06"
+date: 2007-06-27
 slug: |
   primeira-traducao-efetuada
 tags:

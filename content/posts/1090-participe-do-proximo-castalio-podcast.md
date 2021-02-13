@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-08-09 22:08"
+date: 2011-08-09
 slug: |
   participe-do-proximo-castalio-podcast
 tags:

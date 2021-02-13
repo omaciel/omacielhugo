@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-16 13:55"
+date: 2007-06-16
 slug: |
   gerador-generico-de-gtktreeview
 tags:

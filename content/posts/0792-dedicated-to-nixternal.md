@@ -1,6 +1,6 @@
 ---
 
-date: "2008-06-15 22:37"
+date: 2008-06-15
 slug: |
   dedicated-to-nixternal
 tags:

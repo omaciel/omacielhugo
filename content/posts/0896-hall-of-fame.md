@@ -1,6 +1,6 @@
 ---
 
-date: "2009-04-03 19:43"
+date: 2009-04-03
 slug: |
   hall-of-fame
 tags:

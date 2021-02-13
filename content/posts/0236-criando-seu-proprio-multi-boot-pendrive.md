@@ -1,6 +1,6 @@
 ---
 
-date: "2006-02-15 20:57"
+date: 2006-02-15
 slug: |
   criando-seu-proprio-multi-boot-pendrive
 tags:

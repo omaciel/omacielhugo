@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-22 18:00"
+date: 2005-03-22
 slug: |
   working-for-pixar
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-11-26 19:50"
+date: 2007-11-26
 slug: |
   let-us-not-lose-our-cool
 tags:

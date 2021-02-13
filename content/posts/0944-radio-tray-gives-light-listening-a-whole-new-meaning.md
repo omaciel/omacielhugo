@@ -1,6 +1,6 @@
 ---
 
-date: "2010-03-22 23:12"
+date: 2010-03-22
 slug: |
   radio-tray-gives-light-listening-a-whole-new-meaning
 tags:

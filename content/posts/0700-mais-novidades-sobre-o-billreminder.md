@@ -1,6 +1,6 @@
 ---
 
-date: "2008-01-09 03:31"
+date: 2008-01-09
 slug: |
   mais-novidades-sobre-o-billreminder
 tags:

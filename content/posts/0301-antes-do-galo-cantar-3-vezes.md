@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-21 15:22"
+date: 2006-05-21
 slug: |
   antes-do-galo-cantar-3-vezes
 tags:

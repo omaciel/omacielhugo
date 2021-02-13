@@ -1,6 +1,6 @@
 ---
 
-date: "2007-01-05 18:34"
+date: 2007-01-05
 slug: |
   gnome-ubuntu-and-samba
 tags:

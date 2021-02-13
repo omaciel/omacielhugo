@@ -1,6 +1,6 @@
 ---
 
-date: "2006-09-08 21:07"
+date: 2006-09-08
 slug: |
   where-in-the-world-is-og-maciel
 tags:

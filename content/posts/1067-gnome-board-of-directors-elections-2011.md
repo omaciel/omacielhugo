@@ -1,6 +1,6 @@
 ---
 
-date: "2011-05-11 13:21"
+date: 2011-05-11
 slug: |
   gnome-board-of-directors-elections-2011
 tags:

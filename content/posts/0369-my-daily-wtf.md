@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-01 20:05"
+date: 2006-08-01
 slug: |
   my-daily-wtf
 tags:

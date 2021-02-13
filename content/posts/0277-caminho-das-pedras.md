@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-17 16:36"
+date: 2006-04-17
 slug: |
   caminho-das-pedras
 tags:

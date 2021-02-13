@@ -1,6 +1,6 @@
 ---
 
-date: "2006-02-17 15:41"
+date: 2006-02-17
 slug: |
   o-que-ha-de-novo-no-gnome
 tags:

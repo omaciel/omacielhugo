@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-05 17:56"
+date: 2006-10-05
 slug: |
   my-first-conary-package
 tags:

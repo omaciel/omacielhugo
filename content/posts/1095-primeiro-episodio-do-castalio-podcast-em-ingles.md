@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-09-19 01:44"
+date: 2011-09-19
 slug: |
   primeiro-episodio-do-castalio-podcast-em-ingles
 tags:

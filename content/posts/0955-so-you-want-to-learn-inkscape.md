@@ -1,6 +1,6 @@
 ---
 
-date: "2010-04-14 20:00"
+date: 2010-04-14
 slug: |
   so-you-want-to-learn-inkscape
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2010-05-22 14:00"
+date: 2010-05-22
 slug: |
   week-in-review-may-17th-e2-80-93-may-21th-2010
 tags:

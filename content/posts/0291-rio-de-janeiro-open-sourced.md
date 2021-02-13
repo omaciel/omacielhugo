@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-12 18:26"
+date: 2006-05-12
 slug: |
   rio-de-janeiro-open-sourced
 tags:

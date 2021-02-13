@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2007-11-08 18:37"
+date: 2007-11-08
 slug: |
   foresight-linux-no-the-linux-link-tech-show
 tags:

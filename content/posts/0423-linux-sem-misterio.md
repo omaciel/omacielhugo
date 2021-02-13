@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-19 21:37"
+date: 2006-10-19
 slug: |
   linux-sem-misterio
 tags:

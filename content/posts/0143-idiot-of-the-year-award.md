@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-10 10:31"
+date: 2005-08-10
 slug: |
   idiot-of-the-year-award
 tags:

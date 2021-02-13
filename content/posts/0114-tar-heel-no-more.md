@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-06 15:01"
+date: 2005-07-06
 slug: |
   tar-heel-no-more
 tags:

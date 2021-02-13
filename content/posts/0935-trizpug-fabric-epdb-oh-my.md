@@ -1,6 +1,6 @@
 ---
 
-date: "2010-01-29 20:48"
+date: 2010-01-29
 slug: |
   trizpug-fabric-epdb-oh-my
 tags:

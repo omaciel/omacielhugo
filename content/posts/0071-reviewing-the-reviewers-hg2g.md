@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-02 12:42"
+date: 2005-05-02
 slug: |
   reviewing-the-reviewers-hg2g
 tags:

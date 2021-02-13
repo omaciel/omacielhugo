@@ -1,6 +1,6 @@
 ---
 
-date: "2007-02-05 23:38"
+date: 2007-02-05
 slug: |
   do-you-conary
 tags:

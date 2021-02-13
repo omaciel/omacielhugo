@@ -1,6 +1,6 @@
 ---
 
-date: "2010-03-10 05:24"
+date: 2010-03-10
 slug: |
   gnome-developer-kit-follow-up
 tags:

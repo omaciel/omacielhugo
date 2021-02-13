@@ -1,6 +1,6 @@
 ---
 
-date: "2010-10-15 23:05"
+date: 2010-10-15
 slug: |
   transifex-appliance-1-0-proteus-release
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2011-02-18 05:00"
+date: 2011-02-18
 slug: |
   barrabin-barrabash-abra-unix-cadabra
 tags:

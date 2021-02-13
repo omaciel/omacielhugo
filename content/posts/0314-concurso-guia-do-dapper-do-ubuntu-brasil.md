@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-01 18:39"
+date: 2006-06-01
 slug: |
   concurso-guia-do-dapper-do-ubuntu-brasil
 tags:

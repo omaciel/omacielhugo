@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-17 14:50"
+date: 2008-04-17
 slug: |
   forward
 tags:

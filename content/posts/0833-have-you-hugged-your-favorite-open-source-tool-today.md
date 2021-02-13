@@ -1,6 +1,6 @@
 ---
 
-date: "2008-08-29 17:30"
+date: 2008-08-29
 slug: |
   have-you-hugged-your-favorite-open-source-tool-today
 tags:

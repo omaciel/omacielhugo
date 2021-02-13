@@ -1,6 +1,6 @@
 ---
 
-date: "2006-02-20 17:33"
+date: 2006-02-20
 slug: |
   red-hat-certified-engineer-dia-1
 tags:

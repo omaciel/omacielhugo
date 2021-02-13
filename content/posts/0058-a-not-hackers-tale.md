@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-25 22:50"
+date: 2005-04-25
 slug: |
   a-not-hackers-tale
 tags:

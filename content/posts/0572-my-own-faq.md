@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-08 08:04"
+date: 2007-06-08
 slug: |
   my-own-faq
 tags:

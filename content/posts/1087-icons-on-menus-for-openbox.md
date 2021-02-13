@@ -1,6 +1,6 @@
 ---
 
-date: "2011-08-02 23:44"
+date: 2011-08-02
 slug: |
   icons-on-menus-for-openbox
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-13 11:14"
+date: 2006-10-13
 slug: |
   google-analytics
 tags:

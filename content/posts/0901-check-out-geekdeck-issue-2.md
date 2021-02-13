@@ -1,6 +1,6 @@
 ---
 
-date: "2009-05-13 20:48"
+date: 2009-05-13
 slug: |
   check-out-geekdeck-issue-2
 tags:

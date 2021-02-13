@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-06-26 21:15"
+date: 2011-06-26
 slug: |
   castalio-podcast-lucas-rocha-the-board-parte-1
 tags:

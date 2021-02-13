@@ -1,6 +1,6 @@
 ---
 
-date: "2011-07-11 04:15"
+date: 2011-07-11
 slug: |
   podcast-igor-pires-soares-fedora-project
 tags:

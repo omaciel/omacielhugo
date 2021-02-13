@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-04 18:29"
+date: 2006-04-04
 slug: |
   sem-tempo-para-respirar
 tags:

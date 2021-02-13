@@ -1,6 +1,6 @@
 ---
 
-date: "2008-05-23 10:37"
+date: 2008-05-23
 slug: |
   sistemas-de-recomendacao-de-musicas-online
 tags:

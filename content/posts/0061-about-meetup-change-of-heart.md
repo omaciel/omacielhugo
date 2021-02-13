@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-26 18:59"
+date: 2005-04-26
 slug: |
   about-meetup-change-of-heart
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2010-03-09 17:19"
+date: 2010-03-09
 slug: |
   gnome-developer-kit-agora-fat-free
 tags:

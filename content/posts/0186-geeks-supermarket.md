@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-04 19:36"
+date: 2005-10-04
 slug: |
   geeks-supermarket
 tags:

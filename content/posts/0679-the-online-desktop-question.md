@@ -1,6 +1,6 @@
 ---
 
-date: "2007-11-29 20:47"
+date: 2007-11-29
 slug: |
   the-online-desktop-question
 tags:

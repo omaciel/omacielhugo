@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-13 18:20"
+date: 2007-04-13
 slug: |
   herding-cats-in-brazil
 tags:

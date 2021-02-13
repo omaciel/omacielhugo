@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-12 03:04"
+date: 2006-06-12
 slug: |
   rotating-the-screen-for-a-tabletpc
 tags:

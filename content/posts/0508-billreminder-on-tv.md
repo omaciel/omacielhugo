@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-19 16:02"
+date: 2007-03-19
 slug: |
   billreminder-on-tv
 tags:

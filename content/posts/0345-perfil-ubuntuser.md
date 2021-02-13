@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-29 01:40"
+date: 2006-06-29
 slug: |
   perfil-ubuntuser
 tags:

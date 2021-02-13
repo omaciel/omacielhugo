@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-14 13:32"
+date: 2006-07-14
 slug: |
   back-to-school
 tags:

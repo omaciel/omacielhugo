@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-05 12:49"
+date: 2006-04-05
 slug: |
   some-early-pictures
 tags:

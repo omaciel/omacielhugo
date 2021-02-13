@@ -1,6 +1,6 @@
 ---
 
-date: "2006-09-27 03:56"
+date: 2006-09-27
 slug: |
   following-the-right-path
 tags:

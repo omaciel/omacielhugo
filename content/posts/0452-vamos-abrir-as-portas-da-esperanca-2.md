@@ -1,6 +1,6 @@
 ---
 
-date: "2006-12-15 19:41"
+date: 2006-12-15
 slug: |
   vamos-abrir-as-portas-da-esperanca-2
 tags:

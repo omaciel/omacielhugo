@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-11-14 07:38"
+date: 2011-11-14
 slug: |
   castalio-podcast-alexandre-coster-asobo-studio
 tags:

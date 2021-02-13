@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-14 20:06"
+date: 2006-06-14
 slug: |
   womens-summer-outreach-program-2006
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-30 21:19"
+date: 2005-03-30
 slug: |
   saving-the-world-one-plugin-at-a-time
 tags:

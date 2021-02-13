@@ -1,6 +1,6 @@
 ---
 
-date: "2008-03-12 23:19"
+date: 2008-03-12
 slug: |
   patinhos-na-lagoa-e-dedicatoria
 tags:

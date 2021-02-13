@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-13 15:02"
+date: 2005-03-13
 slug: |
   my-new-toy
 tags:

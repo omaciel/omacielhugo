@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-02-20 00:02"
+date: 2012-02-20
 slug: |
   castalio-podcast-rodrigo-belem-ubuntu-brasil
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2010-06-23 02:03"
+date: 2010-06-23
 slug: |
   review-django-1-2-e-commerce
 tags:

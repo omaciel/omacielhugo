@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-30 13:04"
+date: 2008-07-30
 slug: |
   talk-to-your-kids-about-linux
 tags:

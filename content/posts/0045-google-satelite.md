@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-05 12:57"
+date: 2005-04-05
 slug: |
   google-satelite
 tags:

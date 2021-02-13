@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-29 13:13"
+date: 2005-04-29
 slug: |
   using-audioscrobbler
 tags:

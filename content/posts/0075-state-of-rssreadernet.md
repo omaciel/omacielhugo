@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-06 19:25"
+date: 2005-05-06
 slug: |
   state-of-rssreadernet
 tags:

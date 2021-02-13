@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-11 16:06"
+date: 2005-07-11
 slug: |
   generation-linux
 tags:

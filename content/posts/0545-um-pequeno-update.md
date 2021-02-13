@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-14 16:15"
+date: 2007-05-14
 slug: |
   um-pequeno-update
 tags:

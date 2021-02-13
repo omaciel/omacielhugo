@@ -1,6 +1,6 @@
 ---
 
-date: "2007-07-04 14:39"
+date: 2007-07-04
 slug: |
   say-hello-to-my-little-friend-2
 tags:

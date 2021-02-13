@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-08-17 20:28"
+date: 2012-08-17
 slug: |
   castalio-podcast-episodio-43-hoje-a-noite
 tags:

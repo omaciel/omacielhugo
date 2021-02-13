@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-02-16 04:08"
+date: 2012-02-16
 slug: |
   castalio-podcast-primeiro-ano-e-bastidores
 tags:

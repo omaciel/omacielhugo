@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-24 18:41"
+date: 2005-08-24
 slug: |
   ammendment-to-shopping-spree
 tags:

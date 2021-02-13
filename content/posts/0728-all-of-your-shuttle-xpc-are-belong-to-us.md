@@ -1,6 +1,6 @@
 ---
 
-date: "2008-03-05 15:49"
+date: 2008-03-05
 slug: |
   all-of-your-shuttle-xpc-are-belong-to-us
 tags:

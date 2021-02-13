@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-15 17:28"
+date: 2006-08-15
 slug: |
   live-broadpodcasting-with-linux
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-02-01 21:55"
+date: 2006-02-01
 slug: |
   whats-on-your-reading-list
 tags:

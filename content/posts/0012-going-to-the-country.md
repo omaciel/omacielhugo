@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-02 18:32"
+date: 2005-03-02
 slug: |
   going-to-the-country
 tags:

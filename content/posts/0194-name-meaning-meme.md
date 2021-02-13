@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-19 12:22"
+date: 2005-10-19
 slug: |
   name-meaning-meme
 tags:

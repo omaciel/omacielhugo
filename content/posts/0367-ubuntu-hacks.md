@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-31 20:29"
+date: 2006-07-31
 slug: |
   ubuntu-hacks
 tags:

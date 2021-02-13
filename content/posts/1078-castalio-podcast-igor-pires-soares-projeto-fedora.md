@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-07-11 04:05"
+date: 2011-07-11
 slug: |
   castalio-podcast-igor-pires-soares-projeto-fedora
 tags:

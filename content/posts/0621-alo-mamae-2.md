@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-23 02:41"
+date: 2007-08-23
 slug: |
   alo-mamae-2
 tags:

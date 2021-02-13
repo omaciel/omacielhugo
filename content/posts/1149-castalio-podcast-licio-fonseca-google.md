@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-09-17 08:45"
+date: 2012-09-17
 slug: |
   castalio-podcast-licio-fonseca-google
 tags:

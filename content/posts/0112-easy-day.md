@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-01 19:44"
+date: 2005-07-01
 slug: |
   easy-day
 tags:

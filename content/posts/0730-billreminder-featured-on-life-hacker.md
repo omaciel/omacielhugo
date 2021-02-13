@@ -1,6 +1,6 @@
 ---
 
-date: "2008-03-07 03:34"
+date: 2008-03-07
 slug: |
   billreminder-featured-on-life-hacker
 tags:

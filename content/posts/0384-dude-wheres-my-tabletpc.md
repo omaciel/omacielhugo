@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-16 19:55"
+date: 2006-08-16
 slug: |
   dude-wheres-my-tabletpc
 tags:

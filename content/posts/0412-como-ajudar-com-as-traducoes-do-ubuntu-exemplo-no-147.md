@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-08 16:29"
+date: 2006-10-08
 slug: |
   como-ajudar-com-as-traducoes-do-ubuntu-exemplo-no-147
 tags:

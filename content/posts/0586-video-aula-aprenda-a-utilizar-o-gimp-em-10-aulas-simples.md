@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-19 01:02"
+date: 2007-06-19
 slug: |
   video-aula-aprenda-a-utilizar-o-gimp-em-10-aulas-simples
 tags:

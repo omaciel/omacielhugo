@@ -1,6 +1,6 @@
 ---
 
-date: "2009-07-20 02:12"
+date: 2009-07-20
 slug: |
   hack-and-slash-and-lose-your-computer-while-youre-at-it
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-06 13:06"
+date: 2006-10-06
 slug: |
   mantendo-seu-ubuntu-edgy-atualizado-em-portugues
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-02 19:02"
+date: 2007-03-02
 slug: |
   segundo-encontro-nacional-ubuntu-brasil
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-29 01:47"
+date: 2006-10-29
 slug: |
   linux-para-a-humanidade-portuguesa
 tags:

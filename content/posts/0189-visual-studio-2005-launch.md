@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-07 18:21"
+date: 2005-10-07
 slug: |
   visual-studio-2005-launch
 tags:

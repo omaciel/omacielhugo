@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-22 16:06"
+date: 2007-08-22
 slug: |
   novo-chapeu-xfce
 tags:

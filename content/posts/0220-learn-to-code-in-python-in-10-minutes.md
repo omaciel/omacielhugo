@@ -1,6 +1,6 @@
 ---
 
-date: "2006-01-12 21:52"
+date: 2006-01-12
 slug: |
   learn-to-code-in-python-in-10-minutes
 tags:

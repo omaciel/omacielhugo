@@ -1,6 +1,6 @@
 ---
 
-date: "2011-01-24 05:00"
+date: 2011-01-24
 slug: |
   because-your-distro-should-be-cool
 tags:

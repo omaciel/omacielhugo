@@ -1,6 +1,6 @@
 ---
 
-date: "2007-12-11 03:39"
+date: 2007-12-11
 slug: |
   the-weather-outside-is-frightfull
 tags:

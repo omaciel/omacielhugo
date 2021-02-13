@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-07 15:41"
+date: 2007-03-07
 slug: |
   more-ways-to-test-gnome-21792
 tags:

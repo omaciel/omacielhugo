@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-10 14:12"
+date: 2006-08-10
 slug: |
   documentacao-para-live-cd-personalizado
 tags:

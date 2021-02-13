@@ -1,6 +1,6 @@
 ---
 
-date: "2009-06-30 13:22"
+date: 2009-06-30
 slug: |
   going-to-guadec
 tags:

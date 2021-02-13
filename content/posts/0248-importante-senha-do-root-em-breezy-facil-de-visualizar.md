@@ -1,6 +1,6 @@
 ---
 
-date: "2006-03-12 22:37"
+date: 2006-03-12
 slug: |
   importante-senha-do-root-em-breezy-facil-de-visualizar
 tags:

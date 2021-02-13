@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-19 00:56"
+date: 2007-08-19
 slug: |
   a-few-good-people
 tags:

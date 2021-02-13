@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-30 01:07"
+date: 2007-05-30
 slug: |
   revista-linux
 tags:

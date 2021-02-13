@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-01 14:06"
+date: 2005-04-01
 slug: |
   bigger-gmail
 tags:

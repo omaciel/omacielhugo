@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-17 14:58"
+date: 2006-05-17
 slug: |
   sign-of-times
 tags:

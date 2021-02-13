@@ -1,6 +1,6 @@
 ---
 
-date: "2010-11-03 13:18"
+date: 2010-11-03
 slug: |
   let-me-hear-your-voices
 tags:

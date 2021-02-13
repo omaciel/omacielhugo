@@ -1,6 +1,6 @@
 ---
 
-date: "2005-12-30 16:55"
+date: 2005-12-30
 slug: |
   firefox-2-release-schedule
 tags:

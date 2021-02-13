@@ -1,6 +1,6 @@
 ---
 
-date: "2008-06-08 20:44"
+date: 2008-06-08
 slug: |
   envelhecendo-e-traducoes
 tags:

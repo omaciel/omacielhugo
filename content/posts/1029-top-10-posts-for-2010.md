@@ -1,6 +1,6 @@
 ---
 
-date: "2011-01-01 05:00"
+date: 2011-01-01
 slug: |
   top-10-posts-for-2010
 tags:

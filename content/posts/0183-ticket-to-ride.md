@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-03 14:41"
+date: 2005-10-03
 slug: |
   ticket-to-ride
 tags:

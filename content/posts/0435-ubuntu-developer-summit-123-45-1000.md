@@ -1,6 +1,6 @@
 ---
 
-date: "2006-11-17 04:07"
+date: 2006-11-17
 slug: |
   ubuntu-developer-summit-123-45-1000
 tags:

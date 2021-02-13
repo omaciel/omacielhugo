@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-13 13:46"
+date: 2005-05-13
 slug: |
   dragging-my-carcass
 tags:

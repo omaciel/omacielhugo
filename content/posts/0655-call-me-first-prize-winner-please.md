@@ -1,6 +1,6 @@
 ---
 
-date: "2007-10-08 02:20"
+date: 2007-10-08
 slug: |
   call-me-first-prize-winner-please
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2009-06-22 00:32"
+date: 2009-06-22
 slug: |
   mande-uma-mensagem-para-o-planeta-pelo-twitter
 tags:

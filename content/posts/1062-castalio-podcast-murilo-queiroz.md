@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-04-16 16:00"
+date: 2011-04-16
 slug: |
   castalio-podcast-murilo-queiroz
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-01-19 13:54"
+date: 2006-01-19
 slug: |
   the-system-works
 tags:

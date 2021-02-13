@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-28 18:03"
+date: 2005-04-28
 slug: |
   lynx-browser-on-windows
 tags:

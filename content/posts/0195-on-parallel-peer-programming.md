@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-19 17:49"
+date: 2005-10-19
 slug: |
   on-parallel-peer-programming
 tags:

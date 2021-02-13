@@ -1,6 +1,6 @@
 ---
 
-date: "2007-12-11 03:12"
+date: 2007-12-11
 slug: |
   comunicado-importante
 tags:

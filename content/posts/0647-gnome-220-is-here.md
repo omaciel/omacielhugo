@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-19 02:32"
+date: 2007-09-19
 slug: |
   gnome-220-is-here
 tags:

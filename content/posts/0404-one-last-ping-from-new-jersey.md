@@ -1,6 +1,6 @@
 ---
 
-date: "2006-09-28 02:20"
+date: 2006-09-28
 slug: |
   one-last-ping-from-new-jersey
 tags:

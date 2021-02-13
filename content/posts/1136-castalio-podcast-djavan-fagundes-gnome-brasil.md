@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-06-25 01:40"
+date: 2012-06-25
 slug: |
   castalio-podcast-djavan-fagundes-gnome-brasil
 tags:

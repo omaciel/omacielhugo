@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-08 08:48"
+date: 2007-06-08
 slug: |
   e-para-voce-que-vai-viajar
 tags:

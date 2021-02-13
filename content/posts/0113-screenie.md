@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-05 16:38"
+date: 2005-07-05
 slug: |
   screenie
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-21 19:19"
+date: 2006-07-21
 slug: |
   translations-best-practice
 tags:

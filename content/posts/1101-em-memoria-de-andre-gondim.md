@@ -1,6 +1,6 @@
 ---
 
-date: "2011-11-07 04:31"
+date: 2011-11-07
 slug: |
   em-memoria-de-andre-gondim
 tags:

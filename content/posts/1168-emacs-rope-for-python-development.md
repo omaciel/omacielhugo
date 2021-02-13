@@ -1,6 +1,6 @@
 ---
 
-date: "2013-12-09 19:30"
+date: 2013-12-09
 slug: |
   emacs-rope-for-python-development
 tags:

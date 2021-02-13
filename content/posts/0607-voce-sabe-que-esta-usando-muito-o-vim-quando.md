@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2007-07-20 02:56"
+date: 2007-07-20
 slug: |
   voce-sabe-que-esta-usando-muito-o-vim-quando
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-10-25 00:44"
+date: 2007-10-25
 slug: |
   novo-visual-no-planeta-gnulinux-brasil
 tags:

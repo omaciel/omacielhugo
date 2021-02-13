@@ -1,6 +1,6 @@
 ---
 
-date: "2011-03-25 15:13"
+date: 2011-03-25
 slug: |
   feel-good-friday
 tags:

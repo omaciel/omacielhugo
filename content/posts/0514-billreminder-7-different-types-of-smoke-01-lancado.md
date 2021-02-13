@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-28 02:44"
+date: 2007-03-28
 slug: |
   billreminder-7-different-types-of-smoke-01-lancado
 tags:

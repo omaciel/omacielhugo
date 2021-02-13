@@ -1,6 +1,6 @@
 ---
 
-date: "2010-05-03 15:00"
+date: 2010-05-03
 slug: |
   whats-new-with-radio-tray
 tags:

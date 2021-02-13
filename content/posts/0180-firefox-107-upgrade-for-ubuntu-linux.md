@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-24 14:45"
+date: 2005-09-24
 slug: |
   firefox-107-upgrade-for-ubuntu-linux
 tags:

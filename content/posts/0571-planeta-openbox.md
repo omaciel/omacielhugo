@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-06 21:40"
+date: 2007-06-06
 slug: |
   planeta-openbox
 tags:

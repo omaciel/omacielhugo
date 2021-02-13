@@ -1,6 +1,6 @@
 ---
 
-date: "2009-10-16 17:23"
+date: 2009-10-16
 slug: |
   to-the-transifex-appliance-users-out-there
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-08 14:54"
+date: 2005-08-08
 slug: |
   remembering-hiroshima
 tags:

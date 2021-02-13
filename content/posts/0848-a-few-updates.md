@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-24 01:14"
+date: 2008-09-24
 slug: |
   a-few-updates
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2011-01-11 18:00"
+date: 2011-01-11
 slug: |
   kindle
 tags:

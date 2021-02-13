@@ -1,6 +1,6 @@
 ---
 
-date: "2008-06-08 19:31"
+date: 2008-06-08
 slug: |
   getting-older-and-keeping-up-with-translations
 tags:

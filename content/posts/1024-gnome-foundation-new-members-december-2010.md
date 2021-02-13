@@ -1,6 +1,6 @@
 ---
 
-date: "2010-12-10 14:56"
+date: 2010-12-10
 slug: |
   gnome-foundation-new-members-december-2010
 tags:

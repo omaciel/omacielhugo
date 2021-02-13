@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-05 21:12"
+date: 2007-06-05
 slug: |
   lancado-openbox-34
 tags:

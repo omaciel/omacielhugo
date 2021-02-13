@@ -1,6 +1,6 @@
 ---
 
-date: "2006-02-01 22:10"
+date: 2006-02-01
 slug: |
   still-pulsing
 tags:

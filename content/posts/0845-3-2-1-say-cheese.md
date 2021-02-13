@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-22 22:00"
+date: 2008-09-22
 slug: |
   3-2-1-say-cheese
 tags:

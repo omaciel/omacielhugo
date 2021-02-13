@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-02 14:53"
+date: 2007-03-02
 slug: |
   live-gnome-vmware-image
 tags:

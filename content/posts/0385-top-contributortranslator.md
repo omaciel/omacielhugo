@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-17 19:19"
+date: 2006-08-17
 slug: |
   top-contributortranslator
 tags:

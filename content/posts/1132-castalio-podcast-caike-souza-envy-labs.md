@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-05-13 22:55"
+date: 2012-05-13
 slug: |
   castalio-podcast-caike-souza-envy-labs
 tags:

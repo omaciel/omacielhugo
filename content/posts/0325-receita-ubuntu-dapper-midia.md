@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-10 16:21"
+date: 2006-06-10
 slug: |
   receita-ubuntu-dapper-midia
 tags:

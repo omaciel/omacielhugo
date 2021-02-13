@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-29 19:57"
+date: 2005-04-29
 slug: |
   beware-of-crabs-when-fishing
 tags:

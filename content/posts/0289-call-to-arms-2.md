@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-06 01:22"
+date: 2006-05-06
 slug: |
   call-to-arms-2
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2011-08-03 20:38"
+date: 2011-08-03
 slug: |
   lost-in-translation
 tags:

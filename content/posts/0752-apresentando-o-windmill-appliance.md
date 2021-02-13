@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2008-04-14 12:35"
+date: 2008-04-14
 slug: |
   apresentando-o-windmill-appliance
 tags:

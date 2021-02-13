@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-31 18:49"
+date: 2005-05-31
 slug: |
   picasa-2-cool-ui
 tags:

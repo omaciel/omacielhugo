@@ -1,6 +1,6 @@
 ---
 
-date: "2008-05-19 15:42"
+date: 2008-05-19
 slug: |
   introducing-open-traneu
 tags:

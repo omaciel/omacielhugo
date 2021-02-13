@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-01-22 22:49"
+date: 2012-01-22
 slug: |
   castalio-podcast-marcelo-hashimoto-polly-twitter-client
 tags:

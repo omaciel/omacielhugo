@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-06 20:39"
+date: 2007-04-06
 slug: |
   novos-wallpapers-para-o-foresight-linux-e-outras-coisas
 tags:

@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-07-21 01:09"
+date: 2011-07-21
 slug: |
   castalio-podcast-three-times
 tags:

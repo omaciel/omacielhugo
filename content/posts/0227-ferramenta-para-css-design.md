@@ -1,6 +1,6 @@
 ---
 
-date: "2006-02-08 16:08"
+date: 2006-02-08
 slug: |
   ferramenta-para-css-design
 tags:

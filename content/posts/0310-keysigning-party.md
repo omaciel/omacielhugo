@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-30 18:32"
+date: 2006-05-30
 slug: |
   keysigning-party
 tags:

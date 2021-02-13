@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-12 17:52"
+date: 2006-07-12
 slug: |
   pequeno-livro-do-ruby
 tags:

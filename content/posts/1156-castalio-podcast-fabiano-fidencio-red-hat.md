@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2013-01-23 09:00"
+date: 2013-01-23
 slug: |
   castalio-podcast-fabiano-fidencio-red-hat
 tags:

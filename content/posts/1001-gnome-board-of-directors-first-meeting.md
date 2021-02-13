@@ -1,6 +1,6 @@
 ---
 
-date: "2010-06-24 18:04"
+date: 2010-06-24
 slug: |
   gnome-board-of-directors-first-meeting
 tags:

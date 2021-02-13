@@ -1,6 +1,6 @@
 ---
 
-date: "2009-03-12 13:51"
+date: 2009-03-12
 slug: |
   mais-outro-projeto-de-software-livre-100-traduzido
 tags:

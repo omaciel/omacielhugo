@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-11 15:07"
+date: 2005-10-11
 slug: |
   packaging-for-debian-linux
 tags:

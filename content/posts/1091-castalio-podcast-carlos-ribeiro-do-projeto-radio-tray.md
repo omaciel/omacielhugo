@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-08-22 01:03"
+date: 2011-08-22
 slug: |
   castalio-podcast-carlos-ribeiro-do-projeto-radio-tray
 tags:

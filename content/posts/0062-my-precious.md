@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-27 14:29"
+date: 2005-04-27
 slug: |
   my-precious
 tags:

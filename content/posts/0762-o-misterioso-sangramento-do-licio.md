@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-25 10:46"
+date: 2008-04-25
 slug: |
   o-misterioso-sangramento-do-licio
 tags:

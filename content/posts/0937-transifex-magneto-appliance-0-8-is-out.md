@@ -1,6 +1,6 @@
 ---
 
-date: "2010-03-03 03:52"
+date: 2010-03-03
 slug: |
   transifex-magneto-appliance-0-8-is-out
 tags:

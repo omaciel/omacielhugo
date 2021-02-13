@@ -1,6 +1,6 @@
 ---
 
-date: "2011-09-14 19:24"
+date: 2011-09-14
 slug: |
   django-devkit-appliance-1-3-1
 tags:

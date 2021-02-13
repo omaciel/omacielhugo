@@ -1,6 +1,6 @@
 ---
 
-date: "2006-12-08 19:47"
+date: 2006-12-08
 slug: |
   rpath-appliance-agent-109-in-the-wild
 tags:

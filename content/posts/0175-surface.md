@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-20 16:38"
+date: 2005-09-20
 slug: |
   surface
 tags:

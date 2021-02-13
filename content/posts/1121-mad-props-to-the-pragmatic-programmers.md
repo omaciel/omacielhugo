@@ -1,6 +1,6 @@
 ---
 
-date: "2012-03-28 04:01"
+date: 2012-03-28
 slug: |
   mad-props-to-the-pragmatic-programmers
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-30 16:40"
+date: 2006-08-30
 slug: |
   going-to-the-united-nations
 tags:

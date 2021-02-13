@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-03-21 11:27"
+date: 2011-03-21
 slug: |
   novo-episodio-do-castalio-podcast-2
 tags:

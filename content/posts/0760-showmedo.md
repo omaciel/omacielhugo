@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-22 14:02"
+date: 2008-04-22
 slug: |
   showmedo
 tags:

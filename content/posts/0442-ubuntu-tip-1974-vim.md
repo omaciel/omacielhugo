@@ -1,6 +1,6 @@
 ---
 
-date: "2006-12-03 04:56"
+date: 2006-12-03
 slug: |
   ubuntu-tip-1974-vim
 tags:

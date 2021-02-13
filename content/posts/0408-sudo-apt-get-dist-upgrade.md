@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2006-10-05 20:33"
+date: 2006-10-05
 slug: |
   sudo-apt-get-dist-upgrade
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-12-11 23:16"
+date: 2008-12-11
 slug: |
   vivo-verde-um-blog-sobre-assuntos-ambientais
 tags:

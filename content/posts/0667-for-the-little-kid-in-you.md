@@ -1,6 +1,6 @@
 ---
 
-date: "2007-11-04 17:07"
+date: 2007-11-04
 slug: |
   for-the-little-kid-in-you
 tags:

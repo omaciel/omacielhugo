@@ -1,6 +1,6 @@
 ---
 
-date: "2009-03-29 13:20"
+date: 2009-03-29
 slug: |
   burn-motherfucker-burn
 tags:

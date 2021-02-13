@@ -1,6 +1,6 @@
 ---
 
-date: "2012-11-30 02:24"
+date: 2012-11-30
 slug: |
   extending-the-default-ec2-root-partition-follow
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-08 13:56"
+date: 2006-08-08
 slug: |
   learning-through-a-straw
 tags:

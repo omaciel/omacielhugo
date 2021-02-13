@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-30 15:39"
+date: 2007-08-30
 slug: |
   o-paradigma-do-inicializar
 tags:

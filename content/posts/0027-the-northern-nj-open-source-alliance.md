@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-17 21:38"
+date: 2005-03-17
 slug: |
   the-northern-nj-open-source-alliance
 tags:

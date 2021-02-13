@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-07 15:27"
+date: 2005-08-07
 slug: |
   view-from-work
 tags:

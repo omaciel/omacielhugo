@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-01 22:25"
+date: 2008-04-01
 slug: |
   migrando-para-o-google-code-1
 tags:

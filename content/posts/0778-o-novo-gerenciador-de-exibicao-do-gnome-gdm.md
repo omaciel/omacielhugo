@@ -1,6 +1,6 @@
 ---
 
-date: "2008-05-22 11:09"
+date: 2008-05-22
 slug: |
   o-novo-gerenciador-de-exibicao-do-gnome-gdm
 tags:

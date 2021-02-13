@@ -1,6 +1,6 @@
 ---
 
-date: "2009-03-10 00:58"
+date: 2009-03-10
 slug: |
   atualizacoes-de-traducoes
 tags:

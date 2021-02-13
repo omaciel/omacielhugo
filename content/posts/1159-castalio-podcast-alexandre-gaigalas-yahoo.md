@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2013-03-03 21:49"
+date: 2013-03-03
 slug: |
   castalio-podcast-alexandre-gaigalas-yahoo
 tags:

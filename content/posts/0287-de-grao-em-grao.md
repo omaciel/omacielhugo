@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-03 01:25"
+date: 2006-05-03
 slug: |
   de-grao-em-grao
 tags:

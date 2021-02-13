@@ -1,6 +1,6 @@
 ---
 
-date: "2007-12-31 22:46"
+date: 2007-12-31
 slug: |
   fim-de-ano
 tags:

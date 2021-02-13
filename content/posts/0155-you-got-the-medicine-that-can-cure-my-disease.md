@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-24 19:36"
+date: 2005-08-24
 slug: |
   you-got-the-medicine-that-can-cure-my-disease
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-06-27 00:15"
+date: 2008-06-27
 slug: |
   the-things-you-write-when-you-have-the-stomach-flu
 tags:

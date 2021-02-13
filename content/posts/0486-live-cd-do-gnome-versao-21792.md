@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-05 04:04"
+date: 2007-03-05
 slug: |
   live-cd-do-gnome-versao-21792
 tags:

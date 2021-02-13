@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-11 02:24"
+date: 2007-06-11
 slug: |
   openbox-342-and-obconf-201-released
 tags:

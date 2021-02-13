@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-31 20:03"
+date: 2008-07-31
 slug: |
   barcamp-raleigh-2008
 tags:

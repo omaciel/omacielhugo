@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-01 23:43"
+date: 2007-09-01
 slug: |
   vergonha-nacional
 tags:

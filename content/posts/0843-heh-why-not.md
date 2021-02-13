@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-19 21:19"
+date: 2008-09-19
 slug: |
   heh-why-not
 tags:

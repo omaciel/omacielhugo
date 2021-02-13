@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-18 12:46"
+date: 2005-05-18
 slug: |
   starwars-last-supper
 tags:

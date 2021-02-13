@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-22 12:17"
+date: 2005-04-22
 slug: |
   got-visitors-hire-a-chef
 tags:

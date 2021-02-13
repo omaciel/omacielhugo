@@ -1,6 +1,6 @@
 ---
 
-date: "2010-07-12 19:18"
+date: 2010-07-12
 slug: |
   bota-agua-no-feijao
 tags:

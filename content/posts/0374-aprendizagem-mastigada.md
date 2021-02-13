@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-08 14:36"
+date: 2006-08-08
 slug: |
   aprendizagem-mastigada
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-02-11 02:30"
+date: 2008-02-11
 slug: |
   dialog-remodeling-and-playing-with-wbar
 tags:

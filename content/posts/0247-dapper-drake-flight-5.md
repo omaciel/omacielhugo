@@ -1,6 +1,6 @@
 ---
 
-date: "2006-03-11 15:00"
+date: 2006-03-11
 slug: |
   dapper-drake-flight-5
 tags:

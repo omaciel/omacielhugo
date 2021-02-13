@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-16 16:02"
+date: 2007-06-16
 slug: |
   another-post-about-a-generic-gtktreeview
 tags:

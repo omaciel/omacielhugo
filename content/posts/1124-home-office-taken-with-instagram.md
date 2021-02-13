@@ -1,6 +1,6 @@
 ---
 
-date: "2012-04-03 17:42"
+date: 2012-04-03
 slug: |
   home-office-taken-with-instagram
 title: Home Office Taken With Instagram

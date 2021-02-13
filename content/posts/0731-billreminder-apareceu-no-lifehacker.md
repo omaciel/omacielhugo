@@ -1,6 +1,6 @@
 ---
 
-date: "2008-03-07 03:40"
+date: 2008-03-07
 slug: |
   billreminder-apareceu-no-lifehacker
 tags:

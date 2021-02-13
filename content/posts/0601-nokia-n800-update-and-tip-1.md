@@ -1,6 +1,6 @@
 ---
 
-date: "2007-07-06 17:49"
+date: 2007-07-06
 slug: |
   nokia-n800-update-and-tip-1
 tags:

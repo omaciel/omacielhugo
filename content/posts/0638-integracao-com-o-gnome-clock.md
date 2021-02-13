@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-07 19:32"
+date: 2007-09-07
 slug: |
   integracao-com-o-gnome-clock
 tags:

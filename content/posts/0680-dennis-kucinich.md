@@ -1,6 +1,6 @@
 ---
 
-date: "2007-12-09 16:28"
+date: 2007-12-09
 slug: |
   dennis-kucinich
 tags:

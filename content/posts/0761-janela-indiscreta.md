@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-23 20:03"
+date: 2008-04-23
 slug: |
   janela-indiscreta
 tags:

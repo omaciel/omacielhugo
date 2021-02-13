@@ -1,6 +1,6 @@
 ---
 
-date: "2010-08-26 17:52"
+date: 2010-08-26
 slug: |
   running-on-empty
 tags:

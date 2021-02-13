@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2006-09-28 14:26"
+date: 2006-09-28
 slug: |
   veni-vidi-vici
 tags:

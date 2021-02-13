@@ -1,6 +1,6 @@
 ---
 
-date: "2008-12-06 21:38"
+date: 2008-12-06
 slug: |
   bailout-mt-daapd-appliance
 tags:

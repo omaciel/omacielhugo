@@ -1,6 +1,6 @@
 ---
 
-date: "2007-11-08 18:33"
+date: 2007-11-08
 slug: |
   foresight-linux-on-the-linux-link-tech-show
 tags:

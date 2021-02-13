@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-03 20:26"
+date: 2006-10-03
 slug: |
   let-the-good-times-roll
 tags:

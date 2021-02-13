@@ -1,6 +1,6 @@
 ---
 
-date: "2007-01-02 17:41"
+date: 2007-01-02
 slug: |
   new-years-resolution
 tags:

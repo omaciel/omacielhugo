@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-11-20 22:13"
+date: 2011-11-20
 slug: |
   um-novo-capitulo-to-infinity-and-beyond
 tags:

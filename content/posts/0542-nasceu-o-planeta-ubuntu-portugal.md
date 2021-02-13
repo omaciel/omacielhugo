@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-11 13:13"
+date: 2007-05-11
 slug: |
   nasceu-o-planeta-ubuntu-portugal
 tags:

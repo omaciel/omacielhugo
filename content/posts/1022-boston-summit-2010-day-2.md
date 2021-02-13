@@ -1,6 +1,6 @@
 ---
 
-date: "2010-11-10 03:28"
+date: 2010-11-10
 slug: |
   boston-summit-2010-day-2
 tags:

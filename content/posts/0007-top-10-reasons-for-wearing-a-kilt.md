@@ -1,6 +1,6 @@
 ---
 
-date: "2005-02-22 20:20"
+date: 2005-02-22
 slug: |
   top-10-reasons-for-wearing-a-kilt
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2010-04-27 15:00"
+date: 2010-04-27
 slug: |
   a-pig-an-elephant-and-a-yellow-dog
 tags:

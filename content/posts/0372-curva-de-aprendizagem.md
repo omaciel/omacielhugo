@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-04 20:04"
+date: 2006-08-04
 slug: |
   curva-de-aprendizagem
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2010-01-21 01:44"
+date: 2010-01-21
 slug: |
   transifex-upcoming-feature-translation-review
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-03 21:50"
+date: 2006-04-03
 slug: |
   cheguei
 tags:

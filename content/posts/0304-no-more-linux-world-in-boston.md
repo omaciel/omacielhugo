@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-24 12:47"
+date: 2006-05-24
 slug: |
   no-more-linux-world-in-boston
 tags:

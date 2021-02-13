@@ -1,6 +1,6 @@
 ---
 
-date: "2007-02-07 05:41"
+date: 2007-02-07
 slug: |
   launchpad-de-cara-nova
 tags:

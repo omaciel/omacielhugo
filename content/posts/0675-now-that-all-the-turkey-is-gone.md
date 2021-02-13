@@ -1,6 +1,6 @@
 ---
 
-date: "2007-11-26 01:28"
+date: 2007-11-26
 slug: |
   now-that-all-the-turkey-is-gone
 tags:

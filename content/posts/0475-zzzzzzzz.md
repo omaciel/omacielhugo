@@ -1,6 +1,6 @@
 ---
 
-date: "2007-02-22 01:16"
+date: 2007-02-22
 slug: |
   zzzzzzzz
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-22 21:11"
+date: 2008-09-22
 slug: |
   traducoes-no-ubuntu-tem-de-melhorar
 tags:

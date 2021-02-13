@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-10-01 14:28"
+date: 2012-10-01
 slug: |
   castalio-podcast-carlos-brando-e-rafael-rosa-fu
 tags:

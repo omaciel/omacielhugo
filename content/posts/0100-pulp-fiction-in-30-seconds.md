@@ -1,6 +1,6 @@
 ---
 
-date: "2005-06-07 13:00"
+date: 2005-06-07
 slug: |
   pulp-fiction-in-30-seconds
 tags:

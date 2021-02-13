@@ -1,6 +1,6 @@
 ---
 
-date: "2007-07-20 02:02"
+date: 2007-07-20
 slug: |
   how-to-make-a-dad-proud
 tags:

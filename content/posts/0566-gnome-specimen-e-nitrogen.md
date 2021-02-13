@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-04 15:55"
+date: 2007-06-04
 slug: |
   gnome-specimen-e-nitrogen
 tags:

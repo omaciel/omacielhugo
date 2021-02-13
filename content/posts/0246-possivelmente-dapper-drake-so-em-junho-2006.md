@@ -1,6 +1,6 @@
 ---
 
-date: "2006-03-10 20:35"
+date: 2006-03-10
 slug: |
   possivelmente-dapper-drake-so-em-junho-2006
 tags:

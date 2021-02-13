@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-07 12:51"
+date: 2006-10-07
 slug: |
   como-se-tornar-mais-popular
 tags:

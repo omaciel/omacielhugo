@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-26 16:29"
+date: 2005-09-26
 slug: |
   helping-out-ubuntu
 tags:

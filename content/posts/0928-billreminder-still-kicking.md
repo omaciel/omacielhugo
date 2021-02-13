@@ -1,6 +1,6 @@
 ---
 
-date: "2009-11-27 18:00"
+date: 2009-11-27
 slug: |
   billreminder-still-kicking
 tags:

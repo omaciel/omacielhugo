@@ -1,6 +1,6 @@
 ---
 
-date: "2013-09-13 00:36"
+date: 2013-09-13
 slug: |
   using-python-to-control-katello
 tags:

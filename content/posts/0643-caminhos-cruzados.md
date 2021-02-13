@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2007-09-12 16:17"
+date: 2007-09-12
 slug: |
   caminhos-cruzados
 tags:

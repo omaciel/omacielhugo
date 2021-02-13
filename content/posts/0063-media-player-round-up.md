@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-28 13:02"
+date: 2005-04-28
 slug: |
   media-player-round-up
 tags:

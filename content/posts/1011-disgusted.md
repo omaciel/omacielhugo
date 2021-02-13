@@ -1,6 +1,6 @@
 ---
 
-date: "2010-09-17 16:20"
+date: 2010-09-17
 slug: |
   disgusted
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-11-04 17:07"
+date: 2007-11-04
 slug: |
   para-a-crianca-em-voce
 tags:

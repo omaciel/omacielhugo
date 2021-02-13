@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-12-03 14:33"
+date: 2012-12-03
 slug: |
   castalio-podcast-julian-fernandes-ubuntu-br-sc
 tags:

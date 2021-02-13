@@ -1,6 +1,6 @@
 ---
 
-date: "2005-06-03 18:55"
+date: 2005-06-03
 slug: |
   cuba-linux-cuba-libre
 tags:

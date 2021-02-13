@@ -1,6 +1,6 @@
 ---
 
-date: "2010-08-17 12:54"
+date: 2010-08-17
 slug: |
   translations-xfce-org-is-1-year-old
 tags:

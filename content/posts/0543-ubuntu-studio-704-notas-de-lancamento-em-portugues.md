@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-12 13:41"
+date: 2007-05-12
 slug: |
   ubuntu-studio-704-notas-de-lancamento-em-portugues
 tags:
