@@ -1,6 +1,6 @@
 ---
 
-date: "2009-01-09 04:27"
+date: 2009-01-09
 slug: |
   meet-elephant-gerald-and-piggie
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-10 12:45"
+date: 2006-08-10
 slug: |
   after-the-storm-comes-the-calm
 tags:

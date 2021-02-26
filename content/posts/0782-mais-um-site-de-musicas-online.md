@@ -1,6 +1,6 @@
 ---
 
-date: "2008-05-24 13:56"
+date: 2008-05-24
 slug: |
   mais-um-site-de-musicas-online
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-07-06 01:23"
+date: 2007-07-06
 slug: |
   gnome-foundation-member
 tags:

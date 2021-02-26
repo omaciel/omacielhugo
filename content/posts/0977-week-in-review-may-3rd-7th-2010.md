@@ -1,6 +1,6 @@
 ---
 
-date: "2010-05-08 15:00"
+date: 2010-05-08
 slug: |
   week-in-review-may-3rd-7th-2010
 tags:

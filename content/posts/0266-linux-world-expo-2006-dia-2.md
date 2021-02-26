@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-06 00:10"
+date: 2006-04-06
 slug: |
   linux-world-expo-2006-dia-2
 tags:

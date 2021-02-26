@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2007-03-18 23:43"
+date: 2007-03-18
 slug: |
   nao-se-esqueca-de-pagar-suas-contas-novamente-se-nao
 tags:

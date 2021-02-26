@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-23 22:54"
+date: 2007-05-23
 slug: |
   american-citizen
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-25 23:31"
+date: 2005-04-25
 slug: |
   book-shopping-spree
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-02-16 00:01"
+date: 2005-02-16
 slug: |
   hello-world-2
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2009-06-08 03:52"
+date: 2009-06-08
 slug: |
   three-dot-five
 tags:

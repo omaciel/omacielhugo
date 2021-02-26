@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-29 03:18"
+date: 2007-08-29
 slug: |
   weather-wallpaper-using-imperial-units
 tags:

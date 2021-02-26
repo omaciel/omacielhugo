@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-14 18:56"
+date: 2005-09-14
 slug: |
   thanks-mr-president
 tags:

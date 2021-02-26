@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-03-18 22:38"
+date: 2012-03-18
 slug: |
   castalio-podcast-gabriel-falcao-yipit
 tags:

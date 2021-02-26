@@ -1,6 +1,6 @@
 ---
 
-date: "2011-03-07 06:37"
+date: 2011-03-07
 slug: |
   life-at-rpath-4-years-and-counting
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2011-05-02 00:20"
+date: 2011-05-02
 slug: |
   revista-espirito-livre-n-c2-ba25
 tags:

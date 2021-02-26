@@ -1,6 +1,6 @@
 ---
 
-date: "2009-03-13 16:20"
+date: 2009-03-13
 slug: |
   seu-tipico-bate-papo-de-sexta-feira
 tags:

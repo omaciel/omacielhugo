@@ -1,6 +1,6 @@
 ---
 
-date: "2007-02-07 05:47"
+date: 2007-02-07
 slug: |
   launchpad-has-a-new-face-lift
 tags:

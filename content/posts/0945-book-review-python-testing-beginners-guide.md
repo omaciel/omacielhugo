@@ -1,6 +1,6 @@
 ---
 
-date: "2010-03-24 01:02"
+date: 2010-03-24
 slug: |
   book-review-python-testing-beginners-guide
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-05-25 19:45"
+date: 2008-05-25
 slug: |
   finetune-the-mix-tape-evolved
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-03-02 17:32"
+date: 2008-03-02
 slug: |
   billreminder-it-puts-the-lotion-in-the-basket-03-release
 tags:

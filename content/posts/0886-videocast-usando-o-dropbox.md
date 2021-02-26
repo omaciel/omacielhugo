@@ -1,6 +1,6 @@
 ---
 
-date: "2009-02-07 14:26"
+date: 2009-02-07
 slug: |
   videocast-usando-o-dropbox
 tags:

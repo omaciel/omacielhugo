@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-10 20:28"
+date: 2006-06-10
 slug: |
   tabletpc-photo-frenzy
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2011-05-23 14:47"
+date: 2011-05-23
 slug: |
   book-expo-america-2011
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-03-10 02:25"
+date: 2008-03-10
 slug: |
   who-do-you-work-for
 tags:

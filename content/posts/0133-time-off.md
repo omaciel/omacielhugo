@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-01 15:57"
+date: 2005-08-01
 slug: |
   time-off
 tags:

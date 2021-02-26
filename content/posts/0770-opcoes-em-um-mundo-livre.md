@@ -1,6 +1,6 @@
 ---
 
-date: "2008-05-08 14:04"
+date: 2008-05-08
 slug: |
   opcoes-em-um-mundo-livre
 tags:

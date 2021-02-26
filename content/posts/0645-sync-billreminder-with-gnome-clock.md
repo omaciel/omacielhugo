@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-13 23:30"
+date: 2007-09-13
 slug: |
   sync-billreminder-with-gnome-clock
 tags:

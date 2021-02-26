@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-12 16:07"
+date: 2007-09-12
 slug: |
   crossing-paths
 tags:

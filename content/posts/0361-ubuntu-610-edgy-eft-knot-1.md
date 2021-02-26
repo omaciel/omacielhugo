@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-21 10:59"
+date: 2006-07-21
 slug: |
   ubuntu-610-edgy-eft-knot-1
 tags:

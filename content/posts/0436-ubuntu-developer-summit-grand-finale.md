@@ -1,6 +1,6 @@
 ---
 
-date: "2006-11-22 17:59"
+date: 2006-11-22
 slug: |
   ubuntu-developer-summit-grand-finale
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2010-12-31 21:04"
+date: 2010-12-31
 slug: |
   billreminder-e2-80-9ckeep-their-heads-ringing-e2-80-9d
 tags:

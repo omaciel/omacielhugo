@@ -1,6 +1,6 @@
 ---
 
-date: "2012-08-17 15:04"
+date: 2012-08-17
 slug: |
   pylyglot-open-source-translation-search
 tags:

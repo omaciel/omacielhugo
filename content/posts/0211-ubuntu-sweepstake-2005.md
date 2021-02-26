@@ -1,6 +1,6 @@
 ---
 
-date: "2005-12-06 22:14"
+date: 2005-12-06
 slug: |
   ubuntu-sweepstake-2005
 tags:

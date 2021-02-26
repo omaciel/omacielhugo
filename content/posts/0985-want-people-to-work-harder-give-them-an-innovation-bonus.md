@@ -1,6 +1,6 @@
 ---
 
-date: "2010-05-21 15:00"
+date: 2010-05-21
 slug: |
   want-people-to-work-harder-give-them-an-innovation-bonus
 tags:

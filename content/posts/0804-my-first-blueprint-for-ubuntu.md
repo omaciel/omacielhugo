@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-03 16:27"
+date: 2008-07-03
 slug: |
   my-first-blueprint-for-ubuntu
 tags:

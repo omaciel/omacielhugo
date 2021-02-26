@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-17 21:12"
+date: 2006-05-17
 slug: |
   bombril
 tags:

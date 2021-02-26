@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-30 15:51"
+date: 2007-05-30
 slug: |
   openbox-33995-preview-lancado
 tags:

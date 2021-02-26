@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-21 02:59"
+date: 2006-04-21
 slug: |
   projeto-tacaacaranomuro
 tags:

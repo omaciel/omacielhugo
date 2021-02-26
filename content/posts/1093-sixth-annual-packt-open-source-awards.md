@@ -1,6 +1,6 @@
 ---
 
-date: "2011-09-07 17:53"
+date: 2011-09-07
 slug: |
   sixth-annual-packt-open-source-awards
 tags:

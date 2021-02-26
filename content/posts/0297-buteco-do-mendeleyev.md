@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-19 01:26"
+date: 2006-05-19
 slug: |
   buteco-do-mendeleyev
 tags:

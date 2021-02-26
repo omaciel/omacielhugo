@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-17 15:00"
+date: 2006-04-17
 slug: |
   ta-tudo-cinza-sem-voce
 tags:

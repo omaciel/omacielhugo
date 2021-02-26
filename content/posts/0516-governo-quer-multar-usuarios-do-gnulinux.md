@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-01 01:53"
+date: 2007-04-01
 slug: |
   governo-quer-multar-usuarios-do-gnulinux
 tags:

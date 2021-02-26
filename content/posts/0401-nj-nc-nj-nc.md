@@ -1,6 +1,6 @@
 ---
 
-date: "2006-09-18 00:36"
+date: 2006-09-18
 slug: |
   nj-nc-nj-nc
 tags:

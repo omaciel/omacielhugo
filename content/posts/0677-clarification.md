@@ -1,6 +1,6 @@
 ---
 
-date: "2007-11-26 21:29"
+date: 2007-11-26
 slug: |
   clarification
 tags:

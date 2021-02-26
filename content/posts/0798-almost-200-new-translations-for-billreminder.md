@@ -1,6 +1,6 @@
 ---
 
-date: "2008-06-25 15:02"
+date: 2008-06-25
 slug: |
   almost-200-new-translations-for-billreminder
 tags:

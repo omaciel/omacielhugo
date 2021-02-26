@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-29 14:52"
+date: 2005-04-29
 slug: |
   too-mathematical
 tags:

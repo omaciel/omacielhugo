@@ -1,6 +1,6 @@
 ---
 
-date: "2005-06-03 17:08"
+date: 2005-06-03
 slug: |
   good-debian-server-setup-howto
 tags:

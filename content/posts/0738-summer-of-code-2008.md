@@ -1,6 +1,6 @@
 ---
 
-date: "2008-03-26 15:11"
+date: 2008-03-26
 slug: |
   summer-of-code-2008
 tags:

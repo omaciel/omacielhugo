@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-05 14:44"
+date: 2006-05-05
 slug: |
   before-the-storm
 tags:

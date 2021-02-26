@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-21 00:24"
+date: 2006-05-21
 slug: |
   the-2-people-you-meet-in-heaven
 tags:

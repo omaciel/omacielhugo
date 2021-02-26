@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-19 12:30"
+date: 2007-03-19
 slug: |
   problemas-instalando-o-foresight-linux
 tags:

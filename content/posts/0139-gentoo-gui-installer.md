@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-08 13:50"
+date: 2005-08-08
 slug: |
   gentoo-gui-installer
 tags:

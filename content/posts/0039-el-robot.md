@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-30 18:18"
+date: 2005-03-30
 slug: |
   el-robot
 tags:

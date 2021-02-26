@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-10 11:52"
+date: 2007-04-10
 slug: |
   comandos-basicos-do-linux
 tags:

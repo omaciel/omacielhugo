@@ -1,6 +1,6 @@
 ---
 
-date: "2007-11-14 02:56"
+date: 2007-11-14
 slug: |
   foresight-linux-kde-edition-the-start-of-the-odyssey
 tags:

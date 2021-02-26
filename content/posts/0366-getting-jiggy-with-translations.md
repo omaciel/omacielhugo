@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-29 13:25"
+date: 2006-07-29
 slug: |
   getting-jiggy-with-translations
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2012-04-01 14:32"
+date: 2012-04-01
 slug: |
   alternatives-to-ny-times-book-section
 tags:

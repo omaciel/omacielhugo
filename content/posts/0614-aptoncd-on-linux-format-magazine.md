@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-13 02:50"
+date: 2007-08-13
 slug: |
   aptoncd-on-linux-format-magazine
 tags:

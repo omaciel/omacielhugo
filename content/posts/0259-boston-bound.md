@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-03 02:02"
+date: 2006-04-03
 slug: |
   boston-bound
 tags:

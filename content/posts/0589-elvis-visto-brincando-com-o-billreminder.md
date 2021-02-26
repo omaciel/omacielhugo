@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-23 01:43"
+date: 2007-06-23
 slug: |
   elvis-visto-brincando-com-o-billreminder
 tags:

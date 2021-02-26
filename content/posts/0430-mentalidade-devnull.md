@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-30 22:37"
+date: 2006-10-30
 slug: |
   mentalidade-devnull
 tags:

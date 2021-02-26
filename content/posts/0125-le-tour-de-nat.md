@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-16 16:57"
+date: 2005-07-16
 slug: |
   le-tour-de-nat
 tags:

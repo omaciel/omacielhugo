@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-31 13:08"
+date: 2007-08-31
 slug: |
   o-berro-do-tarzan
 tags:

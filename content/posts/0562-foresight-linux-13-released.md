@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-31 01:21"
+date: 2007-05-31
 slug: |
   foresight-linux-13-released
 tags:

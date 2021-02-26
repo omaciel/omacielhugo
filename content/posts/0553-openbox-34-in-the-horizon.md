@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-24 14:50"
+date: 2007-05-24
 slug: |
   openbox-34-in-the-horizon
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-30 13:04"
+date: 2007-08-30
 slug: |
   traducao-da-licenca-publica-geral-gnu
 tags:

@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-05-30 00:48"
+date: 2011-05-30
 slug: |
   castalio-podcast-yuri-malheiros
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-28 14:45"
+date: 2005-03-28
 slug: |
   open-source-alliance-march-24th-2005
 tags:

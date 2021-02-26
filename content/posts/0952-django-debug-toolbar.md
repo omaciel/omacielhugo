@@ -1,6 +1,6 @@
 ---
 
-date: "2010-04-12 00:47"
+date: 2010-04-12
 slug: |
   django-debug-toolbar
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-13 15:14"
+date: 2007-03-13
 slug: |
   giggling-already
 tags:

@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2013-03-19 04:00"
+date: 2013-03-19
 slug: |
   castalio-podcast-everaldo-canuto-toca-do-canuto
 tags:

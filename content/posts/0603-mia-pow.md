@@ -1,6 +1,6 @@
 ---
 
-date: "2007-07-17 15:50"
+date: 2007-07-17
 slug: |
   mia-pow
 tags:

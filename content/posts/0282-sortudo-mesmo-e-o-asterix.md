@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-24 18:28"
+date: 2006-04-24
 slug: |
   sortudo-mesmo-e-o-asterix
 tags:

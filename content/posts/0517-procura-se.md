@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-04 00:24"
+date: 2007-04-04
 slug: |
   procura-se
 tags:

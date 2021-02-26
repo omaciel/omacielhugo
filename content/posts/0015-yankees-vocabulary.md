@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-08 18:15"
+date: 2005-03-08
 slug: |
   yankees-vocabulary
 tags:

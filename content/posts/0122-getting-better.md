@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-13 18:23"
+date: 2005-07-13
 slug: |
   getting-better
 tags:

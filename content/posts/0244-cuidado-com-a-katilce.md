@@ -1,6 +1,6 @@
 ---
 
-date: "2006-03-09 18:13"
+date: 2006-03-09
 slug: |
   cuidado-com-a-katilce
 tags:

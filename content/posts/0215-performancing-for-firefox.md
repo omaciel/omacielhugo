@@ -1,6 +1,6 @@
 ---
 
-date: "2005-12-30 14:46"
+date: 2005-12-30
 slug: |
   performancing-for-firefox
 tags:

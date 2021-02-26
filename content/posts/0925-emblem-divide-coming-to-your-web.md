@@ -1,6 +1,6 @@
 ---
 
-date: "2009-10-28 22:19"
+date: 2009-10-28
 slug: |
   emblem-divide-coming-to-your-web
 tags:

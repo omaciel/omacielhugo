@@ -1,6 +1,6 @@
 ---
 
-date: "2008-12-30 18:25"
+date: 2008-12-30
 slug: |
   year-of-translations
 tags:

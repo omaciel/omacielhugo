@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-31 17:26"
+date: 2006-05-31
 slug: |
   futebol-de-ubuntao
 tags:

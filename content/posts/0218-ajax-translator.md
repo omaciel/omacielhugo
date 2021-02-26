@@ -1,6 +1,6 @@
 ---
 
-date: "2006-01-04 15:37"
+date: 2006-01-04
 slug: |
   ajax-translator
 tags:

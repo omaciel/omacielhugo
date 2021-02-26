@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-08 15:24"
+date: 2007-03-08
 slug: |
   gnome-218-quase-100-traduzido-para-o-portugues-do-brasil
 tags:

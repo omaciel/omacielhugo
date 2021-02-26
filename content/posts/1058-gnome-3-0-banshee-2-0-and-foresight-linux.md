@@ -1,6 +1,6 @@
 ---
 
-date: "2011-04-06 23:01"
+date: 2011-04-06
 slug: |
   gnome-3-0-banshee-2-0-and-foresight-linux
 tags:

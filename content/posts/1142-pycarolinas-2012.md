@@ -1,6 +1,6 @@
 ---
 
-date: "2012-08-14 16:05"
+date: 2012-08-14
 slug: |
   pycarolinas-2012
 tags:

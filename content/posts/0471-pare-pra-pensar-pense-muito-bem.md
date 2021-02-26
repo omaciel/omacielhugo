@@ -1,6 +1,6 @@
 ---
 
-date: "2007-02-11 19:38"
+date: 2007-02-11
 slug: |
   pare-pra-pensar-pense-muito-bem
 tags:

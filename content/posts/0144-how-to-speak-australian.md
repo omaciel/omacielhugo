@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-10 19:39"
+date: 2005-08-10
 slug: |
   how-to-speak-australian
 tags:

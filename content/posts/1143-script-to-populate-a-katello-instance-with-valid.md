@@ -1,6 +1,6 @@
 ---
 
-date: "2012-08-16 20:52"
+date: 2012-08-16
 slug: |
   script-to-populate-a-katello-instance-with-valid
 tags:

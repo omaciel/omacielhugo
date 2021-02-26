@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-03 12:47"
+date: 2006-08-03
 slug: |
   technorati-brasileiro
 tags:

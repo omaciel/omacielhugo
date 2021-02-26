@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-17 12:53"
+date: 2007-04-17
 slug: |
   mais-fotos-do-fisl
 tags:

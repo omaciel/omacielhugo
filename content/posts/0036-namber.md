@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-29 16:33"
+date: 2005-03-29
 slug: |
   namber
 tags:

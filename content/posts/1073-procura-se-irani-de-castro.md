@@ -1,6 +1,6 @@
 ---
 
-date: "2011-06-01 04:00"
+date: 2011-06-01
 slug: |
   procura-se-irani-de-castro
 tags:

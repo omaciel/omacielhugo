@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-21 18:58"
+date: 2007-03-21
 slug: |
   novela-mexicana
 tags:

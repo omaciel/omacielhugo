@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-16 14:21"
+date: 2005-08-16
 slug: |
   hockey-advocate
 tags:

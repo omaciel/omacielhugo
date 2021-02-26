@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-05 03:35"
+date: 2007-03-05
 slug: |
   nacao-livre
 tags:

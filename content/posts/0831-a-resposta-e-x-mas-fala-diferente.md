@@ -1,6 +1,6 @@
 ---
 
-date: "2008-08-28 09:35"
+date: 2008-08-28
 slug: |
   a-resposta-e-x-mas-fala-diferente
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-03-28 22:22"
+date: 2006-03-28
 slug: |
   barbaridade-che
 tags:

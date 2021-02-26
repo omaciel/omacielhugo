@@ -1,6 +1,6 @@
 ---
 
-date: "2007-07-20 18:52"
+date: 2007-07-20
 slug: |
   gnome-foresight-and-two-smocking-barrels
 tags:

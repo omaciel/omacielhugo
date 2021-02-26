@@ -1,6 +1,6 @@
 ---
 
-date: "2007-01-30 23:34"
+date: 2007-01-30
 slug: |
   apresentando-foresight-linux-10
 tags:

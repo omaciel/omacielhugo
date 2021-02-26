@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-06 00:20"
+date: 2008-07-06
 slug: |
   not-going-to-guadec
 tags:

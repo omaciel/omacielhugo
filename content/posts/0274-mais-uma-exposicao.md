@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-13 19:44"
+date: 2006-04-13
 slug: |
   mais-uma-exposicao
 tags:

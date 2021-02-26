@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-19 01:17"
+date: 2007-06-19
 slug: |
   learn-to-use-the-gimp-in-10-easy-free-videos
 tags:

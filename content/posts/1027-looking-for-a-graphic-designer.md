@@ -1,6 +1,6 @@
 ---
 
-date: "2010-12-16 17:44"
+date: 2010-12-16
 slug: |
   looking-for-a-graphic-designer
 tags:

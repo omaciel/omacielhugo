@@ -1,6 +1,6 @@
 ---
 
-date: "2008-03-05 16:05"
+date: 2008-03-05
 slug: |
   all-of-your-shuttle-boxes-are-belong-to-us
 tags:

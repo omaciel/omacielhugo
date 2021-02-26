@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-10 17:48"
+date: 2005-05-10
 slug: |
   a-hazy-shade-of-freedom
 tags:

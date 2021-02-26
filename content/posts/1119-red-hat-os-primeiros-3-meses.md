@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-03-08 17:16"
+date: 2012-03-08
 slug: |
   red-hat-os-primeiros-3-meses
 tags:

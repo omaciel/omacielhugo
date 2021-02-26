@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2013-09-03 01:25"
+date: 2013-09-03
 slug: |
   castalio-podcast-enrico-nicoletto-e-rafael
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-21 00:31"
+date: 2006-05-21
 slug: |
   maquina-do-tempo
 tags:

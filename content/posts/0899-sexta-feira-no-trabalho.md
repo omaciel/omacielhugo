@@ -1,6 +1,6 @@
 ---
 
-date: "2009-04-17 16:55"
+date: 2009-04-17
 slug: |
   sexta-feira-no-trabalho
 tags:

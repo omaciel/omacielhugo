@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-24 18:14"
+date: 2005-10-24
 slug: |
   planet-ubuntu-brasil-manifesto
 tags:

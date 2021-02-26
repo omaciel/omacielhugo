@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-22 19:19"
+date: 2005-07-22
 slug: |
   brand-new-engine
 tags:

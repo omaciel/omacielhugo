@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-08 20:07"
+date: 2006-06-08
 slug: |
   natal-chegou-mais-cedo
 tags:

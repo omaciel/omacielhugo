@@ -1,6 +1,6 @@
 ---
 
-date: "2006-11-28 04:08"
+date: 2006-11-28
 slug: |
   network-manager-tip
 tags:

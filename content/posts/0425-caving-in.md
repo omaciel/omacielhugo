@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-22 16:15"
+date: 2006-10-22
 slug: |
   caving-in
 tags:

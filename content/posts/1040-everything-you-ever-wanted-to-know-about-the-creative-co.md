@@ -1,6 +1,6 @@
 ---
 
-date: "2011-02-11 15:13"
+date: 2011-02-11
 slug: |
   everything-you-ever-wanted-to-know-about-the-creative-co
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-06-24 23:20"
+date: 2008-06-24
 slug: |
   vamos-passar-a-sacolinha
 tags:

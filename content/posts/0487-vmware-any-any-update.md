@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-06 22:24"
+date: 2007-03-06
 slug: |
   vmware-any-any-update
 tags:

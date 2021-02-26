@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-16 16:50"
+date: 2005-03-16
 slug: |
   portable-applications-gallore
 tags:

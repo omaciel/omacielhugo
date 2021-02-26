@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-19 18:19"
+date: 2008-09-19
 slug: |
   me-mi-comigo
 tags:

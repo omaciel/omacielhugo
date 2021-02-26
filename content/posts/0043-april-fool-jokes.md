@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-01 14:40"
+date: 2005-04-01
 slug: |
   april-fool-jokes
 tags:

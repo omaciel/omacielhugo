@@ -1,6 +1,6 @@
 ---
 
-date: "2005-06-15 20:03"
+date: 2005-06-15
 slug: |
   college-diplomacy
 tags:

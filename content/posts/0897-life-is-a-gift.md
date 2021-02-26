@@ -1,6 +1,6 @@
 ---
 
-date: "2009-04-10 13:36"
+date: 2009-04-10
 slug: |
   life-is-a-gift
 tags:

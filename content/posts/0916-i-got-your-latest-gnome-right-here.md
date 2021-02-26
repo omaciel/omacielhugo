@@ -1,6 +1,6 @@
 ---
 
-date: "2009-07-30 21:22"
+date: 2009-07-30
 slug: |
   i-got-your-latest-gnome-right-here
 tags:

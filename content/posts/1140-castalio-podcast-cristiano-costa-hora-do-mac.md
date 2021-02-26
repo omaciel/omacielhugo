@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-08-07 13:22"
+date: 2012-08-07
 slug: |
   castalio-podcast-cristiano-costa-hora-do-mac
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-08-12 00:20"
+date: 2008-08-12
 slug: |
   pandora-tem-bagulho-bom-ai
 tags:

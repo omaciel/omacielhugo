@@ -1,6 +1,6 @@
 ---
 
-date: "2008-02-02 19:01"
+date: 2008-02-02
 slug: |
   lancados-openbox-346-e-obconf-203
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2012-08-23 19:29"
+date: 2012-08-23
 slug: |
   error-uninitialized-constant-heroku-api
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-28 13:33"
+date: 2005-04-28
 slug: |
   game-night
 tags:

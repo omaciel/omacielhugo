@@ -1,6 +1,6 @@
 ---
 
-date: "2008-02-24 19:31"
+date: 2008-02-24
 slug: |
   pulseaudio-games-and-my-five-hundred
 tags:

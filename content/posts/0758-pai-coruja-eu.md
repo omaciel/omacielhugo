@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-20 14:29"
+date: 2008-04-20
 slug: |
   pai-coruja-eu
 tags:

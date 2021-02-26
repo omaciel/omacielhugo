@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-22 15:25"
+date: 2007-03-22
 slug: |
   i-want-my-mtv
 tags:

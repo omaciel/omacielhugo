@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-12 15:03"
+date: 2006-06-12
 slug: |
   compartilhando-musica-com-avahi
 tags:

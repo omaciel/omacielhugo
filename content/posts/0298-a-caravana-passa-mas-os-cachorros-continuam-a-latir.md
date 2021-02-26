@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-19 15:55"
+date: 2006-05-19
 slug: |
   a-caravana-passa-mas-os-cachorros-continuam-a-latir
 tags:

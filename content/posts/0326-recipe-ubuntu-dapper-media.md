@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-10 17:03"
+date: 2006-06-10
 slug: |
   recipe-ubuntu-dapper-media
 tags:

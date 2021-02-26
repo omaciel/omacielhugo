@@ -1,6 +1,6 @@
 ---
 
-date: "2006-09-20 21:06"
+date: 2006-09-20
 slug: |
   ubuntu-wallpaper
 tags:

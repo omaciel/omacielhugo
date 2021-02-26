@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-18 20:39"
+date: 2007-04-18
 slug: |
   brincando-com-o-gcompris
 tags:

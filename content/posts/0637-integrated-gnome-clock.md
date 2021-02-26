@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-07 19:24"
+date: 2007-09-07
 slug: |
   integrated-gnome-clock
 tags:

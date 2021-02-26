@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-22 02:56"
+date: 2008-07-22
 slug: |
   going-back-to-school
 tags:

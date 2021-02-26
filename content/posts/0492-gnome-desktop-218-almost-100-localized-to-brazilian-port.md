@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-08 15:15"
+date: 2007-03-08
 slug: |
   gnome-desktop-218-almost-100-localized-to-brazilian-port
 tags:

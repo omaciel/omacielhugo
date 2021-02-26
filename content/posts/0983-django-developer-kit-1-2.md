@@ -1,6 +1,6 @@
 ---
 
-date: "2010-05-18 09:00"
+date: 2010-05-18
 slug: |
   django-developer-kit-1-2
 tags:

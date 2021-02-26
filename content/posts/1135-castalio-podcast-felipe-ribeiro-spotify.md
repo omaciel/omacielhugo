@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-06-10 16:48"
+date: 2012-06-10
 slug: |
   castalio-podcast-felipe-ribeiro-spotify
 tags:

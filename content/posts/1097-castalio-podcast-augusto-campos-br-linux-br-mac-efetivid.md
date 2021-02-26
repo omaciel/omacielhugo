@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-10-02 20:43"
+date: 2011-10-02
 slug: |
   castalio-podcast-augusto-campos-br-linux-br-mac-efetivid
 tags:

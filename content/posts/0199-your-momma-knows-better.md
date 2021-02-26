@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-24 19:57"
+date: 2005-10-24
 slug: |
   your-momma-knows-better
 tags:

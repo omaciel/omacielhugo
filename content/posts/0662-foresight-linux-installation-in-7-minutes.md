@@ -1,6 +1,6 @@
 ---
 
-date: "2007-10-24 13:21"
+date: 2007-10-24
 slug: |
   foresight-linux-installation-in-7-minutes
 tags:

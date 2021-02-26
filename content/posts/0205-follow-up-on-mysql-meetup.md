@@ -1,6 +1,6 @@
 ---
 
-date: "2005-11-04 21:56"
+date: 2005-11-04
 slug: |
   follow-up-on-mysql-meetup
 tags:

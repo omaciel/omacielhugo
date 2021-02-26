@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-27 13:43"
+date: 2006-06-27
 slug: |
   we-built-this-city
 tags:

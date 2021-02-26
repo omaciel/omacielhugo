@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-08 12:22"
+date: 2005-07-08
 slug: |
   conspiracy-theory
 tags:

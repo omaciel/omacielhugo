@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-11 16:29"
+date: 2005-03-11
 slug: |
   petri-dish-children
 tags:

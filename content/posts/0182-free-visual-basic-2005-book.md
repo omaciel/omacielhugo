@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-29 18:10"
+date: 2005-09-29
 slug: |
   free-visual-basic-2005-book
 tags:

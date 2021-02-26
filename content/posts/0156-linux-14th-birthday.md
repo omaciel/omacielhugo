@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-24 20:01"
+date: 2005-08-24
 slug: |
   linux-14th-birthday
 tags:

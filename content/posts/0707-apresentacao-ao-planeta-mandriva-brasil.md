@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2008-01-12 22:14"
+date: 2008-01-12
 slug: |
   apresentacao-ao-planeta-mandriva-brasil
 tags:

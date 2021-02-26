@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-20 12:12"
+date: 2007-09-20
 slug: |
   talk-like-a-pirate
 tags:

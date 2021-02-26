@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-03 22:06"
+date: 2006-04-03
 slug: |
   arrived
 tags:

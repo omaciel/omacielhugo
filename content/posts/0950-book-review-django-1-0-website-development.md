@@ -1,6 +1,6 @@
 ---
 
-date: "2010-03-28 19:05"
+date: 2010-03-28
 slug: |
   book-review-django-1-0-website-development
 tags:

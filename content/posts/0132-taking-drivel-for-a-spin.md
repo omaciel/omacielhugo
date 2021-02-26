@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-29 16:03"
+date: 2005-07-29
 slug: |
   taking-drivel-for-a-spin
 tags:

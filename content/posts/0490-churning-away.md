@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-07 22:11"
+date: 2007-03-07
 slug: |
   churning-away
 tags:

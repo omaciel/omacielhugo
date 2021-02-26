@@ -1,6 +1,6 @@
 ---
 
-date: "2012-10-30 15:14"
+date: 2012-10-30
 slug: |
   tough-times
 tags:

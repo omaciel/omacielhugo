@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-18 19:46"
+date: 2005-08-18
 slug: |
   down-in-the-dumps
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-02-14 06:21"
+date: 2007-02-14
 slug: |
   apresentando-thematographer
 tags:

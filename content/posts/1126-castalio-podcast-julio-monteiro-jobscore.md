@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-04-15 20:29"
+date: 2012-04-15
 slug: |
   castalio-podcast-julio-monteiro-jobscore
 tags:

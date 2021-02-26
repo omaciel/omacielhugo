@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-22 17:09"
+date: 2005-08-22
 slug: |
   snubbed-by-google-sidebar
 tags:

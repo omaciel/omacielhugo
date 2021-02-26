@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-21 20:17"
+date: 2007-08-21
 slug: |
   foresight-notification-theme
 tags:

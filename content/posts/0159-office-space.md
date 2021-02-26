@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-26 13:16"
+date: 2005-08-26
 slug: |
   office-space
 tags:

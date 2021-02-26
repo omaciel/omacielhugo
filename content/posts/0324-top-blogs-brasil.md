@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-09 14:24"
+date: 2006-06-09
 slug: |
   top-blogs-brasil
 tags:

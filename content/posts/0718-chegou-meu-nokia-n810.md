@@ -1,6 +1,6 @@
 ---
 
-date: "2008-02-09 23:31"
+date: 2008-02-09
 slug: |
   chegou-meu-nokia-n810
 tags:

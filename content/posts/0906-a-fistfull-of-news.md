@@ -1,6 +1,6 @@
 ---
 
-date: "2009-05-28 17:11"
+date: 2009-05-28
 slug: |
   a-fistfull-of-news
 tags:

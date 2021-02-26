@@ -1,6 +1,6 @@
 ---
 
-date: "2009-01-05 01:58"
+date: 2009-01-05
 slug: |
   aprendendo-django-no-planeta-terra
 tags:

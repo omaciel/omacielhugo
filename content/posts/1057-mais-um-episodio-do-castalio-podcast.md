@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-04-03 22:55"
+date: 2011-04-03
 slug: |
   mais-um-episodio-do-castalio-podcast
 tags:

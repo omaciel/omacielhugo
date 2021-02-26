@@ -1,6 +1,6 @@
 ---
 
-date: "2005-11-23 16:44"
+date: 2005-11-23
 slug: |
   news-from-down-under
 tags:

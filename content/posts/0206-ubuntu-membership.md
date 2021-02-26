@@ -1,6 +1,6 @@
 ---
 
-date: "2005-11-07 16:54"
+date: 2005-11-07
 slug: |
   ubuntu-membership
 tags:

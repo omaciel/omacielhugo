@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-09-05 07:27"
+date: 2011-09-05
 slug: |
   castalio-podcast-alvaro-turicas-justin-arduino
 tags:

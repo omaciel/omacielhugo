@@ -1,6 +1,6 @@
 ---
 
-date: "2005-11-09 21:45"
+date: 2005-11-09
 slug: |
   for-posterity
 tags:

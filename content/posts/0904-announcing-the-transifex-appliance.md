@@ -1,6 +1,6 @@
 ---
 
-date: "2009-05-20 17:11"
+date: 2009-05-20
 slug: |
   announcing-the-transifex-appliance
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-23 02:38"
+date: 2007-08-23
 slug: |
   look-ma
 tags:

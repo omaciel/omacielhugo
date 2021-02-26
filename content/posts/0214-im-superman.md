@@ -1,6 +1,6 @@
 ---
 
-date: "2005-12-21 21:52"
+date: 2005-12-21
 slug: |
   im-superman
 tags:

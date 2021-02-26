@@ -1,6 +1,6 @@
 ---
 
-date: "2008-06-02 11:34"
+date: 2008-06-02
 slug: |
   sobre-tweet
 tags:

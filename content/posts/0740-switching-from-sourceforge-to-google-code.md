@@ -1,6 +1,6 @@
 ---
 
-date: "2008-03-30 17:48"
+date: 2008-03-30
 slug: |
   switching-from-sourceforge-to-google-code
 tags:

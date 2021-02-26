@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-06 13:30"
+date: 2005-10-06
 slug: |
   stephan-hermanns-influence
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-24 13:47"
+date: 2005-03-24
 slug: |
   portable-firefox-102
 tags:

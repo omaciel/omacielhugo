@@ -1,6 +1,6 @@
 ---
 
-date: "2008-10-31 15:19"
+date: 2008-10-31
 slug: |
   porque-traducoes-com-qualidade-sao-importantes
 tags:

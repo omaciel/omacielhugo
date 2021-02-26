@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-07 18:45"
+date: 2006-06-07
 slug: |
   ubuntu-on-a-hp-tc1100-tabletpc
 tags:

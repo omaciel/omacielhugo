@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-16 19:47"
+date: 2005-05-16
 slug: |
   where-do-we-get-these-people
 tags:

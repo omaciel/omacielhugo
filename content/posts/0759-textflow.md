@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-22 11:08"
+date: 2008-04-22
 slug: |
   textflow
 tags:

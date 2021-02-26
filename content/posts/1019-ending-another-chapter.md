@@ -1,6 +1,6 @@
 ---
 
-date: "2010-11-01 13:47"
+date: 2010-11-01
 slug: |
   ending-another-chapter
 tags:

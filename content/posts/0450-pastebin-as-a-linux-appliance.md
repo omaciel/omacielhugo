@@ -1,6 +1,6 @@
 ---
 
-date: "2006-12-11 16:26"
+date: 2006-12-11
 slug: |
   pastebin-as-a-linux-appliance
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2009-11-10 18:57"
+date: 2009-11-10
 slug: |
   what-do-moblin-xfce-fedora-plus-a-few-other-projects-hav
 tags:

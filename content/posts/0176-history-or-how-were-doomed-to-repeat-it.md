@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-20 17:17"
+date: 2005-09-20
 slug: |
   history-or-how-were-doomed-to-repeat-it
 tags:

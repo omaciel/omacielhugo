@@ -1,6 +1,6 @@
 ---
 
-date: "2006-02-09 18:56"
+date: 2006-02-09
 slug: |
   vamos-a-guerra
 tags:

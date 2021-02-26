@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-29 16:58"
+date: 2005-03-29
 slug: |
   ole-ole
 tags:

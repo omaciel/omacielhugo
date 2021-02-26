@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-12 00:19"
+date: 2008-09-12
 slug: |
   lancado-o-billreminder-royal-with-cheese-032
 tags:

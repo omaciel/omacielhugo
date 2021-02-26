@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-12 17:00"
+date: 2006-10-12
 slug: |
   novo-planeta-brasileiro
 tags:

@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-07-25 04:00"
+date: 2011-07-25
 slug: |
   castalio-podcast-aline-duarte-bessa-accerciser
 tags:

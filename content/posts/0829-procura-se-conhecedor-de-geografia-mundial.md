@@ -1,6 +1,6 @@
 ---
 
-date: "2008-08-13 10:41"
+date: 2008-08-13
 slug: |
   procura-se-conhecedor-de-geografia-mundial
 tags:

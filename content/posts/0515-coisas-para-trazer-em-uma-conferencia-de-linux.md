@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-31 13:49"
+date: 2007-03-31
 slug: |
   coisas-para-trazer-em-uma-conferencia-de-linux
 tags:

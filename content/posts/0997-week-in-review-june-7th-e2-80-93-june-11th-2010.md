@@ -1,6 +1,6 @@
 ---
 
-date: "2010-06-12 14:15"
+date: 2010-06-12
 slug: |
   week-in-review-june-7th-e2-80-93-june-11th-2010
 tags:

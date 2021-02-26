@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-05 21:11"
+date: 2007-06-05
 slug: |
   openbox-34-released
 tags:

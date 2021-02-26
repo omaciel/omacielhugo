@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-30 19:07"
+date: 2005-03-30
 slug: |
   calling-all-constructors
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-06 18:30"
+date: 2005-07-06
 slug: |
   awkward-places-to-run-into-your-job-interviewer
 tags:

@@ -1,10 +1,16 @@
 ---
 
-date: "2005-02-18 20:04"
+date: 2005-02-18
 slug: |
   talking-to-the-mono-king
 tags:
  - english
+ - mono
+ - miguel de icaza
+ - novell
+ - ximian
+ - monodevelop
+ - evolution
 title: Talking To The Mono King
 ---
 

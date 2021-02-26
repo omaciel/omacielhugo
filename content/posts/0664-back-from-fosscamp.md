@@ -1,6 +1,6 @@
 ---
 
-date: "2007-10-31 02:00"
+date: 2007-10-31
 slug: |
   back-from-fosscamp
 tags:

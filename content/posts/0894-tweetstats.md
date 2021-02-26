@@ -1,6 +1,6 @@
 ---
 
-date: "2009-03-27 16:35"
+date: 2009-03-27
 slug: |
   tweetstats
 tags:

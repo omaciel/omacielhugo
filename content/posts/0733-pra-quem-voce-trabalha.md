@@ -1,6 +1,6 @@
 ---
 
-date: "2008-03-10 02:27"
+date: 2008-03-10
 slug: |
   pra-quem-voce-trabalha
 tags:

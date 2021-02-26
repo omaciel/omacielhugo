@@ -1,6 +1,6 @@
 ---
 
-date: "2010-06-11 15:00"
+date: 2010-06-11
 slug: |
   playing-world-of-warcraft-on-linux-with-wine
 tags:

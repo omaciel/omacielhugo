@@ -1,6 +1,6 @@
 ---
 
-date: "2007-11-06 03:19"
+date: 2007-11-06
 slug: |
   ajudando-o-projeto-xfce
 tags:

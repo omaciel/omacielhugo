@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-15 17:16"
+date: 2005-04-15
 slug: |
   windows-security
 tags:

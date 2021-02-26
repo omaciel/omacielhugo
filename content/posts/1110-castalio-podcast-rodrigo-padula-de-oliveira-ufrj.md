@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-01-08 22:05"
+date: 2012-01-08
 slug: |
   castalio-podcast-rodrigo-padula-de-oliveira-ufrj
 tags:

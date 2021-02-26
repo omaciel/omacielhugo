@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-14 11:49"
+date: 2005-07-14
 slug: |
   windowless-existence
 tags:

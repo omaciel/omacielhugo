@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-09 14:29"
+date: 2006-08-09
 slug: |
   the-real-terrorists-always-get-away
 tags:

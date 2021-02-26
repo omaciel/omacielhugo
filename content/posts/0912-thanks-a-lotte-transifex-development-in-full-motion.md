@@ -1,6 +1,6 @@
 ---
 
-date: "2009-07-14 20:10"
+date: 2009-07-14
 slug: |
   thanks-a-lotte-transifex-development-in-full-motion
 tags:

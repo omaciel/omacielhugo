@@ -1,6 +1,6 @@
 ---
 
-date: "2006-03-23 19:28"
+date: 2006-03-23
 slug: |
   salivando-mais-que-pavlov
 tags:

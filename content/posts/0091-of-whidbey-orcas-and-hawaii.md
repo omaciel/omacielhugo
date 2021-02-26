@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-25 13:18"
+date: 2005-05-25
 slug: |
   of-whidbey-orcas-and-hawaii
 tags:

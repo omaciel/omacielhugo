@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-20 23:16"
+date: 2005-07-20
 slug: |
   vmware-and-world-of-warcraft-rematch
 tags:

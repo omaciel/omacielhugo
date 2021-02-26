@@ -1,6 +1,6 @@
 ---
 
-date: "2012-03-08 17:15"
+date: 2012-03-08
 slug: |
   red-hat-the-first-3-months
 tags:

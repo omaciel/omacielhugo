@@ -1,6 +1,6 @@
 ---
 
-date: "2008-05-30 17:23"
+date: 2008-05-30
 slug: |
   wish-list
 tags:

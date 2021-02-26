@@ -1,6 +1,6 @@
 ---
 
-date: "2013-06-04 22:21"
+date: 2013-06-04
 slug: |
   populating-a-katello-instance-using-the-cli
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-21 16:52"
+date: 2005-03-21
 slug: |
   red-storm-on-the-horizon
 tags:

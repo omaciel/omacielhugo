@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-18 20:03"
+date: 2007-04-18
 slug: |
   taking-gcompris-for-a-spin
 tags:

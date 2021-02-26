@@ -1,6 +1,6 @@
 ---
 
-date: "2006-02-16 18:51"
+date: 2006-02-16
 slug: |
   traducao-passo-a-passo
 tags:

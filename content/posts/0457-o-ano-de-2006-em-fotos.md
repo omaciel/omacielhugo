@@ -1,6 +1,6 @@
 ---
 
-date: "2007-01-02 19:47"
+date: 2007-01-02
 slug: |
   o-ano-de-2006-em-fotos
 tags:

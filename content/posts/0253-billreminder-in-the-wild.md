@@ -1,6 +1,6 @@
 ---
 
-date: "2006-03-24 19:32"
+date: 2006-03-24
 slug: |
   billreminder-in-the-wild
 tags:

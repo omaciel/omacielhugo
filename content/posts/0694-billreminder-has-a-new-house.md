@@ -1,6 +1,6 @@
 ---
 
-date: "2008-01-04 02:02"
+date: 2008-01-04
 slug: |
   billreminder-has-a-new-house
 tags:

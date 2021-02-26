@@ -1,6 +1,6 @@
 ---
 
-date: "2009-07-17 15:56"
+date: 2009-07-17
 slug: |
   cute-git-tip
 tags:

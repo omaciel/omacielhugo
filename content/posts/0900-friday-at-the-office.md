@@ -1,6 +1,6 @@
 ---
 
-date: "2009-04-17 17:55"
+date: 2009-04-17
 slug: |
   friday-at-the-office
 tags:

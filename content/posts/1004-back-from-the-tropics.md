@@ -1,6 +1,6 @@
 ---
 
-date: "2010-08-05 02:17"
+date: 2010-08-05
 slug: |
   back-from-the-tropics
 tags:

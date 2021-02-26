@@ -1,6 +1,6 @@
 ---
 
-date: "2009-01-10 20:47"
+date: 2009-01-10
 slug: |
   to-my-fallen-comrades
 tags:

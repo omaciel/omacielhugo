@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-04 13:19"
+date: 2005-04-04
 slug: |
   let-me-introduce-you-to-my-little-friend
 tags:

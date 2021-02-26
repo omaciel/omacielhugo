@@ -1,6 +1,6 @@
 ---
 
-date: "2007-02-15 14:27"
+date: 2007-02-15
 slug: |
   nasceu
 tags:

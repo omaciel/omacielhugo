@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-22 20:39"
+date: 2006-05-22
 slug: |
   smogarsboard
 tags:

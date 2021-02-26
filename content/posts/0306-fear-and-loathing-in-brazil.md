@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-25 18:41"
+date: 2006-05-25
 slug: |
   fear-and-loathing-in-brazil
 tags:

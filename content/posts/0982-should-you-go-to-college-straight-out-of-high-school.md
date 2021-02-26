@@ -1,6 +1,6 @@
 ---
 
-date: "2010-05-17 15:00"
+date: 2010-05-17
 slug: |
   should-you-go-to-college-straight-out-of-high-school
 tags:

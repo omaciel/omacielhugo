@@ -1,6 +1,6 @@
 ---
 
-date: "2009-01-09 03:26"
+date: 2009-01-09
 slug: |
   o-elefante-gerald-e-piggie
 tags:

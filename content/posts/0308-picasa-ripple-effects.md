@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-26 19:18"
+date: 2006-05-26
 slug: |
   picasa-ripple-effects
 tags:

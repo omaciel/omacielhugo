@@ -1,6 +1,6 @@
 ---
 
-date: "2008-01-05 04:23"
+date: 2008-01-05
 slug: |
   no-bugs-left-behind-and-rumors
 tags:

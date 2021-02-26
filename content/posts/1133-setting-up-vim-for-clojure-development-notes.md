@@ -1,6 +1,6 @@
 ---
 
-date: "2012-05-16 20:41"
+date: 2012-05-16
 slug: |
   setting-up-vim-for-clojure-development-notes
 tags:

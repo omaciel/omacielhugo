@@ -1,6 +1,6 @@
 ---
 
-date: "2008-01-11 04:05"
+date: 2008-01-11
 slug: |
   the-biggest-looser
 tags:

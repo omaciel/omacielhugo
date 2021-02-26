@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2009-01-03 18:32"
+date: 2009-01-03
 slug: |
   usando-o-dropbox-com-o-openbox
 tags:

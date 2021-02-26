@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-12 15:43"
+date: 2006-08-12
 slug: |
   lastfm-planeta-ubuntu-brasil
 tags:

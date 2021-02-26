@@ -1,6 +1,6 @@
 ---
 
-date: "2008-03-12 23:19"
+date: 2008-03-12
 slug: |
   wild-deuces-and-a-bitter-sweet-moment
 tags:

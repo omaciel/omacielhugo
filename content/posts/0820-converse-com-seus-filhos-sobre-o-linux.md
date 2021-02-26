@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-30 10:07"
+date: 2008-07-30
 slug: |
   converse-com-seus-filhos-sobre-o-linux
 tags:

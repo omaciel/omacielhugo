@@ -1,6 +1,6 @@
 ---
 
-date: "2008-02-29 03:21"
+date: 2008-02-29
 slug: |
   waiting-for-openbox-347
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-09 13:38"
+date: 2005-08-09
 slug: |
   xml-performance-checklist
 tags:

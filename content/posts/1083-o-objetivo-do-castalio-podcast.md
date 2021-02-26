@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-07-21 01:45"
+date: 2011-07-21
 slug: |
   o-objetivo-do-castalio-podcast
 tags:

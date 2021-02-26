@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-02 14:05"
+date: 2005-08-02
 slug: |
   waiting-for-the-butcher
 tags:

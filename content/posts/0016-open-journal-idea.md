@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-10 16:26"
+date: 2005-03-10
 slug: |
   open-journal-idea
 tags:

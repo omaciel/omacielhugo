@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-09-04 09:18"
+date: 2012-09-04
 slug: |
   castalio-podcast-bruno-goncalves-biglinux
 tags:

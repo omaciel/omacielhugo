@@ -1,6 +1,6 @@
 ---
 
-date: "2008-06-30 19:51"
+date: 2008-06-30
 slug: |
   where-should-your-money-go-today
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-16 13:14"
+date: 2007-06-16
 slug: |
   the-unbearable-lightness-of-being
 tags:

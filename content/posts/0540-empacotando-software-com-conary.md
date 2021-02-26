@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2007-04-26 01:49"
+date: 2007-04-26
 slug: |
   empacotando-software-com-conary
 tags:

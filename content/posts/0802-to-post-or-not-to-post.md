@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-01 00:47"
+date: 2008-07-01
 slug: |
   to-post-or-not-to-post
 tags:

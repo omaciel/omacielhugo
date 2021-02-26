@@ -1,6 +1,6 @@
 ---
 
-date: "2011-02-10 16:32"
+date: 2011-02-10
 slug: |
   book-review-stories-of-your-life-and-others
 tags:

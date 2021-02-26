@@ -1,6 +1,6 @@
 ---
 
-date: "2006-02-13 16:20"
+date: 2006-02-13
 slug: |
   lincity
 tags:

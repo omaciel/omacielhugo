@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-16 13:31"
+date: 2008-07-16
 slug: |
   subscribe-to-feeds-from-projects-hosted-on-google-code
 tags:

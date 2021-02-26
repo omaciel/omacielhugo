@@ -1,6 +1,6 @@
 ---
 
-date: "2011-02-02 05:00"
+date: 2011-02-02
 slug: |
   book-review-emblem-divide
 tags:

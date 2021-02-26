@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-17 23:21"
+date: 2005-10-17
 slug: |
   ubuntu-breezy-badger
 tags:

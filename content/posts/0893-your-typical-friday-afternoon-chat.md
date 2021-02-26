@@ -1,6 +1,6 @@
 ---
 
-date: "2009-03-13 17:12"
+date: 2009-03-13
 slug: |
   your-typical-friday-afternoon-chat
 tags:

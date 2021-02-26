@@ -1,6 +1,6 @@
 ---
 
-date: "2007-07-20 02:23"
+date: 2007-07-20
 slug: |
   como-fazer-um-pai-orgulhoso
 tags:

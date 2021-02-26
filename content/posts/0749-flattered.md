@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-11 17:29"
+date: 2008-04-11
 slug: |
   flattered
 tags:

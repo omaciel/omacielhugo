@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-31 18:38"
+date: 2005-05-31
 slug: |
   the-little-penguin-wine
 tags:

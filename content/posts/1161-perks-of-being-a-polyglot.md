@@ -1,6 +1,6 @@
 ---
 
-date: "2013-03-28 02:28"
+date: 2013-03-28
 slug: |
   perks-of-being-a-polyglot
 tags:

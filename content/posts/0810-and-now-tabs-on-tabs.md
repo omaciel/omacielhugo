@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-12 19:14"
+date: 2008-07-12
 slug: |
   and-now-tabs-on-tabs
 tags:

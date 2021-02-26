@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-02-06 03:07"
+date: 2012-02-06
 slug: |
   castalio-podcast-ana-cristina-fricke-matte-text-livre
 tags:

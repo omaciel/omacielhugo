@@ -1,6 +1,6 @@
 ---
 
-date: "2006-03-06 02:09"
+date: 2006-03-06
 slug: |
   depois-de-um-longo-e-tenebroso-inverno
 tags:

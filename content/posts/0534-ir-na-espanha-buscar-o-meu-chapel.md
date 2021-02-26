@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-17 19:17"
+date: 2007-04-17
 slug: |
   ir-na-espanha-buscar-o-meu-chapel
 tags:

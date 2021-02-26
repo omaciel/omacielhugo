@@ -1,6 +1,6 @@
 ---
 
-date: "2008-10-23 14:02"
+date: 2008-10-23
 slug: |
   using-dropbox-with-openbox
 tags:

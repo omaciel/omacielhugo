@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-10-17 16:39"
+date: 2011-10-17
 slug: |
   castalio-podcast-evandro-pastor-quarto-estudio
 tags:

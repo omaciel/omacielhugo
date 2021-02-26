@@ -1,6 +1,6 @@
 ---
 
-date: "2011-08-02 23:43"
+date: 2011-08-02
 slug: |
   menu-com-icones-no-openbox
 tags:

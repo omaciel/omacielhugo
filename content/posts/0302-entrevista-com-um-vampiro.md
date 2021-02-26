@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-22 02:49"
+date: 2006-05-22
 slug: |
   entrevista-com-um-vampiro
 tags:

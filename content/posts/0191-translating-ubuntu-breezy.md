@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-13 13:17"
+date: 2005-10-13
 slug: |
   translating-ubuntu-breezy
 tags:

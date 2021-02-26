@@ -1,6 +1,6 @@
 ---
 
-date: "2005-06-02 13:24"
+date: 2005-06-02
 slug: |
   cyber-archeologists-will-google-dig
 tags:

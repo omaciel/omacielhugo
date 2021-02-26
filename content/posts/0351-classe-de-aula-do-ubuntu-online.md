@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-14 13:20"
+date: 2006-07-14
 slug: |
   classe-de-aula-do-ubuntu-online
 tags:

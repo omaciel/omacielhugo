@@ -1,6 +1,6 @@
 ---
 
-date: "2006-12-04 16:03"
+date: 2006-12-04
 slug: |
   a-plea-for-jorge-castro
 tags:

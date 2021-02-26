@@ -1,6 +1,6 @@
 ---
 
-date: "2010-04-29 15:00"
+date: 2010-04-29
 slug: |
   splitting-wordpress-export-file-with-choppedpress
 tags:

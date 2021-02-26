@@ -1,6 +1,6 @@
 ---
 
-date: "2006-02-13 01:52"
+date: 2006-02-13
 slug: |
   ubuntu-dapper-gtk-mono-fun
 tags:

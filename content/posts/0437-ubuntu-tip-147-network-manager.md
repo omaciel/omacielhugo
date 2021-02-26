@@ -1,6 +1,6 @@
 ---
 
-date: "2006-11-28 03:51"
+date: 2006-11-28
 slug: |
   ubuntu-tip-147-network-manager
 tags:

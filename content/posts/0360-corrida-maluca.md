@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-20 20:28"
+date: 2006-07-20
 slug: |
   corrida-maluca
 tags:

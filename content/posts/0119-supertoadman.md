@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-10 12:53"
+date: 2005-07-10
 slug: |
   supertoadman
 tags:

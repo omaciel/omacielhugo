@@ -1,6 +1,6 @@
 ---
 
-date: "2011-06-14 13:52"
+date: 2011-06-14
 slug: |
   gnome-foundation-irc-meeting-june-15th-2011
 tags:

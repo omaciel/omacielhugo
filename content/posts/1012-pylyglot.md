@@ -1,6 +1,6 @@
 ---
 
-date: "2010-09-26 21:33"
+date: 2010-09-26
 slug: |
   pylyglot
 tags:

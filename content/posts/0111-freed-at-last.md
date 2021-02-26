@@ -1,6 +1,6 @@
 ---
 
-date: "2005-06-30 19:52"
+date: 2005-06-30
 slug: |
   freed-at-last
 tags:

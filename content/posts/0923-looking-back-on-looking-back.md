@@ -1,6 +1,6 @@
 ---
 
-date: "2009-10-19 21:45"
+date: 2009-10-19
 slug: |
   looking-back-on-looking-back
 tags:

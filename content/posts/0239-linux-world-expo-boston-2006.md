@@ -1,6 +1,6 @@
 ---
 
-date: "2006-02-19 00:17"
+date: 2006-02-19
 slug: |
   linux-world-expo-boston-2006
 tags:

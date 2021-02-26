@@ -1,6 +1,6 @@
 ---
 
-date: "2010-09-15 02:03"
+date: 2010-09-15
 slug: |
   announcing-foresight-based-django-developer-kit-applianc
 tags:

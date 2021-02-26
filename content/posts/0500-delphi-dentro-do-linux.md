@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-14 16:10"
+date: 2007-03-14
 slug: |
   delphi-dentro-do-linux
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-28 13:42"
+date: 2005-04-28
 slug: |
   portable-firefox-103-released
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-10-31 18:10"
+date: 2008-10-31
 slug: |
   why-quality-translations-are-important
 tags:

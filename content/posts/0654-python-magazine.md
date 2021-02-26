@@ -1,6 +1,6 @@
 ---
 
-date: "2007-10-07 15:18"
+date: 2007-10-07
 slug: |
   python-magazine
 tags:

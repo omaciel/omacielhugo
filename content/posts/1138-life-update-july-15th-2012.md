@@ -1,6 +1,6 @@
 ---
 
-date: "2012-07-16 02:47"
+date: 2012-07-16
 slug: |
   life-update-july-15th-2012
 tags:

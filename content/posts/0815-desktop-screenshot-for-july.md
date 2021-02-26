@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-19 23:42"
+date: 2008-07-19
 slug: |
   desktop-screenshot-for-july
 tags:

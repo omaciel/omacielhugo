@@ -1,6 +1,6 @@
 ---
 
-date: "2006-01-23 15:01"
+date: 2006-01-23
 slug: |
   prioritizing-ubuntu
 tags:

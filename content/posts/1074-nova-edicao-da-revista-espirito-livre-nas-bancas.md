@@ -1,6 +1,6 @@
 ---
 
-date: "2011-06-08 12:20"
+date: 2011-06-08
 slug: |
   nova-edicao-da-revista-espirito-livre-nas-bancas
 tags:

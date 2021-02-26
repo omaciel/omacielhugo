@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-15 03:40"
+date: 2006-06-15
 slug: |
   problemas-assinando-o-codigo-de-conduta-do-launchpad
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-29 18:24"
+date: 2007-08-29
 slug: |
   relembrando-os-anos-dourados-do-videogame
 tags:

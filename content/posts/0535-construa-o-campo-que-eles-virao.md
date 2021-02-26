@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-17 19:39"
+date: 2007-04-17
 slug: |
   construa-o-campo-que-eles-virao
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-08 15:07"
+date: 2005-08-08
 slug: |
   back-from-the-dead
 tags:

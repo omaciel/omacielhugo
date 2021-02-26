@@ -1,6 +1,6 @@
 ---
 
-date: "2011-04-13 20:51"
+date: 2011-04-13
 slug: |
   packagekit-progress-on-foresight
 tags:

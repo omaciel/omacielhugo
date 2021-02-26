@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-15 02:34"
+date: 2007-05-15
 slug: |
   educational-gcompris-live-cd
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-26 20:11"
+date: 2007-06-26
 slug: |
   guadec-paper-accepted
 tags:

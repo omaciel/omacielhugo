@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-08 01:42"
+date: 2007-08-08
 slug: |
   the-name-game
 tags:

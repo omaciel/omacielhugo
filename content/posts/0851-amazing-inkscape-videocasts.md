@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-25 22:38"
+date: 2008-09-25
 slug: |
   amazing-inkscape-videocasts
 tags:

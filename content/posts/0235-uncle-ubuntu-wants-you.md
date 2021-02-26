@@ -1,6 +1,6 @@
 ---
 
-date: "2006-02-14 15:58"
+date: 2006-02-14
 slug: |
   uncle-ubuntu-wants-you
 tags:

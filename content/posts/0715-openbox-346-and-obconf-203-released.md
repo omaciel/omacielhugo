@@ -1,6 +1,6 @@
 ---
 
-date: "2008-02-02 19:01"
+date: 2008-02-02
 slug: |
   openbox-346-and-obconf-203-released
 tags:

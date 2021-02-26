@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-19 02:40"
+date: 2007-09-19
 slug: |
   lancado-o-gnome-220
 tags:

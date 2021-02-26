@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-12-12 07:28"
+date: 2011-12-12
 slug: |
   castalio-podcast-joao-fernando-costa-junior-revista-espi
 tags:

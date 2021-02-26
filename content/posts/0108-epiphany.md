@@ -1,6 +1,6 @@
 ---
 
-date: "2005-06-23 20:13"
+date: 2005-06-23
 slug: |
   epiphany
 tags:

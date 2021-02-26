@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-15 02:01"
+date: 2007-05-15
 slug: |
   live-cd-educacional-do-gcompris-brasil
 tags:

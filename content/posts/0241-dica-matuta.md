@@ -1,6 +1,6 @@
 ---
 
-date: "2006-02-23 23:22"
+date: 2006-02-23
 slug: |
   dica-matuta
 tags:

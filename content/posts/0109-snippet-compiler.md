@@ -1,6 +1,6 @@
 ---
 
-date: "2005-06-29 17:53"
+date: 2005-06-29
 slug: |
   snippet-compiler
 tags:

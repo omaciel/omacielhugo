@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-02 16:46"
+date: 2006-05-02
 slug: |
   meebo-bloqueado
 tags:

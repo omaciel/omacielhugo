@@ -1,6 +1,6 @@
 ---
 
-date: "2006-09-14 22:38"
+date: 2006-09-14
 slug: |
   overheard-at-the-trilug-meeting
 tags:

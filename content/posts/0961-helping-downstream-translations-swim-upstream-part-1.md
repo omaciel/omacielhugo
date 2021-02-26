@@ -1,6 +1,6 @@
 ---
 
-date: "2010-04-20 15:10"
+date: 2010-04-20
 slug: |
   helping-downstream-translations-swim-upstream-part-1
 tags:

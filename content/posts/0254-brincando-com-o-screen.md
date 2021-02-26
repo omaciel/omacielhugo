@@ -1,6 +1,6 @@
 ---
 
-date: "2006-03-27 21:35"
+date: 2006-03-27
 slug: |
   brincando-com-o-screen
 tags:

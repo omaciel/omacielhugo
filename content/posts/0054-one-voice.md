@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-20 16:09"
+date: 2005-04-20
 slug: |
   one-voice
 tags:

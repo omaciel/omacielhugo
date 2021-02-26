@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-10 22:01"
+date: 2005-03-10
 slug: |
   this-site-is-certified-27-evil
 tags:

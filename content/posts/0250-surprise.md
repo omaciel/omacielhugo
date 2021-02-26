@@ -1,6 +1,6 @@
 ---
 
-date: "2006-03-17 04:00"
+date: 2006-03-17
 slug: |
   surprise
 tags:

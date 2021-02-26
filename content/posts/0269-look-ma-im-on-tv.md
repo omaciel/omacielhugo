@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-10 16:43"
+date: 2006-04-10
 slug: |
   look-ma-im-on-tv
 tags:

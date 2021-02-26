@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-25 14:28"
+date: 2005-03-25
 slug: |
   whats-the-frequency-kenneth
 tags:

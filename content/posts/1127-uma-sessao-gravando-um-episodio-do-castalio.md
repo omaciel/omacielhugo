@@ -1,6 +1,6 @@
 ---
 
-date: "2012-04-22 14:34"
+date: 2012-04-22
 slug: |
   uma-sessao-gravando-um-episodio-do-castalio
 tags:

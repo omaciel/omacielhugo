@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-12 23:23"
+date: 2006-04-12
 slug: |
   projeto-tobunito
 tags:

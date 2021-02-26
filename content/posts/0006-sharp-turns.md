@@ -1,6 +1,6 @@
 ---
 
-date: "2005-02-22 20:04"
+date: 2005-02-22
 slug: |
   sharp-turns
 tags:

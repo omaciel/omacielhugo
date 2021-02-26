@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-09 14:18"
+date: 2006-10-09
 slug: |
   bug-no-rosetta
 tags:

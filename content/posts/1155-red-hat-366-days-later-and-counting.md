@@ -1,6 +1,6 @@
 ---
 
-date: "2012-12-05 15:28"
+date: 2012-12-05
 slug: |
   red-hat-366-days-later-and-counting
 tags:

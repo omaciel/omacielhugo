@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-26 18:17"
+date: 2005-08-26
 slug: |
   comic-buddy-reborn
 tags:

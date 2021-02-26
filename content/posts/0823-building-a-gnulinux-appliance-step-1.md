@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-30 18:04"
+date: 2008-07-30
 slug: |
   building-a-gnulinux-appliance-step-1
 tags:

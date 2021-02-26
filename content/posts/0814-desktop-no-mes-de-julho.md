@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-19 20:42"
+date: 2008-07-19
 slug: |
   desktop-no-mes-de-julho
 tags:

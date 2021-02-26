@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-12 00:53"
+date: 2007-04-12
 slug: |
   simplificando-o-gtktreeview
 tags:

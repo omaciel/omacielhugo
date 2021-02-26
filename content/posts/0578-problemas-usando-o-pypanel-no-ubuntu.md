@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-15 18:39"
+date: 2007-06-15
 slug: |
   problemas-usando-o-pypanel-no-ubuntu
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2010-03-29 18:51"
+date: 2010-03-29
 slug: |
   beer-heaven
 tags:

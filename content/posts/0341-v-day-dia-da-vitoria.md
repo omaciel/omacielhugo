@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-25 14:17"
+date: 2006-06-25
 slug: |
   v-day-dia-da-vitoria
 tags:

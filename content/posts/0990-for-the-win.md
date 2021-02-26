@@ -1,6 +1,6 @@
 ---
 
-date: "2010-05-26 15:00"
+date: 2010-05-26
 slug: |
   for-the-win
 tags:

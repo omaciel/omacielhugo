@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-14 16:27"
+date: 2007-03-14
 slug: |
   como-eu-blogo
 tags:

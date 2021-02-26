@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-01 17:42"
+date: 2006-06-01
 slug: |
   vmware-player
 tags:

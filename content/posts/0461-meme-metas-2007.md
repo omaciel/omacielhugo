@@ -1,6 +1,6 @@
 ---
 
-date: "2007-01-12 05:24"
+date: 2007-01-12
 slug: |
   meme-metas-2007
 tags:

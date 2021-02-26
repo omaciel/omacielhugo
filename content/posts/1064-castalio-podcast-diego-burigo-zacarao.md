@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-04-30 14:55"
+date: 2011-04-30
 slug: |
   castalio-podcast-diego-burigo-zacarao
 tags:

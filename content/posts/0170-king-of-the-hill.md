@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-09 15:26"
+date: 2005-09-09
 slug: |
   king-of-the-hill
 tags:

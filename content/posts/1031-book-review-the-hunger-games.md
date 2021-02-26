@@ -1,6 +1,6 @@
 ---
 
-date: "2011-01-13 00:01"
+date: 2011-01-13
 slug: |
   book-review-the-hunger-games
 tags:

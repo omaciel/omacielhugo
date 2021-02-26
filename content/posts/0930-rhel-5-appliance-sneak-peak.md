@@ -1,6 +1,6 @@
 ---
 
-date: "2009-12-10 21:57"
+date: 2009-12-10
 slug: |
   rhel-5-appliance-sneak-peak
 tags:

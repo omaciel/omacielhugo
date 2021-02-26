@@ -1,6 +1,6 @@
 ---
 
-date: "2008-05-18 13:54"
+date: 2008-05-18
 slug: |
   open-traneu-agora-traduzido-para-o-portugues-do-brasil
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-05-15 23:12"
+date: 2008-05-15
 slug: |
   xfce-completamente-traduzido
 tags:

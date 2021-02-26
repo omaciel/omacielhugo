@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-03 17:15"
+date: 2005-10-03
 slug: |
   boom-baby
 tags:

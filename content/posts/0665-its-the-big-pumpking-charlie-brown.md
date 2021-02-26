@@ -1,6 +1,6 @@
 ---
 
-date: "2007-10-31 12:31"
+date: 2007-10-31
 slug: |
   its-the-big-pumpking-charlie-brown
 tags:

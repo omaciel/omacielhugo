@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-10 19:50"
+date: 2008-09-10
 slug: |
   novo-feed-para-o-planeta-gnulinux-brasil
 tags:

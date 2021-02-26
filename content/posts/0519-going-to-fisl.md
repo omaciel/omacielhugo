@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-04 16:05"
+date: 2007-04-04
 slug: |
   going-to-fisl
 tags:

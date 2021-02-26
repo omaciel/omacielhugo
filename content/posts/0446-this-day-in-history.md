@@ -1,6 +1,6 @@
 ---
 
-date: "2006-12-07 18:37"
+date: 2006-12-07
 slug: |
   this-day-in-history
 tags:

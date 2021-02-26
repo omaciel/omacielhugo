@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-15 01:33"
+date: 2005-08-15
 slug: |
   pictorial-weekend
 tags:

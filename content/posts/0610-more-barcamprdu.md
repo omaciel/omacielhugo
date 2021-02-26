@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-04 15:35"
+date: 2007-08-04
 slug: |
   more-barcamprdu
 tags:

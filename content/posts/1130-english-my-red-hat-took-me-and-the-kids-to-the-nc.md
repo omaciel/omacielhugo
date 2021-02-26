@@ -1,6 +1,6 @@
 ---
 
-date: "2012-05-01 14:34"
+date: 2012-05-01
 slug: |
   english-my-red-hat-took-me-and-the-kids-to-the-nc
 tags:

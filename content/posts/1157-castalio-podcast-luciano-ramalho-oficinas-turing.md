@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2013-02-05 22:41"
+date: 2013-02-05
 slug: |
   castalio-podcast-luciano-ramalho-oficinas-turing
 tags:

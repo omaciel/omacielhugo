@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-25 12:05"
+date: 2005-08-25
 slug: |
   og-observation-guardian
 tags:

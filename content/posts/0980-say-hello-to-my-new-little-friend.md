@@ -1,6 +1,6 @@
 ---
 
-date: "2010-05-13 15:00"
+date: 2010-05-13
 slug: |
   say-hello-to-my-new-little-friend
 tags:

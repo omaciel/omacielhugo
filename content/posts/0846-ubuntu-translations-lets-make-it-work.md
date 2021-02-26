@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-23 00:01"
+date: 2008-09-23
 slug: |
   ubuntu-translations-lets-make-it-work
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-14 15:19"
+date: 2006-07-14
 slug: |
   html-scraping-com-ruby
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-01-31 03:50"
+date: 2008-01-31
 slug: |
   ignorance-is-strength
 tags:

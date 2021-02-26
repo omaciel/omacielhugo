@@ -1,6 +1,6 @@
 ---
 
-date: "2010-05-21 16:07"
+date: 2010-05-21
 slug: |
   a-volta-dos-que-nao-foram
 tags:

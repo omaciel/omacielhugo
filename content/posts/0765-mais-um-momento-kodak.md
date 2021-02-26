@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-27 11:35"
+date: 2008-04-27
 slug: |
   mais-um-momento-kodak
 tags:

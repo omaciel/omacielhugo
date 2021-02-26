@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-20 13:29"
+date: 2005-09-20
 slug: |
   stay-hungry-stay-foolish
 tags:

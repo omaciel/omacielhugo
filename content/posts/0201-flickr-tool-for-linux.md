@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-27 16:53"
+date: 2005-10-27
 slug: |
   flickr-tool-for-linux
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2013-04-23 23:19"
+date: 2013-04-23
 slug: |
   adventures-in-the-music-streaming-world
 tags:

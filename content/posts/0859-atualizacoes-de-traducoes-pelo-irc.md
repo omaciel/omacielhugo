@@ -1,6 +1,6 @@
 ---
 
-date: "2008-10-24 15:41"
+date: 2008-10-24
 slug: |
   atualizacoes-de-traducoes-pelo-irc
 tags:

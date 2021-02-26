@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-05-12 22:31"
+date: 2011-05-12
 slug: |
   castalio-podcast-frederico-goncalves-guimaraes
 tags:

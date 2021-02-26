@@ -1,6 +1,6 @@
 ---
 
-date: "2008-02-09 23:12"
+date: 2008-02-09
 slug: |
   long-overdue-post-1
 tags:

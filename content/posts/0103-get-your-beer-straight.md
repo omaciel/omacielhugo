@@ -1,6 +1,6 @@
 ---
 
-date: "2005-06-08 12:56"
+date: 2005-06-08
 slug: |
   get-your-beer-straight
 tags:

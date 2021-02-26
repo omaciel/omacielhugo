@@ -1,6 +1,6 @@
 ---
 
-date: "2007-12-15 02:04"
+date: 2007-12-15
 slug: |
   openbox-goodness
 tags:

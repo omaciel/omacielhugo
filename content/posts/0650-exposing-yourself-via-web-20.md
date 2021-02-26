@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-24 16:17"
+date: 2007-09-24
 slug: |
   exposing-yourself-via-web-20
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-02 13:41"
+date: 2006-05-02
 slug: |
   were-all-dying
 tags:

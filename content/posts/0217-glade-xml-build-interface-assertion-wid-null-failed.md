@@ -1,6 +1,6 @@
 ---
 
-date: "2006-01-04 04:05"
+date: 2006-01-04
 slug: |
   glade-xml-build-interface-assertion-wid-null-failed
 tags:

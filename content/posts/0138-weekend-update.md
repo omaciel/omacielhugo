@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-07 23:36"
+date: 2005-08-07
 slug: |
   weekend-update
 tags:

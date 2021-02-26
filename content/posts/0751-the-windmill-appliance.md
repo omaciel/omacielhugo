@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-14 12:04"
+date: 2008-04-14
 slug: |
   the-windmill-appliance
 tags:

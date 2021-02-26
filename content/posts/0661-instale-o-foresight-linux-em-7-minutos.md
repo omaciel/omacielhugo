@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2007-10-24 13:21"
+date: 2007-10-24
 slug: |
   instale-o-foresight-linux-em-7-minutos
 tags:

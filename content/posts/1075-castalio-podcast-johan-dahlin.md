@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-06-12 20:33"
+date: 2011-06-12
 slug: |
   castalio-podcast-johan-dahlin
 tags:

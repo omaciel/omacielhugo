@@ -1,6 +1,6 @@
 ---
 
-date: "2008-01-04 02:19"
+date: 2008-01-04
 slug: |
   billreminder-de-casa-nova
 tags:

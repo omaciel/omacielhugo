@@ -1,6 +1,6 @@
 ---
 
-date: "2009-05-21 02:44"
+date: 2009-05-21
 slug: |
   transifex-to-provide-translation-platform-for-lxde
 tags:

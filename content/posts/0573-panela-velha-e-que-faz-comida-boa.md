@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-08 08:41"
+date: 2007-06-08
 slug: |
   panela-velha-e-que-faz-comida-boa
 tags:

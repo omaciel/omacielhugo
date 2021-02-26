@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-24 14:53"
+date: 2005-10-24
 slug: |
   setting-up-a-planet
 tags:

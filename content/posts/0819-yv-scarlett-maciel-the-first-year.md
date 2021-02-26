@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-30 01:14"
+date: 2008-07-30
 slug: |
   yv-scarlett-maciel-the-first-year
 tags:

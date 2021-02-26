@@ -1,6 +1,6 @@
 ---
 
-date: "2010-05-27 15:00"
+date: 2010-05-27
 slug: |
   django-1-2-e-commerce
 tags:

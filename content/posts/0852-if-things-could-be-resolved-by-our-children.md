@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-29 02:14"
+date: 2008-09-29
 slug: |
   if-things-could-be-resolved-by-our-children
 tags:

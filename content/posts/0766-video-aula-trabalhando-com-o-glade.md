@@ -1,6 +1,6 @@
 ---
 
-date: "2008-05-03 10:21"
+date: 2008-05-03
 slug: |
   video-aula-trabalhando-com-o-glade
 tags:

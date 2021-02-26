@@ -1,6 +1,6 @@
 ---
 
-date: "2005-06-09 18:54"
+date: 2005-06-09
 slug: |
   nothing-fanny-about-ubuntu
 tags:

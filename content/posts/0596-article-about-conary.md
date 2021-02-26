@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-27 15:51"
+date: 2007-06-27
 slug: |
   article-about-conary
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-10-03 16:38"
+date: 2008-10-03
 slug: |
   fearmongering-nuclear-agreements-and-a-us700b-pork-barre
 tags:

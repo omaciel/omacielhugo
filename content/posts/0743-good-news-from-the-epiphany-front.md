@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-01 10:39"
+date: 2008-04-01
 slug: |
   good-news-from-the-epiphany-front
 tags:

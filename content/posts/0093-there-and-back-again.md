@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-31 16:15"
+date: 2005-05-31
 slug: |
   there-and-back-again
 tags:

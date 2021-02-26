@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-25 03:54"
+date: 2006-10-25
 slug: |
   instalando-turbogears-no-ubuntu-edgy
 tags:

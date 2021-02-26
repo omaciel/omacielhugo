@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-11 13:16"
+date: 2005-09-11
 slug: |
   for-geeks-only
 tags:

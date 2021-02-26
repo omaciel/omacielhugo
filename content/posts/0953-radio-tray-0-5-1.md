@@ -1,6 +1,6 @@
 ---
 
-date: "2010-04-12 20:00"
+date: 2010-04-12
 slug: |
   radio-tray-0-5-1
 tags:

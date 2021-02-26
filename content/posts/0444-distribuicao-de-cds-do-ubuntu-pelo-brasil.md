@@ -1,6 +1,6 @@
 ---
 
-date: "2006-12-06 15:35"
+date: 2006-12-06
 slug: |
   distribuicao-de-cds-do-ubuntu-pelo-brasil
 tags:

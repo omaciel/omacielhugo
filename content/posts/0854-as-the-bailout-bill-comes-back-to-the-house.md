@@ -1,6 +1,6 @@
 ---
 
-date: "2008-10-02 13:05"
+date: 2008-10-02
 slug: |
   as-the-bailout-bill-comes-back-to-the-house
 tags:

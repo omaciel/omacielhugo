@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-11 01:28"
+date: 2007-09-11
 slug: |
   mysql-issue-when-upgrading-to-wordpress-223
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-10 21:15"
+date: 2005-03-10
 slug: |
   three-simple-rules-for-writing-specifications
 tags:

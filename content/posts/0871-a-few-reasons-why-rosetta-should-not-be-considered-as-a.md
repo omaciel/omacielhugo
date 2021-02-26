@@ -1,6 +1,6 @@
 ---
 
-date: "2008-12-24 17:49"
+date: 2008-12-24
 slug: |
   a-few-reasons-why-rosetta-should-not-be-considered-as-a
 tags:

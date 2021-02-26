@@ -1,6 +1,6 @@
 ---
 
-date: "2011-01-17 02:37"
+date: 2011-01-17
 slug: |
   announcing-foresight-linux-2-5-0-alpha-1-gnome-edition
 tags:

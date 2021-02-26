@@ -1,6 +1,6 @@
 ---
 
-date: "2008-02-29 03:22"
+date: 2008-02-29
 slug: |
   esperando-pelo-openbox-347
 tags:

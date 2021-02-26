@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-08 19:23"
+date: 2006-06-08
 slug: |
   dvds-do-kubuntu-via-amazoncom
 tags:

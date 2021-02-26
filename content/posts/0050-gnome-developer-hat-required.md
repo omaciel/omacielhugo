@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-14 18:42"
+date: 2005-04-14
 slug: |
   gnome-developer-hat-required
 tags:

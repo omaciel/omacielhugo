@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-22 14:42"
+date: 2007-08-22
 slug: |
   new-xfce-hat
 tags:

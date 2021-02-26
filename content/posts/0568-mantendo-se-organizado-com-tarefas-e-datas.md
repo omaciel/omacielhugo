@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-05 01:49"
+date: 2007-06-05
 slug: |
   mantendo-se-organizado-com-tarefas-e-datas
 tags:

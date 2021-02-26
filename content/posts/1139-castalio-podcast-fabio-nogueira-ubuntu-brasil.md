@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-07-23 11:43"
+date: 2012-07-23
 slug: |
   castalio-podcast-fabio-nogueira-ubuntu-brasil
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-26 20:11"
+date: 2005-10-26
 slug: |
   translating-linux
 tags:

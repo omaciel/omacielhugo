@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-23 13:47"
+date: 2005-05-23
 slug: |
   living-in-a-movie
 tags:

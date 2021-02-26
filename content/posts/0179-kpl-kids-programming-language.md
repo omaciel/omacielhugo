@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-22 17:06"
+date: 2005-09-22
 slug: |
   kpl-kids-programming-language
 tags:

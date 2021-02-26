@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-20 14:28"
+date: 2008-04-20
 slug: |
   daddys-girls
 tags:

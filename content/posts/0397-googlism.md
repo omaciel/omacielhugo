@@ -1,6 +1,6 @@
 ---
 
-date: "2006-09-12 22:10"
+date: 2006-09-12
 slug: |
   googlism
 tags:

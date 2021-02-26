@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-12-04 22:04"
+date: 2011-12-04
 slug: |
   castalio-podcast-ruda-moura-conectiva-linux
 tags:

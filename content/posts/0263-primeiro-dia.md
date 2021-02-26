@@ -1,6 +1,6 @@
 ---
 
-date: "2006-04-05 01:28"
+date: 2006-04-05
 slug: |
   primeiro-dia
 tags:

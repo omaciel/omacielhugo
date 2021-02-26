@@ -1,6 +1,6 @@
 ---
 
-date: "2009-08-30 17:44"
+date: 2009-08-30
 slug: |
   get-your-oven-mittens-on-because-transifex-pyro-is-out
 tags:

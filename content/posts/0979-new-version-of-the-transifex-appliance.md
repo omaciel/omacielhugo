@@ -1,6 +1,6 @@
 ---
 
-date: "2010-05-12 14:46"
+date: 2010-05-12
 slug: |
   new-version-of-the-transifex-appliance
 tags:

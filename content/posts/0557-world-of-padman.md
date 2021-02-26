@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-26 17:55"
+date: 2007-05-26
 slug: |
   world-of-padman
 tags:

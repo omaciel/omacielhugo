@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-16 01:12"
+date: 2005-04-16
 slug: |
   clippy-has-left-the-ship
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2010-05-04 15:00"
+date: 2010-05-04
 slug: |
   when-the-movie-is-better-than-the-book
 tags:

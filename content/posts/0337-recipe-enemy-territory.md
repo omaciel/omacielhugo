@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-16 17:24"
+date: 2006-06-16
 slug: |
   recipe-enemy-territory
 tags:

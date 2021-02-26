@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-21 13:11"
+date: 2006-07-21
 slug: |
   primeiro-dia-de-aula-log
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-03-23 20:39"
+date: 2006-03-23
 slug: |
   achtung-baby
 tags:

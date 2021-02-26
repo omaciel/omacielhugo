@@ -1,6 +1,6 @@
 ---
 
-date: "2006-02-10 04:33"
+date: 2006-02-10
 slug: |
   primeiro-sangue
 tags:

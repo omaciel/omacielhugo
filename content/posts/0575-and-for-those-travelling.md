@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-08 08:50"
+date: 2007-06-08
 slug: |
   and-for-those-travelling
 tags:

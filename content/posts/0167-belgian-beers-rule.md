@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-06 00:52"
+date: 2005-09-06
 slug: |
   belgian-beers-rule
 tags:

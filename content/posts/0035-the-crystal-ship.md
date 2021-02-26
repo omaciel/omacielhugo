@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-29 02:44"
+date: 2005-03-29
 slug: |
   the-crystal-ship
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-09-06 18:06"
+date: 2006-09-06
 slug: |
   nyc-claims-another-victim
 tags:

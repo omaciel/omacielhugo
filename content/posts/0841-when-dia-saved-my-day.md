@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-18 03:27"
+date: 2008-09-18
 slug: |
   when-dia-saved-my-day
 tags:

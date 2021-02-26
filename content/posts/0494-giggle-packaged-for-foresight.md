@@ -1,6 +1,6 @@
 ---
 
-date: "2007-03-08 21:46"
+date: 2007-03-08
 slug: |
   giggle-packaged-for-foresight
 tags:

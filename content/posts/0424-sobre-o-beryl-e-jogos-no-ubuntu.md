@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-22 15:56"
+date: 2006-10-22
 slug: |
   sobre-o-beryl-e-jogos-no-ubuntu
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-02-12 18:20"
+date: 2006-02-12
 slug: |
   winforms-com-mono
 tags:

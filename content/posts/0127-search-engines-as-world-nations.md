@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-19 15:02"
+date: 2005-07-19
 slug: |
   search-engines-as-world-nations
 tags:

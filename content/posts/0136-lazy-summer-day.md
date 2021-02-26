@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-04 19:15"
+date: 2005-08-04
 slug: |
   lazy-summer-day
 tags:

@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2012-03-04 15:34"
+date: 2012-03-04
 slug: |
   castalio-podcast-ivan-brasil-fuzzer-ubuntero
 tags:

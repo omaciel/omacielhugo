@@ -1,6 +1,6 @@
 ---
 
-date: "2005-06-03 17:15"
+date: 2005-06-03
 slug: |
   more-material-for-my-thesis
 tags:

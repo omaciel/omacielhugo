@@ -1,6 +1,6 @@
 ---
 
-date: "2011-04-15 18:40"
+date: 2011-04-15
 slug: |
   patriotism-x-nationalism
 tags:

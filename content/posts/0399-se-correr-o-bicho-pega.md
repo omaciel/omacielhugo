@@ -1,6 +1,6 @@
 ---
 
-date: "2006-09-15 18:10"
+date: 2006-09-15
 slug: |
   se-correr-o-bicho-pega
 tags:

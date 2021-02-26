@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2007-03-07 15:37"
+date: 2007-03-07
 slug: |
   mais-formas-de-experimentar-o-novo-gnome-21792-virtualme
 tags:

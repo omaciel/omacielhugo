@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-27 11:29"
+date: 2008-04-27
 slug: |
   another-priceless-moment
 tags:

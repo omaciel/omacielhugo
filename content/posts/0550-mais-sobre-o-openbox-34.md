@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-22 20:20"
+date: 2007-05-22
 slug: |
   mais-sobre-o-openbox-34
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-12-13 14:13"
+date: 2007-12-13
 slug: |
   ajuda-necessaria-no-projeto-de-traducao-e-documentacao
 tags:

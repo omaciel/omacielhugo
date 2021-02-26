@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-05 13:28"
+date: 2006-07-05
 slug: |
   using-ruby-within-visual-studionet-2005
 tags:

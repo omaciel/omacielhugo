@@ -1,6 +1,6 @@
 ---
 
-date: "2008-03-30 18:04"
+date: 2008-03-30
 slug: |
   billreminder-how-many-is-a-brazilian-031-lancado
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-07-09 17:57"
+date: 2008-07-09
 slug: |
   a-cereja-que-faltava
 tags:

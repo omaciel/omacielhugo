@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-20 16:11"
+date: 2006-06-20
 slug: |
   ubuntu-edgy
 tags:

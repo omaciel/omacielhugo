@@ -1,6 +1,6 @@
 ---
 
-date: "2011-02-25 05:00"
+date: 2011-02-25
 slug: |
   barrabin-barrabash-penal-process
 tags:

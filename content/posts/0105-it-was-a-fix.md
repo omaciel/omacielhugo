@@ -1,6 +1,6 @@
 ---
 
-date: "2005-06-14 16:45"
+date: 2005-06-14
 slug: |
   it-was-a-fix
 tags:

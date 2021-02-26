@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2008-11-23 22:54"
+date: 2008-11-23
 slug: |
   experimente-a-versao-openbox-348-rc1
 tags:

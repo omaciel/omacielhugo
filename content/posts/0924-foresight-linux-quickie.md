@@ -1,6 +1,6 @@
 ---
 
-date: "2009-10-22 13:05"
+date: 2009-10-22
 slug: |
   foresight-linux-quickie
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-04 16:02"
+date: 2005-05-04
 slug: |
   sloganizer
 tags:

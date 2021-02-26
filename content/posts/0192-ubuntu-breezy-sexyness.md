@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-14 13:25"
+date: 2005-10-14
 slug: |
   ubuntu-breezy-sexyness
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-08 14:14"
+date: 2006-06-08
 slug: |
   version-32
 tags:

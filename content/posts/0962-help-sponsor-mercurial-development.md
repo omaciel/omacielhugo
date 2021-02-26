@@ -1,6 +1,6 @@
 ---
 
-date: "2010-04-21 15:00"
+date: 2010-04-21
 slug: |
   help-sponsor-mercurial-development
 tags:

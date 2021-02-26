@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2011-02-21 14:00"
+date: 2011-02-21
 slug: |
   apresentando-o-castalio-podcast
 tags:

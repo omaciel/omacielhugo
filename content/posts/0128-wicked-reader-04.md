@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-19 19:04"
+date: 2005-07-19
 slug: |
   wicked-reader-04
 tags:

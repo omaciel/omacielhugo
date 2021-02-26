@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-20 17:29"
+date: 2006-06-20
 slug: |
   livros-para-o-seu-grupo-de-usuarios
 tags:

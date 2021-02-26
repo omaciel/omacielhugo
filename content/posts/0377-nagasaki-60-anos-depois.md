@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-09 14:21"
+date: 2006-08-09
 slug: |
   nagasaki-60-anos-depois
 tags:

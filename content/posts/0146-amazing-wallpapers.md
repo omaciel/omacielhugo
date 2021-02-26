@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-12 23:32"
+date: 2005-08-12
 slug: |
   amazing-wallpapers
 tags:

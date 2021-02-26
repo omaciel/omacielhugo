@@ -1,6 +1,6 @@
 ---
 
-date: "2007-12-13 04:14"
+date: 2007-12-13
 slug: |
   foresight-and-conary-updates
 tags:

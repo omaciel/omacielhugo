@@ -1,6 +1,6 @@
 ---
 
-date: "2008-03-24 00:19"
+date: 2008-03-24
 slug: |
   limitando-o-numero-de-fileiras-exibidas-em-um-gtkcombobo
 tags:

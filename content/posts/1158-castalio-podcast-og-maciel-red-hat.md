@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2013-02-19 09:01"
+date: 2013-02-19
 slug: |
   castalio-podcast-og-maciel-red-hat
 tags:

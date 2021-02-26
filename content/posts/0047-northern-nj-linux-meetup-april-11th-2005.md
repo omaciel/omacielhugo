@@ -1,6 +1,6 @@
 ---
 
-date: "2005-04-12 02:17"
+date: 2005-04-12
 slug: |
   northern-nj-linux-meetup-april-11th-2005
 tags:

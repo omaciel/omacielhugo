@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-01 15:48"
+date: 2007-06-01
 slug: |
   smorgersboard-brasileiro
 tags:

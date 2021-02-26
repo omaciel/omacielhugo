@@ -1,6 +1,6 @@
 ---
 
-date: "2005-11-08 18:53"
+date: 2005-11-08
 slug: |
   ubunto-member
 tags:

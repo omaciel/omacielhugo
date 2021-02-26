@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2007-03-02 15:01"
+date: 2007-03-02
 slug: |
   experimente-o-gnome-21792-agora
 tags:

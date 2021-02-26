@@ -1,6 +1,6 @@
 ---
 
-date: "2008-05-24 16:56"
+date: 2008-05-24
 slug: |
   still-about-music-sites
 tags:

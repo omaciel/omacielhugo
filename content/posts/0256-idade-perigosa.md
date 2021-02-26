@@ -1,6 +1,6 @@
 ---
 
-date: "2006-03-31 02:36"
+date: 2006-03-31
 slug: |
   idade-perigosa
 tags:

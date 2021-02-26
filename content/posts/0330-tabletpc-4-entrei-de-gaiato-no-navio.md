@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-12 03:05"
+date: 2006-06-12
 slug: |
   tabletpc-4-entrei-de-gaiato-no-navio
 tags:

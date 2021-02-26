@@ -1,6 +1,6 @@
 ---
 
-date: "2005-06-30 19:50"
+date: 2005-06-30
 slug: |
   honest-or-stupid
 tags:

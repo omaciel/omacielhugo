@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-22 19:39"
+date: 2006-08-22
 slug: |
   mais-um-brasileiro-na-equipe-do-ubuntu
 tags:

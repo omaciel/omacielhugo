@@ -1,6 +1,6 @@
 ---
 
-date: "2008-09-03 21:28"
+date: 2008-09-03
 slug: |
   coffee-flavor-of-the-day
 tags:

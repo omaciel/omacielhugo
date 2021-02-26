@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-16 17:13"
+date: 2005-07-16
 slug: |
   vmware-and-world-of-warcraft
 tags:

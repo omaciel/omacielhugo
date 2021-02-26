@@ -1,6 +1,6 @@
 ---
 
-date: "2006-11-29 22:56"
+date: 2006-11-29
 slug: |
   brincando-com-o-olpc
 tags:

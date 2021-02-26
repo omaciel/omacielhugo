@@ -1,6 +1,6 @@
 ---
 
-date: "2005-10-04 15:57"
+date: 2005-10-04
 slug: |
   is-less-better
 tags:

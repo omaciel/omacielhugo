@@ -1,6 +1,6 @@
 ---
 
-date: "2010-10-10 21:35"
+date: 2010-10-10
 slug: |
   helping-the-belarusian-and-esperanto-translations
 tags:

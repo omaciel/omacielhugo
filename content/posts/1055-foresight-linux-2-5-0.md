@@ -1,6 +1,6 @@
 ---
 
-date: "2011-03-28 00:58"
+date: 2011-03-28
 slug: |
   foresight-linux-2-5-0
 tags:

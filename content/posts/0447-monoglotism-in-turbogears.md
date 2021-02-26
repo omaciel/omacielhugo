@@ -1,6 +1,6 @@
 ---
 
-date: "2006-12-08 04:32"
+date: 2006-12-08
 slug: |
   monoglotism-in-turbogears
 tags:

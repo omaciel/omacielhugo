@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-04 04:25"
+date: 2005-03-04
 slug: |
   tar-heel-dreaming
 tags:

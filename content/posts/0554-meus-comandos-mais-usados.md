@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-24 15:17"
+date: 2007-05-24
 slug: |
   meus-comandos-mais-usados
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-18 20:19"
+date: 2006-07-18
 slug: |
   whose-blog-is-it-anyway
 tags:

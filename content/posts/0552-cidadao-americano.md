@@ -1,6 +1,6 @@
 ---
 
-date: "2007-05-23 23:53"
+date: 2007-05-23
 slug: |
   cidadao-americano
 tags:

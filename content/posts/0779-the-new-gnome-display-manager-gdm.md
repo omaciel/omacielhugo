@@ -1,6 +1,6 @@
 ---
 
-date: "2008-05-22 14:22"
+date: 2008-05-22
 slug: |
   the-new-gnome-display-manager-gdm
 tags:

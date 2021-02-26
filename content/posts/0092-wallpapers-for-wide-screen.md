@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-31 12:05"
+date: 2005-05-31
 slug: |
   wallpapers-for-wide-screen
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-09-09 13:57"
+date: 2007-09-09
 slug: |
   gnome-220-100-traduzido-para-o-portugues-brasileiro
 tags:

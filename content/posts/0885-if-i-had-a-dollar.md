@@ -1,6 +1,6 @@
 ---
 
-date: "2009-01-25 19:32"
+date: 2009-01-25
 slug: |
   if-i-had-a-dollar
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-24 15:16"
+date: 2007-08-24
 slug: |
   lembrete
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2009-07-23 04:30"
+date: 2009-07-23
 slug: |
   late-post-guadec-post
 tags:

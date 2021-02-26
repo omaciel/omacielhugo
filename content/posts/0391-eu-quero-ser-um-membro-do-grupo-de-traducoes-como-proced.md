@@ -1,6 +1,6 @@
 ---
 
-date: "2006-09-04 17:25"
+date: 2006-09-04
 slug: |
   eu-quero-ser-um-membro-do-grupo-de-traducoes-como-proced
 tags:

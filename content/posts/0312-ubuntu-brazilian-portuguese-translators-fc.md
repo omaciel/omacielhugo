@@ -1,6 +1,6 @@
 ---
 
-date: "2006-05-31 17:40"
+date: 2006-05-31
 slug: |
   ubuntu-brazilian-portuguese-translators-fc
 tags:

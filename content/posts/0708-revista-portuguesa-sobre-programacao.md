@@ -1,6 +1,6 @@
 ---
 
-date: "2008-01-22 01:17"
+date: 2008-01-22
 slug: |
   revista-portuguesa-sobre-programacao
 tags:

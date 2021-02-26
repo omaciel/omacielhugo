@@ -1,6 +1,6 @@
 ---
 
-date: "2005-06-08 09:47"
+date: 2005-06-08
 slug: |
   an-older-but-sexier-fart
 tags:

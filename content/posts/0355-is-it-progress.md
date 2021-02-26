@@ -1,6 +1,6 @@
 ---
 
-date: "2006-07-14 18:49"
+date: 2006-07-14
 slug: |
   is-it-progress
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2008-06-02 14:34"
+date: 2008-06-02
 slug: |
   about-tweeters
 tags:

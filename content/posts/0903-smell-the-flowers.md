@@ -1,6 +1,6 @@
 ---
 
-date: "2009-05-17 03:59"
+date: 2009-05-17
 slug: |
   smell-the-flowers
 tags:

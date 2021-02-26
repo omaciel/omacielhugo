@@ -1,6 +1,6 @@
 ---
 
-date: "2006-12-06 18:09"
+date: 2006-12-06
 slug: |
   true-colors
 tags:

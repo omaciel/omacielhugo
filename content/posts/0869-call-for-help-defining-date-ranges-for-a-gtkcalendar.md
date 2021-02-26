@@ -1,6 +1,6 @@
 ---
 
-date: "2008-12-08 19:17"
+date: 2008-12-08
 slug: |
   call-for-help-defining-date-ranges-for-a-gtkcalendar
 tags:

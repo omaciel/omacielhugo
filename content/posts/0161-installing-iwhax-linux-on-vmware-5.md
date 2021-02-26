@@ -1,6 +1,6 @@
 ---
 
-date: "2005-08-29 17:15"
+date: 2005-08-29
 slug: |
   installing-iwhax-linux-on-vmware-5
 tags:

@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2006-10-13 19:25"
+date: 2006-10-13
 slug: |
   br-office-packaged-for-foresight-linux
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-10 18:58"
+date: 2007-04-10
 slug: |
   one-year-went-by
 tags:

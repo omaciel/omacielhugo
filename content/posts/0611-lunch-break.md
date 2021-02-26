@@ -1,6 +1,6 @@
 ---
 
-date: "2007-08-04 16:49"
+date: 2007-08-04
 slug: |
   lunch-break
 tags:

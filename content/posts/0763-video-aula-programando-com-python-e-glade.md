@@ -1,6 +1,6 @@
 ---
 
-date: "2008-04-26 10:23"
+date: 2008-04-26
 slug: |
   video-aula-programando-com-python-e-glade
 tags:

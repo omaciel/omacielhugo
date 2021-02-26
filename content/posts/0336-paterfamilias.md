@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-15 14:11"
+date: 2006-06-15
 slug: |
   paterfamilias
 tags:

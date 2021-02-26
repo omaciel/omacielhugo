@@ -1,6 +1,6 @@
 ---
 
-date: "2007-06-23 01:20"
+date: 2007-06-23
 slug: |
   elvis-seen-playing-with-billreminder
 tags:

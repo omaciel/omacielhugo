@@ -1,6 +1,6 @@
 ---
 
-date: "2005-09-08 00:07"
+date: 2005-09-08
 slug: |
   gtk-hacking
 tags:

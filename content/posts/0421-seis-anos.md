@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-17 19:49"
+date: 2006-10-17
 slug: |
   seis-anos
 tags:

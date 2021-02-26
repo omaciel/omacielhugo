@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-16 19:37"
+date: 2005-05-16
 slug: |
   what-does-it-mean
 tags:

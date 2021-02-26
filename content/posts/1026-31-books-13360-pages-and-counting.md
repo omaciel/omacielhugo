@@ -1,6 +1,6 @@
 ---
 
-date: "2010-12-15 09:00"
+date: 2010-12-15
 slug: |
   31-books-13360-pages-and-counting
 tags:

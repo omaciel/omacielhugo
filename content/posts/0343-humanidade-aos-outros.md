@@ -1,6 +1,6 @@
 ---
 
-date: "2006-06-27 18:57"
+date: 2006-06-27
 slug: |
   humanidade-aos-outros
 tags:

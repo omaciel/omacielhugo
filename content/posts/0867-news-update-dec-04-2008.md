@@ -1,6 +1,6 @@
 ---
 
-date: "2008-12-05 06:16"
+date: 2008-12-05
 slug: |
   news-update-dec-04-2008
 tags:

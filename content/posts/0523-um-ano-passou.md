@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-10 18:55"
+date: 2007-04-10
 slug: |
   um-ano-passou
 tags:

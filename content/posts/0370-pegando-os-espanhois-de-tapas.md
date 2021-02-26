@@ -1,6 +1,6 @@
 ---
 
-date: "2006-08-02 13:22"
+date: 2006-08-02
 slug: |
   pegando-os-espanhois-de-tapas
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2007-12-14 17:34"
+date: 2007-12-14
 slug: |
   boring-day
 tags:

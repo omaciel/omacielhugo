@@ -1,6 +1,6 @@
 ---
 
-date: "2007-02-23 19:52"
+date: 2007-02-23
 slug: |
   thematographer
 tags:

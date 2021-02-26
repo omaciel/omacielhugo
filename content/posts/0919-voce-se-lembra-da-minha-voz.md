@@ -1,6 +1,6 @@
 ---
 
-date: "2009-10-15 19:46"
+date: 2009-10-15
 slug: |
   voce-se-lembra-da-minha-voz
 tags:

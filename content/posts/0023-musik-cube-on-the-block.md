@@ -1,6 +1,6 @@
 ---
 
-date: "2005-03-14 19:15"
+date: 2005-03-14
 slug: |
   musik-cube-on-the-block
 tags:

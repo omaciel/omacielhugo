@@ -1,6 +1,6 @@
 ---
 
-date: "2006-10-11 20:56"
+date: 2006-10-11
 slug: |
   using-foresight-linux-week-1
 tags:

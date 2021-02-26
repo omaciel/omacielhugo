@@ -1,6 +1,6 @@
 ---
 
-date: "2006-03-15 02:49"
+date: 2006-03-15
 slug: |
   dia-do-pi-quero-ver-o-dia-do-mol
 tags:

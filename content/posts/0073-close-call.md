@@ -1,6 +1,6 @@
 ---
 
-date: "2005-05-03 23:46"
+date: 2005-05-03
 slug: |
   close-call
 tags:

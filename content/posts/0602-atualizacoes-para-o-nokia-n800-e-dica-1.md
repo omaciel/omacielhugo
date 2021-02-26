@@ -1,6 +1,6 @@
 ---
 
-date: "2007-07-06 18:16"
+date: 2007-07-06
 slug: |
   atualizacoes-para-o-nokia-n800-e-dica-1
 tags:

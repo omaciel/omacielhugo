@@ -1,7 +1,7 @@
 ---
 category: |
   Portuguese
-date: "2007-03-08 21:48"
+date: 2007-03-08
 slug: |
   giggle-empacotado-para-o-foresight
 tags:

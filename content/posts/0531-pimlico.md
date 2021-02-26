@@ -1,6 +1,6 @@
 ---
 
-date: "2007-04-14 18:17"
+date: 2007-04-14
 slug: |
   pimlico
 tags:

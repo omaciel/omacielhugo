@@ -1,6 +1,6 @@
 ---
 
-date: "2011-11-20 22:14"
+date: 2011-11-20
 slug: |
   starting-a-new-chapter-to-infinity-and-beyond
 tags:

@@ -1,6 +1,6 @@
 ---
 
-date: "2010-10-29 13:14"
+date: 2010-10-29
 slug: |
   are-you-planning-a-gnome-3-0-launch-party
 tags:

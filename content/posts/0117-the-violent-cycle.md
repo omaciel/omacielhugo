@@ -1,6 +1,6 @@
 ---
 
-date: "2005-07-07 18:52"
+date: 2005-07-07
 slug: |
   the-violent-cycle
 tags:

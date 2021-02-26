@@ -1,6 +1,6 @@
 ---
 
-date: "2010-10-08 01:38"
+date: 2010-10-08
 slug: |
   pylyglot-now-with-more-translations
 tags:

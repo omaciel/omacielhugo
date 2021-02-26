@@ -1,6 +1,6 @@
 ---
 
-date: "2008-05-16 14:52"
+date: 2008-05-16
 slug: |
   xfce-completely-translated-to-brazilian-portuguese
 tags:
