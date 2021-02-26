@@ -2,7 +2,8 @@
 
 date: "2014-05-28 18:32:00"
 tags:
- - family, life
+ - family
+ - life
 title: Twenty Three Years
 ---
 

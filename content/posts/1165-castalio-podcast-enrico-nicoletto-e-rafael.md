@@ -5,7 +5,11 @@ date: 2013-09-03
 slug: |
   castalio-podcast-enrico-nicoletto-e-rafael
 tags:
- - castalio, podcast, ubuntu, portuguese, mandriva
+ - castalio
+ - podcast
+ - ubuntu
+ - portuguese
+ - mandriva
 title: "Castálio Podcast - Enrico Nicoletto e Rafael Ferreira: Projeto
   GNOME"
 ---

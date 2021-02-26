@@ -2,7 +2,9 @@
 
 date: "2014-12-05 10:49:00"
 tags:
- - work, redhat, anniversary
+ - work
+ - redhat
+ - anniversary
 title: Three Years and Counting!
 ---
 

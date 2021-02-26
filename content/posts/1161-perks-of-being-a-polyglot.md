@@ -4,7 +4,9 @@ date: 2013-03-28
 slug: |
   perks-of-being-a-polyglot
 tags:
- - university of north carolina, unc, english
+ - university of north carolina
+ - unc
+ - english
 title: Perks of being a polyglot
 ---
 

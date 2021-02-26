@@ -2,7 +2,8 @@
 
 date: "2014-12-31 13:26:00"
 tags:
- - books, goodreads, 2014
+ - books
+ - goodreads
 title: 2014 in Book Covers
 ---
 

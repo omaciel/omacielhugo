@@ -4,8 +4,16 @@ date: 2013-04-23
 slug: |
   adventures-in-the-music-streaming-world
 tags:
- - Music, Stream, Pandora, Spotify, Rdio, Grooveshark, Last.fm, Android,
-  iOS, english
+ - Music
+ - Stream
+ - Pandora
+ - Spotify
+ - Rdio
+ - Grooveshark
+ - Last.fm
+ - Android
+ - iOS
+ - english
 title: Adventures in the Music Streaming World
 ---
 

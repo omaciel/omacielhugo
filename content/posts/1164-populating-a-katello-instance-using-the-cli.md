@@ -4,7 +4,9 @@ date: 2013-06-04
 slug: |
   populating-a-katello-instance-using-the-cli
 tags:
- - english, katello, Red Hat
+ - english
+ - katello
+ - Red Hat
 title: Populating a Katello instance using the CLI
 ---
 

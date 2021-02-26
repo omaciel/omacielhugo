@@ -2,7 +2,8 @@
 
 date: "2014-07-12 11:20:00"
 tags:
- - translations, life
+ - translations
+ - life
 title: The End For Pylyglot
 ---
 

@@ -4,7 +4,9 @@ date: 2013-09-13
 slug: |
   using-python-to-control-katello
 tags:
- - katello, english, python
+ - katello
+ - english
+ - python
 title: Using Python to Control Katello
 ---
 

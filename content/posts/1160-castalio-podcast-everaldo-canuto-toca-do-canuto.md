@@ -5,7 +5,11 @@ date: 2013-03-19
 slug: |
   castalio-podcast-everaldo-canuto-toca-do-canuto
 tags:
- - portuguese, podcast, castálio, ubuntu, mandriva
+ - portuguese
+ - podcast
+ - castálio
+ - ubuntu
+ - mandriva
 title: "Castálio Podcast: Everaldo Canuto: Toca do Canuto"
 ---
 

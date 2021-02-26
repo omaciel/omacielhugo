@@ -2,7 +2,9 @@
 
 date: "2014-06-30 19:00:00"
 tags:
- - python, testing, qe
+ - python
+ - testing
+ - qe
 title: FauxFactory 0.3.0
 ---
 

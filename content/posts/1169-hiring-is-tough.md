@@ -2,7 +2,8 @@
 
 date: "2014-05-01 18:05:45"
 tags:
- - python, hiring
+ - python
+ - hiring
 title: Hiring is Tough!
 ---
 

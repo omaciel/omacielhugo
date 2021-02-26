@@ -4,7 +4,11 @@ date: 2013-12-09
 slug: |
   emacs-rope-for-python-development
 tags:
- - Emacs, Python, Rope, Pymacs, gnome
+ - Emacs
+ - Python
+ - Rope
+ - Pymacs
+ - gnome
 title: Emacs + Rope for Python Development
 ---
 

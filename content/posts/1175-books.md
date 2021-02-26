@@ -2,7 +2,8 @@
 
 date: "2014-09-21 12:07:00"
 tags:
- - books, life
+ - books
+ - life
 title: Books
 ---
 
