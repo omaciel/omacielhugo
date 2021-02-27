@@ -8,9 +8,6 @@ tags:
 title: Git In The Trenches
 ---
 
-\[caption id="attachment_1353" align="alignleft" width="500"
-caption="Git In The Trenches"\]**\|Git In The Trenches\|**\[/caption\]
-
 **Git In The Trenches**, or GITT is a pretty cool project by my friend
 **Peter Savage**, "*designed to be a book that focusses on teaching
 people to use Git by associating with scenarios that are experienced by

@@ -5,11 +5,10 @@ slug: |
   book-review-mockingjay
 tags:
  - english
+ - books
 title: "Book Review: Mockingjay"
 ---
-
-\[caption id="attachment_1297" align="alignleft" width="231"
-caption="Mockingjay"\][![Mockingjay](http://www.ogmaciel.com/wp-content/uploads/2011/01/cover2-231x300.jpg)](http://www.ogmaciel.com/wp-content/uploads/2011/01/cover2.jpg)\[/caption\]
+![Mockingjay](http://www.ogmaciel.com/wp-content/uploads/2011/01/cover2-231x300.jpg)
 
 > **\*Disclaimer**: My book reviews are my own impressions from my daily
 > readings and are by no means "sponsored" or "influenced" by any

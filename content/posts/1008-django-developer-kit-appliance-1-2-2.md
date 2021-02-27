@@ -5,16 +5,13 @@ slug: |
   django-developer-kit-appliance-1-2-2
 tags:
  - rpath
+ - django
+ - django developer kit
 title: Django Developer Kit Appliance 1.2.2
 ---
+![Foresight Django Pony](http://www.ogmaciel.com/wp-content/uploads/2010/09/foresightpony-300x230.png)
 
-\[caption id="attachment_1188" align="alignleft" width="300"
-caption="Foresight Django Pony"\][![Foresight Django
-Pony](http://www.ogmaciel.com/wp-content/uploads/2010/09/foresightpony-300x230.png)](http://www.ogmaciel.com/wp-content/uploads/2010/09/foresightpony.png)\[/caption\]
-
-Today I'm releasing my ï»¿[Django Developer Kit Appliance
-1.2.2](http://bit.ly/byzBLV) due to the recent [security
-release](http://www.djangoproject.com/weblog/2010/sep/08/security-release/)
+Today I'm releasing my [Django Developer Kit Appliance 1.2.2](http://bit.ly/byzBLV) due to the recent [security release](http://www.djangoproject.com/weblog/2010/sep/08/security-release/)
 of **Django 1.2.2**. Other than a newer version of Django, you'll also
 get newer versions of several packages already included by default in
 the appliance.

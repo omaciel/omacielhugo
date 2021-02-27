@@ -5,16 +5,13 @@ slug: |
   let-me-hear-your-voices
 tags:
  - english
+ - gnome
+ - boston summit
 title: Let Me Hear Your Voices
 ---
+![Speakup](http://www.ogmaciel.com/wp-content/uploads/2010/11/2848828560_6d36a3fbeb-225x300.jpg)
 
-\[caption id="attachment_1235" align="alignleft" width="225"
-caption="Speakup"\][![Speakup](http://www.ogmaciel.com/wp-content/uploads/2010/11/2848828560_6d36a3fbeb-225x300.jpg)](http://www.ogmaciel.com/wp-content/uploads/2010/11/2848828560_6d36a3fbeb.jpg)\[/caption\]
-
-This weekend I'll be attending my first [Boston
-Summit](http://live.gnome.org/Boston2010), courtesy of the[GNOME Travel
-Committee](http://live.gnome.org/Travel)! It will also be my very first
-time meeting my fellow members of the **GNOME Foundation Board of
+This weekend I'll be attending my first [Boston Summit](http://live.gnome.org/Boston2010), courtesy of the[GNOME Travel Committee](http://live.gnome.org/Travel)! It will also be my very first time meeting my fellow members of the **GNOME Foundation Board of
 Directors**, which makes me very excited!
 
 I wanted to ask you, readers of my blog, what kind of questions would

@@ -5,12 +5,11 @@ slug: |
   boston-summit-2010-day-2
 tags:
  - english
+ - gnome
+ - boston summit
 title: "Boston Summit 2010: Day 2"
 ---
-
-\[caption id="attachment_715" align="alignleft" width="213"
-caption="GNOME Sponsored"\][![GNOME
-Sponsored](http://www.ogmaciel.com/wp-content/uploads/2009/06/sponsored-badge-simple.png)](http://www.ogmaciel.com/wp-content/uploads/2009/06/sponsored-badge-simple.png)\[/caption\]
+![GNOME Sponsored](http://www.ogmaciel.com/wp-content/uploads/2009/06/sponsored-badge-simple.png)
 
 I got back from the **Boston Summit** around 22:00 Sunday evening and by
 the time I arrived home from the airport I was too tired to write up a

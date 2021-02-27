@@ -5,11 +5,10 @@ slug: |
   are-you-planning-a-gnome-3-0-launch-party
 tags:
  - english
+ - gnome
 title: Are You Planning a GNOME 3.0 Launch Party?
 ---
-
-\[caption id="attachment_1227" align="alignleft" width="115"
-caption="GNOME"\][![GNOME](http://www.ogmaciel.com/wp-content/uploads/2010/10/GnomeBrandBook-VerticalOrientation.png)](http://www.ogmaciel.com/wp-content/uploads/2010/10/GnomeBrandBook-VerticalOrientation.png)\[/caption\]
+![GNOME](http://www.ogmaciel.com/wp-content/uploads/2010/10/GnomeBrandBook-VerticalOrientation.png)
 
 In order to promote the **GNOME 3.0** launch and spread the idea amongst
 the GNOME community members, I'm sharing the following message! Please

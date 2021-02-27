@@ -63,7 +63,7 @@ the "**ACME_Corporation**" that gets automatically created for a
 default installation:
 
  
-
+```shell
 > organization_api = OrganizationAPI()
 >
 > org = organization_api.organization(\'ACME_Corporation\') print org
@@ -74,13 +74,13 @@ default installation:
 > u'ACME_Corporation', u'owner_auto_attach_all_systems_task_id': None,
 > u'service_level': None, u'service_levels': \[\], u'updated_at':
 > u'2013-09-12T20:15:06Z'}
+```
 
-| 
 
 Lastly, let's create a brand new organization:
 
  
-
+```shell
 > new_org = organization_api.create(name=\'New Org\', label=\'new-org\',
 > description=\'Created via API\') print new_org {u'apply_info_task_id':
 > None, u'created_at': u'2013-09-12T21:48:55Z', u'default_info':
@@ -89,8 +89,7 @@ Lastly, let's create a brand new organization:
 > u'name': u'New Org', u'owner_auto_attach_all_systems_task_id': None,
 > u'service_level': None, u'service_levels': \[\], u'updated_at':
 > u'2013-09-12T21:48:55Z'}
-
-| 
+``` 
 
 As you can see, it is pretty straight forward to use python to create
 some useful scripts to drive a Katello server, whether you want to
@@ -98,8 +97,6 @@ populate it with a pre-defined set of data (e.g. default users, roles,
 permissions, organizations, content, etc) or to test core functionality
 as I do with [Mangonel](https://github.com/omaciel/mangonel), my pet
 project.
-
- 
 
 Here's a [Gist](https://gist.github.com/anonymous/71c0527841d30b80424b)
 of the code mentioned in this post, and let me know if this was useful

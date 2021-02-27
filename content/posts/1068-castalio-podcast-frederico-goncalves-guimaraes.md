@@ -6,15 +6,10 @@ slug: |
   castalio-podcast-frederico-goncalves-guimaraes
 tags:
  - portuguese
+ - castalio
+ - podcast
 title: "Castálio Podcast: Frederico Gonçalves Guimaraes"
 ---
-
-﻿﻿
-
-\[caption id="attachment_34" align="alignleft" width="300"
-caption="Frederico Gonçalves Guimaraes"\][![Frederico Gonçalves
-Guimaraes](http://www.castalio.info/wp-content/uploads/2011/05/foto1-300x260.jpg)](http://www.castalio.info/wp-content/uploads/2011/05/foto1.jpg)\[/caption\]
-
 Não resisti esperar até segunda-feira para publicar o mais novo episódio
 do Castálio Podcast, então lá vai!
 

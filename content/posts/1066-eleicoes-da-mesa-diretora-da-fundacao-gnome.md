@@ -5,12 +5,10 @@ slug: |
   eleicoes-da-mesa-diretora-da-fundacao-gnome
 tags:
  - portuguese
+ - gnome board of directors
 title: Eleições da Mesa Diretora da Fundação GNOME
 ---
-
-\[caption id="" align="alignnone" width="356" caption="By Gwen's River
-City
-Images"\][![image0](http://farm4.static.flickr.com/3273/3003414804_39693eb619_d.jpg)](http://www.flickr.com/photos/auntie/3003414804/)\[/caption\]
+![image0](http://farm4.static.flickr.com/3273/3003414804_39693eb619_d.jpg)
 
 Está aberto o período de inscrição para aqueles interessados a se
 candidatar para um dos 7 cargos para a mesa diretora da **Fundação

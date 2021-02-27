@@ -8,9 +8,7 @@ tags:
 title: Feel Good Friday
 ---
 
-\[caption id="attachment_1379" align="alignleft" width="180"
-caption="Feel Good"\][![Feel
-Good](http://www.ogmaciel.com/wp-content/uploads/2011/03/3891444873_a5d09e1c59_m.jpg)](http://www.ogmaciel.com/wp-content/uploads/2011/03/3891444873_a5d09e1c59_m.jpg)\[/caption\]
+![Feel Good](http://www.ogmaciel.com/wp-content/uploads/2011/03/3891444873_a5d09e1c59_m.jpg)
 
 This is more of a "feel good" post, mostly for me! Through my life I
 have come across a fork on the road many times, and for the last 4+

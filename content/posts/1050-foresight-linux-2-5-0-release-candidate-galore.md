@@ -5,12 +5,10 @@ slug: |
   foresight-linux-2-5-0-release-candidate-galore
 tags:
  - rpath
+ - foresight
 title: Foresight Linux 2.5.0 Release Candidate Galore!
 ---
-
-\[caption id="attachment_1363" align="aligncenter" width="500"
-caption="Foresight Linux 2.5.0 RC"\][![Foresight Linux 2.5.0
-RC](http://www.ogmaciel.com/wp-content/uploads/2011/03/Screenshot-5.png)](http://www.ogmaciel.com/wp-content/uploads/2011/03/Screenshot-5.png)\[/caption\]
+![Foresight Linux 2.5.0 RC](http://www.ogmaciel.com/wp-content/uploads/2011/03/Screenshot-5.png)
 
 It is with great pleasure that I announce the release of **Foresight
 2.5.0 RC!** This time, we have updated images for **GNOME**, **Xfce**

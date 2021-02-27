@@ -5,6 +5,7 @@ slug: |
   announcing-foresight-linux-2-5-0-alpha-1-gnome-edition
 tags:
  - english
+ - foresight
 title: Announcing Foresight Linux 2.5.0 ALPHA 1 GNOME Edition
 ---
 

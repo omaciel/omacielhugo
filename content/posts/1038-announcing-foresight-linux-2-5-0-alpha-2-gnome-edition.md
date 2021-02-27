@@ -5,6 +5,7 @@ slug: |
   announcing-foresight-linux-2-5-0-alpha-2-gnome-edition
 tags:
  - rpath
+ - foresight
 title: Announcing Foresight Linux 2.5.0 ALPHA 2 GNOME Edition
 ---
 

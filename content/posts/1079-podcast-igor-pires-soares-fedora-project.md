@@ -5,12 +5,10 @@ slug: |
   podcast-igor-pires-soares-fedora-project
 tags:
  - english
+ - castalio
+ - podcast
 title: "Podcast: Igor Pires Soares - Fedora Project"
 ---
-
-\[caption id="attachment_52" align="alignleft" width="250" caption="Igor
-Soares - Projeto Fedora"\][![Igor Soares - Projeto
-Fedora](http://www.castalio.info/wp-content/uploads/2011/07/igorsoares-250x300.png)](http://www.castalio.info/wp-content/uploads/2011/07/igorsoares.png)\[/caption\]
 
 I had a chance to interview [Igor Pires Soares](http://igorsoares.com/)
 from the **Fedora Project** and chat about how he got started with

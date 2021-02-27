@@ -5,12 +5,11 @@ slug: |
   running-on-empty
 tags:
  - english
+ - rpath
+ - life
 title: Running On Empty
 ---
-
-\[caption id="attachment_1185" align="alignleft" width="240"
-caption="Running on epty"\][![Running on
-epty](http://www.ogmaciel.com/wp-content/uploads/2010/08/3340658838_c421fd5737_m.jpg)](http://www.ogmaciel.com/wp-content/uploads/2010/08/3340658838_c421fd5737_m.jpg)\[/caption\]
+![Running on empty](http://www.ogmaciel.com/wp-content/uploads/2010/08/3340658838_c421fd5737_m.jpg)
 
 This post has been sitting in my *Drafts* folder for a while now, as I
 wasn't sure when the right time would be to publish it. It is basically

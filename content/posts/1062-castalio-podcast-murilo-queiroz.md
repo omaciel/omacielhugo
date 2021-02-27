@@ -6,15 +6,10 @@ slug: |
   castalio-podcast-murilo-queiroz
 tags:
  - portuguese
+ - podcast
+ - castalio
 title: "Castálio Podcast: Murilo Queiroz"
 ---
-
-﻿
-
-\[caption id="attachment_615" align="alignleft" width="300"
-caption="Castálio Podcast: Em Busca dos Tesouros"\][![Castálio Podcast:
-Em Busca dos
-Tesouros](http://blog.ogmaciel.com/wp-content/uploads/2011/04/ebdt-4-300x228.png)](http://blog.ogmaciel.com/wp-content/uploads/2011/04/ebdt-4.png)\[/caption\]
 
 Neste último episódio tive um bate-papo super divertido com o **Murilo
 Queiroz**, sobre "**Em Busca dos Tesouros**", um joguinho de computador

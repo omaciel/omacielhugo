@@ -5,19 +5,16 @@ slug: |
   announcing-foresight-based-django-developer-kit-applianc
 tags:
  - rpath
+ - django
+ - foresight
+ - django developer kit
 title: "Announcing: Foresight based Django Developer Kit Appliance RC1"
 ---
-
-\[caption id="attachment_1194" align="alignleft" width="300"
-caption="Foresight Linux based Django Developer Kit
-Appliance"\][![Foresight Linux based Django Developer Kit
-Appliance](http://www.ogmaciel.com/wp-content/uploads/2010/09/Screenshot-QEMU-300x225.png)](http://www.ogmaciel.com/wp-content/uploads/2010/09/Screenshot-QEMU.png)\[/caption\]
+![Foresight Linux based Django Developer Kit Appliance](http://www.ogmaciel.com/wp-content/uploads/2010/09/Screenshot-QEMU-300x225.png)
 
 If you remember one of my last [posts](http://www.ogmaciel.com/?p=1187),
 I wanted to eventually migrate my [Django Developer Kit
-Appliance](http://bit.ly/byzBLV) to use [Foresight
-Linux](http://foresightlinux.org) as the underlying operating system...
-and I am proud to announce that I have made huge strides toward this
+Appliance](http://bit.ly/byzBLV) to use [Foresight Linux](http://foresightlinux.org) as the underlying operating system... and I am proud to announce that I have made huge strides toward this
 goal!
 
 Thanks to the guidance of some fellow [rPathians](http://www.rpath.com),
@@ -39,18 +36,13 @@ database (PostgreSQL) for you too!
 Feel like taking the appliance for a spin? The following images are
 available for download:
 
--   [Appliance ISO
-    x86](https://www.rpath.org/downloadImage?fileId=42149&urlType=0)
+-   [Appliance ISO x86](https://www.rpath.org/downloadImage?fileId=42149&urlType=0)
     (SHA1 1ef4c09323ce6ea4f392c60dfbc494cea68a5264)
--   [Appliance ISO
-    x86_64](https://www.rpath.org/downloadImage?fileId=42153&urlType=0)
+-   [Appliance ISO x86_64](https://www.rpath.org/downloadImage?fileId=42153&urlType=0)
     (SHA1 74f60fbcf19649762106b9321ecdc1ffd08cdeb1)
--   [Raw Filesystem
-    x86](https://www.rpath.org/downloadImage?fileId=42152&urlType=0)
+-   [Raw Filesystem x86](https://www.rpath.org/downloadImage?fileId=42152&urlType=0)
     (SHA1 c5a7aa2cc294ab2324e9651ebbaf95ad0c5bda1a)
--   [Raw Filesystem
-    x86_64](https://www.rpath.org/downloadImage?fileId=42148&urlType=0)
+-   [Raw Filesystem x86_64](https://www.rpath.org/downloadImage?fileId=42148&urlType=0)
     (SHA1 b2eb8fe9bb6d702d8446f2a1ff39839c1b4b899f)
 
-As always, feel free to drop me a line with your comments or
-suggestions.
+As always, feel free to drop me a line with your comments or suggestions.

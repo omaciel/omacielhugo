@@ -5,12 +5,12 @@ slug: |
   moving-wordpress-blog-to-amazons-ec2
 tags:
  - english
-title: Moving WordPress Blog to Amazon\'s EC2
+ - wordpress
+ - ec2
+title: Moving WordPress Blog to Amazon's EC2
 ---
 
-\[caption id="attachment_1337" align="alignleft" width="500"
-caption="King Cloud"\][![King
-Cloud](http://www.ogmaciel.com/wp-content/uploads/2011/02/704056791_63f1e492d8.jpg)](http://www.ogmaciel.com/wp-content/uploads/2011/02/704056791_63f1e492d8.jpg)\[/caption\]
+![King Cloud](http://www.ogmaciel.com/wp-content/uploads/2011/02/704056791_63f1e492d8.jpg)
 
 You probably remember [reading](http://www.ogmaciel.com/?p=1303) about
 my issues with running my **WordPress**-based blog on **Dreamhost**\'s

@@ -5,12 +5,10 @@ slug: |
   book-review-catching-fire
 tags:
  - english
+ - books
 title: "Book Review: Catching Fire"
 ---
-
-\[caption id="attachment_1288" align="alignleft" width="201"
-caption="Catching Fire"\][![Catching
-Fire](http://www.ogmaciel.com/wp-content/uploads/2011/01/cover1-201x300.jpg)](http://www.ogmaciel.com/wp-content/uploads/2011/01/cover1.jpg)\[/caption\]
+![Catching Fire](http://www.ogmaciel.com/wp-content/uploads/2011/01/cover1-201x300.jpg)
 
 > **\*Disclaimer**: My book reviews are my own impressions from my daily
 > readings and are by no means "sponsored" or "influenced" by any

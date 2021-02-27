@@ -6,11 +6,12 @@ slug: |
   castalio-podcast-johan-dahlin
 tags:
  - portuguese
+ - castalio
+ - podcast
 title: "Castálio Podcast: Johan Dahlin"
 ---
 
-Neste novo episódio conversei com o [Johan
-Dahlin](http://blogs.gnome.org/johan), um dos programadores do mundo do
+Neste novo episódio conversei com o [Johan Dahlin](http://blogs.gnome.org/johan), um dos programadores do mundo do
 software livre  que eu mais admiro! O Johan nasceu na **Suécia** mas
 mora no Brasil desde 2004. No currículo dele temos participações em
 várias companhias de nome no mundo do software livre, como

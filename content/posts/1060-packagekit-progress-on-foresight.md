@@ -5,6 +5,8 @@ slug: |
   packagekit-progress-on-foresight
 tags:
  - english
+ - foresight
+ - packagekit
 title: PackageKit Progress on Foresight
 ---
 

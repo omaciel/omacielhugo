@@ -5,7 +5,10 @@ date: 2011-05-30
 slug: |
   castalio-podcast-yuri-malheiros
 tags:
- - castalio, podcast, yuri malheiros
+ - castalio
+ - castalio
+ - podcast
+ - yuri malheiros
 title: "Castálio Podcast: Yuri Malheiros"
 ---
 

@@ -5,6 +5,7 @@ slug: |
   foresight-linux-2-5-0
 tags:
  - english
+ - foresight
 title: Foresight Linux 2.5.0!
 ---
 
@@ -15,9 +16,7 @@ This is our first official release in almost 2 years
 and it is filled to the brim with the very latest stable applications
 out there!
 
-\[caption id="attachment_1376" align="aligncenter" width="300"
-caption="Foresight Linux GNOME Edition"\][![Foresight Linux GNOME
-Edition](http://www.ogmaciel.com/wp-content/uploads/2011/03/desktop032320111-300x168.png)](http://www.ogmaciel.com/wp-content/uploads/2011/03/desktop032320111.png)\[/caption\]
+![Foresight Linux GNOME Edition](http://www.ogmaciel.com/wp-content/uploads/2011/03/desktop032320111-300x168.png)
 
 A lot of work, sweat, and tears by a lot of different people went into
 getting this release out the door, and to all of you out there who stood

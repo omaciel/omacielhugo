@@ -5,11 +5,11 @@ slug: |
   gnome-3-0-translations
 tags:
  - english
+ - gnome
+ - translations
 title: GNOME 3.0 Translations
 ---
-
-\[caption id="attachment_1368" align="alignleft" width="179"
-caption="Pylyglot"\][![Pylyglot](http://www.ogmaciel.com/wp-content/uploads/2011/03/logo-179x119.jpg)](http://www.ogmaciel.com/wp-content/uploads/2011/03/logo-179x119.jpg)\[/caption\]
+![Pylyglot](http://www.ogmaciel.com/wp-content/uploads/2011/03/logo-179x119.jpg)
 
 Hey, are you feverishly working on the **translation** for the upcoming
 **GNOME 3.0** release? Do you find yourself often wondering how a

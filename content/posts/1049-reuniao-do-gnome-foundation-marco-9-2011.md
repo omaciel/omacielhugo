@@ -5,6 +5,7 @@ slug: |
   reuniao-do-gnome-foundation-marco-9-2011
 tags:
  - portuguese
+ - gnome board of directors
 title: "Reunião do GNOME Foundation: Março 9, 2011"
 ---
 

@@ -5,6 +5,7 @@ slug: |
   everything-you-ever-wanted-to-know-about-the-creative-co
 tags:
  - english
+ - creative commons
 title: Everything You Ever Wanted To Know About The Creative Commons
   Licenses But Was Afraid To Ask
 ---

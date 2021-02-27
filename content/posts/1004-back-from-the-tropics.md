@@ -5,6 +5,7 @@ slug: |
   back-from-the-tropics
 tags:
  - english
+ - brazil
 title: Back from the Tropics
 ---
 
@@ -15,9 +16,7 @@ and relatives and since I couldn't make it to **GUADEC** and take my
 family on vacation at the same time, we hoped on a straight flight to
 **Rio de Janeiro** from **Charlotte**\'s international airport.
 
-\[caption id="attachment_1164" align="alignright" width="300"
-caption="Meeting Kurt"\][![Meeting
-Kurt](http://www.ogmaciel.com/wp-content/uploads/2010/08/Imagem0105-300x225.jpg)](http://www.ogmaciel.com/wp-content/uploads/2010/08/Imagem0105.jpg)\[/caption\]
+![Meeting Kurt](http://www.ogmaciel.com/wp-content/uploads/2010/08/Imagem0105-300x225.jpg)
 
 While waiting for my connection flight, I had the great pleasure of
 finally meeting in person my good friend **KurtKraut**, someone who I
@@ -34,8 +33,7 @@ at any given moment my dad's house where we were staying, would be
 swarmed by an army of cousins, uncles, aunts and friends who wanted to
 say hi and meet my kids!
 
-\[caption id="attachment_1167" align="alignleft" width="225"
-caption="Mine!!!"\][![Mine!!!](http://www.ogmaciel.com/wp-content/uploads/2010/08/dscn1116_1-225x300.jpg)](http://www.ogmaciel.com/wp-content/uploads/2010/08/dscn1116_1.jpg)\[/caption\]
+![Mine!!!](http://www.ogmaciel.com/wp-content/uploads/2010/08/dscn1116_1-225x300.jpg)
 
 When we weren't busy chatting, we were busy **eating and drinking**! I
 went overboard this time and eat a lot of everything that got in front

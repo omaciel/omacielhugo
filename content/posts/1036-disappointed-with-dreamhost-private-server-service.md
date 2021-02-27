@@ -5,12 +5,10 @@ slug: |
   disappointed-with-dreamhost-private-server-service
 tags:
  - rpath
+ - dreamhost
 title: Disappointed With Dreamhost Private Server Service
 ---
-
-\[caption id="attachment_1304" align="alignleft" width="300"
-caption="Sad Face"\][![Sad
-Face](http://www.ogmaciel.com/wp-content/uploads/2011/01/259997124_0523ad0ce8-300x225.jpg)](http://www.ogmaciel.com/wp-content/uploads/2011/01/259997124_0523ad0ce8.jpg)\[/caption\]
+![Sad Face](http://www.ogmaciel.com/wp-content/uploads/2011/01/259997124_0523ad0ce8-300x225.jpg)
 
 This year I decided to do something I've wanted to do for a very long
 time: get my own private Linux server! A place where I could have total

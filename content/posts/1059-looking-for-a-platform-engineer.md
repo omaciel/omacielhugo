@@ -7,10 +7,6 @@ tags:
  - rpath
 title: Looking For A Platform Engineer
 ---
-
-\[caption id="attachment_1392" align="alignleft" width="300"
-caption="Looking!"\][![Looking!](http://www.ogmaciel.com/wp-content/uploads/2011/04/4240983430_3dbdab9833-300x279.jpg)](http://www.ogmaciel.com/wp-content/uploads/2011/04/4240983430_3dbdab9833.jpg)\[/caption\]
-
 My [employer](http://www.rpath.com) is currently looking for a
 **Platform Engineer** to join our team at our new office in **Raleigh**,
 **NC**! We have a great team working on some really cool and bleeding

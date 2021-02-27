@@ -5,15 +5,13 @@ slug: |
   helping-the-belarusian-and-esperanto-translations
 tags:
  - english
+ - pylyglot
+ - translations
 title: Helping the Belarusian and Esperanto Translations
 ---
+![Two New Languages](http://www.ogmaciel.com/wp-content/uploads/2010/10/2397379457_f8345ee812-214x300.jpg)
 
-\[caption id="attachment_1213" align="alignleft" width="214"
-caption="Two New Languages"\][![Two New
-Languages](http://www.ogmaciel.com/wp-content/uploads/2010/10/2397379457_f8345ee812-214x300.jpg)](http://www.ogmaciel.com/wp-content/uploads/2010/10/2397379457_f8345ee812.jpg)\[/caption\]
-
-Thanks to comments by **booxter** and [Patrick
-Niedzielski](http://freesoftwarehacker.blogspot.com/), I have added
+Thanks to comments by **booxter** and [Patrick Niedzielski](http://freesoftwarehacker.blogspot.com/), I have added
 support for 2 more languages to [Pylyglot](http://pylyglot.org):
 **Belarusian** and **Esperanto**! So far I had been adding languages
 according to their translation percentage, starting from the top and

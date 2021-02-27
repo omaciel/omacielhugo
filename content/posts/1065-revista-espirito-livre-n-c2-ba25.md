@@ -7,10 +7,7 @@ tags:
  - portuguese
 title: Revista Espiríto Livre Nº25
 ---
-
-\[caption id="" align="alignleft" width="409" caption="Revista Espiríto
-Livre"\][![Revista Espiríto
-Livre](http://revista.espiritolivre.org/img/REL025_Capa.jpg)](http://va.mu/CY0)\[/caption\]
+![Revista Espiríto Livre](http://revista.espiritolivre.org/img/REL025_Capa.jpg)
 
 Para começar esta nova semana, que tal fazer o
 [download](http://va.mu/CY0) da nova edição da **Revista Espiríto

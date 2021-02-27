@@ -5,12 +5,12 @@ slug: |
   because-your-distro-should-be-cool
 tags:
  - rpath
+ - foresight
 title: Because Your Distro Should Be Cool!
 ---
 
 It is with my **Community Manager** hat and as a **Linux enthusiast**
-that I bring you this post about the [Foresight
-Linux](http://www.foresightlinux.org) distribution, literally born and
+that I bring you this post about the [Foresight Linux](http://www.foresightlinux.org) distribution, literally born and
 brewed where I work and filled to the brim with the technology developed
 at **rPath**. However, this is not yet another article about yet another
 Linux distribution with arguments about how great it is compared to
@@ -27,9 +27,7 @@ where you'd go! But nowadays I feel that a lot of the popular
 distributions are pretty much shipping the same set of things plus or
 minus a feature here or there.
 
-\[caption id="" align="alignnone" width="500" caption="The many faces of
-Foresight Linux"\][![The many faces of Foresight
-Linux](http://farm3.static.flickr.com/2444/3621581862_e90009822a.jpg)](http://farm3.static.flickr.com/2444/3621581862_edb018d6ef_o_d.jpg)\[/caption\]
+![The many faces of Foresight Linux](http://farm3.static.flickr.com/2444/3621581862_e90009822a.jpg)
 
 Instead, I'd like to tell you about a couple of nice features I came to
 grow very fond of after having run **Foresight** as my main distribution
@@ -82,7 +80,4 @@ a small team that just love what we do!
 
 I think I should also mention that most of our discussions or even
 support happens via the irc channel (**\#foresight** and
-**\#foresight-devel** on **Freenode**) and [mailing
-lists](http://lists.rpath.org/mailman/listinfo/foresight-devel), but you
-are guaranteed to find a courteous and helpful bunch. It is very
-captivating, trust me!
+**\#foresight-devel** on **Freenode**) and [mailing lists](http://lists.rpath.org/mailman/listinfo/foresight-devel), but you are guaranteed to find a courteous and helpful bunch. It is very captivating, trust me!

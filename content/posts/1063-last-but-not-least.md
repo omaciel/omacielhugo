@@ -8,10 +8,6 @@ tags:
 title: Last But Not Least
 ---
 
-\[caption id="attachment_1407" align="alignleft" width="225"
-caption="Last But Not Least"\][![Last But Not
-Least](http://www.ogmaciel.com/wp-content/uploads/2011/04/5427320487_61e9e6c59d-225x300.jpg)](http://www.ogmaciel.com/wp-content/uploads/2011/04/5427320487_61e9e6c59d.jpg)\[/caption\]
-
 With all the blog posts, newsfeeds and social media channels abuzz with
 the latest and greatest releases these past 2 days I just wanted to take
 the time to add one more thank you note:

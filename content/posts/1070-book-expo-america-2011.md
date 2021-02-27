@@ -5,12 +5,11 @@ slug: |
   book-expo-america-2011
 tags:
  - english
+ - books
+ - book expo america
 title: Book Expo America 2011
 ---
-
-\[caption id="" align="alignleft" width="173" caption="BookExpo
-America"\][![BookExpo
-America](http://www.bookexpoamerica.com/RNA/RNA_BookExpo_V2/images/2011/logo_BEA11.jpg)](http://www.bookexpoamerica.com/)\[/caption\]
+![BookExpo America](http://www.bookexpoamerica.com/RNA/RNA_BookExpo_V2/images/2011/logo_BEA11.jpg)
 
 Taking a day off tomorrow to fly to NYC with my oldest daughter so we
 can both attend this year's [Book Expo

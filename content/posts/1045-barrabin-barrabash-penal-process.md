@@ -5,6 +5,7 @@ slug: |
   barrabin-barrabash-penal-process
 tags:
  - english
+ - barrabin barrabash
 title: "Barrabin Barrabash: Penal Process"
 ---
 
@@ -13,7 +14,4 @@ into his magic tricks to scape prison, in another one of my translations
 from the [original](http://nerdson.com/blog/processo-penal/)
 by [Karlisson Bezerra](http://nerdson.com/).
 
-\[caption id="attachment_1348" align="aligncenter" width="600"
-caption="Barrabin Barrabash: Penal Process"\][![Barrabin Barrabash:
-Penal
-Process](http://www.ogmaciel.com/wp-content/uploads/2011/02/nerdson244.png)](http://www.ogmaciel.com/wp-content/uploads/2011/02/nerdson244.png)\[/caption\]
+![Barrabin Barrabash: Penal Process](http://www.ogmaciel.com/wp-content/uploads/2011/02/nerdson244.png)

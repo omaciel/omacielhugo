@@ -5,12 +5,10 @@ slug: |
   book-review-emblem-divide
 tags:
  - english
+ - books
 title: "Book Review: Emblem Divide"
 ---
-
-\[caption id="attachment_1308" align="alignleft" width="150"
-caption="Emblem Divide"\][![Emblem
-Divide](http://www.ogmaciel.com/wp-content/uploads/2011/02/emblem-divide-cover.png)](http://www.ogmaciel.com/wp-content/uploads/2011/02/emblem-divide-cover.png)\[/caption\]
+![Emblem Divide](http://www.ogmaciel.com/wp-content/uploads/2011/02/emblem-divide-cover.png)
 
 > **\*Disclaimer**: My book reviews are my own impressions from my daily
 > readings and are by no means "sponsored" or "influenced" by any

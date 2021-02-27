@@ -5,12 +5,11 @@ slug: |
   boston-summit-2010-day-1
 tags:
  - english
+ - gnome
+ - boston summit
 title: "Boston Summit 2010: Day 1"
 ---
-
-\[caption id="attachment_715" align="alignleft" width="213"
-caption="GNOME Sponsored"\][![GNOME
-Sponsored](http://www.ogmaciel.com/wp-content/uploads/2009/06/sponsored-badge-simple.png)](http://www.ogmaciel.com/wp-content/uploads/2009/06/sponsored-badge-simple.png)\[/caption\]
+![GNOME Sponsored](http://www.ogmaciel.com/wp-content/uploads/2009/06/sponsored-badge-simple.png)
 
 Finally sat down to write down about my first day attending the **Boston
 Summit 2010** but Paul

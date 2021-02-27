@@ -4,12 +4,16 @@ date: 2011-03-07
 slug: |
   life-at-rpath-4-years-and-counting
 tags:
- - rpath, north carolina, chapel hill, weaver street market, conary
+ - rpath
+ - north carolina
+ - chapel hill
+ - weaver street market
+ - conary
+ - souschef
 title: "Life at rPath: 4+ Years And Counting"
 ---
 
-[![The
-Road](http://www.ogmaciel.com/wp-content/uploads/2011/03/roadmap.png)](http://www.ogmaciel.com/wp-content/uploads/2011/03/roadmap.png)
+![The Road](http://www.ogmaciel.com/wp-content/uploads/2011/03/roadmap.png)
 
 It was around the end of 2006. Having spent most of my life living in
 the New Jersey - New York axis and close to my family, I bought a

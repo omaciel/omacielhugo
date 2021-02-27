@@ -5,12 +5,13 @@ slug: |
   31-books-13360-pages-and-counting
 tags:
  - english
+ - books
 title: 31 Books, 13360 Pages and Counting
 ---
 
-[![My Book - Bound Edge by Kate
-Elliot](http://www.ogmaciel.com/wp-content/uploads/2010/12/2249857435_e52eb9c6ba-240x300.jpg)](http://www.ogmaciel.com/wp-content/uploads/2010/12/2249857435_e52eb9c6ba.jpg)One
-of my **New Year's resolution** for **2010** was the ambitious goal of
+![My Book - Bound Edge by Kate Elliot](http://www.ogmaciel.com/wp-content/uploads/2010/12/2249857435_e52eb9c6ba-240x300.jpg)
+
+One of my **New Year's resolution** for **2010** was the ambitious goal of
 **reading one book for every week of the year**! In other words, to read
 a total of **52 books** for 2010! I knew that it would be very hard to
 complete this resolution without cheating and choosing thin books but I

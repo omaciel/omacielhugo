@@ -5,12 +5,10 @@ slug: |
   looking-for-a-graphic-designer
 tags:
  - english
+ - foresight
 title: Looking For a Graphic Designer
 ---
-
-\[caption id="attachment_1261" align="aligncenter" width="300"
-caption="Foresight Linux"\][![Foresight
-Linux](http://www.ogmaciel.com/wp-content/uploads/2010/12/FL.logo_.a4-300x45.png)](http://www.ogmaciel.com/wp-content/uploads/2010/12/FL.logo_.a4.png)\[/caption\]
+![Foresight Linux](http://www.ogmaciel.com/wp-content/uploads/2010/12/FL.logo_.a4-300x45.png)
 
 The [Foresight Linux](http://www.foresightlinux.org) team is looking for
 a good **graphic designer** to help them with a **splash screen**!

@@ -5,18 +5,17 @@ slug: |
   django-devel-kit-appliance-1-2-3
 tags:
  - rpath
+ - django
+ - foresight
+ - django developer kit
 title: Django Devel Kit Appliance 1.2.3
 ---
-
-\[caption id="attachment_1191" align="alignleft" width="300"
-caption="Oops!"\][![Oops!](http://www.ogmaciel.com/wp-content/uploads/2010/09/508647245_178fc7941d-300x199.jpg)](http://www.ogmaciel.com/wp-content/uploads/2010/09/508647245_178fc7941d.jpg)\[/caption\]
+![Oops!](http://www.ogmaciel.com/wp-content/uploads/2010/09/508647245_178fc7941d-300x199.jpg)
 
 No, this is not a repeat from yesterday's post. Turns out there was
-another [security
-release](http://www.djangoproject.com/weblog/2010/sep/10/123/) for
+another [security release](http://www.djangoproject.com/weblog/2010/sep/10/123/) for
 **Django** yesterday (thanks **Zygmunt** for the heads up), so here's
-the release of ï»¿[Django Developer Kit Appliance
-1.2.3](http://bit.ly/byzBLV).
+the release of [Django Developer Kit Appliance 1.2.3](http://bit.ly/byzBLV).
 
 As always, choose from the following image types:
 

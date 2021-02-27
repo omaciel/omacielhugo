@@ -5,6 +5,7 @@ slug: |
   barrabin-barrabash-sql-inception
 tags:
  - english
+ - barrabin barrabash
 title: "Barrabin Barrabash: SQL Inception"
 ---
 

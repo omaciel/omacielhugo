@@ -5,12 +5,10 @@ slug: |
   gnome-board-of-directors-elections-2011
 tags:
  - english
+ - gnome board of directors
 title: GNOME Board of Directors Elections 2011
 ---
-
-\[caption id="" align="alignnone" width="356" caption="By Gwen's River
-City
-Images"\][![image0](http://farm4.static.flickr.com/3273/3003414804_39693eb619_d.jpg)](http://www.flickr.com/photos/auntie/3003414804/)\[/caption\]
+![image0](http://farm4.static.flickr.com/3273/3003414804_39693eb619_d.jpg)
 
 I can't believe it's been this long already, but it is time for yet
 another **Board of Directors Election**! Having had the opportunity to

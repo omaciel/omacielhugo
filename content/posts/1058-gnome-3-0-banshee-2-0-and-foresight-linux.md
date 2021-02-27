@@ -5,12 +5,11 @@ slug: |
   gnome-3-0-banshee-2-0-and-foresight-linux
 tags:
  - english
+ - gnome
+ - foresight
+ - banshee
 title: GNOME 3.0, Banshee 2.0 and Foresight Linux
 ---
-
-\[caption id="attachment_1388" align="alignleft" width="200"
-caption="GNOME 3.0"\][![GNOME
-3.0](http://www.ogmaciel.com/wp-content/uploads/2011/04/iamgnome.png)](http://www.ogmaciel.com/wp-content/uploads/2011/04/iamgnome.png)\[/caption\]
 
 First off, congratulations to everyone involved in the release of [GNOME
 3.0](http://www.gnome.org/news/2011/04/gnome-3-0-has-arrived/)! In the

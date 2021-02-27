@@ -8,10 +8,7 @@ tags:
  - portuguese
 title: Apresentando o Castálio Podcast
 ---
-
-\[caption id="attachment_582" align="alignleft" width="300"
-caption="Castálio Episódio Zero"\][![Castálio Episódio
-Zero](http://blog.ogmaciel.com/wp-content/uploads/2011/02/4342631214_1d27a28700-300x225.jpg)](http://blog.ogmaciel.com/wp-content/uploads/2011/02/4342631214_1d27a28700.jpg)\[/caption\]
+![Castálio Episódio Zero](http://blog.ogmaciel.com/wp-content/uploads/2011/02/4342631214_1d27a28700-300x225.jpg)
 
 Só queria anunciar mais um novo projeto que iniciei com o meu amigo
 [Evandro Pastor](http://www.quartoestudio.com/). Trata-se do [Castálio

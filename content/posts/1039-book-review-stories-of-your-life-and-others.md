@@ -5,13 +5,10 @@ slug: |
   book-review-stories-of-your-life-and-others
 tags:
  - english
+ - books
 title: "Book Review: Stories of Your Life: and Others"
 ---
-
-\[caption id="attachment_1319" align="alignleft" width="200"
-caption="Stories of Your Life: and Others by Ted Chiang"\][![Stories of
-Your Life: and Others by Ted
-Chiang](http://www.ogmaciel.com/wp-content/uploads/2011/02/cover-200x300.jpg)](http://www.ogmaciel.com/wp-content/uploads/2011/02/cover.jpg)\[/caption\]
+![Stories of Your Life: and Others by Ted Chiang](http://www.ogmaciel.com/wp-content/uploads/2011/02/cover-200x300.jpg)
 
 > **\*Disclaimer**: My book reviews are my own impressions from my daily
 > readings and are by no means "sponsored" or "influenced" by any

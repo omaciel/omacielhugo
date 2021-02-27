@@ -5,6 +5,7 @@ slug: |
   transifex-appliance-1-0-proteus-release
 tags:
  - rpath
+ - transifex
 title: Transifex Appliance 1.0 (Proteus) Release
 ---
 

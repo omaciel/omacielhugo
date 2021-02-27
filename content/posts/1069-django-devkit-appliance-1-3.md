@@ -5,12 +5,11 @@ slug: |
   django-devkit-appliance-1-3
 tags:
  - english
+ - django
+ - django devkit appliance
 title: Django DevKit Appliance 1.3
 ---
-
-\[caption id="attachment_853" align="alignleft" width="300"
-caption="Django"\][![Django
-logo](http://www.ogmaciel.com/wp-content/uploads/2010/03/django-logo-negative-300x136.png)](http://www.ogmaciel.com/wp-content/uploads/2010/03/django-logo-negative.png)\[/caption\]
+![Django logo](http://www.ogmaciel.com/wp-content/uploads/2010/03/django-logo-negative-300x136.png)
 
 It's been a while since I pimped my **Django Dev Kit Appliance**, mostly
 because I have been really busy with work, projects and my kid's end of

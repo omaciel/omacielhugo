@@ -5,6 +5,8 @@ slug: |
   pylyglot
 tags:
  - english
+ - pylyglot
+ - translations
 title: Pylyglot
 ---
 
@@ -21,8 +23,7 @@ available for your perusal, you can check how a certain word was
 translated across all packages and use this information to standardize
 the translation for the entire project.
 
-\[caption id="attachment_1203" align="aligncenter" width="300"
-caption="Pylyglot"\][![Pylyglot](http://www.ogmaciel.com/wp-content/uploads/2010/09/Pylyglot-300x211.png)](http://www.ogmaciel.com/wp-content/uploads/2010/09/Pylyglot.png)\[/caption\]
+![Pylyglot](http://www.ogmaciel.com/wp-content/uploads/2010/09/Pylyglot-300x211.png)
 
 Now, this is not an original idea and I wouldn't be here talking about
 [Pylyglot](http://pylyglot.org/) if it weren't for

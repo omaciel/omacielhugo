@@ -6,12 +6,10 @@ slug: |
   castalio-podcast-diego-burigo-zacarao
 tags:
  - portuguese
+ - podcast
+ - castalio
 title: "Castálio Podcast: Diego Búrigo Zacarão"
 ---
-
-\[caption id="attachment_31" align="alignleft" width="179"
-caption="Transifex"\][![Transifex](http://www.castalio.info/wp-content/uploads/2011/04/tx-logo-compact.png)](http://www.castalio.info/wp-content/uploads/2011/04/tx-logo-compact.png)\[/caption\]
-
 Neste episódio, depois de semanas de muito suor, sangue e lágrimas
 (todas minhas, te garanto), consegui finalmente raptar o [Diego Búrigo
 Zacarão](http://diegobz.net/), desenvolvedor líder do projeto

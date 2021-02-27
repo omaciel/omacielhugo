@@ -5,12 +5,11 @@ slug: |
   pylyglot-now-with-more-translations
 tags:
  - english
+ - pylyglot
+ - translations
 title: Pylyglot, Now With More Translations
 ---
-
-\[caption id="attachment_1210" align="alignleft" width="300" caption="In
-Every Language"\][![In Every
-Language](http://www.ogmaciel.com/wp-content/uploads/2010/10/2476125646_c16090b3bd-300x228.jpg)](http://www.ogmaciel.com/wp-content/uploads/2010/10/2476125646_c16090b3bd.jpg)\[/caption\]
+![In Every Language](http://www.ogmaciel.com/wp-content/uploads/2010/10/2476125646_c16090b3bd-300x228.jpg)
 
 What a difference a day makes! Thanks to some feedback I got both here
 and in private, and thanks to a contributor with some extra free cycles

@@ -5,12 +5,9 @@ slug: |
   ending-another-chapter
 tags:
  - english
+ - ubuntu
 title: Ending Another Chapter
 ---
-
-\[caption id="attachment_1231" align="alignleft" width="225"
-caption="Farewell"\]**\|Farewell\|**\[/caption\]
-
 Woke up this morning to find the following email in my inbox:
 
 **Renew membership of Og Maciel in Ubuntu Members**

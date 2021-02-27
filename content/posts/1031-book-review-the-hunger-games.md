@@ -5,12 +5,10 @@ slug: |
   book-review-the-hunger-games
 tags:
  - english
+ - books
 title: "Book Review: The Hunger Games"
 ---
-
-\[caption id="attachment_1279" align="alignleft" width="212"
-caption="The Hunger Games"\][![The Hunger
-Games](http://www.ogmaciel.com/wp-content/uploads/2011/01/cover-212x300.jpg)](http://www.ogmaciel.com/wp-content/uploads/2011/01/cover.jpg)\[/caption\]
+![The Hunger Games](http://www.ogmaciel.com/wp-content/uploads/2011/01/cover-212x300.jpg)
 
 > **\*Disclaimer**: My book reviews are my own impressions from my daily
 > readings and are by no means "sponsored" or "influenced" by any

@@ -5,12 +5,11 @@ slug: |
   gnome-foundation-irc-meeting-june-15th-2011
 tags:
  - english
+ - gnome foundation
 title: "GNOME Foundation IRC Meeting: June 15th, 2011"
 ---
 
-\[caption id="attachment_379" align="aligncenter" width="300"
-caption="IRC Meeting"\][![IRC
-Meeting](http://blogs.gnome.org/foundation/files/2011/01/Screenshot-11-300x130.png)](http://blogs.gnome.org/foundation/files/2011/01/Screenshot-11.png)\[/caption\]
+![IRC Meeting](http://blogs.gnome.org/foundation/files/2011/01/Screenshot-11-300x130.png)
 
 Howdy fellow GNOMErs!
 

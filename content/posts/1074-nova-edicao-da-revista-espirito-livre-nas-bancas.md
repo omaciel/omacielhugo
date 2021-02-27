@@ -8,8 +8,7 @@ tags:
 title: Nova Edição da Revista Espírito Livre \"Nas Bancas\"!
 ---
 
-Saiu a mais nova edição da [Revista Espírito
-Livre](http://www.revista.espiritolivre.org/?p=1288)! Parabéns ao **João
+Saiu a mais nova edição da [Revista Espírito Livre](http://www.revista.espiritolivre.org/?p=1288)! Parabéns ao **João
 Fernando** por colocar mais uma super edição no ar, mesmo com os
 problemas que teve com seu HD e backup! Tive o prazer de contribuir mais
 uma vez com um artigo sobre "**crowdsourcing**\" no mundo de

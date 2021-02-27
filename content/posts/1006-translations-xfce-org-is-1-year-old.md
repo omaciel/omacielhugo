@@ -5,12 +5,10 @@ slug: |
   translations-xfce-org-is-1-year-old
 tags:
  - rpath
+ - translations
 title: Translations.xfce.org is 1 year old
 ---
-
-\[caption id="attachment_1176" align="aligncenter" width="300"
-caption="Happy Birthday"\][![Happy
-Birthday](http://www.ogmaciel.com/wp-content/uploads/2010/08/birthdaycake-300x225.jpg)](http://www.ogmaciel.com/wp-content/uploads/2010/08/birthdaycake.jpg)\[/caption\]
+![Happy Birthday](http://www.ogmaciel.com/wp-content/uploads/2010/08/birthdaycake-300x225.jpg)
 
 Received the following
 [email](http://foo-projects.org/pipermail/xfce-i18n/2010-August/009663.html)

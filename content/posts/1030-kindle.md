@@ -5,12 +5,11 @@ slug: |
   kindle
 tags:
  - english
+ - kindle
+ - books
 title: Kindle
 ---
-
-\[caption id="attachment_1276" align="alignleft" width="190"
-caption="Kindle DX"\][![Kindle
-DX](http://www.ogmaciel.com/wp-content/uploads/2011/01/4205159532_76ba5831af-190x300.jpg)](http://www.ogmaciel.com/wp-content/uploads/2011/01/4205159532_76ba5831af.jpg)\[/caption\]
+![Kindle DX](http://www.ogmaciel.com/wp-content/uploads/2011/01/4205159532_76ba5831af-190x300.jpg)
 
 Over the holidays I got a second-hand **Kindle DX** from my
 [sister](http://www.productpasha.com/). As I have been doing some
@@ -71,6 +70,5 @@ family.
 
 I figure that I may start blogging about the books I read from now on
 and provide a small review for anyone interested out there, so expect my
-first **book review** for "[The Hunger Games (Part
-1)](http://www.amazon.com/Hunger-Games-Book-1/dp/0439023521/ref=sr_1_1?ie=UTF8&qid=1294760218&sr=8-1)\"
+first **book review** for "[The Hunger Games (Part 1)](http://www.amazon.com/Hunger-Games-Book-1/dp/0439023521/ref=sr_1_1?ie=UTF8&qid=1294760218&sr=8-1)\"
  fairly soon!

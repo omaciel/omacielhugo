@@ -5,13 +5,10 @@ slug: |
   billreminder-e2-80-9ckeep-their-heads-ringing-e2-80-9d
 tags:
  - english
+ - billreminder
 title: BillReminder "Keep Their Heads Ringing" Released
 ---
-
-\[caption id="attachment_1268" align="alignleft" width="300"
-caption="BillReminder "Keep Their Heads Ringing" 0.4.0"\][![BillReminder
-\"Keep Their Heads Ringing\"
-0.4.0](http://www.ogmaciel.com/wp-content/uploads/2010/12/billreminder-0.4.0-300x300.png)](http://www.ogmaciel.com/wp-content/uploads/2010/12/billreminder-0.4.0.png)\[/caption\]
+![BillReminder "Keep Their Heads Ringing" 0.4.0](http://www.ogmaciel.com/wp-content/uploads/2010/12/billreminder-0.4.0-300x300.png)
 
 Just in time before the new year, it is with great pleasure that I
 announce the release of
@@ -64,22 +61,18 @@ BillReminder "Keep Their Heads Ringing" 0.4.0 can be downloaded from:
     your bills by selecting an specific date with a single click as well
     as drag the timeline to view past and/or future bills. The following
     keyboard shortcuts are available:
+
     -   right arrow     go to next day
-
     -   left arrow      go to previous day
-
     -   Ctrl + right    go to same day next month
-
     -   Ctrl + left     go to same day previous month
 
-    -   -   (plus)        zoom in
+        -   (plus)        zoom in
 
-    -   -   (minus)       zoom out
+        -   (minus)       zoom out
 
     -   HOME            go to today's date
-
     -   PAGEUP          scroll to next screen**\***
-
     -   PAGEDOWN        scroll to previous screen
 
 **\*** *go to current day plus the number of days displayed in widget.*

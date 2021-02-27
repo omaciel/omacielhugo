@@ -5,15 +5,13 @@ slug: |
   review-django-1-2-e-commerce
 tags:
  - english
+ - django
+ - books
 title: "Review: Django 1.2 E-Commerce"
 ---
+![Django 1.2 E-Commerce](http://www.ogmaciel.com/wp-content/uploads/2010/05/Django-1.2-E-Commerce-243x300.jpg)
 
-\[caption id="attachment_1094" align="alignleft" width="243"
-caption="Django 1.2 E-Commerce"\][![Django 1.2
-E-Commerce](http://www.ogmaciel.com/wp-content/uploads/2010/05/Django-1.2-E-Commerce-243x300.jpg)](http://www.ogmaciel.com/wp-content/uploads/2010/05/Django-1.2-E-Commerce.jpg)\[/caption\]
-
-"[Django
-1.2 E-Commerce](http://www.packtpub.com/django-1-2-e-commerce-build-powerful-applications/book?utm_source=ogmaciel.com&utm_medium=bookrev&utm_content=blog&utm_campaign=mdb_003454)\"Â starts
+"[Django 1.2 E-Commerce](http://www.packtpub.com/django-1-2-e-commerce-build-powerful-applications/)" starts
 with a very ambitious goal: design, develop and deploy a functional
 ecommerce web site for the fictional **CranStore.com** company. Sounds
 great, doesn't it?

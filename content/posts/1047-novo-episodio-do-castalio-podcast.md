@@ -6,11 +6,11 @@ slug: |
   novo-episodio-do-castalio-podcast
 tags:
  - portuguese
+ - podcast
+ - castalio
 title: Novo Episódio do Castálio Podcast
 ---
-
-\[caption id="attachment_594" align="alignleft" width="100"
-caption="Nerdson"\][![Nerdson](http://blog.ogmaciel.com/wp-content/uploads/2011/03/nerdson.png)](http://blog.ogmaciel.com/wp-content/uploads/2011/03/nerdson.png)\[/caption\]
+![Nerdson](http://blog.ogmaciel.com/wp-content/uploads/2011/03/nerdson.png)
 
 Está no ar o mais novo episódio do [Castálio
 Podcast](http://www.castalio.info/), desta vez com uma entrevista do

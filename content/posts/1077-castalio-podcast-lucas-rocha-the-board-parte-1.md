@@ -6,14 +6,12 @@ slug: |
   castalio-podcast-lucas-rocha-the-board-parte-1
 tags:
  - portuguese
+ - castalio
+ - podcast
 title: "Castálio Podcast: Lucas Rocha - The Board (Parte 1)"
 ---
 
-\[caption id="attachment_45" align="alignleft" width="180"
-caption="Lucas Rocha - The Board"\][![Lucas Rocha - The
-Board](http://www.castalio.info/wp-content/uploads/2011/06/lucasrocha.jpg)](http://www.castalio.info/wp-content/uploads/2011/06/lucasrocha.jpg)\[/caption\]
-
-﻿﻿Neste episódio tive o prazer de conversar (por um bom tempo) com o
+Neste episódio tive o prazer de conversar (por um bom tempo) com o
 **Lucas Rocha**, contribuinte super conhecido do projeto **GNOME**.
 Durante quase 2 horas conversamos sobre milhões de coisas, como que aos
 **13 anos de idade** ele já participava de uma banda cover do **Guns and

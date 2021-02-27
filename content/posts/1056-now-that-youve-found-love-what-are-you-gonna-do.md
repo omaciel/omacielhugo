@@ -5,12 +5,9 @@ slug: |
   now-that-youve-found-love-what-are-you-gonna-do
 tags:
  - english
-title: Now That You\'ve Found Love What Are You Gonna Do?
+ - foresight
+title: Now That You've Found Love What Are You Gonna Do?
 ---
-
-\[caption id="attachment_1383" align="aligncenter" width="300"
-caption="Spotify and Hotot"\][![Spotify and
-Hotot](http://www.ogmaciel.com/wp-content/uploads/2011/03/Screenshot-14-300x187.png)](http://www.ogmaciel.com/wp-content/uploads/2011/03/Screenshot-14.png)\[/caption\]
 
 Now that you have downloaded and installed the latest [Foresight Linux
 2.5

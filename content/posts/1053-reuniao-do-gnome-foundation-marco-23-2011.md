@@ -5,12 +5,10 @@ slug: |
   reuniao-do-gnome-foundation-marco-23-2011
 tags:
  - portuguese
+ - gnome board of directors
 title: "Reunião do GNOME Foundation: Março 23, 2011"
 ---
-
-\[caption id="attachment_379" align="aligncenter" width="300"
-caption="Reunião do GNOME Foundation"\][![IRC
-Meeting](http://blogs.gnome.org/foundation/files/2011/01/Screenshot-11-300x130.png)](http://blogs.gnome.org/foundation/files/2011/01/Screenshot-11.png)\[/caption\]
+![IRC Meeting](http://blogs.gnome.org/foundation/files/2011/01/Screenshot-11-300x130.png)
 
 Bom dia pessoal! Só queria avisar que nesta quarta-feira tem a reunião
 do [GNOME Foundation](http://foundation.gnome.org/) pelo **irc**. A

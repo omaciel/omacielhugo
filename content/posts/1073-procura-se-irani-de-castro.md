@@ -5,12 +5,12 @@ slug: |
   procura-se-irani-de-castro
 tags:
  - portuguese
+ - books
+ - irani de castro
 title: "Procura-se: Irani de Castro"
 ---
 
-\[caption id="attachment_633" align="alignleft" width="198" caption="Os
-Seis e o Teco-teco Misterioso"\][![Os Seis e o Teco-teco
-Misterioso](http://blog.ogmaciel.com/wp-content/uploads/2011/05/os_seis-198x300.jpg)](http://blog.ogmaciel.com/wp-content/uploads/2011/05/os_seis.jpg)\[/caption\]
+![Os Seis e o Teco-teco Misterioso](http://blog.ogmaciel.com/wp-content/uploads/2011/05/os_seis-198x300.jpg)
 
 Depois de ter gravado mais de **9 episódios** do [Castálio
 Podcast](http://www.castalio.info/) (se você ainda não escutou, não sabe

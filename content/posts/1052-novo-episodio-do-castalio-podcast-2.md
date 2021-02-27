@@ -6,11 +6,11 @@ slug: |
   novo-episodio-do-castalio-podcast-2
 tags:
  - portuguese
+ - podcast
+ - castalio
 title: Novo Episódio do Castálio Podcast
 ---
-
-\[caption id="attachment_22" align="aligncenter" width="99"
-caption="KurtKraut"\][![KurtKraut](http://www.castalio.info/wp-content/uploads/2011/03/avatar-ktk.png)](http://www.castalio.info/wp-content/uploads/2011/03/avatar-ktk.png)\[/caption\]
+![KurtKraut](http://www.castalio.info/wp-content/uploads/2011/03/avatar-ktk.png)
 
 Está no ar o mais novo episódio do [Castálio
 Podcast](http://www.castalio.info/), desta vez com uma entrevista do
