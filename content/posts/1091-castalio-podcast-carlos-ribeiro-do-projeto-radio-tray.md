@@ -5,13 +5,11 @@ date: 2011-08-22
 slug: |
   castalio-podcast-carlos-ribeiro-do-projeto-radio-tray
 tags:
- - portuguese, castalio, podcast
+ - portuguese
+ - castalio
+ - podcast
 title: "Castálio Podcast: Carlos Ribeiro do projeto Radio Tray"
 ---
-
-[![Carlos Ribeiro -
-RadioTray](http://www.castalio.info/wp-content/uploads/2011/08/P1070603-227x300.jpg)](http://www.castalio.info/wp-content/uploads/2011/08/P1070603.jpg)
-
 O entrevistado desta vez é o português **Carlos Ribeiro**, desenvolvedor
 do projeto **RadioTray**, um programa bem leve e simples para escutar
 estações de rádio online. Durante nosso bate-papo conversamos sobre a

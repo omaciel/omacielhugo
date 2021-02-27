@@ -5,7 +5,9 @@ date: 2011-11-14
 slug: |
   castalio-podcast-alexandre-coster-asobo-studio
 tags:
- - portuguese, castálio, podcast
+ - portuguese
+ - castálio
+ - podcast
 title: "Castálio Podcast: Alexandre Coster - Asobo Studio"
 ---
 

@@ -5,7 +5,10 @@ date: 2012-04-02
 slug: |
   castalio-podcast-henrique-bastos-welcome-to-the
 tags:
- - castálio, podcast, portuguese, ubuntu
+ - castálio
+ - podcast
+ - portuguese
+ - ubuntu
 title: "Castálio Podcast: Henrique Bastos - Welcome to the Django"
 ---
 

@@ -5,7 +5,10 @@ date: 2012-04-29
 slug: |
   castalio-podcast-fabio-kung-e-pedro-belo-heroku
 tags:
- - portuguese, podcast, castálio, ubuntu
+ - portuguese
+ - podcast
+ - castálio
+ - ubuntu
 title: "Castálio Podcast: Fábio Kung e Pedro Belo: Heroku"
 ---
 

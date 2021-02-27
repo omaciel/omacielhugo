@@ -6,13 +6,10 @@ slug: |
   castalio-podcast-aline-duarte-bessa-accerciser
 tags:
  - portuguese
+ - castalio
+ - podcast
 title: "Castálio Podcast: Aline Duarte Bessa - Accerciser"
 ---
-
-\[caption id="attachment_56" align="alignleft" width="199"
-caption="Aline Duarte Bessa - Accerciser"\] [![Aline Duarte Bessa -
-Accerciser](http://www.castalio.info/wp-content/uploads/2011/07/aline_bessa-199x300.jpg)](http://www.castalio.info/wp-content/uploads/2011/07/aline_bessa.jpg)\[/caption\]
-
 Mais um episódio do [Castálio Podcast](http://castalio.info), desta vez
 com um bate-papo com a **Aline Duarte Bessa**, mais uma Brasileira que
 está participando do [GNOME Women Outreach

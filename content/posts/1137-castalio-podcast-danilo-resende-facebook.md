@@ -5,7 +5,11 @@ date: 2012-07-09
 slug: |
   castalio-podcast-danilo-resende-facebook
 tags:
- - ubuntu, portuguese, mandriva, podcast, castálio
+ - ubuntu
+ - portuguese
+ - mandriva
+ - podcast
+ - castálio
 title: "Castálio Podcast: Danilo Resende - Facebook"
 ---
 

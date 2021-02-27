@@ -4,7 +4,10 @@ date: 2012-11-28
 slug: |
   extending-the-default-ec2-root-partition-for-an
 tags:
- - EC2, RedHat, Katello, english
+ - EC2
+ - RedHat
+ - Katello
+ - english
 title: Extending the default EC2 root partition for an instance
 ---
 

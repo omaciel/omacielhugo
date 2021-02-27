@@ -5,7 +5,9 @@ date: 2012-01-08
 slug: |
   castalio-podcast-rodrigo-padula-de-oliveira-ufrj
 tags:
- - portuguese, castálio, podcast
+ - portuguese
+ - castálio
+ - podcast
 title: "Castálio Podcast - Rodrigo Padula de Oliveira: UFRJ"
 ---
 

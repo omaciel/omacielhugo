@@ -5,7 +5,11 @@ date: 2013-03-03
 slug: |
   castalio-podcast-alexandre-gaigalas-yahoo
 tags:
- - podcast, castálio, ubuntu, mandriva, portuguese
+ - podcast
+ - castálio
+ - ubuntu
+ - mandriva
+ - portuguese
 title: "Castálio Podcast: Alexandre Gaigalas: Yahoo"
 ---
 

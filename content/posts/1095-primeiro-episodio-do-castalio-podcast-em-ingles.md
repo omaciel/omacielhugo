@@ -5,7 +5,9 @@ date: 2011-09-19
 slug: |
   primeiro-episodio-do-castalio-podcast-em-ingles
 tags:
- - portuguese, castalio, podcast
+ - portuguese
+ - castalio
+ - podcast
 title: Primeiro Episódio do Castálio Podcast em Inglês!
 ---
 

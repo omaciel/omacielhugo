@@ -4,12 +4,15 @@ date: 2012-03-28
 slug: |
   mad-props-to-the-pragmatic-programmers
 tags:
- - english, kindle, epub, mobi, ebook
+ - english
+ - kindle
+ - epub
+ - mobi
+ - ebook
 title: Mad Props To The Pragmatic Programmers
 ---
 
-Earlier this morning I received the following email from [The Pragmatic
-Programmers](http://pragprog.com/):
+Earlier this morning I received the following email from [The Pragmatic Programmers](http://pragprog.com/):
 
 > Dear Og Maciel,
 >
@@ -37,8 +40,7 @@ book I bought from them, but have also automatically sent it to my
 this type of attention and treatment that have won me over and whenever
 I need to buy a technical book, I immediately check their store.
 
-Also worth mentioning is their monthly, free publication [PragPub
-magazine](http://pragprog.com/magazines), also available in many
+Also worth mentioning is their monthly, free publication [PragPub Magazine](http://pragprog.com/magazines), also available in many
 different electronic types.
 
 Anyhow, I don't get any type of financial incentive for writing this up,

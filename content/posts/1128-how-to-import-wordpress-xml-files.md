@@ -4,7 +4,12 @@ date: 2012-04-23
 slug: |
   how-to-import-wordpress-xml-files
 tags:
- - english, wordpress, python, PyPi, Github, Tumblr
+ - english
+ - wordpress
+ - python
+ - PyPi
+ - Github
+ - Tumblr
 title: How to import WordPress XML files
 ---
 
@@ -28,7 +33,7 @@ providers... One of my close friends who provides mostly support for
 WordPress gave me the idea a while back and that is how the script came
 about. Little did I know that [other](http://snarfed.org/pyblosxom2wxr)
 [people](http://blog.ivandemarino.me/2010/10/12/From-Wordpress-to-Bloggart)
-have find it useful too, specially for migrating **\*away**\* from
+have find it useful too, specially for migrating **away** from
 WordPress! As a matter of fact, I too used it when I moved to
 **Tumblr**, but that another story.
 

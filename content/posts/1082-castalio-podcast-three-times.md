@@ -6,12 +6,12 @@ slug: |
   castalio-podcast-three-times
 tags:
  - english
+ - podcast
+ - castalio
 title: Castálio Podcast, or Three Times is a Charm
 ---
 
-\[caption id="" align="alignleft" width="350" caption="Castálio
-Podcast"\][![Castálio
-Podcast](http://farm6.static.flickr.com/5149/5574058090_18863ca261_d.jpg)](http://www.flickr.com/photos/paulcapewell/5574058090/)\[/caption\]
+![Castálio Podcast](http://farm6.static.flickr.com/5149/5574058090_18863ca261_d.jpg)
 
 The idea of doing a **podcast** is something that has tickled my
 \[STRIKEOUT:curiosity\] fancy for quite some time. As a matter of fact,

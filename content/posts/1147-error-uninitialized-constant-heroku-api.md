@@ -4,7 +4,9 @@ date: 2012-08-23
 slug: |
   error-uninitialized-constant-heroku-api
 tags:
- - Fedora 17, Heroku, english
+ - Fedora 17
+ - Heroku
+ - english
 title: "Error: uninitialized constant Heroku::API (NameError)"
 ---
 

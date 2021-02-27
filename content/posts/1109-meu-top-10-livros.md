@@ -4,7 +4,8 @@ date: 2011-12-31
 slug: |
   meu-top-10-livros
 tags:
- - portuguese, pessoal
+ - portuguese
+ - pessoal
 title: "Meu Top 10: Livros"
 ---
 

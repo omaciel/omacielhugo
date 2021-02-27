@@ -5,7 +5,11 @@ date: 2012-09-04
 slug: |
   castalio-podcast-bruno-goncalves-biglinux
 tags:
- - ubuntu, mandriva, castálio, podcast, portuguese
+ - ubuntu
+ - mandriva
+ - castálio
+ - podcast
+ - portuguese
 title: "Castálio Podcast: Bruno Gonçalves - BigLinux"
 ---
 

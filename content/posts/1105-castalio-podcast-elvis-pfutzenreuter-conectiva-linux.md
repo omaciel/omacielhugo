@@ -6,6 +6,8 @@ slug: |
   castalio-podcast-elvis-pfutzenreuter-conectiva-linux
 tags:
  - portuguese
+ - castalio
+ - podcast
 title: "Castálio Podcast - Elvis Pfutzenreuter: Conectiva Linux"
 ---
 

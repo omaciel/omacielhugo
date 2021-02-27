@@ -4,7 +4,10 @@ date: 2012-08-17
 slug: |
   pylyglot-open-source-translation-search
 tags:
- - english, django, pylyglot, translations
+ - english
+ - django
+ - pylyglot
+ - translations
 title: "Pylyglot: Open Source Translation Search"
 ---
 

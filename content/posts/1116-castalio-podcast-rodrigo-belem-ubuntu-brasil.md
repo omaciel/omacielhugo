@@ -5,13 +5,14 @@ date: 2012-02-20
 slug: |
   castalio-podcast-rodrigo-belem-ubuntu-brasil
 tags:
- - portuguese, Ubuntu, castálio, podcast
+ - portuguese
+ - Ubuntu
+ - castálio
+ - podcast
 title: "Castálio Podcast - Rodrigo Belém: Ubuntu Brasil"
 ---
 
-[![Rodrigo Belém: Ubuntu
-Brasil](http://www.castalio.info/wp-content/uploads/2012/02/Screenshot-7.png)](http://www.castalio.info/wp-content/uploads/2012/02/Screenshot-7.png)Olá
-pessoal e sejam mais uma vez muito bem-vindos a mais um novo episódio,
+Olá pessoal e sejam mais uma vez muito bem-vindos a mais um novo episódio,
 este comemorando nosso **primeiro ano no ar**! Aproveitei a oportunidade
 então para dar o pontapé inicial em uma nova série, desta vez focada na
 criação do Ubuntu Brasil!!! Ame-a ou não, a distribuição **Ubuntu** teve

@@ -8,12 +8,9 @@ tags:
 title: Sixth Annual Packt Open Source Awards
 ---
 
-\[caption id="" align="alignleft" width="248" caption="Packt
-Publishing"\][![Packt
-Publishing](http://www.packtpub.com/sites/default/files/packt_logo.png)](http://www.packtpub.com)\[/caption\]
+[!Packt Publishing](http://www.packtpub.com/sites/default/files/packt_logo.png)
 
-The [2011 Open Source
-Awards](http://www.packtpub.com/open-source-awards-home) was launched on
+The [2011 Open Source Awards](http://www.packtpub.com/open-source-awards-home) was launched on
 the 1st week of August by [Packt](http://www.packtpub.com/), inviting
 people to submit nominations for their **favorite Open Source project**.
 Now in its sixth year, the Awards continue in its aim of encouraging,

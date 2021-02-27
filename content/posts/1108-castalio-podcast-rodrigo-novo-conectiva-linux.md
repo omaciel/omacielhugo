@@ -5,12 +5,11 @@ date: 2011-12-26
 slug: |
   castalio-podcast-rodrigo-novo-conectiva-linux
 tags:
- - portuguese, castálio, podcast
+ - portuguese
+ - castálio
+ - podcast
 title: "Castálio Podcast - Rodrigo Novo: Conectiva Linux"
 ---
-
-[![Rodrigo
-Novo](http://www.castalio.info/wp-content/uploads/2011/12/rodrigonovo.png)](http://www.castalio.info/wp-content/uploads/2011/12/rodrigonovo.png)
 
 Olá pessoal e seja muito bem-vindo à este episódio de natal (e o último
 de 2011)! Dando continuidade à proposta de trazer mais uma entrevista

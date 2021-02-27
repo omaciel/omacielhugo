@@ -4,8 +4,10 @@ date: 2012-02-17
 slug: |
   desculpe-pela-bagunca
 tags:
- - portuguese, tumblr, wordpress
-title: Desculpe Pela Bagunça\...
+ - portuguese
+ - tumblr
+ - wordpress
+title: Desculpe Pela Bagunça...
 ---
 
 ![Sorry](http://farm8.staticflickr.com/7035/6434625263_9937f1ae1f_d.jpg)

@@ -5,7 +5,9 @@ date: 2011-11-20
 slug: |
   um-novo-capitulo-to-infinity-and-beyond
 tags:
- - rpath, red hat
+ - rpath
+ - red hat
+ - portuguese
 title: "Um Novo Capítulo: To Infinity, and Beyond!"
 ---
 

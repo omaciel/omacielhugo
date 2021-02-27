@@ -5,15 +5,10 @@ slug: |
   django-devkit-appliance-1-3-1
 tags:
  - english
+ - django
 title: Django DevKit Appliance 1.3.1
 ---
-
-\[caption id="attachment_853" align="alignleft" width="300"
-caption="Django"\][![Django
-logo](http://www.ogmaciel.com/wp-content/uploads/2010/03/django-logo-negative-300x136.png)](http://www.ogmaciel.com/wp-content/uploads/2010/03/django-logo-negative.png)\[/caption\]
-
-I rebuilt the appliance to use the latest [Django 1.3.1
-release](https://www.djangoproject.com/weblog/2011/sep/09/security-releases-issued/)
+I rebuilt the appliance to use the latest [Django 1.3.1 release](https://www.djangoproject.com/weblog/2011/sep/09/security-releases-issued/)
 to deliver the **security fixes** found in the previous version. There
 are also several other updated packages included.
 

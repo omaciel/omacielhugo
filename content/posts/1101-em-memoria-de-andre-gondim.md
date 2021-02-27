@@ -8,9 +8,6 @@ tags:
 title: Em Memória de André Gondim
 ---
 
-[![André Gondim - Ubuntu
-Brasil](http://www.castalio.info/wp-content/uploads/2011/11/andregondim.png)](http://www.castalio.info/wp-content/uploads/2011/11/andregondim.png)
-
 Olá pessoal! Foi com um enorme pezar que eu recebi a
 [notícia](http://sejalivre.org/?p=5698) sobre o falecimento de [André
 Gondim](http://andregondim.eti.br/), uma figura do software livre

@@ -5,7 +5,10 @@ date: 2012-04-15
 slug: |
   castalio-podcast-julio-monteiro-jobscore
 tags:
- - portuguese, castálio, podcast, ubuntu
+ - portuguese
+ - castálio
+ - podcast
+ - ubuntu
 title: "Castálio Podcast: Júlio Monteiro - JobScore"
 ---
 

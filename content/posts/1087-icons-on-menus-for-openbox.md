@@ -5,11 +5,9 @@ slug: |
   icons-on-menus-for-openbox
 tags:
  - english
+ - openbox
 title: Icons on menus for Openbox
 ---
-
-[![Openbox \"fancy\"
-menu](http://en.ogmaciel.com/wp-content/uploads/2011/08/openboxmenu.png)](http://en.ogmaciel.com/wp-content/uploads/2011/08/openboxmenu.png)
 
 **Openbox 3.5.0** was
 [released](http://openbox.org/wiki/Openbox:Changelog) yesterday, and

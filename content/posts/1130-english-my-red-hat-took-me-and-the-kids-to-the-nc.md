@@ -4,7 +4,10 @@ date: 2012-05-01
 slug: |
   english-my-red-hat-took-me-and-the-kids-to-the-nc
 tags:
- - Red Hat, english, portuguese, ubuntu
+ - Red Hat
+ - english
+ - portuguese
+ - ubuntu
 title: English My Red Hat Took Me And The Kids To The Nc
 ---
 

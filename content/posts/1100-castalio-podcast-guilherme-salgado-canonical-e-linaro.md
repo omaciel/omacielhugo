@@ -5,13 +5,11 @@ date: 2011-10-31
 slug: |
   castalio-podcast-guilherme-salgado-canonical-e-linaro
 tags:
- - portuguese, castálio, podcast
+ - portuguese
+ - castálio
+ - podcast
 title: "Castálio Podcast - Guilherme Salgado: Canonical e Linaro"
 ---
-
-[![Guilherme Salgado: Canonical e
-Linaro](http://www.castalio.info/wp-content/uploads/2011/10/guilhermesalgado-300x300.jpg)](http://www.castalio.info/wp-content/uploads/2011/10/guilhermesalgado.jpg)
-
 O convidado de hoje é o **Guilherme Salgado**. Durante nosso bate-papo,
 conversamos sobre como que ele começou a usar computadores e **Linux**,
 sobre sua passagem pela companhia **ASync** e trabalhando no

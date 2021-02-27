@@ -5,7 +5,11 @@ date: 2013-02-05
 slug: |
   castalio-podcast-luciano-ramalho-oficinas-turing
 tags:
- - portuguese, ubuntu, mandriva, castálio, podcast
+ - portuguese
+ - ubuntu
+ - mandriva
+ - castálio
+ - podcast
 title: "Castálio Podcast: Luciano Ramalho: Oficinas Turing"
 ---
 

@@ -4,7 +4,13 @@ date: 2012-05-16
 slug: |
   setting-up-vim-for-clojure-development-notes
 tags:
- - Eclipse, Clojure, vim, repl, lein, Dropbox, english
+ - Eclipse
+ - Clojure
+ - vim
+ - repl
+ - lein
+ - Dropbox
+ - english
 title: Setting up Vim for Clojure development notes
 ---
 

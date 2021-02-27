@@ -5,6 +5,7 @@ slug: |
   menu-com-icones-no-openbox
 tags:
  - portuguese
+ - openbox
 title: Menu com ícones no Openbox
 ---
 

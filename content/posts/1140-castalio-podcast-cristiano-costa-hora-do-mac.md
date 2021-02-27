@@ -5,7 +5,10 @@ date: 2012-08-07
 slug: |
   castalio-podcast-cristiano-costa-hora-do-mac
 tags:
- - podcast, castálio, ubuntu, mandriva
+ - podcast
+ - castálio
+ - ubuntu
+ - mandriva
 title: "Castálio Podcast: Cristiano Costa - Hora do Mac"
 ---
 

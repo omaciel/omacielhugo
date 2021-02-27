@@ -5,13 +5,11 @@ date: 2011-12-04
 slug: |
   castalio-podcast-ruda-moura-conectiva-linux
 tags:
- - portuguese, castálio, podcast
+ - portuguese
+ - castálio
+ - podcast
 title: "Castálio Podcast - Rudá Moura: Conectiva Linux"
 ---
-
-[![Rudá Moura: Conectiva
-Linux](http://www.castalio.info/wp-content/uploads/2011/12/rudamoura.png)](http://www.castalio.info/wp-content/uploads/2011/12/rudamoura.png)
-
 Dando continuidade ao plano de trazer mais uma entrevista com um membro
 do Conectiva Linux, desta vez conversei com o **Rudá Moura** que
 trabalhou na área de suporte e empacotamento da distribuição! Durante o

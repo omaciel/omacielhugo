@@ -6,6 +6,8 @@ slug: |
   castalio-podcast-ana-cristina-fricke-matte-text-livre
 tags:
  - portuguese
+ - castalio
+ - podcast
 title: "Castálio Podcast -- Ana Cristina Fricke Matte: Text Livre"
 ---
 

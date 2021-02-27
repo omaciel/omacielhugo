@@ -4,6 +4,9 @@ date: 2012-04-03
 slug: |
   home-office-taken-with-instagram
 title: Home Office Taken With Instagram
+tags:
+ - english
+ - home office
 ---
 
 ![image0](http://41.media.tumblr.com/tumblr_m1wzvi77871rpc21fo1_1280.jpg)

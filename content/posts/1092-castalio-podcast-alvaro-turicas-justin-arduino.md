@@ -5,13 +5,11 @@ date: 2011-09-05
 slug: |
   castalio-podcast-alvaro-turicas-justin-arduino
 tags:
- - portuguese, podcast, castalio
+ - portuguese
+ - podcast
+ - castalio
 title: "Castálio Podcast: Álvaro \\\"Turicas\\\" Justin - Arduino"
 ---
-
-[![Álvaro \"Turicas\" Justen -
-Arduino](http://www.castalio.info/wp-content/uploads/2011/09/turicas.png)](http://www.castalio.info/wp-content/uploads/2011/09/turicas.png)
-
 No episódio de hoje conversei com o **Álvaro "Turicas" Justen** sobre um
 monte de coisas relacionadas ao **Arduino**, e como usá-lo junto com
 vários outros adaptadores (**shields**) para fazer um monte de coisas

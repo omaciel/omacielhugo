@@ -5,7 +5,11 @@ date: 2012-09-17
 slug: |
   castalio-podcast-licio-fonseca-google
 tags:
- - ubuntu, castálio, podcast, mandriva, portuguese
+ - ubuntu
+ - castálio
+ - podcast
+ - mandriva
+ - portuguese
 title: "Castálio Podcast: Licio Fonseca - Google"
 ---
 

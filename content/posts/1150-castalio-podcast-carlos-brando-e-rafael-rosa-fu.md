@@ -5,7 +5,11 @@ date: 2012-10-01
 slug: |
   castalio-podcast-carlos-brando-e-rafael-rosa-fu
 tags:
- - portuguese, castálio, podcast, ubuntu, mandriva
+ - portuguese
+ - castálio
+ - podcast
+ - ubuntu
+ - mandriva
 title: "Castálio Podcast: Carlos Brando e Rafael Rosa Fu: GrokPodcast -
   Part 1"
 ---

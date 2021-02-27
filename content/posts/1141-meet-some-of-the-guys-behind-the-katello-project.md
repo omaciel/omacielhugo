@@ -4,7 +4,8 @@ date: 2012-08-07
 slug: |
   meet-some-of-the-guys-behind-the-katello-project
 tags:
- - katello, english
+ - katello
+ - english
 title: Meet Some Of The Guys Behind The Katello Project
 ---
 

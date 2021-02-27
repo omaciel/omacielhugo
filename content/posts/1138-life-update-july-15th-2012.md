@@ -4,8 +4,16 @@ date: 2012-07-16
 slug: |
   life-update-july-15th-2012
 tags:
- - english, redhat, clojure, foresight linux, fedora, zite, flipboard,
-  pandora, grooveshark, emacs
+ - english
+ - redhat
+ - clojure
+ - foresight linux
+ - fedora
+ - zite
+ - flipboard
+ - pandora
+ - grooveshark
+ - emacs
 title: "Life Update: July 15th, 2012"
 ---
 
@@ -53,9 +61,8 @@ still press ESC a lot (old habits are hard to change) though :)
 Been reading a lot! When I'm not reading a book, I'm catching up with
 articles and news from several different sources. I use a combination of
 [Zite](http://www.zite.com/), [Flipboard](http://flipboard.com/) and a
-few digital magazines (**\`Wired \<http://wired.com/\>\`\_\_**,
-[Smithsonian](http://www.smithsonian.com/), [The
-Week](http://theweek.com/)) for my daily news dose and
+few digital magazines [Wired](http://wired.com/),
+[Smithsonian](http://www.smithsonian.com/), [The Week](http://theweek.com/)) for my daily news dose and
 [Instapaper](http://www.instapaper.com/) for those articles I want to
 read at a later time. My **iPad** has become a constant and
 reliable companion. Some of the books I've read:
@@ -65,30 +72,21 @@ reliable companion. Some of the books I've read:
 -   [The Windup
     Girl](http://www.amazon.com/The-Windup-Girl-Paolo-Bacigalupi/dp/1597801585/ref=sr_1_1?ie=UTF8&qid=1342404079&sr=8-1&keywords=The+Windup+Girl)
     by **Paolo Bacigalupi**
--   [Prelude to
-    Foundation](http://www.amazon.com/Prelude-Foundation-Book-1/dp/0553278398/ref=sr_1_1?ie=UTF8&qid=1342404132&sr=8-1&keywords=Prelude+to+Foundation)
+-   [Prelude to Foundation](http://www.amazon.com/Prelude-Foundation-Book-1/dp/0553278398/ref=sr_1_1?ie=UTF8&qid=1342404132&sr=8-1&keywords=Prelude+to+Foundation)
     by **Isaac Asimov**
--   [Bringing Up
-    Bebe](http://www.amazon.com/Bringing-Up-Bebe-Discovers-Parenting/dp/1594203334/ref=sr_1_1?ie=UTF8&qid=1342404174&sr=8-1&keywords=Bringing+Up+Bebe)
+-   [Bringing Up Bebe](http://www.amazon.com/Bringing-Up-Bebe-Discovers-Parenting/dp/1594203334/ref=sr_1_1?ie=UTF8&qid=1342404174&sr=8-1&keywords=Bringing+Up+Bebe)
     by **Pamela Druckerman**
--   [Abrahan Lincoln: Vampire
-    Hunter](http://www.amazon.com/Abraham-Lincoln-Vampire-Hunter-ebook/dp/B00351DSCS/ref=sr_1_3?ie=UTF8&qid=1342404214&sr=8-3&keywords=abraham+lincoln%3A+vampire+hunter)
+-   [Abraham Lincoln: Vampire Hunter](http://www.amazon.com/Abraham-Lincoln-Vampire-Hunter-ebook/dp/B00351DSCS/ref=sr_1_3?ie=UTF8&qid=1342404214&sr=8-3&keywords=abraham+lincoln%3A+vampire+hunter)
     by **Seth Grahame-Smith**
--   [Hackers and
-    Painters](http://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554/ref=sr_1_1?ie=UTF8&qid=1342404278&sr=8-1&keywords=Hackers+and+Painters)
+-   [Hackers and Painters](http://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554/ref=sr_1_1?ie=UTF8&qid=1342404278&sr=8-1&keywords=Hackers+and+Painters)
     by **Paul Graham**
--   [Fight
-    Club](http://www.amazon.com/Fight-Club-Novel-Chuck-Palahniuk/dp/0393327345/ref=sr_1_2?ie=UTF8&qid=1342404323&sr=8-2&keywords=Fight+Club)
+-   [Fight Club](http://www.amazon.com/Fight-Club-Novel-Chuck-Palahniuk/dp/0393327345/ref=sr_1_2?ie=UTF8&qid=1342404323&sr=8-2&keywords=Fight+Club)
     by **Chuck Palahniuk**
--   [Rebel Code: Linux and the Open Source
-    Revolution](http://www.amazon.com/Rebel-Code-Linux-Source-Revolution/dp/0738206709/ref=sr_1_1?ie=UTF8&qid=1342404364&sr=8-1&keywords=Rebel+Code%3A+Linux+and+the+Open+Source+Revolution)
+-   [Rebel Code: Linux and the Open Source Revolution](http://www.amazon.com/Rebel-Code-Linux-Source-Revolution/dp/0738206709/ref=sr_1_1?ie=UTF8&qid=1342404364&sr=8-1&keywords=Rebel+Code%3A+Linux+and+the+Open+Source+Revolution)
     by **Glyn Moody**
 
 I also listen to a lot of music now that I can crank music really loud
-without annoying a co-worker, so **\`Pandora
-\<http://www.pandora.com\>\`\_\_**, **\`Grooveshark
-\<http://grooveshark.com/\#!/ogmaciel\>\`\_\_** and **\`Radio Paradise
-\<http://www.radioparadise.com/\>\`\_\_** have been a constant presence.
+without annoying a co-worker, so [Pandora](http://www.pandora.com), [Grooveshark](http://grooveshark.com/) and [Radio Paradise](http://www.radioparadise.com/) have been a constant presence.
 
 **I switched distros**!!! There, I said it! After **6 years** running
 [Foresight Linux](http://foresightlinux.org) exclusively, I have now
@@ -106,8 +104,7 @@ projects, translations and the **GNOME Membership Committee** has
 reached a stagnant point. Don't be surprised if I "retire" from some of
 my activities and start watching from the sidelines.
 
-Speaking of projects, I am still running my **Brazilian
-Portuguese**-only [podcast](http://castalio.info), publishing a new
+Speaking of projects, I am still running my **Brazilian Portuguese**-only [podcast](http://castalio.info), publishing a new
 episode every other week (**40 episodes** and counting)! This is
 something I'm totally committed to and even with my busy schedule I
 still find time to enjoy doing the podcast.

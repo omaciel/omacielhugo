@@ -4,7 +4,10 @@ date: 2012-12-05
 slug: |
   red-hat-366-days-later-and-counting
 tags:
- - CloudForms, Red Hat, QA, english
+ - CloudForms
+ - Red Hat
+ - QA
+ - english
 title: "Red Hat: 366 days later (and counting)"
 ---
 

@@ -6,12 +6,12 @@ slug: |
   o-objetivo-do-castalio-podcast
 tags:
  - portuguese
+ - podcast
+ - castalio
 title: O Objetivo do Castálio Podcast
 ---
 
-\[caption id="" align="alignleft" width="350" caption="Castálio
-Podcast"\][![Castálio
-Podcast](http://farm6.static.flickr.com/5149/5574058090_18863ca261_d.jpg)](http://www.flickr.com/photos/paulcapewell/5574058090/)\[/caption\]
+![Castálio Podcast](http://farm6.static.flickr.com/5149/5574058090_18863ca261_d.jpg)
 
 A idéia de fazer um **podcast** é algo que vem me cutucando há muito
 tempo. Para falar a verdade, eu sou um **sobrevivente** de 2 tentativas

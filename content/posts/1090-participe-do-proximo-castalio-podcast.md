@@ -5,7 +5,9 @@ date: 2011-08-09
 slug: |
   participe-do-proximo-castalio-podcast
 tags:
- - portuguese, castalio, podcast
+ - portuguese
+ - castalio
+ - podcast
 title: Participe do Próximo Castálio Podcast!
 ---
 

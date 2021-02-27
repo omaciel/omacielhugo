@@ -5,7 +5,11 @@ date: 2012-12-03
 slug: |
   castalio-podcast-julian-fernandes-ubuntu-br-sc
 tags:
- - castálio, podcast, portuguese, ubuntu, mandriva
+ - castálio
+ - podcast
+ - portuguese
+ - ubuntu
+ - mandriva
 title: "Castálio Podcast: Julian Fernandes: Ubuntu BR SC"
 ---
 

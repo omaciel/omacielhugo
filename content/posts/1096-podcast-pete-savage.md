@@ -5,6 +5,8 @@ slug: |
   podcast-pete-savage
 tags:
  - english
+ - castalio
+ - podcast
 title: "Podcast: Pete Savage"
 ---
 

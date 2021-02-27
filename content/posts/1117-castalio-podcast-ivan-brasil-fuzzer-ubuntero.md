@@ -5,7 +5,10 @@ date: 2012-03-04
 slug: |
   castalio-podcast-ivan-brasil-fuzzer-ubuntero
 tags:
- - portuguese, castálio, podcast, ubuntu
+ - portuguese
+ - castálio
+ - podcast
+ - ubuntu
 title: "Castálio Podcast - Ivan Brasil Fuzzer: Ubuntero"
 ---
 

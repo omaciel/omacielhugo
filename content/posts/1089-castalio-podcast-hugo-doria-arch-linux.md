@@ -5,7 +5,9 @@ date: 2011-08-08
 slug: |
   castalio-podcast-hugo-doria-arch-linux
 tags:
- - portuguese, castalio, podcast
+ - portuguese
+ - castalio
+ - podcast
 title: "Castálio Podcast: Hugo Dória - Arch Linux"
 ---
 

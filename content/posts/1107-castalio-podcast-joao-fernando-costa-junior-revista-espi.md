@@ -5,14 +5,12 @@ date: 2011-12-12
 slug: |
   castalio-podcast-joao-fernando-costa-junior-revista-espi
 tags:
- - portuguese, castálio, podcast
+ - portuguese
+ - castálio
+ - podcast
 title: "Castálio Podcast - João Fernando Costa Junior: Revista Espírito
   Livre"
 ---
-
-[![João Fernando Costa
-Junior](http://www.castalio.info/wp-content/uploads/2011/12/joao_reasonably_small.jpg)](http://www.castalio.info/wp-content/uploads/2011/12/joao_reasonably_small.jpg)
-
 O entrevistado deste episódio é o **João Fernando Costa Junior**,
 criador e mantenedor da [Revista Espírito
 Livre](http://www.revista.espiritolivre.org/), "uma publicação em

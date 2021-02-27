@@ -5,7 +5,9 @@ date: 2011-10-17
 slug: |
   castalio-podcast-evandro-pastor-quarto-estudio
 tags:
- - portuguese, castalio, podcast
+ - portuguese
+ - castalio
+ - podcast
 title: "Castálio Podcast: Evandro Pastor - Quarto Estudio"
 ---
 

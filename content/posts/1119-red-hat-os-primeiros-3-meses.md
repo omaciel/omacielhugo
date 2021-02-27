@@ -6,6 +6,7 @@ slug: |
   red-hat-os-primeiros-3-meses
 tags:
  - rpath
+ - red hat
 title: "Red Hat: Os Primeiros 3 Meses"
 ---
 

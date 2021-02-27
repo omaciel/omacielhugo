@@ -4,7 +4,8 @@ date: 2012-11-30
 slug: |
   extending-the-default-ec2-root-partition-follow
 tags:
- - EC2, english
+ - EC2
+ - english
 title: "Extending the default EC2 root partition: Follow up"
 ---
 

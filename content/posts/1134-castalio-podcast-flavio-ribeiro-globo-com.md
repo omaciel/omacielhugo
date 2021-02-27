@@ -5,7 +5,11 @@ date: 2012-05-28
 slug: |
   castalio-podcast-flavio-ribeiro-globo-com
 tags:
- - portuguese, podcast, castálio, ubuntu, mandriva
+ - portuguese
+ - podcast
+ - castálio
+ - ubuntu
+ - mandriva
 title: "Castálio Podcast: Flávio Ribeiro: Globo.com"
 ---
 

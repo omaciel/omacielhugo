@@ -4,7 +4,9 @@ date: 2012-08-14
 slug: |
   pycarolinas-2012
 tags:
- - english, python, carolina
+ - english
+ - python
+ - carolina
 title: PyCarolinas 2012
 ---
 

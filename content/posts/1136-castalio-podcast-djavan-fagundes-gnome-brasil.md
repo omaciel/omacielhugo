@@ -5,7 +5,11 @@ date: 2012-06-25
 slug: |
   castalio-podcast-djavan-fagundes-gnome-brasil
 tags:
- - podcast, ubuntu, portuguese, castálio, mandriva
+ - podcast
+ - ubuntu
+ - portuguese
+ - castálio
+ - mandriva
 title: "Castálio Podcast: Djavan Fagundes: GNOME Brasil"
 ---
 

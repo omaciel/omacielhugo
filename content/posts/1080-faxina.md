@@ -8,8 +8,7 @@ tags:
 title: Faxina
 ---
 
-\[caption id="" align="alignleft" width="333"
-caption="Faxina"\][![Faxina](http://farm5.static.flickr.com/4098/4950442535_3d0e9a7b7d_d.jpg)](http://www.flickr.com/photos/ladymixy-uk/4950442535/)\[/caption\]
+![Faxina](http://farm5.static.flickr.com/4098/4950442535_3d0e9a7b7d_d.jpg)
 
 Depois de debater por alguns meses sobre re-organizar os meus dois blogs
 de uma forma mais intuitiva (quem sabe até mesmo mais lógica?),

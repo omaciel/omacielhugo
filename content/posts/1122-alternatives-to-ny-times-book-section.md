@@ -4,7 +4,9 @@ date: 2012-04-01
 slug: |
   alternatives-to-ny-times-book-section
 tags:
- - english, books, nytimes
+ - english
+ - books
+ - nytimes
 title: Alternatives to NY Times\' Book section
 ---
 

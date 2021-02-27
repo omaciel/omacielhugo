@@ -5,7 +5,9 @@ date: 2012-05-13
 slug: |
   castalio-podcast-caike-souza-envy-labs
 tags:
- - podcast, castálio, portuguese
+ - podcast
+ - castálio
+ - portuguese
 title: "Castálio Podcast: Caike Souza - Envy Labs"
 ---
 

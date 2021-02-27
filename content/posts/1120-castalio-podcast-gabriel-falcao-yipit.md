@@ -5,7 +5,9 @@ date: 2012-03-18
 slug: |
   castalio-podcast-gabriel-falcao-yipit
 tags:
- - portuguese, castálio, podcast
+ - portuguese
+ - castálio
+ - podcast
 title: "Castálio Podcast: Gabriel Falcão: Yipit"
 ---
 

@@ -4,7 +4,8 @@ date: 2011-11-20
 slug: |
   starting-a-new-chapter-to-infinity-and-beyond
 tags:
- - rpath, red hat
+ - rpath
+ - red hat
 title: "Starting a New Chapter: To Infinity, and Beyond!"
 ---
 

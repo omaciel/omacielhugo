@@ -5,7 +5,11 @@ date: 2012-06-10
 slug: |
   castalio-podcast-felipe-ribeiro-spotify
 tags:
- - portuguese, podcast, castálio, ubuntu, mandriva
+ - portuguese
+ - podcast
+ - castálio
+ - ubuntu
+ - mandriva
 title: "Castálio Podcast: Felipe Ribeiro - Spotify"
 ---
 

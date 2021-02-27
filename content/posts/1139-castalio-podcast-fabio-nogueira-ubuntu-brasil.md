@@ -5,7 +5,11 @@ date: 2012-07-23
 slug: |
   castalio-podcast-fabio-nogueira-ubuntu-brasil
 tags:
- - portuguese, ubuntu, mandriva, podcast, castálio
+ - portuguese
+ - ubuntu
+ - mandriva
+ - podcast
+ - castálio
 title: "Castálio Podcast: Fábio Nogueira - Ubuntu Brasil"
 ---
 

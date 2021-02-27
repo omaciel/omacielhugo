@@ -5,7 +5,9 @@ date: 2011-10-02
 slug: |
   castalio-podcast-augusto-campos-br-linux-br-mac-efetivid
 tags:
- - portuguese, castalio, podcast
+ - portuguese
+ - castalio
+ - podcast
 title: "Castálio Podcast: Augusto Campos - BR-Linux, BR-Mac,
   Efetividade"
 ---

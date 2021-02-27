@@ -4,8 +4,10 @@ date: 2012-02-17
 slug: |
   sorry-for-the-noise
 tags:
- - english, tumblr, wordpress
-title: Sorry for the noise\...
+ - english
+ - tumblr
+ - wordpress
+title: Sorry for the noise...
 ---
 
 ![Sorry](http://farm8.staticflickr.com/7035/6434625263_9937f1ae1f_d.jpg)I've

@@ -4,7 +4,9 @@ date: 2012-05-02
 slug: |
   now-my-adopted-state-has-chosen-to-turn-its-back
 tags:
- - english, NC, politics
+ - english
+ - NC
+ - politics
 title: Now My Adopted State Has Chosen To Turn Its Back
 ---
 

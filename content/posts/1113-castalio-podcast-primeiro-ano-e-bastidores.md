@@ -5,7 +5,9 @@ date: 2012-02-16
 slug: |
   castalio-podcast-primeiro-ano-e-bastidores
 tags:
- - portuguese, podcast, castálio
+ - portuguese
+ - podcast
+ - castálio
 title: "Castálio Podcast: Primeiro Ano e Bastidores"
 ---
 

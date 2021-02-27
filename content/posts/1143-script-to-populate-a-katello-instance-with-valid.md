@@ -4,7 +4,8 @@ date: 2012-08-16
 slug: |
   script-to-populate-a-katello-instance-with-valid
 tags:
- - english, katello
+ - english
+ - katello
 title: Script to populate a Katello instance with valid data
 ---
 
