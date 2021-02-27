@@ -50,15 +50,16 @@ Next, we establish a connection to the Katello server
 (**qetello01.example.com** in my case), using the default credentials of
 **admin**/**admin**:
 
-> katello_server = server.KatelloServer(host=\'qetello01.example.com\',
-> path_prefix=\'/katello/\', port=443)
-> katello_server.set_auth_method(BasicAuthentication(username=\'admin\',
-> password=\'admin\')) server.set_active_server(katello_server)
-
+```shell
+> katello_server = server.KatelloServer(host='qetello01.example.com',
+> path_prefix='/katello/', port=443)
+> katello_server.set_auth_method(BasicAuthentication(username='admin',
+> password='admin')) server.set_active_server(katello_server)
+```
  
 
 Let's now instantiate the Organization API object and use it to fetch
-the "**ACME_Corporation**\" that gets automatically created for a
+the "**ACME_Corporation**" that gets automatically created for a
 default installation:
 
  

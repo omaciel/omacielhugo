@@ -15,7 +15,7 @@ idea was to create a method that would:
 
 Return a \"Lorem Ipsum\" string if I passed no arguments:
 
-``` {.python}
+```python
 In [1]: from fauxfactory import FauxFactory
 
 In [2]: FauxFactory.generate_iplum()
@@ -32,7 +32,7 @@ Return a single paragraph with a fixed number of words if I passed a
 numeric **words=x** argument. If **words** was a large number, the text
 would \'wrap around\' as many times as needed:
 
-``` {.python}
+```python
 In [3]: FauxFactory.generate_iplum(words=8)
 Out[3]: u'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 
@@ -49,7 +49,7 @@ culpa qui officia deserunt mollit anim id est laborum.'
 If **paragraphs=x** was used, then a given number of paragraphs
 containing the entire \"Lorem Ipsum\" string is returned:
 
-``` {.python}
+```python
 In [5]: FauxFactory.generate_iplum(paragraphs=1)
 Out[5]: u'Lorem ipsum dolor sit amet, consectetur adipisicing elit,
 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
@@ -80,7 +80,7 @@ Finally, if both **words** and **paragraphs** are used, then a given
 number of paragraphs with the specified number of words is returned,
 with the text \'flowing\' and \'wrapping around\' as needed:
 
-``` {.python}
+```python
 In [7]: FauxFactory.generate_iplum(paragraphs=1, words=7)
 Out[7]: u'Lorem ipsum dolor sit amet, consectetur adipisicing.'
 
