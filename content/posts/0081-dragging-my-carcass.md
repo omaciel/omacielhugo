@@ -5,6 +5,9 @@ slug: |
   dragging-my-carcass
 tags:
  - english
+ - work
+ - nycsca
+ - pet project
 title: Dragging My Carcass
 ---
 

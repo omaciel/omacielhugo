@@ -5,6 +5,10 @@ slug: |
   game-night
 tags:
  - english
+ - gaming
+ - life
+ - world of warcraft
+ - vinny
 title: Game Night
 ---
 

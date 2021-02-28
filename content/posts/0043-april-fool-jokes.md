@@ -5,6 +5,7 @@ slug: |
   april-fool-jokes
 tags:
  - english
+ - random
 title: April Fool Jokes
 ---
 

@@ -5,6 +5,7 @@ slug: |
   portable-firefox-102
 tags:
  - english
+ - random
 title: Portable FireFox 1.0.2
 ---
 

@@ -5,6 +5,9 @@ slug: |
   cyber-archeologists-will-google-dig
 tags:
  - english
+ - random
+ - life
+ - futuristic
 title: Cyber Archeologists Will Google Dig
 ---
 

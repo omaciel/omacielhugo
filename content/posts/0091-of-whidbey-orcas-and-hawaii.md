@@ -5,6 +5,8 @@ slug: |
   of-whidbey-orcas-and-hawaii
 tags:
  - english
+ - random
+ - article
 title: Of Whidbey, Orcas, and Hawaii
 ---
 

@@ -5,6 +5,7 @@ slug: |
   starwars-last-supper
 tags:
  - english
+ - random
 title: StarWars \"Last Supper\"
 ---
 

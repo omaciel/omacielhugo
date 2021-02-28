@@ -5,6 +5,7 @@ slug: |
   close-call
 tags:
  - english
+ - life
 title: Close Call
 ---
 

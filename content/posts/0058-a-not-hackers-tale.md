@@ -5,7 +5,9 @@ slug: |
   a-not-hackers-tale
 tags:
  - english
-title: A (Not) Hacker\'s Tale
+ - random
+ - article
+title: "A (Not) Hacker's Tale"
 ---
 
 This is just too [funny](http://www.jellyslab.com/~bteo/hacker.htm)!!!

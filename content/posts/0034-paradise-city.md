@@ -5,6 +5,7 @@ slug: |
   paradise-city
 tags:
  - english
+ - random
 title: Paradise City
 ---
 

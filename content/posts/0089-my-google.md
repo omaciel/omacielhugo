@@ -5,6 +5,7 @@ slug: |
   my-google
 tags:
  - english
+ - random
 title: My Google
 ---
 

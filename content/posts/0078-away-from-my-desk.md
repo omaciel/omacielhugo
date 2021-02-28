@@ -5,6 +5,11 @@ slug: |
   away-from-my-desk
 tags:
  - english
+ - work
+ - nycsca
+ - life
+ - gaming
+ - vinny
 title: Away From My Desk
 ---
 

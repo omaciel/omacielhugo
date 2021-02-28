@@ -5,6 +5,8 @@ slug: |
   lynx-browser-on-windows
 tags:
  - english
+ - random
+ - life
 title: Lynx Browser on Windows
 ---
 

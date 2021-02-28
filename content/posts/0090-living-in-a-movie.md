@@ -5,6 +5,9 @@ slug: |
   living-in-a-movie
 tags:
  - english
+ - work
+ - nycsca
+ - life
 title: Living In A Movie
 ---
 

@@ -5,6 +5,8 @@ slug: |
   benjamin-mako-hill
 tags:
  - english
+ - meetup
+ - life
 title: Benjamin Mako Hill
 ---
 

@@ -5,6 +5,8 @@ slug: |
   cuba-linux-cuba-libre
 tags:
  - english
+ - linux
+ - random
 title: Cuba + Linux = Cuba Libre
 ---
 

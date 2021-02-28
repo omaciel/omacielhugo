@@ -5,6 +5,7 @@ slug: |
   things-that-make-you-go-hummmm
 tags:
  - english
+ - random
 title: Things That Make You Go Hummmm?
 ---
 

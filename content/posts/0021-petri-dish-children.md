@@ -5,6 +5,7 @@ slug: |
   petri-dish-children
 tags:
  - english
+ - life
 title: Petri Dish Children
 ---
 

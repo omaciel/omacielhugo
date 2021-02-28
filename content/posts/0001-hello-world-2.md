@@ -5,6 +5,7 @@ slug: |
   hello-world-2
 tags:
  - english
+ - wordpress
 title: I screwed up!
 ---
 

@@ -5,6 +5,7 @@ slug: |
   book-shopping-spree
 tags:
  - english
+ - books
 title: Book Shopping Spree
 ---
 

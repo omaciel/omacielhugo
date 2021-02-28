@@ -5,6 +5,8 @@ slug: |
   using-audioscrobbler
 tags:
  - english
+ - random
+ - life
 title: Using Audioscrobbler
 ---
 

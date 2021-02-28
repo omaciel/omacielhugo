@@ -5,6 +5,8 @@ slug: |
   the-little-penguin-wine
 tags:
  - english
+ - random
+ - life
 title: The Little Penguin Wine
 ---
 

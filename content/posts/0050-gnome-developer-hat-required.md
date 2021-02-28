@@ -5,6 +5,8 @@ slug: |
   gnome-developer-hat-required
 tags:
  - english
+ - random
+ - gnome
 title: Gnome Developer Hat Required
 ---
 

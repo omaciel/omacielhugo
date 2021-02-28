@@ -5,6 +5,9 @@ slug: |
   el-robot
 tags:
  - english
+ - article
+ - random
+ - life
 title: El Robot
 ---
 

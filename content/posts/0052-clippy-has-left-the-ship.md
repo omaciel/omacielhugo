@@ -5,6 +5,7 @@ slug: |
   clippy-has-left-the-ship
 tags:
  - english
+ - random
 title: Clippy Has Left The Ship
 ---
 

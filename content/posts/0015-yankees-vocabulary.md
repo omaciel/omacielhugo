@@ -5,6 +5,7 @@ slug: |
   yankees-vocabulary
 tags:
  - english
+ - random
 title: Yankees Vocabulary
 ---
 

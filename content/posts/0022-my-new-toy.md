@@ -5,6 +5,7 @@ slug: |
   my-new-toy
 tags:
  - english
+ - random
 title: My New Toy
 ---
 

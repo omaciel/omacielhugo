@@ -5,6 +5,8 @@ slug: |
   15-things-you-can-do-with-rss
 tags:
  - english
+ - random
+ - article
 title: 15 things you can do with RSS
 ---
 

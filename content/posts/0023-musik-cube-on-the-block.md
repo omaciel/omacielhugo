@@ -5,6 +5,7 @@ slug: |
   musik-cube-on-the-block
 tags:
  - english
+ - random
 title: Musik Cube On The Block
 ---
 

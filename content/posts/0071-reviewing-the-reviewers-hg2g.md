@@ -5,6 +5,8 @@ slug: |
   reviewing-the-reviewers-hg2g
 tags:
  - english
+ - movies
+ - random
 title: "Reviewing The Reviewers: HG2G"
 ---
 

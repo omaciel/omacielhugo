@@ -5,6 +5,7 @@ slug: |
   portable-applications
 tags:
  - english
+ - random
 title: Portable Applications
 ---
 

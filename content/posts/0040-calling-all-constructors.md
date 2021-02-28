@@ -5,6 +5,8 @@ slug: |
   calling-all-constructors
 tags:
  - english
+ - random
+ - csharp
 title: Calling All Constructors
 ---
 
@@ -18,7 +20,8 @@ SuperBase(?) syntax and tried several combinations of **this** and
 [this](http://weblogs.asp.net/acampbell/archive/2005/02/02/365299.aspx)
 post which gave me the answer:
 
-`public class PostList     {`
+```csharp
+public class PostList     {
 
     private ArrayList m_Posts;
 
@@ -37,3 +40,4 @@ post which gave me the answer:
     #endregion
 
 }
+```

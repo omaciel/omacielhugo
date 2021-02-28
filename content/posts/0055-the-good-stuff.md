@@ -5,6 +5,8 @@ slug: |
   the-good-stuff
 tags:
  - english
+ - work
+ - nycsca
 title: The Good Stuff
 ---
 

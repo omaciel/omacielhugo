@@ -5,6 +5,9 @@ slug: |
   good-debian-server-setup-howto
 tags:
  - english
+ - debian
+ - life
+ - article
 title: Good Debian Server Setup HOWTO
 ---
 

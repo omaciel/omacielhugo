@@ -5,14 +5,12 @@ slug: |
   enemy-territory-night
 tags:
  - english
+ - enemy territory
+ - gaming
 title: Enemy Territory Night
 ---
 
-[![image0](http://photos5.flickr.com/5302784_a102a7eedb_m.jpg)](http://www.flickr.com/photos/25563799@N00/5302784/)
-
-[Enemy Territory
-Night](http://www.flickr.com/photos/25563799@N00/5302784/) Originally
-uploaded by [omaciel](http://www.flickr.com/people/25563799@N00/).
+![Enemy Territory Night](/images/enemy_territory.png)
 
 Every Wednesday night has been "Enemy Territory Night" for Vinny and I
 for quite some time now. I'm a confessed

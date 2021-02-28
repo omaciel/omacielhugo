@@ -5,6 +5,8 @@ slug: |
   linux-meetup-march-14-2005
 tags:
  - english
+ - meetup
+ - life
 title: Linux Meetup - March 14, 2005
 ---
 

@@ -5,6 +5,8 @@ slug: |
   beware-of-crabs-when-fishing
 tags:
  - english
+ - gaming
+ - life
 title: Beware of Crabs When Fishing
 ---
 

@@ -5,7 +5,8 @@ slug: |
   whats-the-frequency-kenneth
 tags:
  - english
-title: What\'s The Frequency, Kenneth?
+ - random
+title: "What's The Frequency, Kenneth?"
 ---
 
 The depth of the WWW never ceases to amaze me. Every day there's a new

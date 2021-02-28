@@ -5,6 +5,9 @@ slug: |
   a-hazy-shade-of-freedom
 tags:
  - english
+ - work
+ - nycsca
+ - life
 title: A Hazy Shade Of Freedom
 ---
 

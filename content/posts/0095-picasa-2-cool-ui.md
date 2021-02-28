@@ -5,6 +5,8 @@ slug: |
   picasa-2-cool-ui
 tags:
  - english
+ - random
+ - life
 title: "Picasa 2: Cool UI"
 ---
 

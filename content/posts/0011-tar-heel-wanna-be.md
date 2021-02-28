@@ -4,7 +4,9 @@ date: 2005-02-28
 slug: |
   tar-heel-wanna-be
 tags:
- - tar heel, life, unc
+ - tar heel
+ - life
+ - unc
 title: Tar Heel Wanna Be
 ---
 

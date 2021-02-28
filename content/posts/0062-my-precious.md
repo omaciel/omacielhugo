@@ -5,7 +5,8 @@ slug: |
   my-precious
 tags:
  - english
-title: My Precious\...
+ - random
+title: "My Precious..."
 ---
 
 I have finally found my portable MP3 and OGG player to use on the go

@@ -5,6 +5,8 @@ slug: |
   blogetarium
 tags:
  - english
+ - random
+ - links
 title: Blogetarium
 ---
 

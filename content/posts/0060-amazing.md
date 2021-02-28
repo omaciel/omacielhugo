@@ -5,7 +5,9 @@ slug: |
   amazing
 tags:
  - english
-title: Amazing\...
+ - work
+ - nycsca
+title: "Amazing..."
 ---
 
 Sometimes I wonder how certain people get employed... really! I usually
@@ -27,7 +29,7 @@ just:
 
 **Form1:** *\[snip\]*
 
-`Dim secondForm as new Form2() secondForm.ShowDialog()`
+```Dim secondForm as new Form2() secondForm.ShowDialog()```
 
 Boy, was I wrong! The guy looked at me with the facial expression of
 someone who had just put on an old pair of jeans and found a \$50 bill

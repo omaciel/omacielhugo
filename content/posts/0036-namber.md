@@ -4,7 +4,9 @@ date: 2005-03-29
 slug: |
   namber
 tags:
- - namber, meme
+ - namber
+ - meme
+ - random
 title: Namber
 ---
 

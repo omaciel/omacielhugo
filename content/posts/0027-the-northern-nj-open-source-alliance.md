@@ -5,6 +5,7 @@ slug: |
   the-northern-nj-open-source-alliance
 tags:
  - english
+ - meetup
 title: The Northern NJ Open Source Alliance
 ---
 

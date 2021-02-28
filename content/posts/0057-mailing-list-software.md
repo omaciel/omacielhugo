@@ -5,6 +5,7 @@ slug: |
   mailing-list-software
 tags:
  - english
+ - meetup
 title: Mailing List Software
 ---
 

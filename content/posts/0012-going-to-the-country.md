@@ -5,6 +5,7 @@ slug: |
   going-to-the-country
 tags:
  - english
+ - life
 title: Going To The Country
 ---
 

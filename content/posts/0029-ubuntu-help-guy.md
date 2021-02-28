@@ -5,6 +5,8 @@ slug: |
   ubuntu-help-guy
 tags:
  - english
+ - ubuntu
+ - life
 title: Ubuntu Help Guy
 ---
 

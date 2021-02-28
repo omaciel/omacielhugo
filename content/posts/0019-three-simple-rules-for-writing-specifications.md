@@ -5,6 +5,7 @@ slug: |
   three-simple-rules-for-writing-specifications
 tags:
  - english
+ - random
 title: Three Simple Rules For Writing Specifications
 ---
 

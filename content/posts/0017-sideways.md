@@ -5,6 +5,7 @@ slug: |
   sideways
 tags:
  - english
+ - movie
 title: Sideways
 ---
 

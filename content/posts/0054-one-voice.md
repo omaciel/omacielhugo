@@ -5,6 +5,8 @@ slug: |
   one-voice
 tags:
  - english
+ - work
+ - nycsca
 title: One Voice
 ---
 

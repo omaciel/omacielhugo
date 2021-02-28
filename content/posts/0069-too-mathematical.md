@@ -5,6 +5,7 @@ slug: |
   too-mathematical
 tags:
  - english
+ - random
 title: Too Mathematical
 ---
 

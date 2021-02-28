@@ -5,6 +5,7 @@ slug: |
   got-visitors-hire-a-chef
 tags:
  - ximian
+ - life
 title: Got Visitors? Hire a Chef!
 ---
 

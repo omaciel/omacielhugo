@@ -5,6 +5,8 @@ slug: |
   pulp-fiction-in-30-seconds
 tags:
  - english
+ - movies
+ - random
 title: Pulp Fiction In 30 Seconds
 ---
 

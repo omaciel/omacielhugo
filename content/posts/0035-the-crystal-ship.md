@@ -5,6 +5,8 @@ slug: |
   the-crystal-ship
 tags:
  - english
+ - gnome
+ - life
 title: The Crystal Ship
 ---
 

@@ -5,6 +5,7 @@ slug: |
   portable-firefox-103-released
 tags:
  - english
+ - random
 title: Portable FireFox 1.0.3 Released
 ---
 

@@ -5,6 +5,8 @@ slug: |
   google-satelite
 tags:
  - english
+ - random
+ - life
 title: Google Satellite
 ---
 

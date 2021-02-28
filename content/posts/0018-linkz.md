@@ -5,6 +5,8 @@ slug: |
   linkz
 tags:
  - english
+ - random
+ - links
 title: Linkz
 ---
 

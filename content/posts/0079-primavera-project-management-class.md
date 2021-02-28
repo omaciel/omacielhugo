@@ -5,6 +5,8 @@ slug: |
   primavera-project-management-class
 tags:
  - english
+ - work
+ - nycsca
 title: Primavera Project Management Class
 ---
 

@@ -5,6 +5,8 @@ slug: |
   about-meetup-change-of-heart
 tags:
  - english
+ - random
+ - meetup
 title: About MeetUp Change of Heart
 ---
 

@@ -5,6 +5,8 @@ slug: |
   trying-out-perforce
 tags:
  - english
+ - life
+ - perforce
 title: Trying Out Perforce
 ---
 

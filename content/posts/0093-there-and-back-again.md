@@ -5,6 +5,9 @@ slug: |
   there-and-back-again
 tags:
  - english
+ - chapel hill
+ - unc
+ - life
 title: There And Back Again
 ---
 

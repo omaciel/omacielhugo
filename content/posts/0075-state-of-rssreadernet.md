@@ -5,6 +5,8 @@ slug: |
   state-of-rssreadernet
 tags:
  - english
+ - coding
+ - pet project
 title: State of RssReaderNET
 ---
 

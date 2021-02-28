@@ -5,6 +5,8 @@ slug: |
   more-material-for-my-thesis
 tags:
  - english
+ - random
+ - privacy
 title: More Material For My Thesis
 ---
 

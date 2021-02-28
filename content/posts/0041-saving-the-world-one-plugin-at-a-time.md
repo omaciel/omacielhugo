@@ -5,6 +5,8 @@ slug: |
   saving-the-world-one-plugin-at-a-time
 tags:
  - english
+ - random
+ - life
 title: Saving The World, One Plugin AT A Time
 ---
 

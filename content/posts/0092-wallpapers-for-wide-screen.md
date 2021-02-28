@@ -5,6 +5,7 @@ slug: |
   wallpapers-for-wide-screen
 tags:
  - english
+ - random
 title: Wallpapers For Wide Screen
 ---
 

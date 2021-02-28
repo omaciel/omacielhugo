@@ -6,14 +6,13 @@ slug: |
 tags:
  - english
  - work
+ - nycsca
 title: Jail Life
 ---
 
-[![image0](http://photos5.flickr.com/4852540_8b6153a0c4_m.jpg)](http://www.flickr.com/photos/25563799@N00/4852540/)
+![image0](/images/jail_life.png)
 
-[Jail Life](http://www.flickr.com/photos/25563799@N00/4852540/)
-Originally uploaded by
-[omaciel](http://www.flickr.com/people/25563799@N00/). No word about
+No word about
 getting a copy of my database backup yet... In the meantime, here's a
 (mug) shot of my at my so called "prison cell." Been here for almost 6
 months and haven't gotten used to living in this "cubicle forest" yet.

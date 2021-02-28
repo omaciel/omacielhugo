@@ -5,6 +5,7 @@ slug: |
   open-journal-idea
 tags:
  - english
+ - pet project
 title: Open Journal Idea
 ---
 

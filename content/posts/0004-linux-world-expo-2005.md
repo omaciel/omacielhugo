@@ -9,13 +9,7 @@ tags:
 title: Linux World Expo 2005
 ---
 
-[![image0](http://photos3.flickr.com/4973307_93b1273431_m.jpg)](http://www.flickr.com/photos/25563799@N00/4973307/)
-
-[Linux World Expo
-2005](http://www.flickr.com/photos/25563799@N00/4973307/)
-
-Originally uploaded by
-[omaciel](http://www.flickr.com/people/25563799@N00/).
+![Linux World Expo 2005](/images/linux_world_expo_2005.png)
 
 So here I am standing in front of the Gnome booth. Vinny and I got here
 around 1-1:30pm thanks to his awsome navigational skills but were able

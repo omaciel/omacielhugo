@@ -5,7 +5,9 @@ slug: |
   its-a-wireless-world-after-all
 tags:
  - english
-title: It\'s A Wireless World After All
+ - random
+ - life
+title: "It's A Wireless World After All"
 ---
 
 Incredible! Here I am waiting outside my wife's doctor's office, bored

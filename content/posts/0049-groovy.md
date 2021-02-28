@@ -5,6 +5,8 @@ slug: |
   groovy
 tags:
  - english
+ - work
+ - nycsca
 title: Groovy
 ---
 

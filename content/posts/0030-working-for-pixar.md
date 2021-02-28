@@ -5,6 +5,7 @@ slug: |
   working-for-pixar
 tags:
  - english
+ - random
 title: Working For Pixar
 ---
 

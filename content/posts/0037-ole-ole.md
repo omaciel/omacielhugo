@@ -4,8 +4,10 @@ date: 2005-03-29
 slug: |
   ole-ole
 tags:
- - brazil, article
-title: Ole\' Ole\'
+ - brazil
+ - article
+ - random
+title: "Olé, Olé"
 ---
 
 An interesting

@@ -5,6 +5,8 @@ slug: |
   open-source-alliance-march-24th-2005
 tags:
  - english
+ - meetup
+ - life
 title: Open Source Alliance - March 24th, 2005
 ---
 

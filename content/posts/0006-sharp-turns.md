@@ -5,6 +5,8 @@ slug: |
   sharp-turns
 tags:
  - english
+ - work
+ - nycsca
 title: Sharp Turns
 ---
 

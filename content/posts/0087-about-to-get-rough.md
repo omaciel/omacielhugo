@@ -5,6 +5,9 @@ slug: |
   about-to-get-rough
 tags:
  - english
+ - work
+ - nycsca
+ - life
 title: About To Get Rough
 ---
 
@@ -22,7 +25,7 @@ below (contents changed to protect the innocents):
 > - directly with or via a subcontractor firm to one of the \[employer's
 > name\] consultant firms.
 
-When I replied asking if this was optional I recieved a sounding NO!
+When I replied asking if this was optional I received a sounding NO!
 
 Now, I'm not a lawyer or vaguely familiar with any labor regulations out
 there, but.. How is this legal??? I think that besides the person in the
@@ -37,4 +40,4 @@ business or how beneficial this will be to me. It is not like they're
 planning on giving anyone some type of compensation for being underpaid.
 This really ticked me off at first but I decided that it was not worth
 loosing hair over it now. If the going gets rough I'm ready to defend my
-provacy and my rights!
+privacy and my rights!

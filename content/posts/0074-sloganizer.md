@@ -5,6 +5,7 @@ slug: |
   sloganizer
 tags:
  - english
+ - random
 title: Sloganizer
 ---
 

@@ -5,6 +5,7 @@ slug: |
   portable-applications-gallore
 tags:
  - english
+ - random
 title: Portable Applications Gallore
 ---
 

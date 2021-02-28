@@ -5,6 +5,8 @@ slug: |
   red-storm-on-the-horizon
 tags:
  - english
+ - work
+ - life
 title: Red Storm On The Horizon
 ---
 

@@ -5,6 +5,7 @@ slug: |
   if-you-thought-google-maps-was-cool
 tags:
  - english
+ - random
 title: If You Thought Google Maps Was Cool
 ---
 

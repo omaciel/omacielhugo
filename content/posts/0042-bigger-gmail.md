@@ -5,6 +5,10 @@ slug: |
   bigger-gmail
 tags:
  - english
+ - random
+ - life
+ - google
+ - yahoo
 title: Bigger GMail
 ---
 

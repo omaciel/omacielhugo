@@ -5,6 +5,9 @@ slug: |
   where-do-we-get-these-people
 tags:
  - english
+ - work
+ - nycsca
+ - life
 title: Where Do We Get These People?
 ---
 

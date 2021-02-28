@@ -5,6 +5,7 @@ slug: |
   portable-firefox-104-released
 tags:
  - english
+ - random
 title: Portable Firefox 1.0.4 Released
 ---
 

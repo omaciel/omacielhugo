@@ -5,15 +5,12 @@ slug: |
   cute-visitor
 tags:
  - english
+ - random
+ - work
 title: Cute Visitor
 ---
 
-[![image0](http://photos3.flickr.com/5423532_5b706e4bc5_m.jpg)](http://www.flickr.com/photos/25563799@N00/5423532/)
-
-[Cute Visitor](http://www.flickr.com/photos/25563799@N00/5423532/)
-
-Originally uploaded by
-[omaciel](http://www.flickr.com/people/25563799@N00/).
+![Cute Visitor](/images/cute_visitor.png)
 
 My daughter's daycare was closed today due to the weather. Eventhough
 there's less than 2 inches of snow on the ground they decided that it

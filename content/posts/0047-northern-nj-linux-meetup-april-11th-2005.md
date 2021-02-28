@@ -5,6 +5,7 @@ slug: |
   northern-nj-linux-meetup-april-11th-2005
 tags:
  - english
+ - meetup
 title: Northern NJ Linux MeetUp - April 11th, 2005
 ---
 

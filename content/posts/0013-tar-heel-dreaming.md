@@ -4,7 +4,9 @@ date: 2005-03-04
 slug: |
   tar-heel-dreaming
 tags:
- - tar heel, life, unc
+ - tar heel
+ - life
+ - unc
 title: Tar Heel Dreaming
 ---
 

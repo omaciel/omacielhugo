@@ -5,6 +5,8 @@ slug: |
   let-me-introduce-you-to-my-little-friend
 tags:
  - english
+ - random
+ - life
 title: Let Me Introduce You To My Little Friend
 ---
 

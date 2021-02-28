@@ -5,6 +5,7 @@ slug: |
   this-site-is-certified-27-evil
 tags:
  - english
+ - random
 title: This site is certified 27% EVIL
 ---
 
