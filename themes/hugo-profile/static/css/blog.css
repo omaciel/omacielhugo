@@ -115,7 +115,7 @@
   }
   
   .bookshelf {
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr;
       display: grid;
       justify-items: center;
       margin-bottom: 1rem;
