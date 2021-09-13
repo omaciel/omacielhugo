@@ -4,33 +4,7 @@
             <div class="row justify-content-center mb-2">
                 <img src="/images/bookcover3.jpg" width="200" alt="The Big Score front cover" class="rounded">
             </div>
-            <div class="row justify-content-center mb-2">
-                <div class="btn-group" role="group">
-                    <button id="btnGroupDrop1" type="button" class="btn btn-success dropdown-toggle"
-                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Order it now:
-                    </button>
-                    <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
-                        <a class="dropdown-item"
-                            href="https://www.barnesandnoble.com/w/the-big-score-og-maciel/1140049879"
-                            target="_blank"><img
-                                src="https://assets-cdn.reedsy.com/discovery/packs/media/assets/stores/barnes-and-noble-de30be843ec71865ced193346f789372.jpg"><span>Buy
-                                on <span>Barnes &amp; Noble</span></span></a>
-                        <a class="dropdown-item" href="https://www.amazon.com/dp/1736011340/" target="_blank"><img
-                                src="https://assets-cdn.reedsy.com/discovery/packs/media/assets/stores/amazon-b0d8088f131a1d18f58f122a27022420.png"><span>Buy
-                                on <span>Amazon</span></span></a>
-                        <a class="dropdown-item" href="https://books.apple.com/us/book/the-big-score/id1582738034"
-                            target="_blank"><img
-                                src="https://assets-cdn.reedsy.com/discovery/packs/media/assets/stores/apple-1c7dfa4703959c1b0b58d3827e1f989d.png"><span>Buy
-                                on <span>Apple Books</span></span>
-                            Books</a>
-                        <a class="dropdown-item" href="https://www.kobo.com/us/en/ebook/the-big-score-5/"
-                            target="_blank"><img
-                                src="https://assets-cdn.reedsy.com/discovery/packs/media/assets/stores/kobo-fc85751bb8738720f80f3c915134e3c7.jpg"><span>Buy
-                                on <span>Kobo</span></span></a>
-                    </div>
-                </div>
-            </div>
+            {{- partial "purchase_thebigscore.html" . -}}
         </div>
         <div class="col-md-9 px-0">
             <h1 class="display-4 font-italic">The Big Score</h1>
