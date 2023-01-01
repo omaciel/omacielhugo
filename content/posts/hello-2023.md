@@ -5,7 +5,6 @@ tags:
 - writing
 - book
 - retrospective
-draft: true
 ---
 
 It seems that my last [post](/posts/the-big-score-barnes-noble/) was from September 03, 2021, so perhaps at the "risk" 
