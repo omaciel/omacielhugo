@@ -1,50 +1,27 @@
 <div class="row mb-2 justify-content-md-center">
     <div class="col-md-8 p-3">
         <div class="row no-gutters">
-            <p class="lead my-3">I wrote and self-published a few books.</p>
+            <p class="lead my-3">I have written a few books.</p>
         </div>
-        <div class="row no-gutters border rounded mb-4 shadow-sm">
-            <div class="col p-4">
-                <h4 class="mb-0">The Big Score</h4>
-                <div class="mb-1 text-muted">Oct 12, 2021</div>
-                <p>
-                    Friendships and alliances will be tested during a challenge to see who is the best car emblem thief
-                    in town. <a href="/thebigscore/">(More)</a>
-                </p>
-                {{- partial "purchase_thebigscore.html" . -}}
+
+        <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home"
+                        type="button" role="tab" aria-controls="pills-home" aria-selected="true">English</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile"
+                        type="button" role="tab" aria-controls="pills-profile" aria-selected="false">Português</button>
+            </li>
+        </ul>
+        <div class="tab-content" id="pills-tabContent">
+            <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab" tabindex="0">
+                {{- partial "books_en.html" . -}}
             </div>
-            <div class="col-auto p-2">
-                <img src="/images/bookcover3.jpg" class="img-thumbnail" width="150" height="200"
-                    alt="Software Quality Engineering" class="rounded">
-            </div>
-        </div>
-        <div class="row no-gutters border rounded mb-4 shadow-sm">
-            <div class="col p-4">
-                <h4 class="mb-0">I. C. Q.</h4>
-                <div class="mb-1 text-muted">Feb 09, 2021</div>
-                <p>
-                    Before there were dating apps, people met online on AOL and ICQ! <a href="/icq/">(More)</a>
-                </p>
-                {{- partial "purchase_icq.html" . -}}
-            </div>
-            <div class="col-auto p-2">
-                <img src="/images/bookcover2.jpeg" class="img-thumbnail" width="150" height="200"
-                    alt="Software Quality Engineering" class="rounded">
+            <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab" tabindex="0">
+                {{- partial "books_pt.html" . -}}
             </div>
         </div>
-        <div class="row no-gutters border rounded mb-4 shadow-sm">
-            <div class="col p-4">
-                <h4 class="mb-0">Software Quality Engineering</h4>
-                <div class="mb-1 text-muted">Mar 16, 2019</div>
-                <p>
-                    My personal journey to become a Software Quality Engineer.
-                </p>
-                {{- partial "purchase_sqe.html" . -}}
-            </div>
-            <div class="col-auto p-2">
-                <img src="/images/bookcover1.png" class="img-thumbnail" width="150" height="200"
-                    alt="Software Quality Engineering" class="rounded">
-            </div>
-        </div>
+
     </div>
 </div>
