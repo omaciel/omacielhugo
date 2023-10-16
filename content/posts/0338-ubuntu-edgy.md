@@ -46,19 +46,15 @@ Na reuniÃƒÂ£o, os seguintes assuntos serÃƒÂ£o discutidos:
 -   PadrÃƒÂ£o de traduÃƒÂ§ÃƒÂµes
 -   GlossÃƒÂ¡rio de termos
 
-```{=html}
-<!-- -->
-```
-    <li>ManutenÃƒÂ§ÃƒÂ£o de documentos:</li>
+
+ManutenÃƒÂ§ÃƒÂ£o de documentos:
 
 -   Wiki
 -   Guia NÃƒÂ£o Oficial
 -   PÃƒÂ¡gina principal
 
-```{=html}
-<!-- -->
-```
-    <li>EvangelizaÃƒÂ§ÃƒÂ£o:</li>
+
+EvangelizaÃƒÂ§ÃƒÂ£o:
 
 -   Palestras
 -   Grupos Regionais
@@ -67,10 +63,8 @@ Na reuniÃƒÂ£o, os seguintes assuntos serÃƒÂ£o discutidos:
 -   Ubuntu Chicks?
 -   e finalmente, RELEASE PARTIES!
 
-```{=html}
-<!-- -->
-```
-    <li>UnificaÃƒÂ§ÃƒÂ£o de documentos</li>
+
+UnificaÃƒÂ§ÃƒÂ£o de documentos
 
 -   Unir informaÃƒÂ§ÃƒÂ£o contida em diversos tipos de mÃƒÂ­dia em um
     "single point of reference"
@@ -79,11 +73,9 @@ Na reuniÃƒÂ£o, os seguintes assuntos serÃƒÂ£o discutidos:
 -   forums
 -   listas
 
-```{=html}
-<!-- -->
-```
-    <li>OrganizaÃƒÂ§ÃƒÂ£o do grupo e a criaÃƒÂ§ÃƒÂ£o de um grupo de mentores.</li>
-    <li>Qualquer outra idÃƒÂ©ia.</li>
+
+OrganizaÃƒÂ§ÃƒÂ£o do grupo e a criaÃƒÂ§ÃƒÂ£o de um grupo de mentores.
+Qualquer outra idÃƒÂ©ia.
 
 Todos serÃƒÂ£o convidados a participar! Vamos precisar de pessoas
 interessadas em transcrever todas as idÃƒÂ©ias discutidas e manter datas

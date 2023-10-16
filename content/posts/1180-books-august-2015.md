@@ -94,9 +94,7 @@ time for me to get to them, as well as try some new authors.
     series in the coming months so that I can hopefully get a better
     opinion formed about the author.
 
-```{=html}
-<!-- -->
-```
+
 -   [Vidas
     Secas](https://www.goodreads.com/search?utf8=%E2%9C%93&query=Vidas+Secas)
     by [Graciliano
