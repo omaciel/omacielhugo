@@ -20,6 +20,10 @@ params:
   customMenus:
   - name: "Blog"
     Url: "/blog"
+  - name: "Books"
+    Url: "/books"
+  - name: "Projects"
+    Url: "/projects"
     
   # social
   name: "Hugo-profile"
