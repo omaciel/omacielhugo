@@ -4,7 +4,8 @@ title: "Hugo-profile"
 
 googleanalytics: UA-167646412-8
 disqusShortname: 
-Paginate: 3
+pagination:
+  pagerSize: 3
 
 taxonomies:
   tag: "tags"

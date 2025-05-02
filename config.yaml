@@ -5,7 +5,8 @@ theme: "hugo-profile"
 
 # googleanalytics: UA-xxxxxxx-x
 disqusShortname: journalofanopensourcee
-Paginate: 7
+pagination:
+  pagerSize: 7
 
 taxonomies:
   tag: "tags"
