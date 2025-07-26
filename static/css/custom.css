@@ -1,0 +1,4 @@
+/* Custom styles to add spacing between header navigation links */
+.blog-header .col-4 a.text-muted:not(:first-child) {
+    margin-left: 20px;
+} 
