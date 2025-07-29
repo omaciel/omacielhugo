@@ -1,0 +1,627 @@
+---
+title: "Sprint Planning Calculator"
+date: 2025-01-28
+draft: false
+type: "projects"
+description: "A tool to help Agile teams calculate their sprint capacity by considering working days, team size, and reserved capacity for other duties."
+---
+
+<style>
+    .calculator-container {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+        margin: 20px auto;
+        max-width: 1200px;
+        background: #fff;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        padding: 30px;
+    }
+
+    .calculator-header {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .calculator-header h1 {
+        margin: 0 0 10px 0;
+        color: #333;
+        font-size: 2.5rem;
+        font-weight: 300;
+    }
+
+    .calculator-header .date {
+        color: #666;
+        font-size: 0.9rem;
+    }
+
+    .two-column-layout {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 40px;
+        margin-bottom: 40px;
+    }
+
+    .section {
+        background: #f8f9fa;
+        border-radius: 8px;
+        padding: 25px;
+        border: 1px solid #e9ecef;
+    }
+
+    .section-title {
+        font-size: 1.3rem;
+        font-weight: 600;
+        color: #495057;
+        margin: 0 0 20px 0;
+        padding-bottom: 10px;
+        border-bottom: 2px solid #dee2e6;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .form-group label {
+        font-weight: 500;
+        color: #495057;
+        margin-right: 15px;
+        min-width: 140px;
+        text-align: left;
+    }
+
+    .form-group input, .form-group span {
+        flex: 1;
+        max-width: 200px;
+    }
+
+    .form-group input[type="number"], 
+    .form-group input[type="text"], 
+    .form-group input[type="date"] {
+        padding: 10px 12px;
+        border: 1px solid #ced4da;
+        border-radius: 6px;
+        font-size: 0.9rem;
+        transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    }
+
+    .form-group input:focus {
+        outline: none;
+        border-color: #007bff;
+        box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1);
+    }
+
+    .form-group .readonly-value {
+        background: #e9ecef;
+        padding: 10px 12px;
+        border-radius: 6px;
+        font-weight: 500;
+        color: #495057;
+    }
+
+    .team-section {
+        grid-column: 1 / -1;
+        margin-top: 20px;
+    }
+
+    .team-members-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px 0;
+        background: white;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+
+    .team-members-table th {
+        background: #495057;
+        color: white;
+        padding: 15px 12px;
+        text-align: left;
+        font-weight: 500;
+        font-size: 0.9rem;
+        border: none;
+    }
+
+    .team-members-table td {
+        padding: 12px;
+        border-bottom: 1px solid #dee2e6;
+        vertical-align: middle;
+    }
+
+    .team-members-table tr:last-child td {
+        border-bottom: none;
+    }
+
+    .team-members-table input {
+        width: 100%;
+        padding: 8px 10px;
+        border: 1px solid #ced4da;
+        border-radius: 4px;
+        font-size: 0.9rem;
+    }
+
+    .team-members-table input:focus {
+        outline: none;
+        border-color: #007bff;
+        box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.1);
+    }
+
+    .btn {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 6px;
+        font-size: 0.9rem;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all 0.15s ease-in-out;
+        margin: 5px;
+        text-decoration: none;
+        display: inline-block;
+    }
+
+    .btn-primary {
+        background: #007bff;
+        color: white;
+    }
+
+    .btn-primary:hover {
+        background: #0056b3;
+        transform: translateY(-1px);
+    }
+
+    .btn-success {
+        background: #28a745;
+        color: white;
+    }
+
+    .btn-success:hover {
+        background: #1e7e34;
+    }
+
+    .btn-info {
+        background: #17a2b8;
+        color: white;
+    }
+
+    .btn-info:hover {
+        background: #138496;
+    }
+
+    .btn-danger {
+        background: #dc3545;
+        color: white;
+        padding: 6px 12px;
+        font-size: 0.8rem;
+    }
+
+    .btn-danger:hover {
+        background: #c82333;
+    }
+
+    .action-buttons {
+        text-align: center;
+        margin: 30px 0;
+        padding: 20px;
+        background: #f8f9fa;
+        border-radius: 8px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+
+    .file-input-wrapper {
+        position: relative;
+        display: inline-block;
+        overflow: hidden;
+        cursor: pointer;
+        vertical-align: top;
+    }
+
+    .file-input-wrapper input[type=file] {
+        position: absolute;
+        left: -9999px;
+    }
+
+    .table-danger {
+        background-color: #f8d7da !important;
+    }
+
+    @media (max-width: 768px) {
+        .two-column-layout {
+            grid-template-columns: 1fr;
+            gap: 20px;
+        }
+        
+        .calculator-container {
+            padding: 20px;
+            margin: 10px;
+        }
+        
+        .form-group {
+            flex-direction: column;
+            align-items: stretch;
+        }
+        
+        .form-group label {
+            margin-bottom: 5px;
+            min-width: auto;
+        }
+        
+        .form-group input, .form-group span {
+            max-width: none;
+        }
+    }
+</style>
+
+<div class="calculator-container">
+    <div class="two-column-layout">
+        <!-- Sprint Details Section -->
+        <div class="section">
+            <h2 class="section-title">Sprint Details</h2>
+            
+            <div class="form-group">
+                <label for="sprintName">Sprint Name:</label>
+                <input type="text" id="sprintName" placeholder="Enter sprint name">
+            </div>
+
+            <div class="form-group">
+                <label for="teamVelocity">Team Velocity:</label>
+                <input type="number" id="teamVelocity" value="88" placeholder="Enter team velocity">
+            </div>
+
+            <div class="form-group">
+                <label for="sprintStarts">Sprint Starts:</label>
+                <input type="date" id="sprintStarts">
+            </div>
+
+            <div class="form-group">
+                <label for="sprintEnds">Sprint Ends:</label>
+                <input type="date" id="sprintEnds">
+            </div>
+
+            <div class="form-group">
+                <label>Total Days:</label>
+                <span class="readonly-value" id="sprintDays">0</span>
+            </div>
+
+            <div class="form-group">
+                <label for="reservedCapacity">Reserved Capacity (%):</label>
+                <input type="number" id="reservedCapacity" value="10" oninput="calculateTargetStoryPoints()">
+            </div>
+        </div>
+
+        <!-- Team Details Section -->
+        <div class="section">
+            <h2 class="section-title">Team Details</h2>
+            
+            <div class="form-group">
+                <label for="teamSize">Team Size:</label>
+                <span class="readonly-value" id="teamSize">0</span>
+            </div>
+
+            <div class="form-group">
+                <label for="totalTeamDays">Total Team Days:</label>
+                <span class="readonly-value" id="totalTeamDays">0</span>
+            </div>
+
+            <div class="form-group">
+                <label for="totalTeamCapacity">Sprint Capacity (%):</label>
+                <span class="readonly-value" id="totalTeamCapacity">0</span>
+            </div>
+
+            <div class="form-group">
+                <label for="targetStoryPoints">Sprint Target:</label>
+                <span class="readonly-value" id="targetStoryPoints">0</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Team Members Table Section -->
+    <div class="section team-section">
+        <h2 class="section-title">Team Members Table</h2>
+        
+        <table class="team-members-table">
+            <thead>
+                <tr>
+                    <th>Team Member</th>
+                    <th>Available Days</th>
+                    <th>PTO Dates</th>
+                    <th>Story Point capacity</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody id="teamTable">
+            </tbody>
+        </table>
+
+        <div class="action-buttons">
+            <button class="btn btn-primary" onclick="addTeamMember()">
+                📊 Add
+            </button>
+            <button class="btn btn-success" onclick="saveTemplateAsJSON()">
+                💾 Save
+            </button>
+            <div class="file-input-wrapper">
+                <button class="btn btn-info" onclick="document.querySelector('.file-input-wrapper input[type=file]').click()">
+                    📤 Upload
+                </button>
+                <input type="file" accept=".json" onchange="loadTemplateFromFile(this)">
+            </div>
+        </div>
+    </div>
+</div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Bootstrap tooltips initialization
+        var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+        var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+          return new bootstrap.Tooltip(tooltipTriggerEl)
+        })
+
+        window.onload = function() {
+            // Set current date in header
+            const currentDate = new Date().toLocaleDateString('en-US', { 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric' 
+            });
+            document.getElementById('currentDate').textContent = currentDate;
+
+            // Set the default values for Sprint Starts and Sprint Ends based on system's current date
+            const today = new Date().toISOString().split('T')[0];
+            document.getElementById('sprintStarts').value = today;
+
+            // Set Sprint Ends to two weeks from the current date
+            const twoWeeksFromNow = new Date();
+            twoWeeksFromNow.setDate(twoWeeksFromNow.getDate() + 14);
+            const sprintEndsDate = twoWeeksFromNow.toISOString().split('T')[0];
+            document.getElementById('sprintEnds').value = sprintEndsDate;
+            document.getElementById('sprintEnds').setAttribute('min', today);
+
+            calculateSprintDays();
+        };
+
+        // Sprint Ends date should never be before Sprint Starts
+        document.getElementById('sprintStarts').addEventListener('change', function() {
+            const sprintStartDate = this.value;
+            document.getElementById('sprintEnds').setAttribute('min', sprintStartDate);
+            calculateSprintDays();
+        });
+
+        // Automatically calculate the total number of days in the Sprint
+        document.getElementById('sprintEnds').addEventListener('change', function() {
+            calculateSprintDays();
+        });
+
+        // Add new team member row
+        function addTeamMember() {
+            const table = document.getElementById('teamTable');
+            const newRow = table.insertRow();
+            
+            // Insert new cells for teammate name, available days, PTO dates, capacity, and actions
+            const cell1 = newRow.insertCell(0);
+            const cell2 = newRow.insertCell(1);
+            const cell3 = newRow.insertCell(2);
+            const cell4 = newRow.insertCell(3);
+            const cell5 = newRow.insertCell(4);
+
+            // Add input fields in the new row
+            cell1.innerHTML = '<input type="text" placeholder="Enter team member name">';
+            cell2.innerHTML = `<input type="number" class="available-days" value="${document.getElementById('sprintDays').textContent}" oninput="calculateTotalTeamDays(); updateTableRowColor(this.parentElement.parentElement);">`;
+            cell3.innerHTML = '<input type="text" placeholder="e.g., Jan 1-3, Jan 15">';
+            cell4.innerHTML = '<span class="readonly-value">0</span>';
+            cell5.innerHTML = '<button class="btn btn-danger" onclick="deleteTeamMember(this)">Delete</button>';
+
+            updateTeamSize();
+            updateTableRowColor(newRow); // Apply conditional coloring
+        }
+
+        // Delete team member from table
+        function deleteTeamMember(button) {
+            const row = button.parentNode.parentNode;
+            row.parentNode.removeChild(row);
+            updateTeamSize();
+        }
+
+        // Refresh calculations for total team size
+        function updateTeamSize() {
+            document.getElementById('teamSize').textContent = document.getElementById('teamTable').rows.length;
+            calculateTotalTeamDays();
+        }
+
+        // Calculate the total number of days for the sprint for all team members
+        function calculateTotalTeamDays() {
+            const availableDaysInputs = document.getElementsByClassName('available-days');
+            let totalDays = 0;
+            
+            // Loop through all available days inputs and sum up their values
+            if (availableDaysInputs.length > 0) {
+                for (let i = 0; i < availableDaysInputs.length; i++) {
+                    const days = parseFloat(availableDaysInputs[i].value);
+                    totalDays += days;
+                }
+            }
+            document.getElementById('totalTeamDays').textContent = totalDays;
+
+            calculateTotalTeamCapacity();
+        }
+
+        function calculateTotalTeamCapacity() {
+            const totalTeamDays = parseFloat(document.getElementById('totalTeamDays').textContent);
+            const teamSize = parseInt(document.getElementById('teamSize').textContent);
+            const totalSprintDays = parseInt(document.getElementById('sprintDays').textContent);
+
+            if (teamSize > 0 && totalSprintDays > 0) {
+                const totalTeamCapacity = (totalTeamDays / (teamSize * totalSprintDays)) * 100;
+                document.getElementById('totalTeamCapacity').textContent = totalTeamCapacity.toFixed(2);
+            } else {
+                document.getElementById('totalTeamCapacity').textContent = '0';
+            }
+
+            calculateTargetStoryPoints();
+        }
+
+        function calculateSprintDays() {
+            const sprintStart = new Date(document.getElementById('sprintStarts').value);
+            const sprintEnd = new Date(document.getElementById('sprintEnds').value);
+
+            // Ensure the end date is after the start date
+            if (sprintEnd < sprintStart) {
+                document.getElementById('sprintDays').textContent = "Invalid date range";
+                return;
+            }
+
+            let workingDays = 0;
+            let currentDate = new Date(sprintStart);
+
+            // Loop through each date between the start and end date (inclusive)
+            while (currentDate < sprintEnd) {
+                const dayOfWeek = currentDate.getDay();
+                if (dayOfWeek !== 0 && dayOfWeek !== 6) { // Exclude Saturdays and Sundays
+                    workingDays++;
+                }
+                currentDate.setDate(currentDate.getDate() + 1);
+            }
+
+            document.getElementById('sprintDays').textContent = workingDays;
+
+            calculateTotalTeamCapacity();
+        }
+
+        function calculateTargetStoryPoints() {
+            const teamVelocity = parseFloat(document.getElementById('teamVelocity').value);
+            const totalTeamCapacity = parseFloat(document.getElementById('totalTeamCapacity').textContent);
+            const reservedCapacity = parseFloat(document.getElementById('reservedCapacity').value) / 100;
+
+            if (!isNaN(totalTeamCapacity) && totalTeamCapacity > 0) {
+                const adjustedCapacity = totalTeamCapacity * (1 - reservedCapacity);
+                const targetStoryPoints = Math.round((adjustedCapacity / 100) * teamVelocity);
+                document.getElementById('targetStoryPoints').textContent = targetStoryPoints;
+            } else {
+                document.getElementById('targetStoryPoints').textContent = '0';
+            }
+            updateTeamMembersStoryPointCapacity();
+        }
+
+        function updateTableRowColor(row) {
+            const availableDays = parseInt(row.cells[1].firstChild.value);
+            if (availableDays < 5) {
+                row.classList.add('table-danger'); // Highlight row with low availability
+            } else {
+                row.classList.remove('table-danger');
+            }
+        }
+
+        function updateTeamMembersStoryPointCapacity() {
+            // A Team member's Story Point capacity is the total Story Points
+            // expressed as a proportion of the Team member's availability compared
+            // to the whole team's availability.
+            const totalTeamDays = parseFloat(document.getElementById('totalTeamDays').textContent);
+            const targetStoryPoints = parseFloat(document.getElementById('targetStoryPoints').textContent);
+            let totalTeamMembersCapacity = 0;
+            const rows = document.querySelectorAll("#teamTable tr");
+            rows.forEach(row => {
+                const teamMemberDays = parseFloat(row.cells[1].querySelector("input").value);
+                const teamMemberCapacity = Math.round(teamMemberDays / totalTeamDays * targetStoryPoints);
+                row.cells[3].querySelector("span").textContent = teamMemberCapacity.toString();
+                totalTeamMembersCapacity += teamMemberCapacity;
+            });
+
+            // Fudge a random Team member's capacity so the totals match
+            if(totalTeamMembersCapacity !== targetStoryPoints) {
+                const randomRowIndex = Math.floor(Math.random()*rows.length);
+                const teamMemberCapacity = parseInt(rows[randomRowIndex].cells[3].querySelector("span").textContent);
+                rows[randomRowIndex].cells[3].querySelector("span").textContent = (teamMemberCapacity + (targetStoryPoints - totalTeamMembersCapacity)).toString();
+            }
+        }
+
+        // Function to save the template as a JSON file
+        function saveTemplateAsJSON() {
+            const template = {
+                teamVelocity: document.getElementById('teamVelocity').value,
+                sprintStarts: document.getElementById('sprintStarts').value,
+                sprintEnds: document.getElementById('sprintEnds').value,
+                reservedCapacity: document.getElementById('reservedCapacity').value,
+                teamMembers: []
+            };
+
+            // Get the team members data
+            document.querySelectorAll("#teamTable tr").forEach(row => {
+                const memberData = {
+                    name: row.cells[0].querySelector("input").value,
+                    availableDays: row.cells[1].querySelector("input").value,
+                    ptoDates: row.cells[2].querySelector("input").value,
+                };
+                template.teamMembers.push(memberData);
+            });
+
+            // Convert the template to JSON string
+            const jsonTemplate = JSON.stringify(template);
+
+            // Create a download link for the JSON file
+            const blob = new Blob([jsonTemplate], { type: "application/json" });
+            const link = document.createElement("a");
+            link.href = URL.createObjectURL(blob);
+            link.download = "sprint_template.json";
+
+            // Trigger the download
+            link.click();
+        }
+
+        // Function to load the template from a JSON file
+        function loadTemplateFromFile(input) {
+            const file = input.files[0];
+            if (!file) {
+                alert("No file selected.");
+                return;
+            }
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const template = JSON.parse(e.target.result);
+
+                    // Load the JSON data into the form fields
+                    document.getElementById('teamVelocity').value = template.teamVelocity;
+                    document.getElementById('sprintStarts').value = template.sprintStarts;
+                    document.getElementById('sprintEnds').value = template.sprintEnds;
+                    document.getElementById('reservedCapacity').value = template.reservedCapacity;
+
+                    // Clear the current team members
+                    document.getElementById('teamTable').innerHTML = '';
+
+                    // Load team members from JSON
+                    template.teamMembers.forEach(member => {
+                        addTeamMember();  // Add a new row
+                        const lastRow = document.querySelector("#teamTable tr:last-child");
+                        lastRow.cells[0].querySelector("input").value = member.name;
+                        lastRow.cells[1].querySelector("input").value = member.availableDays;
+                        lastRow.cells[2].querySelector("input").value = member.ptoDates;
+                        updateTableRowColor(lastRow); // Apply conditional coloring
+                    });
+                    
+                    updateTeamSize();
+                    calculateSprintDays()
+                    calculateTotalTeamDays();
+                    updateTeamMembersStoryPointCapacity();
+
+                    alert("Template loaded successfully!");
+
+                } catch (error) {
+                    alert("Error loading template: " + error.message);
+                } finally {
+                    // Reset the input so that the onchange event will fire again for the same file
+                    input.value = '';
+                }
+            };
+
+            reader.readAsText(file);  // Read the file as a text string
+        }
+    </script>

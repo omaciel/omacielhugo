@@ -3,6 +3,11 @@ languageCode: "en-us"
 title: "Og Maciel's Journal"
 theme: "hugo-profile"
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 # googleanalytics: UA-xxxxxxx-x
 disqusShortname: journalofanopensourcee
 pagination:

@@ -1,0 +1,32 @@
+{{ define "main" }}
+<div class="container-fluid p-0">
+    <div class="row no-gutters">
+        <div class="col-lg-12">
+            <div class="d-flex flex-column">
+                <div class="container-fluid p-0">
+                    <div class="row no-gutters">
+                        <div class="col-lg-12">
+                            <article class="blog-post">
+                                <h1 class="post-title">{{ .Title }}</h1>
+                                <div class="post-meta">
+                                    <time>{{ .Date.Format "January 2, 2006" }}</time>
+                                    {{ with .Params.tags }}
+                                    <div class="tags">
+                                        {{ range . }}
+                                        <span class="tag">#{{ . }}</span>
+                                        {{ end }}
+                                    </div>
+                                    {{ end }}
+                                </div>
+                                <div class="post-content">
+                                    {{ .Content }}
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

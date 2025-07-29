@@ -1,0 +1,51 @@
+<header class="blog-header py-3">
+    <div class="row flex-nowrap justify-content-between align-items-center">
+      <div class="col-md-4 col-6 pt-1">
+        <a class="text-muted" href="/posts">Archives</a>
+      </div>
+      <div class="col-md-4 col-12 text-center order-first order-md-0 mb-2 mb-md-0">
+        <a class="blog-header-logo text-dark" href="{{ .Site.BaseURL }}">Home</a>
+      </div>
+      <div class="col-md-4 col-6 d-flex justify-content-end align-items-center">
+        <div class="nav-links d-flex flex-wrap">
+            <a class="text-muted me-2 me-md-3" href="/books">Books</a>
+            <a class="text-muted" href="/projects">Projects</a>
+        </div>
+      </div>
+    </div>
+</header>
+
+<style>
+    @media (max-width: 576px) {
+        .blog-header .row {
+            flex-wrap: wrap;
+        }
+        
+        .nav-links {
+            gap: 0.5rem;
+        }
+        
+        .nav-links a {
+            font-size: 0.9rem;
+            white-space: nowrap;
+        }
+        
+        .blog-header-logo {
+            font-size: 1.1rem;
+        }
+    }
+    
+    @media (max-width: 480px) {
+        .nav-links a {
+            font-size: 0.85rem;
+        }
+        
+        .nav-links {
+            gap: 0.25rem;
+        }
+        
+        .me-2, .me-md-3 {
+            margin-right: 0.25rem !important;
+        }
+    }
+</style> 
