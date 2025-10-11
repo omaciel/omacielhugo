@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Mande uma mensagem para o Planeta pelo Twitter
+type: post
 ---
 
 Este fim de semana adicionei um novo recurso ao [Planeta GNU/Linux

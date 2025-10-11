@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Sign of Times?
+type: post
 ---
 
 So yesterday I [found

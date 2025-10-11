@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: Watch Star Wars III with Microsoft
+type: post
 ---
 
 Received this email today:

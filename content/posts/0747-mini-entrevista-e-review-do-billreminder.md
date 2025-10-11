@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Mini entrevista e review do BillReminder
+type: post
 ---
 
 O **Júlio** **Neto** publicou uma mini

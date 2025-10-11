@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Ubuntu Wallpaper
+type: post
 ---
 
 Algumas pessoas me pediram para disponibilizar o wallpaper do meu

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: LanÃ§ados Openbox 3.4.6 e ObConf 2.0.3
+type: post
 ---
 
 Leia tudo [aqui](http://icculus.org/openbox/index.php/Openbox:News).

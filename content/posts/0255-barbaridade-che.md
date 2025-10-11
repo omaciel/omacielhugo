@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Barbaridade ChÃƒÂª!
+type: post
 ---
 
 Chegaram lÃƒÂ¡ em casa os 600 CDs do Breezy que eu tinha pedido Ãƒ

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: TabletPC 98% Ubuntunonized
+type: post
 ---
 
 So yesterday I finally managed to get a hold of another HP TC1100 and

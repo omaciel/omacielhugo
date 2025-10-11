@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Guns, Germs, & Metal
+type: post
 ---
 
 Though this is not a review for the book and tv show with the same

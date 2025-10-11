@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Integrated GNOME clock
+type: post
 ---
 
 So today Ken Vandine was showing off the integration of intlclock with

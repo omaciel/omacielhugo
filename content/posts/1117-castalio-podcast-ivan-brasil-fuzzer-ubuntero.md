@@ -10,6 +10,7 @@ tags:
  - podcast
  - ubuntu
 title: "Castálio Podcast - Ivan Brasil Fuzzer: Ubuntero"
+type: post
 ---
 
 [![Ivan Brasil Fuzzer:

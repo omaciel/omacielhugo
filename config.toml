@@ -1,0 +1,93 @@
+baseURL = "https://omaciel.github.io/"
+defaultContentLanguage = "en"
+enableEmoji = true
+enableRobotsTXT = true
+languageCode = "en-us"
+pygmentsStyle = "monokai"
+theme = "gokarna"
+title = "Og Maciel's Journal"
+
+[params]
+  avatarAltText = "Og Maciel"
+  avatarSize = "size-m"
+  avatarURL = "/images/ogmaciel.jpg"
+  description = "Reflections on technology, reading, life, and everything in between"
+  footer = "Og Maciel © 2005-2025"
+  metaKeywords = ["blog", "technology", "books", "reading", "software engineering", "quality engineering"]
+  showBackToTopButton = true
+  showPostsOnHomePage = "recent"
+  numberPostsOnHomePage = 6
+  name = "Og Maciel"
+  github = "https://github.com/omaciel"
+  linkedin = "https://www.linkedin.com/in/ogmaciel/"
+  instagram = "http://instagram.com/ogmaciel"
+  amazon = "https://www.amazon.com/author/ogmaciel"
+  goodreads = "https://www.goodreads.com/user/show/26849474-og-maciel"
+
+  socialIcons = [
+    {name = "github", url = "https://github.com/omaciel"},
+    {name = "linkedin", url = "https://www.linkedin.com/in/ogmaciel/"},
+    {name = "twitter", url = "https://bsky.app/profile/ogmaciel.bsky.social"},
+    {name = "instagram", url = "http://instagram.com/ogmaciel"},
+    {name = "amazon", url = "https://www.amazon.com/author/ogmaciel"},
+    {name = "rss", url = "/index.xml"}
+  ]
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "<span data-feather='home'></span>"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    pre = "<span data-feather='book'></span>"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    pre = "<span data-feather='code'></span>"
+    url = "/projects/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Tags"
+    pre = "<span data-feather='tag'></span>"
+    url = "/tags/"
+    weight = 4
+
+  [[menu.main]]
+    name = "About"
+    pre = "<span data-feather='user'></span>"
+    url = "/about/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "rss"
+    pre = "<span data-feather='rss'></span>"
+    url = "/index.xml"
+    weight = 6
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 4
+    ordered = false
+
+[pagination]
+  pagerSize = 7
+
+[taxonomies]
+  tag = "tags"
+
+# Disqus comments
+disqusShortname = "journalofanopensourcee"
+
+[minify]
+  minifyOutput = true

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Can a plugin help you improve your writing skills?
+type: post
 ---
 
 \[caption id="" align="aligncenter" width="413" caption="After the

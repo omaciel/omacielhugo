@@ -8,6 +8,7 @@ tags:
  - random
  - gnome
 title: Gnome Developer Hat Required
+type: post
 ---
 
 [![image0](http://photos7.flickr.com/9415432_93e09d5b82_m.jpg)](http://www.flickr.com/photos/25563799@N00/9415432/)

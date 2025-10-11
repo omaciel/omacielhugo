@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Feliz Natal!!!
+type: post
 ---
 
 Depois de dirigir por mais de 800 Km, cheguei ontem na casa da minha

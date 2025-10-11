@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Elvis visto brincando com o BillReminder
+type: post
 ---
 
 Apenas uma atualizaÃ§Ã£o/informativo sobre o status de desenvolvimento

@@ -7,6 +7,7 @@ tags:
  - english
  - meetup
 title: Northern NJ Linux MeetUp - April 11th, 2005
+type: post
 ---
 
 This month's [Northern NJ Linux MeetUp](http://linux.meetup.com/8/)

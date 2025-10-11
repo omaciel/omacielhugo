@@ -8,6 +8,7 @@ tags:
  - work
  - life
 title: Red Storm On The Horizon
+type: post
 ---
 
 What a week this has been... and it's only Monday!!! After putting up

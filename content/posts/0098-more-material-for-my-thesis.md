@@ -8,6 +8,7 @@ tags:
  - random
  - privacy
 title: More Material For My Thesis
+type: post
 ---
 
 My [previous](http://www.ogmaciel.com/?p=100) post talked about how our

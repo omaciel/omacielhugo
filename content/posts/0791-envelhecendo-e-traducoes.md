@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Envelhecendo e traduções
+type: post
 ---
 
 Hoje é meu aniversário e agora tenho 34 anos. Também é o aniversário da

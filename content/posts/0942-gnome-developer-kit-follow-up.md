@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: GNOME Developer Kit, follow up
+type: post
 ---
 
 Just wanted to update everyone who showed interest in the new release of

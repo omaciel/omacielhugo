@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Entrevista com um vampiro
+type: post
 ---
 
 Um dos comentÃƒÂ¡rios que recebi no meu post chamado "Antes do galo

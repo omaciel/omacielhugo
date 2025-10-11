@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: Working For Pixar
+type: post
 ---
 
 No, I did not get hired to work for [Pixar](http://www.pixar.com/).

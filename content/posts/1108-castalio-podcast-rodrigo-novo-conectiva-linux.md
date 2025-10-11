@@ -9,6 +9,7 @@ tags:
  - castálio
  - podcast
 title: "Castálio Podcast - Rodrigo Novo: Conectiva Linux"
+type: post
 ---
 
 Olá pessoal e seja muito bem-vindo à este episódio de natal (e o último

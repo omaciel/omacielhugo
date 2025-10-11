@@ -8,6 +8,7 @@ tags:
  - castalio
  - podcast
 title: "Podcast: Aline Duarte Bessa - Accerciser"
+type: post
 ---
 
 \[caption id="attachment_56" align="alignleft" width="199"

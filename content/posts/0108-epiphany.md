@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Epiphany
+type: post
 ---
 
 One other reason why I haven't been blogging much these days is because

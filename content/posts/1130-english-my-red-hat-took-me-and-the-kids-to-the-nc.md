@@ -9,6 +9,7 @@ tags:
  - portuguese
  - ubuntu
 title: English My Red Hat Took Me And The Kids To The Nc
+type: post
 ---
 
 ![image0](http://36.media.tumblr.com/tumblr_m3clszq3mK1rpc21fo1_1280.jpg)

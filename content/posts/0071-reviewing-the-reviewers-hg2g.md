@@ -8,6 +8,7 @@ tags:
  - movies
  - random
 title: "Reviewing The Reviewers: HG2G"
+type: post
 ---
 
 I just had to get this off my chest! I have read a few "reviews" for The

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Taca perfume no Ubuntu
+type: post
 ---
 
 Na hora de distribuir os CDs do Ubuntu aos seus amigos, nÃ£o seria

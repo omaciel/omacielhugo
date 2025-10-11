@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Your typical Friday afternoon chat
+type: post
 ---
 
 13:02:50 \<devnet\> DUDE 13:03:15 \<devnet\> got something cool to show

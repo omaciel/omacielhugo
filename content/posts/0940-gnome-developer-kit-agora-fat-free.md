@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: GNOME Developer Kit, agora \"Fat Free\"!
+type: post
 ---
 
 **UPDATE**: Obrigado [Alberto Ruiz](http://aruiz.synaptia.net/) por

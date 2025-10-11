@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: When Geeks Attack!
+type: post
 ---
 
 ![Supertoadman and

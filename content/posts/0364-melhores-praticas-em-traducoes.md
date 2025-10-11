@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Melhores PrÃƒÂ¡ticas em TraduÃƒÂ§ÃƒÂµes
+type: post
 ---
 
 Quando trabalhamos com as traduÃƒÂ§ÃƒÂµes do Ubuntu Linux pelo sistema

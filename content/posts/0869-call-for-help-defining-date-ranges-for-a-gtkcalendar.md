@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Call for help: defining date ranges for a gtk.Calendar"
+type: post
 ---
 
 I've re-designed the dialog for adding or editing a bill for my pet

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Humanidade aos Outros
+type: post
 ---
 
 Estou colando aqui o texto de um email enviado pelo meu amigo **Carlos

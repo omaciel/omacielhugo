@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Going to the United Nations
+type: post
 ---
 
 Yesterday I had the opportunity to represent Ubuntu linux at a symposium

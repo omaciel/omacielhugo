@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: BillReminder \"It Puts the Lotion in the Basket\" 0.3 released
+type: post
 ---
 
 [![About

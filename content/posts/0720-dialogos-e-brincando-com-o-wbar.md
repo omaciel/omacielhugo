@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: DiÃ¡logos e brincando com o wbar
+type: post
 ---
 
 Nas Ãºltimas 2 semanas eu sÃ³ consegui trabalhar por 3 horas no

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: PackageKit e gnome-packagekit 0.1.0 lanÃ§ados!
+type: post
 ---
 
 [PackageKit](http://www.packagekit.org/) Ã© uma camada de empacotamento

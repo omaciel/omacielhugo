@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Botando a mÃƒÂ£o na massa!
+type: post
 ---
 
 O tÃƒÂ­tulo deste artigo foi "cunhado" por meu amigo [CÃƒÂ¡ssio

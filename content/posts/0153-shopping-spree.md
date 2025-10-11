@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Shopping Spree
+type: post
 ---
 
 Right before I succumbed to some major infection and spend most of my

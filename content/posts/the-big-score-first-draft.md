@@ -7,6 +7,7 @@ tags:
  - writing
  - book
  - the big score
+type: post
 ---
 This past May 31st, I added the final touches to the first draft for what should become my third book and second Young Adult novel.
 

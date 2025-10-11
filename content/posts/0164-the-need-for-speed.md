@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: The need for speed
+type: post
 ---
 
 Imagine yourself off on a bus going on a business trip at some far away

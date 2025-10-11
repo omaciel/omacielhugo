@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: zzzzZZZZ\...
+type: post
 ---
 
 I'm back home, together with my wife and daughters. The two days spent

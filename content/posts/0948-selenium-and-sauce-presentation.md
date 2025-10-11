@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Selenium and Sauce presentation
+type: post
 ---
 
 [![Crayon Test by

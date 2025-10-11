@@ -8,6 +8,7 @@ tags:
  - castalio
  - podcast
 title: "Podcast: Pete Savage"
+type: post
 ---
 
 \[caption id="attachment_78" align="alignleft" width="243" caption="Pete

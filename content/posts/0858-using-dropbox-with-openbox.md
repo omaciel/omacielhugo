@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Using Dropbox with Openbox
+type: post
 ---
 
 I've been a GNU/Linux user for quite some time now, but it wasn't until

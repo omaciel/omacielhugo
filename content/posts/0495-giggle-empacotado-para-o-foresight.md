@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath
 title: Giggle empacotado para o Foresight
+type: post
 ---
 
 Giggle e' a nova "Interface GTK+ para GIT". Instale [Giggle

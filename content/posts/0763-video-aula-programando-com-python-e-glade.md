@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Vídeo Aula: Programando com Python e Glade"
+type: post
 ---
 
 Quase todos dias converso com pessoas interessadas em aprender a

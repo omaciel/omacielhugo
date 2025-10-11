@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: What\'s new with Radio Tray?
+type: post
 ---
 
 <http://radiotray.sourceforge.net/>

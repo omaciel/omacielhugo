@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Top 10 Posts for 2010
+type: post
 ---
 
 To kick off the new year, here's a list of the **Top 10 Posts for 2010**

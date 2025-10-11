@@ -8,6 +8,7 @@ tags:
  - english
  - python
 title: Using Python to Control Katello
+type: post
 ---
 
 ![Emacs editor with python code](http://bit.ly/14Q0fhi)

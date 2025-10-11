@@ -10,6 +10,7 @@ tags:
  - podcast
 title: "Castálio Podcast - João Fernando Costa Junior: Revista Espírito
   Livre"
+type: post
 ---
 O entrevistado deste episódio é o **João Fernando Costa Junior**,
 criador e mantenedor da [Revista Espírito

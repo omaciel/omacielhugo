@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: More ways to test GNOME 2.17.92
+type: post
 ---
 
 [Now](http://ken.vandine.org/?p=218) you can test **GNOME 2.17.92**

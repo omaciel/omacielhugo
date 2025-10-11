@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Announcing the Transifex Appliance
+type: post
 ---
 
 Does your role within a project have you asking the following questions?

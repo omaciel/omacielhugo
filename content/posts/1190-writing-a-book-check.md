@@ -12,6 +12,7 @@ tags:
  - life
  - book
 title: "Writing a Book: Check!"
+type: post
 ---
 Growing up my dad used to tell me that there are three important milestones on a man’s life (though I feel that the same could be said about any gender):
 

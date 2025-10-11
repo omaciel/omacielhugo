@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Sexta-feira no trabalho
+type: post
 ---
 
 Mais uma sexta-feira no trampo. "Mostrando minhas cores" hoje.

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Apresentando Foresight Linux 1.0
+type: post
 ---
 
 O [Foresight Linux](http://www.foresightlinux.org/) Ã© um distribuiÃ§Ã£o

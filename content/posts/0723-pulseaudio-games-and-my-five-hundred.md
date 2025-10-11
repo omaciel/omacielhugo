@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: PulseAudio + Games and My Five Hundred
+type: post
 ---
 
 Been using [PulseAudio](http://www.pulseaudio.org) for several months

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Transifex \"Magneto\" Appliance 0.8 is out!
+type: post
 ---
 
 Following the tradition of releasing simultaneously with the

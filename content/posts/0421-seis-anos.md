@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Seis Anos
+type: post
 ---
 
 Ontem celebrei meu sexto aniversario de casamento... Elizabeth e eu

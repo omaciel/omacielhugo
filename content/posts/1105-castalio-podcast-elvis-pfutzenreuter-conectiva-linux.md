@@ -9,6 +9,7 @@ tags:
  - castalio
  - podcast
 title: "Castálio Podcast - Elvis Pfutzenreuter: Conectiva Linux"
+type: post
 ---
 
 O episódio de hoje marca o início de um mini-projeto que estou

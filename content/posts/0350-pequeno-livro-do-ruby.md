@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Pequeno Livro do Ruby
+type: post
 ---
 
 Alguns dias atrás eu tinha falado sobre [Sapphire In

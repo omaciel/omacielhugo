@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Traduções no Ubuntu: tem de melhorar!"
+type: post
 ---
 
 Acabei de criar a seguinte idéia no site **Ubuntu Brainstorm** chamada

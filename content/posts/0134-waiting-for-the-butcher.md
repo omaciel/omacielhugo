@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Waiting For The Butcher
+type: post
 ---
 
 Am here at my dad's awaiting the time for my surgery (scheduled for

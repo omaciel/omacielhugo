@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Summer of Code 2007
+type: post
 ---
 
 ParabÃ©ns ao

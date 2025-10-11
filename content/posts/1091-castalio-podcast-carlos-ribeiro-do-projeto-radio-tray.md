@@ -9,6 +9,7 @@ tags:
  - castalio
  - podcast
 title: "Castálio Podcast: Carlos Ribeiro do projeto Radio Tray"
+type: post
 ---
 O entrevistado desta vez é o português **Carlos Ribeiro**, desenvolvedor
 do projeto **RadioTray**, um programa bem leve e simples para escutar

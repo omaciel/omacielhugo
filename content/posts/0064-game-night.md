@@ -10,6 +10,7 @@ tags:
  - world of warcraft
  - vinny
 title: Game Night
+type: post
 ---
 
 Last night was my weekly night to play games with my friend

@@ -8,6 +8,7 @@ tags:
  - katello
  - Red Hat
 title: Populating a Katello instance using the CLI
+type: post
 ---
 
 Lately I have been asked a lot about my previous

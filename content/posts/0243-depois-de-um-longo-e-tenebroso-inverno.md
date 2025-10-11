@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Depois de um longo e tenebroso inverno\...
+type: post
 ---
 
 ... voltei de minha viagem ÃƒÂ  Boston, onde passei 2 semanas me

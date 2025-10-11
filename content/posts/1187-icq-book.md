@@ -7,6 +7,7 @@ tags:
 - book
 - writing
 title: Pre-Order My Book "I.C.Q." on Amazon
+type: post
 ---
 ![I.C.Q. - A Novel](/images/bookcover2.jpeg)
 

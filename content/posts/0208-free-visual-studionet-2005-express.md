@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Free Visual Studio.NET 2005 Express
+type: post
 ---
 
 That's right! Microsoft has announced that the newly released Visual

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Novo feed para o Planeta GNU/Linux Brasil
+type: post
 ---
 
 [![image0](http://farm3.static.flickr.com/2386/2412841335_471cdeb729.jpg?v=0)](http://www.flickr.com/photos/letxu/2412841335/)

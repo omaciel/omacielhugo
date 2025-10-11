@@ -7,6 +7,7 @@ tags:
  - english
  - openbox
 title: Icons on menus for Openbox
+type: post
 ---
 
 **Openbox 3.5.0** was

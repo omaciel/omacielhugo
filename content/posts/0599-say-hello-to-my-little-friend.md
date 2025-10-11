@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Say hello to my little friend!
+type: post
 ---
 
 Gostaria de apresentar meu novo "amigo" **NTrunko,** meu Nokia N800

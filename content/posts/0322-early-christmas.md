@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Early Christmas?
+type: post
 ---
 
 I didn't know the new version of Monodevelop with built-in graphical

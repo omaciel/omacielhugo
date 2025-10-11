@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: DocumentaÃƒÂ§ÃƒÂ£o para Live CD Personalizado
+type: post
 ---
 
 Nosso amigo [Alex Rocha](http://alexrocha.wordpress.com/) nos fez a

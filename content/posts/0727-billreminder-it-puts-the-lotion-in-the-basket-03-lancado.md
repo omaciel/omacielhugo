@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: BillReminder \"It Puts the Lotion in the Basket\" 0.3 lanÃ§ado
+type: post
 ---
 
 [![About

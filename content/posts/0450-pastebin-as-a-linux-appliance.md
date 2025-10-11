@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath, appliance
 title: Pastebin as a Linux Appliance
+type: post
 ---
 
 My co-worker [Elliot Peele](http://blogs.conary.com/index.php/elliot)

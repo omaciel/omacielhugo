@@ -7,6 +7,7 @@ tags:
  - rpath
  - red hat
 title: "Red Hat: The First 3 Months"
+type: post
 ---
 
 ![Picture wearing my Red Hat fedora

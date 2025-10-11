@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: Wallpapers For Wide Screen
+type: post
 ---
 
 <http://mritche.net/wallpaper/widescreen/>

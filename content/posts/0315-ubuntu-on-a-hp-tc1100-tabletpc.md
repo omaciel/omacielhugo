@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Ubuntu on a HP TC1100 TabletPC
+type: post
 ---
 
 Today I managed to get some free time from work (I had to run this

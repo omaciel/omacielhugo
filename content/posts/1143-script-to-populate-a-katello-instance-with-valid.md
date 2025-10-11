@@ -7,6 +7,7 @@ tags:
  - english
  - katello
 title: Script to populate a Katello instance with valid data
+type: post
 ---
 
 ![Starbucks organization and its

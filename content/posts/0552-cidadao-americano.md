@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: CidadÃ£o Americano
+type: post
 ---
 
 Ã‰ com muito orgulho que venho anunciar hoje que eu me tornei um

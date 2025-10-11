@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Novo pacote do BillReminder para o Gutsy
+type: post
 ---
 
 Algumas pessoas relataram alguns problemas de dependÃªncias quando

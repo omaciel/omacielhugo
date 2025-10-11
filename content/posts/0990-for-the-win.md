@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: For The Win!
+type: post
 ---
 
 Sunday I was lucky enough to have the chance of attending a book reading

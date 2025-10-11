@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: TraduÃ§Ã£o da LicenÃ§a PÃºblica Geral GNU
+type: post
 ---
 
 Ultimamente tenho pensado bastante na

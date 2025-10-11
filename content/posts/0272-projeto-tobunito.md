@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Projeto T.O.B.U.N.I.T.O.
+type: post
 ---
 
 Lembra daqueles planos infalÃƒÂ­veis do Cebolinha e CascÃƒÂ£o para

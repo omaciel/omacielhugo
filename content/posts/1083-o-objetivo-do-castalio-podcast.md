@@ -9,6 +9,7 @@ tags:
  - podcast
  - castalio
 title: O Objetivo do Castálio Podcast
+type: post
 ---
 
 ![Castálio Podcast](http://farm6.static.flickr.com/5149/5574058090_18863ca261_d.jpg)

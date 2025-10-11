@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Boom Baby!
+type: post
 ---
 
 ![Ubuntu Brazillian Team

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Problemas usando o PyPanel no Ubuntu?
+type: post
 ---
 
 EntÃ£o dÃª uma lida neste [artigo](http://blog.ogmaciel.com/?p=248) que

@@ -9,6 +9,7 @@ tags:
  - nycsca
  - life
 title: About To Get Rough
+type: post
 ---
 
 Today all consultants working for my current employer received the email

@@ -8,6 +8,7 @@ tags:
  - life
  - unc
 title: Tar Heel Wanna Be
+type: post
 ---
 
 This Wednesday I embark on what may be the most important trip of my

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Ubuntu Breezy Badger
+type: post
 ---
 
 ![Breezy Badger](http://static.flickr.com/32/53550538_ba15862625.jpg)

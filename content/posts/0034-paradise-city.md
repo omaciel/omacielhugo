@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: Paradise City
+type: post
 ---
 
 Found a couple of pretty usefull and cool [Gnome](http://www.gnome.org)

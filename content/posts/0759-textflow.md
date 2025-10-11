@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: TextFlow
+type: post
 ---
 
 O [TextFlow](https://launchpad.net/textflow) é um editor super bacana

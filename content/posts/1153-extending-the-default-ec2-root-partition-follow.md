@@ -7,6 +7,7 @@ tags:
  - EC2
  - english
 title: "Extending the default EC2 root partition: Follow up"
+type: post
 ---
 
 ![EC2

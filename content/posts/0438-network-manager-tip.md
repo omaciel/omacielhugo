@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Network Manager Tip
+type: post
 ---
 
 The very first thing I do with a new laptop installation of Gnu/Linux is

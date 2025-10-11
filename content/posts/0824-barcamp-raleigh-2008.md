@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: BarCamp Raleigh 2008
+type: post
 ---
 
 This weekend I'll be attending [BarCamp

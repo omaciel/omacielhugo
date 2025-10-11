@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Keysigning Party
+type: post
 ---
 
 [David Harding](http://gnuisance.net/blog/) is organizing a [keysigning

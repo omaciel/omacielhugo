@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Remembering Hiroshima
+type: post
 ---
 
 ![Hiroshima completely

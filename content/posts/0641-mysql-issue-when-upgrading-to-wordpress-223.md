@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: MySQL issue when upgrading to WordPress 2.2.3
+type: post
 ---
 
 Thought this may be helpful to someone else who also uses

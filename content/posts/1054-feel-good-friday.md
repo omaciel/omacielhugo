@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Feel Good Friday
+type: post
 ---
 
 ![Feel Good](http://www.ogmaciel.com/wp-content/uploads/2011/03/3891444873_a5d09e1c59_m.jpg)

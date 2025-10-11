@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Article about Conary
+type: post
 ---
 
 Had a really nice surprise waiting for me today at work in the form of

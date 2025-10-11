@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Foresight Linux 1.1 LanÃ§ado
+type: post
 ---
 
 Hoje foi lanÃ§ada a versÃ£o 1.1 do [Foresight

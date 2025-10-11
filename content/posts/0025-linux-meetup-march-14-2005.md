@@ -8,6 +8,7 @@ tags:
  - meetup
  - life
 title: Linux Meetup - March 14, 2005
+type: post
 ---
 
 This past Monday I hosted the monthly [Northern New Jersey Linux

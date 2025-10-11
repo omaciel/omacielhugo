@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Performancing for Firefox
+type: post
 ---
 
 The other day I was bragging about the new plugin for Firefox 1.5,

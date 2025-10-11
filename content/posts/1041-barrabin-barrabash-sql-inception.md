@@ -7,6 +7,7 @@ tags:
  - english
  - barrabin barrabash
 title: "Barrabin Barrabash: SQL Inception"
+type: post
 ---
 
 Remember my [last post](http://www.ogmaciel.com/?p=1324) about the comic

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Ubunto Member!!!
+type: post
 ---
 
 Just like a teenager who's about to get his driver's license for the

@@ -8,6 +8,7 @@ tags:
  - python
  - carolina
 title: PyCarolinas 2012
+type: post
 ---
 
 I've seen the (yet unpublished draft) schedule and it looks great!

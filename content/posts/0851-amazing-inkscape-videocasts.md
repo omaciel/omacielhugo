@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Amazing Inkscape videocasts
+type: post
 ---
 
 I felt compelled to blog about this great site full of amazingly

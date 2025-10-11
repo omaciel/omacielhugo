@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: It\'s the big pumpking Charlie Brown!
+type: post
 ---
 
 Quick series of small family related news. If you're looking for tech

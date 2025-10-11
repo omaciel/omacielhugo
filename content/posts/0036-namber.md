@@ -8,6 +8,7 @@ tags:
  - meme
  - random
 title: Namber
+type: post
 ---
 
 Interesting:

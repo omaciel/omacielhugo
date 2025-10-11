@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Flattered
+type: post
 ---
 
 This last Thursday I was surprised by **Johan Dahlin** when he showed me

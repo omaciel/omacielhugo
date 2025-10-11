@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Ferramenta para Css Design
+type: post
 ---
 
 Encontrei esta

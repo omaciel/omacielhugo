@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: The Road to GUADEC 2010
+type: post
 ---
 
 \[caption id="" align="aligncenter" width="350" caption="GUADEC

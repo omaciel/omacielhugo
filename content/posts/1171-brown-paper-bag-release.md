@@ -6,6 +6,7 @@ tags:
  - testing
  - qe
 title: FauxFactory 0.2.1
+type: post
 ---
 
 ![](https://farm4.staticflickr.com/3373/3204502310_f8025dbd75_m.jpg)

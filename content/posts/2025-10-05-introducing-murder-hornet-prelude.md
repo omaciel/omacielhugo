@@ -11,6 +11,7 @@ tags:
  - work-in-progress
  - substack
 title: "Introducing Murder Hornet: Prelude + Chapter One"
+type: post
 ---
 
 ![Cover Image](/images/murder-hornet-cover.heic)

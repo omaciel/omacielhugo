@@ -7,6 +7,7 @@ tags:
  - english
  - foresight
 title: Announcing Foresight Linux 2.5.0 ALPHA 1 GNOME Edition
+type: post
 ---
 
 After a very, very, very long time I can finally announce another

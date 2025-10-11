@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: No Bugs Left Behind and Rumors
+type: post
 ---
 
 Today I started a [No Bugs Left

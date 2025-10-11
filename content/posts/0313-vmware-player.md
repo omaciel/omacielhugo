@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: VMWare Player
+type: post
 ---
 
 Para instalar o VMWare Player no seu Dapper novinho em folha:

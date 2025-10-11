@@ -7,6 +7,7 @@ tags:
  - english
  - gnome
 title: Are You Planning a GNOME 3.0 Launch Party?
+type: post
 ---
 ![GNOME](http://www.ogmaciel.com/wp-content/uploads/2010/10/GnomeBrandBook-VerticalOrientation.png)
 

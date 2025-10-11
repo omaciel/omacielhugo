@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: The system works!
+type: post
 ---
 
 In less than 36 hours the following events took place:

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Git In The Trenches
+type: post
 ---
 
 **Git In The Trenches**, or GITT is a pretty cool project by my friend

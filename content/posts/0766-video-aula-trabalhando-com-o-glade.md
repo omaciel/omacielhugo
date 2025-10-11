@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Vídeo Aula: Trabalhando com o Glade"
+type: post
 ---
 
 **Atualização**: O link do vídeo agora funciona. Isso é o que acontece

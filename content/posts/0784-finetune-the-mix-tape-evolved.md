@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "FineTune: the \\\"mix tape\\\" evolved"
+type: post
 ---
 
 Give it a shot! pretty cool actually!

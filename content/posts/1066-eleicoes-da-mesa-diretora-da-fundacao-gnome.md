@@ -7,6 +7,7 @@ tags:
  - portuguese
  - gnome board of directors
 title: Eleições da Mesa Diretora da Fundação GNOME
+type: post
 ---
 ![image0](http://farm4.static.flickr.com/3273/3003414804_39693eb619_d.jpg)
 

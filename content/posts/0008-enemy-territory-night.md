@@ -8,6 +8,7 @@ tags:
  - enemy territory
  - gaming
 title: Enemy Territory Night
+type: post
 ---
 
 ![Enemy Territory Night](/images/enemy_territory.png)

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Why QUALITY translations are important!
+type: post
 ---
 
 Kudos for everyone involved with the translation of open source software

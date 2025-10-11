@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Foresight and Conary Updates
+type: post
 ---
 
 -   First off, for those participating of the [Google Highly Open

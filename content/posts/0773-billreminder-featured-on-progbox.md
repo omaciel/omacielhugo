@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: BillReminder featured on ProgBox
+type: post
 ---
 
 My pet project [BillReminder](http://code.google.com/p/billreminder/)

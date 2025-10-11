@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Yv Scarlett Maciel: o primeiro ano"
+type: post
 ---
 
 [![Yv Scarlett Maciel: o primeiro

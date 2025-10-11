@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: What is your Perfect Major?
+type: post
 ---
 
 ``` {.}

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: And for those travelling\...
+type: post
 ---
 
 ... keep yourself entertained and informed with the new editions of the

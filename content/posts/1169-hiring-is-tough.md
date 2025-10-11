@@ -5,6 +5,7 @@ tags:
  - python
  - hiring
 title: Hiring is Tough!
+type: post
 ---
 
 So I\'ve been trying to hire two python developers to join my automation

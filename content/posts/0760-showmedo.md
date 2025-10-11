@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: ShowMeDo
+type: post
 ---
 
 Today I subscribed to [ShowMeDo,](http://showmedo.com) a web site

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Limitando o número de fileiras exibidas em um gtk.ComboBox
+type: post
 ---
 
 Querida lazyweb, existe alguma forma de limitar o número de fileiras

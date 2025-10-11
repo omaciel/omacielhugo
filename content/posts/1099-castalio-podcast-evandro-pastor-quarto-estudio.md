@@ -9,6 +9,7 @@ tags:
  - castalio
  - podcast
 title: "Castálio Podcast: Evandro Pastor - Quarto Estudio"
+type: post
 ---
 
 [![Evandro

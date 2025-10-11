@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Top Blogs Brasil
+type: post
 ---
 
 Descobri hoje por um [link](http://botd.wordpress.com/?lang=pt-br) no

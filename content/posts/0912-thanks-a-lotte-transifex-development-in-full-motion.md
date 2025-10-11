@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Thanks a Lotte! Transifex development in full motion!
+type: post
 ---
 
 I'm back from **GUADEC 2009** (a blog post dedicated to this will be

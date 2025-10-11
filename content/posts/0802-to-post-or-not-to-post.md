@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: To post or not to post
+type: post
 ---
 
 My latests posts have attracted a fair number of comments (thank every

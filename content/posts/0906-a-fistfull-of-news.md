@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: A Fistfull of News
+type: post
 ---
 
 Been quite busy at work these days, as well as playing the host to my

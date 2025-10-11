@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Forward
+type: post
 ---
 
 Yesterday's news about the Suse Appliance Program had me grinning all

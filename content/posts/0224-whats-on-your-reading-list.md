@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: What\'s on your reading list?
+type: post
 ---
 
 if someone were to take a peek at the books I've been reading lately,

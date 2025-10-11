@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: The New Kid On The Block
+type: post
 ---
 
 Been spending some quality hacking time these last few days, basically

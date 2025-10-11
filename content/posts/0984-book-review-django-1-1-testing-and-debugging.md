@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Book Review: Django 1.1 Testing and Debugging"
+type: post
 ---
 
 \[caption id="attachment_950" align="alignleft" width="243"

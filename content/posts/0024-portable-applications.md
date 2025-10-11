@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: Portable Applications
+type: post
 ---
 
 Been really enjoying my [SeaGate Portable

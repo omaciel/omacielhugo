@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: PackageKit and gnome-packagekit 0.1.0 release!
+type: post
 ---
 
 [PackageKit](http://www.packagekit.org/) is DBUS packaging abstraction

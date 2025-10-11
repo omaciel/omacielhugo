@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Where in the world is Og Maciel?
+type: post
 ---
 
 Dei uma sumida desde o ÃƒÂºltimo post sobre o simpÃƒÂ³sio nas

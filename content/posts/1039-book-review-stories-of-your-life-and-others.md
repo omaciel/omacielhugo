@@ -7,6 +7,7 @@ tags:
  - english
  - books
 title: "Book Review: Stories of Your Life: and Others"
+type: post
 ---
 ![Stories of Your Life: and Others by Ted Chiang](http://www.ogmaciel.com/wp-content/uploads/2011/02/cover-200x300.jpg)
 

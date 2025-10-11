@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: ArmaÃƒÂ§ÃƒÂµes Ilimitadas
+type: post
 ---
 
 AmanhÃƒÂ£ estarei mais uma vez na estrada, desta vez rumo ÃƒÂ  Linux

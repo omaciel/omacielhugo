@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: \[RESOLVIDO\] HTML Scraping com Ruby
+type: post
 ---
 
 Tenho pelejado com um script em ruby para apanhar (ou em inglÃƒÂªs,

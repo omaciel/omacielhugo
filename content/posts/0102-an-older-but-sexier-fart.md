@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: An Older But Sexier Fart!
+type: post
 ---
 
 So it is that time of the year again... The day when you take the time

@@ -8,6 +8,7 @@ tags:
  - life
  - unc
 title: Tar Heel Dreaming
+type: post
 ---
 
 Arrived here in North Carolina last night at the Raleigh-Durham airport.

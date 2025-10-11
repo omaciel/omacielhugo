@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: APTonCD on Linux Format Magazine
+type: post
 ---
 
 I was pleasantly surprised to see (as far as I know) the very first

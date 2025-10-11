@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: When it rains, it pours!
+type: post
 ---
 
 Completando a recente publicaÃƒÂ§ÃƒÂ£o de pesquisas cientÃƒÂ­ficas

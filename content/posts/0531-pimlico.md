@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Pimlico
+type: post
 ---
 
 [![Dates](http://www.pimlico-project.org/images/bignav-dates.png)](http://www.pimlico-project.org/dates.html)

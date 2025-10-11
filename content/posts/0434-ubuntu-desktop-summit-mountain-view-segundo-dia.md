@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Ubuntu Developer Summit, Mountain View - Segundo dia
+type: post
 ---
 
 O segundo dia aqui no Ubuntu Desktop Summit foi suuuuper longo, mas acho

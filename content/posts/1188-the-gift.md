@@ -11,6 +11,7 @@ tags:
  - biography
  - life
 title: The Gift
+type: post
 ---
 It was June 8th,1974 and on a warm evening in the territory of Amapá, now a state in the northern part of Brazil, a baby boy was born. Other than being a couple of months premature, the one thing that made this birth a bit more interesting than any premature birth was the fact that this baby had its hands and feet completely bent inwards, almost fused into his arms and legs.
 

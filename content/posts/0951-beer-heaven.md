@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Beer Heaven
+type: post
 ---
 
 \[caption id="attachment_866" align="alignleft" width="225"

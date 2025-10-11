@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Primeiro dia
+type: post
 ---
 
 Ufaaa!Ã‚Â  Que dia louco!Ã‚Â  Todos os CDs foram distribuÃƒÂ­dos hoje,

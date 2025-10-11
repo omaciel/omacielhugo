@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Foresight Linux 2.1.1 is out and about!
+type: post
 ---
 
 It is with great pleasure that I announce the release of [Foresight

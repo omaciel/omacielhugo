@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "V Day: Dia da VitÃƒÂ³ria!"
+type: post
 ---
 
 Marque no seu calendÃƒÂ¡rio este dia: **Junho 25, 2006**!Ã‚Â  Este dia

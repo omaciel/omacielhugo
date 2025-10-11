@@ -9,6 +9,7 @@ tags:
  - castalio
  - podcast
 title: Participe do Próximo Castálio Podcast!
+type: post
 ---
 
 [![RadioTray](http://radiotray.sourceforge.net/radio.png)](http://radiotray.sourceforge.net/)

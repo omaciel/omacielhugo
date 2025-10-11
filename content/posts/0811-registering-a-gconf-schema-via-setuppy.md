@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Registering a gconf schema via setup.py?
+type: post
 ---
 
 I spent a good chunk of my evening trying to implement the automatic

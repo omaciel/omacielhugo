@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: LINUX Sem MistÃ©rio
+type: post
 ---
 
 Meu amigo [Lucas Nunes Almeida da

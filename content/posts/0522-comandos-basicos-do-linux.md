@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Comandos BÃ¡sicos do Linux
+type: post
 ---
 
 O [Arlei Silveira Silva](http://wiki.ubuntu-br.org/arlei), junto com a

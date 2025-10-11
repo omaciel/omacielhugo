@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Dia de neve
+type: post
 ---
 
 Hoje nevou aqui em **Chapel Hill** pela primeira vez desde que me mudei

@@ -8,6 +8,7 @@ tags:
  - gnome
  - boston summit
 title: "Boston Summit 2010: Day 2"
+type: post
 ---
 ![GNOME Sponsored](http://www.ogmaciel.com/wp-content/uploads/2009/06/sponsored-badge-simple.png)
 

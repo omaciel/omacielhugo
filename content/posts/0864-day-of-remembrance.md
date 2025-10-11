@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Day of Remembrance
+type: post
 ---
 
 I'd like to second [Davyd's](http://davyd.livejournal.com/264221.html)

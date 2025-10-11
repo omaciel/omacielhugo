@@ -7,6 +7,7 @@ tags:
  - english
  - gnome board of directors
 title: "GNOME Board of Directors: First Meeting"
+type: post
 ---
 ![First GNOME Board Meeting](http://www.ogmaciel.com/wp-content/uploads/2010/06/340305918_6413d10fcc_z-300x225.jpg)
 

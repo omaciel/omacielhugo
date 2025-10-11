@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Mais um brasileiro na equipe do Ubuntu
+type: post
 ---
 
 Hoje ÃƒÂ s 14:00 BST, junto com alguns membros da equipe de

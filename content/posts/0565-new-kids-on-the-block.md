@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: New kids on the block
+type: post
 ---
 
 Well, not those kids anyway... :) I just packaged a couple of new

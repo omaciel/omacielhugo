@@ -10,6 +10,7 @@ tags:
  - podcast
 title: "Castálio Podcast: Augusto Campos - BR-Linux, BR-Mac,
   Efetividade"
+type: post
 ---
 
 [![Augusto Campos: BR-Linux, BR-Mac,

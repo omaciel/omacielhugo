@@ -5,6 +5,7 @@ tags:
  - translations
  - life
 title: The End For Pylyglot
+type: post
 ---
 
 # Background

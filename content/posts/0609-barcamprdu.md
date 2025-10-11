@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: BarCampRDU
+type: post
 ---
 
 So here I am at [BarCampRDU](http://barcamp.org/BarCampRDU), together

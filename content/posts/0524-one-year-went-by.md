@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: One year went by\...
+type: post
 ---
 
 ... and today, chatting online with [André

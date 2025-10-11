@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Cheguei na California
+type: post
 ---
 
 Depois de mais de 2 voos e 9 horas, finalmente cheguei no

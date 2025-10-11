@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: All of your Shuttle boxes are belong to us!
+type: post
 ---
 
 Seguindo o novo trend de vender sistemas de computador com GNU/Linux

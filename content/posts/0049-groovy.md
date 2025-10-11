@@ -8,6 +8,7 @@ tags:
  - work
  - nycsca
 title: Groovy
+type: post
 ---
 
 Today I actually enjoyed work!!! Do you have any idea how hard it is for

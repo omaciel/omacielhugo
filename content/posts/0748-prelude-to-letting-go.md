@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Prelude to letting go?
+type: post
 ---
 
 I meant to write this before but got really busy this past week. About 2

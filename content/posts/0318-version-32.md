@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Version 3.2
+type: post
 ---
 
 Today I complete yet another life cycle, version 3.2! Some bugs have

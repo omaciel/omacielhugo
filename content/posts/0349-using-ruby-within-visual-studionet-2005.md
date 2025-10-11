@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Using Ruby Within Visual Studio.NET 2005
+type: post
 ---
 
 To all my friends who use Windows for their daily tasks (usually at

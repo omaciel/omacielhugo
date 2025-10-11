@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: A whole lotta hacking (in the tropics)!
+type: post
 ---
 
 If anyone is planning on attending this year's [7º Fórum Internacional

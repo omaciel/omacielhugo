@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: BillReminder \"How Many is a Brazilian\" 0.3.1 Lançado
+type: post
 ---
 
 O codinome deste lançamento é uma brincadeira em Inglês. As unidades

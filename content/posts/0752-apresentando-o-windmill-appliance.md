@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath
 title: Apresentando o Windmill Appliance
+type: post
 ---
 
 Tenho um grande orgulho em apresentar o lançamento do [Windmill

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Setting up a Planet
+type: post
 ---
 
 No, this is not a post about the creation of the universe and such.

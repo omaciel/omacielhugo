@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Check out GeekDeck Issue 2
+type: post
 ---
 
 [GeekDeck](http://geekdeck.wordpress.com) has just released **Issue 2**,

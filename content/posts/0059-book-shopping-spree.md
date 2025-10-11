@@ -7,6 +7,7 @@ tags:
  - english
  - books
 title: Book Shopping Spree
+type: post
 ---
 
 Added these books to my personal collection... These are used and even

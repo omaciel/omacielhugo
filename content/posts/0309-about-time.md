@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: About Time!
+type: post
 ---
 
 So it seems that Macrobe will be releasing [Flash Player 9 for

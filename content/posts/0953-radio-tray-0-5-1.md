@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Radio Tray 0.5.1
+type: post
 ---
 
 [![Radio

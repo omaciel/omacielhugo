@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Perguntas e Respostas
+type: post
 ---
 
 Os meus artigos com os dois vídeo aula

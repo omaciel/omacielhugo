@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: The new GNOME Display Manager (GDM)
+type: post
 ---
 
 I started today using the new GNOME Display Manager, aka GDM. This new

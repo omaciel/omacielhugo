@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Idade Perigosa
+type: post
 ---
 
 Quero deixar aqui o meu mais sincero desejo de um feliz aniversÃƒÂ¡rio

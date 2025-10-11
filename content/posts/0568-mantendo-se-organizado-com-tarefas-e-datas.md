@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Mantendo-se organizado com Tarefas e Datas
+type: post
 ---
 
 Depois de conversar com algumas pessoas sobre o

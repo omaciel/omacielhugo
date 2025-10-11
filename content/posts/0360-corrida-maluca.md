@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Corrida Maluca
+type: post
 ---
 
 A corrida para deixar o Ubuntu Linux completamente traduzido em outras

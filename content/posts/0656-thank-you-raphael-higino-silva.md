@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Thank you Raphael Higino Silva
+type: post
 ---
 
 It is with a heavy heart that I announce the tragic news of the death of

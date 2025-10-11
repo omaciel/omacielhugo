@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Last.fm: Planeta Ubuntu Brasil"
+type: post
 ---
 
 Em mais uma forma de trazer novas pessoas ÃƒÂ  nossa comunidade, acabei

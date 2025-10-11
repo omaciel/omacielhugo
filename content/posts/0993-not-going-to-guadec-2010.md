@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Not Going to GUADEC 2010
+type: post
 ---
 
 \[caption id="attachment_1161" align="alignleft" width="240"

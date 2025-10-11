@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Stay Hungry. Stay Foolish.
+type: post
 ---
 
 A big thanks goes to my friend

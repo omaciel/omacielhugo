@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Sitio Deus e\' Pai
+type: post
 ---
 
 Brincando um pouco mais com o Google Analytics, descobri que 8 pessoas

@@ -7,6 +7,7 @@ tags:
  - english
  - books
 title: "Book Review: Python 3 Object Oriented Programming"
+type: post
 ---
 ![Python 3 Object Oriented Programming](http://www.ogmaciel.com/wp-content/uploads/2010/08/python3objectoriented-243x300.jpg)
 

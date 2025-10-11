@@ -7,6 +7,7 @@ tags:
  - rpath
  - dreamhost
 title: Disappointed With Dreamhost Private Server Service
+type: post
 ---
 ![Sad Face](http://www.ogmaciel.com/wp-content/uploads/2011/01/259997124_0523ad0ce8-300x225.jpg)
 

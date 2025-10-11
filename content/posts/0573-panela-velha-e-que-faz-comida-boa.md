@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Panela velha Ã© que faz comida boa!
+type: post
 ---
 
 SÃ£o 04:18 da manhÃ£ aqui na Carolina do Norte, e em vez de estar na

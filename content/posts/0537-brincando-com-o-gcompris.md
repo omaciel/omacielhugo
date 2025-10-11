@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Brincando com o Gcompris
+type: post
 ---
 
 Ontem a noite eu tirei um pouco do meu tempo para empacotar o Gcompris

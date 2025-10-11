@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: E para vocÃª que vai viajar\...
+type: post
 ---
 
 ... aproveite para manter-se ocupado e leia as novas versÃµes das

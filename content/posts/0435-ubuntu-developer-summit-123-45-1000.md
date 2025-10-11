@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Ubuntu Developer Summit - 1,2,3\... 4,5, 1000!
+type: post
 ---
 
 Finalmente estou em casa depois de quase 10 dias de viagem e muitas

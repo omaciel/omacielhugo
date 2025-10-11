@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: Clippy Has Left The Ship
+type: post
 ---
 
 [![image0](http://photos6.flickr.com/9523489_53f0b1b37d_m.jpg)](http://www.flickr.com/photos/25563799@N00/9523489/)

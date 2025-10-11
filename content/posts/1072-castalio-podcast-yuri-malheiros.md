@@ -10,6 +10,7 @@ tags:
  - podcast
  - yuri malheiros
 title: "Castálio Podcast: Yuri Malheiros"
+type: post
 ---
 
 Se você ainda não acompanha o podcast, dê uma conferida no

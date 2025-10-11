@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Another post about a generic Gtk.TreeView
+type: post
 ---
 
 I figured, why not whip up a quick sample code to show off the

@@ -10,6 +10,7 @@ tags:
  - castálio
  - podcast
 title: "Castálio Podcast - Rodrigo Belém: Ubuntu Brasil"
+type: post
 ---
 
 Olá pessoal e sejam mais uma vez muito bem-vindos a mais um novo episódio,

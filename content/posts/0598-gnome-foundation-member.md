@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: GNOME Foundation Member
+type: post
 ---
 
 I was extremely pleased to see my application for the [GNOME

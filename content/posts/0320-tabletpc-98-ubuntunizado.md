@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: TabletPC 98% Ubuntunizado
+type: post
 ---
 
 Conversando com um amigo, finalmente consegui pegar um TabletPC (o mesmo

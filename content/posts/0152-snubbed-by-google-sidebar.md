@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Snubbed by Google Sidebar
+type: post
 ---
 
 Google announced today their new tool Sidebar, "*a panel on your desktop

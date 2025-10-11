@@ -8,6 +8,7 @@ tags:
  - random
  - life
 title: The Little Penguin Wine
+type: post
 ---
 
 Almost forgot... The other day I went to the public booze market and saw

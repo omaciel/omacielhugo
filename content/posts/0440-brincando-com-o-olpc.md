@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Brincando com o OLPC
+type: post
 ---
 
 Depois que eu li o

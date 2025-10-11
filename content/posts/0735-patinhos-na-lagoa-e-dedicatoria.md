@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Patinhos na Lagoa e Dedicatória
+type: post
 ---
 
 Hoje é um dia muito especial para todos aqueles envolvidos com o

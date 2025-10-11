@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Texto Livre para Todos
+type: post
 ---
 
 Quando fiquei sabendo sobre o projeto [Texto

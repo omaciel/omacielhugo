@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Nokia N800 Update and Tip \\#1"
+type: post
 ---
 
 Today was announce the much antecipated release of the [Internet Tablet

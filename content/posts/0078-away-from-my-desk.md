@@ -11,6 +11,7 @@ tags:
  - gaming
  - vinny
 title: Away From My Desk
+type: post
 ---
 
 Starting today I will be stuck attending some training class for work.

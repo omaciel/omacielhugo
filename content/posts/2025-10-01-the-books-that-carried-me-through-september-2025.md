@@ -11,6 +11,7 @@ tags:
  - book-reviews
  - substack
 title: "The Books That Carried Me Through September 2025"
+type: post
 ---
 
 I had told my wife and kids that this September was going to be the month where I'd read all of Shakespeare's Tragedies, Comedies, Histories, and Romances, starting with "[The Tempest](https://www.goodreads.com/book/show/12985.The_Tempest)" which I've read a few times before. It started out slow, as I reacquainted myself with the "thous," "wonders" and "wherefores," but after a few pages I was back in the swing of things.

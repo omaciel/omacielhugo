@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: Too Mathematical
+type: post
 ---
 
 **Your brain: 60% interpersonal, 60% visual, 100% verbal, and 180%

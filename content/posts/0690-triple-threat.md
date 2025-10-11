@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Triple Threat
+type: post
 ---
 
 Just in time for the holidays:

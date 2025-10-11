@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Pictorial Weekend
+type: post
 ---
 
 ..image:: <http://photos21.flickr.com/34092814_74214baa58_o.jpg>

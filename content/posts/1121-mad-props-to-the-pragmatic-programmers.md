@@ -10,6 +10,7 @@ tags:
  - mobi
  - ebook
 title: Mad Props To The Pragmatic Programmers
+type: post
 ---
 
 Earlier this morning I received the following email from [The Pragmatic Programmers](http://pragprog.com/):

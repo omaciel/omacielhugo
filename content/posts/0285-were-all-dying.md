@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: We\'re all dying!
+type: post
 ---
 
 So says my good friend

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Salivando mais que Pavlov
+type: post
 ---
 
 Miguel de Icaza anunciou hoje

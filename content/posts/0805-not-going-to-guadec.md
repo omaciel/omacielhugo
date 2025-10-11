@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Not going to GUADEC
+type: post
 ---
 
 Been kind of stormy down here in North Carolina since last night, with

@@ -7,6 +7,7 @@ tags:
  - english
  - meetup
 title: Mailing List Software
+type: post
 ---
 
 Ever since MeetUp announced they would start charging groups money to

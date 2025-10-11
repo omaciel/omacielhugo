@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Office Space
+type: post
 ---
 
 **Legend:**

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Helping out Ubuntu
+type: post
 ---
 
 Over the weekend I finally took the first step towards my resolution to

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Weather-Wallpaper usando o sistema imperial
+type: post
 ---
 
 Ontem eu escutei/li de alguÃ©m sobre um programa bacana que busca

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: More BarCampRDU
+type: post
 ---
 
 The second session titled "Building online communities", or something

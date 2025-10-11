@@ -7,6 +7,7 @@ tags:
  - english
  - books
 title: "Book Review: Catching Fire"
+type: post
 ---
 ![Catching Fire](http://www.ogmaciel.com/wp-content/uploads/2011/01/cover1-201x300.jpg)
 

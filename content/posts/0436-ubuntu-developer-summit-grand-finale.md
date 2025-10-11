@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Ubuntu Developer Summit - Grand Finale
+type: post
 ---
 
 Pronto! Finalmente consegui arrumar um pouco de tempo para escrever um

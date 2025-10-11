@@ -8,6 +8,7 @@ tags:
  - tumblr
  - wordpress
 title: Sorry for the noise...
+type: post
 ---
 
 ![Sorry](http://farm8.staticflickr.com/7035/6434625263_9937f1ae1f_d.jpg)I've

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Lunch break
+type: post
 ---
 
 Lunch time here at [BarCampRDU](http://barcamp.org/BarCampRDU), and the

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Heck of a week and GNOME Foundation Board of Directors
+type: post
 ---
 
 It's been another crazy/hectic week for me at work, so blogging and

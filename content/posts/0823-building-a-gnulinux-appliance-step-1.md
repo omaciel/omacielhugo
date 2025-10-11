@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: "Building a GNU/Linux Appliance: Step 1"
+type: post
 ---
 
 As some of you may know, I've been doing a great deal of testing for

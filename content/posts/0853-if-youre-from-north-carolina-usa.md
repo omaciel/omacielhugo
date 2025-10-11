@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: If you\'re from North Carolina, USA\...
+type: post
 ---
 
 ... please consider contacting our representatives and voice your

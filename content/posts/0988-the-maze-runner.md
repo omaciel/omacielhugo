@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: The Maze Runner
+type: post
 ---
 
 \[caption id="attachment_1080" align="alignleft" width="152"

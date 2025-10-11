@@ -7,6 +7,7 @@ tags:
  - english
  - life
 title: Close Call
+type: post
 ---
 
 Not in a blogging mood today... Got home last night at **9:30pm(!!!)**

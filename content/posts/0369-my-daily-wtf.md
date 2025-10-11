@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: My Daily WTF
+type: post
 ---
 
 I've been extremelly busy at work since my boss resigned about 3 weeks

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: BillReminder in the Wild!
+type: post
 ---
 
 It has been approximately 2 weeks now that I started hosting my pet

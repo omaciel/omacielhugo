@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Foresight Linux quickie
+type: post
 ---
 
 For those of you out there who are [Foresight

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: About gtk.SpinButton, my time widget and quick patches
+type: post
 ---
 
 Today I fixed issue **1864094** "[Time widget for individual alarms are

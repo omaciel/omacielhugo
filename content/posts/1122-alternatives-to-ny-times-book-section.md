@@ -8,6 +8,7 @@ tags:
  - books
  - nytimes
 title: Alternatives to NY Times\' Book section
+type: post
 ---
 
 The **NY Times**\' restriction of 10 articles/month for non-subscribers,

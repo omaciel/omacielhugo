@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: Portable FireFox 1.0.3 Released
+type: post
 ---
 
 Get your copy right

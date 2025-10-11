@@ -8,6 +8,7 @@ description: |
 tags:
  - podcasts
 title: Podcasts I've Been Listening To Lately
+type: post
 ---
 
 ![Podcasts](https://omaciel.fedorapeople.org/podcast-image.jpg)

@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath, raa, aptoncd
 title: rPath Appliance Agent 1.0.9 in the wild!
+type: post
 ---
 
 Today we have released [rPath Appliance

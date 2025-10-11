@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Last But Not Least
+type: post
 ---
 
 With all the blog posts, newsfeeds and social media channels abuzz with

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Delphi dentro do Linux
+type: post
 ---
 
 Meu amigo **Silfar** escreveu um

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: O elefante Gerald e Piggie
+type: post
 ---
 
 Cheguei em casa hoje a noite e encontrei a mesa de jantar completamente

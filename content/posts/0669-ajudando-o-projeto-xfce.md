@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Ajudando o projeto XFCE
+type: post
 ---
 
 Em preparaÃ§Ã£o para o lanÃ§amento da nova versao do

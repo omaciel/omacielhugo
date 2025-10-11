@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Hockey Advocate
+type: post
 ---
 
 Now that all those clowns from the NHL have come to terms with their

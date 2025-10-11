@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Look Ma! I\'m on TV!!!
+type: post
 ---
 
 Well, sort of...Ã‚Â  I was "interviewed" by [Lulu

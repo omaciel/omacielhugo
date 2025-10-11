@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: My Google
+type: post
 ---
 
 Saw this today... Google has added a portal-like

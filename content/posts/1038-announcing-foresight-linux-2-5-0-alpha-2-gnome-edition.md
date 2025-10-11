@@ -7,6 +7,7 @@ tags:
  - rpath
  - foresight
 title: Announcing Foresight Linux 2.5.0 ALPHA 2 GNOME Edition
+type: post
 ---
 
 Who said that lightening doesn't strike twice on the same spot? I'm

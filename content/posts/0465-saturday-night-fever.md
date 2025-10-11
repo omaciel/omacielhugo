@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Saturday Night Fever
+type: post
 ---
 
 Este sabado foi realizado o primeiro (nao oficial) **i18n Day** por

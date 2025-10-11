@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Top Contributor/Translator
+type: post
 ---
 
 Wow!!!Ã‚Â  I'm absolutely excited to see my name as one of the top

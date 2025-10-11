@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Looking back on looking back
+type: post
 ---
 
 Reading today's post by **Miguel** about the [10 years anniversary of

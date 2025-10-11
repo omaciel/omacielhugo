@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Usando Ruby com Visual Studio .NET 2005
+type: post
 ---
 
 Para os meus amigos programadores que usam o Windows em seu dia a dia

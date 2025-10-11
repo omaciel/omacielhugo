@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Getting older and keeping up with translations
+type: post
 ---
 
 So today is my birthday and I'm now 34. It is also my mother's birthday,

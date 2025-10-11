@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Atualizações de traduções pelo IRC
+type: post
 ---
 
 Algum tempo atrás eu criei o canal **\#tradutores** na Freenode, um

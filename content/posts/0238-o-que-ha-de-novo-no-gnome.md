@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: O que hÃƒÂ¡ de novo no Gnome
+type: post
 ---
 
 Hoje foi anunciado o lanÃƒÂ§amento do Gnome 2.14!!!  [Davyd

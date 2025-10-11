@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Nasceu!!!
+type: post
 ---
 
 Depois de dormir por apenas 3 horas, Elizabeth acordou com contracoes

@@ -8,6 +8,7 @@ tags:
  - django
  - django devkit appliance
 title: Django DevKit Appliance 1.3
+type: post
 ---
 ![Django logo](http://www.ogmaciel.com/wp-content/uploads/2010/03/django-logo-negative-300x136.png)
 

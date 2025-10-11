@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Night at the Opera
+type: post
 ---
 
 Yesterday, following the announcement that the folks behind the

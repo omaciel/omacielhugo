@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Glade XML Build_interface: assertion failed"
+type: post
 ---
 
 Spent a good 2 nights trying to figure out what the following error

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Miss TechTV? Not Me!!!
+type: post
 ---
 
 Read some

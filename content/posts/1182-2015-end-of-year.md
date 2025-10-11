@@ -13,6 +13,7 @@ tags:
  - manager
  - books
 title: End of Year - 2015
+type: post
 ---
 
 ![Bookshelf](https://omaciel.fedorapeople.org/bookshelf.jpeg)

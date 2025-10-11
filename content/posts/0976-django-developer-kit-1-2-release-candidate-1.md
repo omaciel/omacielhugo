@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Django Developer Kit 1.2 Release Candidate 1
+type: post
 ---
 
 [![Django](http://www.ogmaciel.com/wp-content/uploads/2010/05/djangologo.gif)](http://www.ogmaciel.com/wp-content/uploads/2010/05/djangologo.gif)

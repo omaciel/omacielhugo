@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Parla!!!
+type: post
 ---
 
 Como disse o famoso pintor/escultor Michelangelo diante de sua obra de

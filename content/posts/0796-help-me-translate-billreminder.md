@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Help me translate BillReminder
+type: post
 ---
 
 I need your help to get

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Imagine
+type: post
 ---
 
 Voce se lembra onde estava quando [John

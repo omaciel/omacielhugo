@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Mais outro café do dia
+type: post
 ---
 
 Do mesmo pessoal que trouxe o **Frank Sumatra**, apresento o **Bean

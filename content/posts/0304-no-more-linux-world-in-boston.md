@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: No more Linux World in Boston
+type: post
 ---
 
 I just received an email stating what I thought would be inevitable:Ã‚Â 

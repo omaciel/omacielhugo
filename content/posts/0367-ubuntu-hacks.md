@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Ubuntu Hacks
+type: post
 ---
 
 I still have a few copies of [Ubuntu

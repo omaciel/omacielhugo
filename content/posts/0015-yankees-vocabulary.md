@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: Yankees Vocabulary
+type: post
 ---
 
 [![Yankees

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Playing World of Warcraft on Linux with Wine
+type: post
 ---
 
 \[caption id="attachment_1109" align="aligncenter" width="300"

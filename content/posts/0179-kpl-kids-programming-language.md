@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "KPL: Kid\\'s Programming Language"
+type: post
 ---
 
 KPL, or [Kid's Programming

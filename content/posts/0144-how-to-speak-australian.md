@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: How To Speak Australian
+type: post
 ---
 
 *\[Australian outback background music plays\]*

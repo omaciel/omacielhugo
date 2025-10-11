@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: September 11th Conspiracy
+type: post
 ---
 
 No, I am not a conspiracy lunatic! I'll refrain from posting what my

@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: Things That Make You Go Hummmm?
+type: post
 ---
 
 | **Q**: What Do Eskimos Get From Sitting On The Ice too Long?

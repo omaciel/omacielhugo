@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: BillReminder \"How Many is a Brazilian\" 0.3.1 Released
+type: post
 ---
 
 This is a minor release where a couple of bugs have been closed and some

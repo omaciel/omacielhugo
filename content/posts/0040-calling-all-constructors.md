@@ -8,6 +8,7 @@ tags:
  - random
  - csharp
 title: Calling All Constructors
+type: post
 ---
 
 I wanted to change some code I had written last week so that an

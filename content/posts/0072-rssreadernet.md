@@ -7,6 +7,7 @@ tags:
  - english
  - coding
 title: RssReader.NET
+type: post
 ---
 
 Been spending some time using the [RSS.NET](http://www.rssdotnet.com/)

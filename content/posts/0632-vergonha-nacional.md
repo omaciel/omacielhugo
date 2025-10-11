@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Vergonha Nacional!
+type: post
 ---
 
 Assisti este [vÃ­deo](http://www.youtube.com/watch?v=q9esNX7bzHY) hoje

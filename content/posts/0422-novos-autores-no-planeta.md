@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Novos autores no Planeta
+type: post
 ---
 
 Ontem e hoje adicionei 4 ou 5 novos autores, todos de Portugal. Eles

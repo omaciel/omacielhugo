@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: April Fool Jokes
+type: post
 ---
 
 Ha! [Planet Gnome](http://planet.gnome.org) and [Planet

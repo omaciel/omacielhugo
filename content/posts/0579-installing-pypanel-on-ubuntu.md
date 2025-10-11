@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Installing PyPanel on Ubuntu
+type: post
 ---
 
 A while back I had written up a post (Brazilian Portuguese only)

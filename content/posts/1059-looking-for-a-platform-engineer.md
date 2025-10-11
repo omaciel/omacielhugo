@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Looking For A Platform Engineer
+type: post
 ---
 My [employer](http://www.rpath.com) is currently looking for a
 **Platform Engineer** to join our team at our new office in **Raleigh**,

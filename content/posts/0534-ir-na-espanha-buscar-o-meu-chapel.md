@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Ir na Espanha buscar o meu chapÃ©u
+type: post
 ---
 
 Neste mes de maio temos o [Ubuntu Developer Summit

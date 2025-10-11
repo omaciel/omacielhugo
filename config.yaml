@@ -1,7 +1,7 @@
 baseURL: "https://omaciel.github.io/"
 languageCode: "en-us"
 title: "Og Maciel's Journal"
-theme: "hugo-profile"
+theme: "gokarna"
 
 markup:
   goldmark:
@@ -18,22 +18,34 @@ taxonomies:
 #  category: "categories"
 
 params:
-  favicon: "/images/fav.png"
-  description: ""
-  copyright: "2021"
-
-  # social
-  name: "Og Maciel"
-  github: "https://github.com/omaciel"
-  linkedin: "https://www.linkedin.com/in/ogmaciel/"
-  twitter: "https://twitter.com/OgMaciel"
-  instagram: "http://instagram.com/ogmaciel"
-  amazon: "https://www.amazon.com/author/ogmaciel"
-  goodreads: "https://www.goodreads.com/author/show/7762080.Og_Maciel"
-
-
-  #blog ( Description for seo. If you want to show description in your listing or single page, let's make it true)
-  showdescription: false
+  # Gokarna theme specific parameters
+  description: "Reflections on technology, reading, life, and everything in between"
+  avatarurl: "/images/ogmaciel.jpg"
+  avatarSize: "size-l"
+  avatarAltText: "Og Maciel"
+  
+  # Social icons for Gokarna theme
+  socialicons:
+    - name: "github"
+      url: "https://github.com/omaciel"
+    - name: "linkedin" 
+      url: "https://www.linkedin.com/in/ogmaciel/"
+    - name: "twitter"
+      url: "https://twitter.com/OgMaciel"
+    - name: "instagram"
+      url: "http://instagram.com/ogmaciel"
+    - name: "email"
+      url: "mailto:og@omaciel.com"
+  
+  # Show posts on homepage
+  showpostsonhomepage: "recent"
+  numberpostsonhomepage: 5
+  
+  # Back to top button
+  showbacktotopbutton: true
+  
+  # Copyright
+  copyright: "2025"
 
 Author:
   name: "Og Maciel"

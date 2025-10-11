@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Sixth Annual Packt Open Source Awards
+type: post
 ---
 
 [!Packt Publishing](http://www.packtpub.com/sites/default/files/packt_logo.png)

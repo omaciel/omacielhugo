@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Boring day
+type: post
 ---
 
 It's been a rather boring day for me... The funny thing is that it

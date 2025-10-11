@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: GNOME 2.20 is here!
+type: post
 ---
 
 [GNOME 2.20](http://www.gnome.org/start/2.20/notes/en/) just came out of

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Futebol de UbuntÃƒÂ£o
+type: post
 ---
 
 Finalmente! Depois de muitos meses de trabalho duro nas traduÃƒÂ§ÃƒÂµes

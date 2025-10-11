@@ -7,6 +7,7 @@ tags:
  - english
  - quotes
 title: If You Hire People Just Because They Can Do A
+type: post
 ---
 
 If you hire people just because they can do a job, they'll work for your

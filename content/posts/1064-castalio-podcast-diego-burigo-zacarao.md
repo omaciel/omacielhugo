@@ -9,6 +9,7 @@ tags:
  - podcast
  - castalio
 title: "Castálio Podcast: Diego Búrigo Zacarão"
+type: post
 ---
 Neste episódio, depois de semanas de muito suor, sangue e lágrimas
 (todas minhas, te garanto), consegui finalmente raptar o [Diego Búrigo

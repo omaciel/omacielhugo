@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Concurso Guia do Dapper do Ubuntu Brasil
+type: post
 ---
 
 Venho por este convocar a todos os artistas e designers de web para o

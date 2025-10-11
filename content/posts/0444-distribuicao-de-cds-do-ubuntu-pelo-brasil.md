@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Distribuicao de CDs do Ubuntu pelo Brasil
+type: post
 ---
 
 Fui contactado pelo pessoal da Canonical para ajuda-los com um

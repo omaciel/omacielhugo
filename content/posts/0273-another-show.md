@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Another Show
+type: post
 ---
 
 This April 22-23 I will be once again "on the road" to represent Ubuntu

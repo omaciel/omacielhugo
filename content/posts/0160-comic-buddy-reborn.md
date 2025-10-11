@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Comic Buddy\\# Reborn?"
+type: post
 ---
 
 Been talking to someone from work quite extensive about Linux, Mono and

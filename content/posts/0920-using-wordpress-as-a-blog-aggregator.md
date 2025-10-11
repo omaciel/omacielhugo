@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Using WordPress as a blog aggregator
+type: post
 ---
 
 One of the many things I maintain outside work is a [blog

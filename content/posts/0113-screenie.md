@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Screenie
+type: post
 ---
 
 Spent some time hacking my new app during the holidays... Also did some

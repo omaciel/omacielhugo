@@ -9,6 +9,7 @@ tags:
  - QA
  - english
 title: "Red Hat: 366 days later (and counting)"
+type: post
 ---
 
 ![Red Hat 1

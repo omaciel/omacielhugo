@@ -7,6 +7,7 @@ tags:
  - english
 title: Rosetta takes a great step toward supporting upstream
   translations
+type: post
 ---
 
 [Danilo Å egan](http://danilo.segan.org/blog/), lead developer for the

@@ -12,6 +12,7 @@ tags:
  - mandriva
 title: "Castálio Podcast: Carlos Brando e Rafael Rosa Fu: GrokPodcast -
   Part 1"
+type: post
 ---
 
 ![image0](http://bit.ly/OMhBUp)

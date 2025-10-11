@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Mais sobre o Openbox 3.4
+type: post
 ---
 
 Hoje pela manhÃ£ foi lanÃ§ado a versÃ£o **3.3.991** do

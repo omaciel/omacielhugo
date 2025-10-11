@@ -6,6 +6,7 @@ slug: |
 tags:
  - tar heel, life, school, unc
 title: Going back to school
+type: post
 ---
 
 I can finally talk about my great news: **I'm going back to school this

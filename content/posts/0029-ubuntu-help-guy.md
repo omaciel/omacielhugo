@@ -8,6 +8,7 @@ tags:
  - ubuntu
  - life
 title: Ubuntu Help Guy
+type: post
 ---
 
 Lately I have found myself hanging out at \#ubuntu on

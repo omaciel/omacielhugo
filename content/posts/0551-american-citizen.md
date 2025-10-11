@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: American Citizen
+type: post
 ---
 
 I'm very proud to announce that today I have become a citizen of the

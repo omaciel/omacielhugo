@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Your momma knows better
+type: post
 ---
 
 Dear [Clint

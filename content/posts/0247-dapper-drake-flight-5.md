@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Dapper Drake Flight 5
+type: post
 ---
 
 Hoje foi lanÃƒÂ§ada a versÃƒÂ£o Flight 5 do Ubuntu Dapper Drake! A

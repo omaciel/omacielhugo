@@ -8,6 +8,7 @@ tags:
  - Heroku
  - english
 title: "Error: uninitialized constant Heroku::API (NameError)"
+type: post
 ---
 
 Got stuck with this error on **Fedora 17** while trying to get a project

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Elvis seen playing with BillReminder
+type: post
 ---
 
 Just an update on the development for

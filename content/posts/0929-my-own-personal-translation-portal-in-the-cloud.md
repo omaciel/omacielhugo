@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: My Own Personal Translation Portal in the Cloud
+type: post
 ---
 
 Had some time today during lunch to work on the [Transifex

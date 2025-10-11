@@ -11,6 +11,7 @@ tags:
  - reading
  - substack
 title: "Week in Review — Week 40 of 2025"
+type: post
 ---
 
 This was a pretty intense week at work, but I managed to balance it out with intentional time at home with my family. I maintained my gym routine every morning and continued my reading streak, now at **2,134 days**.

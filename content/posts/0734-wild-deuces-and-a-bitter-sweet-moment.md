@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Wild Deuces and a Bitter Sweet Moment
+type: post
 ---
 
 Today is a very special moment for all of those who were involved with

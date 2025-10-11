@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: The Windmill Appliance
+type: post
 ---
 
 I'm proud to announce the release of the [Windmill

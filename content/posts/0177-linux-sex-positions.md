@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Linux Sex Positions
+type: post
 ---
 
 Hehehe... Too funny not to post here! Be warned that [this

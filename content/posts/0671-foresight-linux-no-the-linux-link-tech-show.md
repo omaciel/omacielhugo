@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath
 title: Foresight Linux no The Linux Link Tech Show
+type: post
 ---
 
 Escute o [Ken Vandine](http://ken.vandine.org/) falar sobre a futura

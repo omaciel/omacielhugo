@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Pai coruja? Eu?
+type: post
 ---
 
 Finalmente tive tempo para colocar novas fotos e vídeos da Yv e Kate no

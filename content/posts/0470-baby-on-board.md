@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Baby on Board
+type: post
 ---
 
 My parents wanted to know how my wife's pregnancy was progressing...

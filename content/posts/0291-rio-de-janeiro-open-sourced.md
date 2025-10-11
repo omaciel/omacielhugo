@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Rio de Janeiro Open Sourced
+type: post
 ---
 
 A new legislation (<http://www.softwarelivre.org/news/6524> in pt_BR)

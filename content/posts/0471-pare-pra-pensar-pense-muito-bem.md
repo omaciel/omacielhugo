@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Pare pra\' pensar, pense muito bem!
+type: post
 ---
 
 Continuando com a saga de personalizar a minha instalacao do Openbox, a

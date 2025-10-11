@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: New Years Reolutions
+type: post
 ---
 
 ![<http://web.mac.com/aaronandpatty/iWeb/What%20the%20Duck/Images/WTD119.gif>](http://web.mac.com/aaronandpatty/iWeb/What%20the%20Duck/Images/WTD119.gif)

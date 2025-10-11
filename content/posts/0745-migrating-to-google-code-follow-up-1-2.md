@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Migrating to Google Code Follow up \\#1"
+type: post
 ---
 
 So I have finally migrated

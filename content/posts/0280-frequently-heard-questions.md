@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Frequently Heard Questions
+type: post
 ---
 
 ... at technology expositions/fairs I've been to this year, mostly as an

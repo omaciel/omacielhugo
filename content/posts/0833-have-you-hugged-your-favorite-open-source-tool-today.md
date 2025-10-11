@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Have you hugged your favorite open source tool today?
+type: post
 ---
 
 I have! I just recently got a hold of a US\$30 Amazon gift certificate

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Cheguei\...
+type: post
 ---
 
 Depois de 3 1/2 horas dirigindo de New Jersey para Boston, cheguei em

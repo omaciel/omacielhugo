@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Brincando com o screen
+type: post
 ---
 
 Depois de tomar uma surra configurando o meu postfix para funcionar na

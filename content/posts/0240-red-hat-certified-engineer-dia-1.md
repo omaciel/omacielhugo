@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Red Hat Certified Engineer - Dia 1
+type: post
 ---
 
 Par quem nao sabe, estou em Boston fazendo o curso que me dara o

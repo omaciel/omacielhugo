@@ -10,6 +10,7 @@ tags:
  - Pymacs
  - gnome
 title: Emacs + Rope for Python Development
+type: post
 ---
 
 ![screenshot](https://farm3.staticflickr.com/2875/11294955694_5450819b65_z_d.jpg)

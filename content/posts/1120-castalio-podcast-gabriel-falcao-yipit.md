@@ -9,6 +9,7 @@ tags:
  - castálio
  - podcast
 title: "Castálio Podcast: Gabriel Falcão: Yipit"
+type: post
 ---
 
 ![Gabriel

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Projeto T.A.C.A.A.C.A.R.A.N.O.M.U.R.O.
+type: post
 ---
 
 Ainda em tempo para o fim de semana, tenho o grande prazer de anunciar o

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Outro post sobre um Gtk.TreeView genÃ©rico
+type: post
 ---
 
 Pensei, por que nÃ£o escrever um exemplo bem simples de como usar o

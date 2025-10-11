@@ -11,6 +11,7 @@ tags:
  - mandriva
  - portuguese
 title: "Castálio Podcast: Licio Fonseca - Google"
+type: post
 ---
 
 ![image0](http://bit.ly/OMhBUp)

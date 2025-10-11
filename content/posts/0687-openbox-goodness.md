@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Openbox goodness!
+type: post
 ---
 
 Finally caught up with my rss feeds and found out about some new

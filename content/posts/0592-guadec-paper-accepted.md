@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: GUADEC Paper Accepted
+type: post
 ---
 
 Last week I was pleasantly surprised to see the following message in my

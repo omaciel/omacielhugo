@@ -9,6 +9,7 @@ tags:
  - podcast
  - castálio
 title: "Castálio Podcast: Primeiro Ano e Bastidores"
+type: post
 ---
 
 ![1º

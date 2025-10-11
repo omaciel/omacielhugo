@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Curva de Aprendizagem
+type: post
 ---
 
 ![image0](http://static.flickr.com/90/206736388_e8d600686b.jpg)

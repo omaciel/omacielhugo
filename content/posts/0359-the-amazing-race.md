@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: The Amazing Race
+type: post
 ---
 
 The race is on to get Ubuntu Linux completely translated into other

@@ -3,6 +3,7 @@ title: Chiclete com Banana
 date: 2008-01-31
 tags:
  - portuguese
+type: post
 ---
 
 [![I used to love this Brazilian comic

@@ -9,6 +9,7 @@ tags:
  - life
  - futuristic
 title: Cyber Archeologists Will Google Dig
+type: post
 ---
 
 Having read

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Snippet Compiler
+type: post
 ---
 
 I often find myself creating a new .NET project every time I want to try

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Is Less Better? - Take 2
+type: post
 ---
 
 I've been following with extreme interest (and caution) the

@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Giggling already
+type: post
 ---
 
 Hey [Sven](http://herzi.eu/comment.php?type=trackback&entry_id=121);

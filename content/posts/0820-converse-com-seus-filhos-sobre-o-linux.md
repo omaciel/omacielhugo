@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Converse com seus filhos sobre o Linux
+type: post
 ---
 
 ![Converse com seus filhos sobre o

@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath
 title: Mais formas de experimentar o novo GNOME 2.17.92 virtualmente
+type: post
 ---
 
 [Agora](http://ken.vandine.org/?p=218) voce ja' pode experimentar o

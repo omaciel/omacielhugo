@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: LXDE and the Google Summer of Code
+type: post
 ---
 
 \[caption id="attachment_845" align="alignleft" width="300"

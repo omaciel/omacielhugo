@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Mother
+type: post
 ---
 
 \[caption id="" align="aligncenter" width="432" caption="My Mom and

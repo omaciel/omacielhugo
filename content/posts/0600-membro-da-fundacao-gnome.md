@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Membro da FundaÃ§Ã£o GNOME
+type: post
 ---
 
 Fiquei extremamente feliz de ter meu pedido de entrada na [GNOME

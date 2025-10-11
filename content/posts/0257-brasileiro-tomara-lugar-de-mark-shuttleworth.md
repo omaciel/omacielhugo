@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Brasileiro TomarÃƒÂ¡ Lugar de Mark Shuttleworth
+type: post
 ---
 
 O mundo da informÃƒÂ¡tica mundial nÃƒÂ£o pÃƒÂ´de acreditar o mais novo

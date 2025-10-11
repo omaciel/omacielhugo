@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath
 title: VocÃª sabe que estÃ¡ usando muito o Vim quando\...
+type: post
 ---
 
 ... vocÃª aperta a tecla ESC depois de preencher um formulÃ¡rio na web!

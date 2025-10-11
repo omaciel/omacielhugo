@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Django Developer Kit 1.2.1
+type: post
 ---
 
 \[caption id="attachment_1038" align="alignleft" width="117"

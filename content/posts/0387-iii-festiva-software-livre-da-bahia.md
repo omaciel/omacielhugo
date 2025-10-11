@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: III Festival Software Livre da Bahia
+type: post
 ---
 
 Nesta quinta-feira, dia 24 de agosto, estarÃƒÂ¡ acontecendo o [III

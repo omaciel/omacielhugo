@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: BillReminder on TV?
+type: post
 ---
 
 Karl Lattimer pointed out that there is now a

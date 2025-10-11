@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Daddy\'s girls
+type: post
 ---
 
 I've finally found time to upload some of my pictures and movies to

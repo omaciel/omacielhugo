@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Life Is a Gift
+type: post
 ---
 
 I just had to share this with everyone. Have a great weekend!

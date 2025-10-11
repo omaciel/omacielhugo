@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: Portable Applications Gallore
+type: post
 ---
 
 Wow!!! It didn't take me a long time to come up with a pretty good list

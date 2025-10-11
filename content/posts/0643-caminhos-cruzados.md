@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath
 title: Caminhos Cruzados
+type: post
 ---
 
 Foi bem interessante ver um

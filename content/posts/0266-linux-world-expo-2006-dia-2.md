@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Linux World Expo 2006 - Day 2
+type: post
 ---
 
 Pretty easy day today compared to yesterday's "feeding frenzy"! The

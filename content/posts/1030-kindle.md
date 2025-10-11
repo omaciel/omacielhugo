@@ -8,6 +8,7 @@ tags:
  - kindle
  - books
 title: Kindle
+type: post
 ---
 ![Kindle DX](http://www.ogmaciel.com/wp-content/uploads/2011/01/4205159532_76ba5831af-190x300.jpg)
 

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Good news from the Epiphany front
+type: post
 ---
 
 Very cool

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: New Kid on the Block
+type: post
 ---
 
 Ãƒâ€° com um enorme orgulho que venho anunciar o lanÃƒÂ§amento da nova

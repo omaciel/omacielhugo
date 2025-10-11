@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: For Geeks Only
+type: post
 ---
 
 ![Comic strip](http://static.flickr.com/32/42303685_e0a14e8dc6_o.gif)

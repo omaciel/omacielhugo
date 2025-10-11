@@ -9,6 +9,7 @@ tags:
  - foresight
  - django developer kit
 title: "Announcing: Foresight based Django Developer Kit Appliance RC1"
+type: post
 ---
 ![Foresight Linux based Django Developer Kit Appliance](http://www.ogmaciel.com/wp-content/uploads/2010/09/Screenshot-QEMU-300x225.png)
 

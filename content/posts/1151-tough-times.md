@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Tough Times
+type: post
 ---
 
 These last few days have been rough for my family due to a very

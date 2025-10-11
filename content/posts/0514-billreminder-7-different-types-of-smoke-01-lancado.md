@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: BillReminder \"7 Different Types of Smoke\" 0.1 LanÃ§ado
+type: post
 ---
 
 \"Release soon, release often\" jÃ¡ dizia o famoso mantra do mundo de

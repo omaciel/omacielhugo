@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Rumor has it\...
+type: post
 ---
 
 ... that this (below) could be a Foresight Linux based distribution

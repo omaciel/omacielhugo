@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Bond\... James Bond!
+type: post
 ---
 
 Agora quando eu for responder alguma coisa no

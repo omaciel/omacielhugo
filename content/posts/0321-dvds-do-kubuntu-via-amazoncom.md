@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: DVDs do \[Ku\|U\]buntu via Amazon.com
+type: post
 ---
 
 Foi anunciado hoje que DVDs do

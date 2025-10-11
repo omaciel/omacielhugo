@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: NJ -\> NC -\> NJ -\> NC
+type: post
 ---
 
 \"Rodando mais que azeitona em boca de bangela!\"

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Going to FISL?
+type: post
 ---
 
 Hey [Jonh](http://www.j5live.com/?p=350),

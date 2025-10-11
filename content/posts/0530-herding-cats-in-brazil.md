@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Herding Cats in Brazil
+type: post
 ---
 
 If anyone wants to watch the live stream of Jono's presentation in

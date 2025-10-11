@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "GNOME 2.18: Quase 100% traduzido para o Portugues do Brasil"
+type: post
 ---
 
 Tenho trabalhado com a equipe brasileira de traducoes do GNOME, tentando

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Ubuntu translations: let\\'s make it work!"
+type: post
 ---
 
 Just created the following **Ubuntu Brainstorm** idea called

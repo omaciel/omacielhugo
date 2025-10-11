@@ -5,6 +5,7 @@ tags:
  - books
  - goodreads
 title: 2014 in Book Covers
+type: post
 ---
 
 For my last post of 2014 I wanted to show, with pictures, the books I

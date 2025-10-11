@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: LanÃ§ado Openbox 3.4!
+type: post
 ---
 
 Finalmente o dia chegou!!! **Openbox 3.4** acaba de ser lanÃ§ado, junto

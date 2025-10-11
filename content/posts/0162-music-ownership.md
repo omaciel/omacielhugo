@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Music Ownership
+type: post
 ---
 
 While telling a co-worker how I managed to listen to my private \*.ogg

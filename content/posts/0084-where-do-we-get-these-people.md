@@ -9,6 +9,7 @@ tags:
  - nycsca
  - life
 title: Where Do We Get These People?
+type: post
 ---
 
 While typing my last post I was interrupted by a so-called ".Net

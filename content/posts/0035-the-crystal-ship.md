@@ -8,6 +8,7 @@ tags:
  - gnome
  - life
 title: The Crystal Ship
+type: post
 ---
 
 Just as promised, here's my screenie of netapplet and gnome-blog running

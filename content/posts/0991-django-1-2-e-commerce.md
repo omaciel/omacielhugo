@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Django 1.2 E-Commerce
+type: post
 ---
 
 \[caption id="attachment_1094" align="alignleft" width="243"

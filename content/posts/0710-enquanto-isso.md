@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Enquanto isso\...
+type: post
 ---
 
 Enquanto eu estava trabalhando duro esta semana, o [Openbox

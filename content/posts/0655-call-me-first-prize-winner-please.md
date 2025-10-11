@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Call me \"first prize winner\" please
+type: post
 ---
 
 Over the weekend we had a Fall Festival in our neighborhood, with tons

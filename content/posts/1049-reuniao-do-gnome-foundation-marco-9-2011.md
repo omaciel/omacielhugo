@@ -7,6 +7,7 @@ tags:
  - portuguese
  - gnome board of directors
 title: "Reunião do GNOME Foundation: Março 9, 2011"
+type: post
 ---
 
 Bom dia pessoal! Só queria avisar que amanhã tem a reunião do [GNOME

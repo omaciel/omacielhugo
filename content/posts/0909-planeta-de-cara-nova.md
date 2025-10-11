@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Planeta de cara nova
+type: post
 ---
 
 Graças ao meu amigo [Evandro Pastor](http://www.quartoestudio.com/blog)

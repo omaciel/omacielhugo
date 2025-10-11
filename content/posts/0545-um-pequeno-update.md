@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Um pequeno \"update\"
+type: post
 ---
 
 Como eu jÃ¡ tinha comentado antes, ainda continuo sofrendo de uma

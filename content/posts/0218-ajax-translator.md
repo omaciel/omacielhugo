@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: AJAX Translator
+type: post
 ---
 
 For the volunteers working in the translation of  Ubuntu Linux from

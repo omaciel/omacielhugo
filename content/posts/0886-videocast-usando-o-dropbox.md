@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Videocast: Usando o Dropbox"
+type: post
 ---
 
 No começo do ano eu tinha escrito um

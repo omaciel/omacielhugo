@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: O ano de 2006 em fotos!
+type: post
 ---
 
 Bem, depois de quase 2 semanas doente com um resfriado horrÃ­vel, eu

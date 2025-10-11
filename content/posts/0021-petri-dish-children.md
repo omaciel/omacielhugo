@@ -7,6 +7,7 @@ tags:
  - english
  - life
 title: Petri Dish Children
+type: post
 ---
 
 My daughter is very ill. Actually, she's been ill for a few days now

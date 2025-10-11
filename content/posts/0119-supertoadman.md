@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: SuperToadman
+type: post
 ---
 
 My most sincerey wishes of a **Happy Birthday** to my great friend

@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: RHEL 5 Appliance sneak peak
+type: post
 ---
 
 I've already mentioned on my [Twitter](http://twitter.com/ogmaciel)

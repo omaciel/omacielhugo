@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Translations Best Practice
+type: post
 ---
 
 Whenever we work on the Brazilian Portuguese translations for Ubuntu

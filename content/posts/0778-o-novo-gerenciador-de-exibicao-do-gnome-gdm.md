@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: O novo Gerenciador de Exibição do GNOME (GDM)
+type: post
 ---
 
 Comecei hoje a usar o novo Gerenciador de Exibição do GNOME, também

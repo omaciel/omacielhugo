@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: My New Toy
+type: post
 ---
 
 [![image0](http://photos3.flickr.com/6436457_80150c548d_m.jpg)](http://www.flickr.com/photos/25563799@N00/6436457/)

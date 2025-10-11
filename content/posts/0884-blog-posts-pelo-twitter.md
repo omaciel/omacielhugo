@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Blog posts pelo Twitter
+type: post
 ---
 
 Ontem adicionei um recurso para publicar os artigos que aparecem no

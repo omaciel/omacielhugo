@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Fim de ano
+type: post
 ---
 
 Fim de ano e a cabeÃ§a fervilhando de idÃ©ias! A sacada Ã© saber

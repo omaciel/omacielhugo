@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Quotes to brighten your day
+type: post
 ---
 
 \[caption id="" align="alignright" width="333" caption="Cheer Up Honey

@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: "My Precious..."
+type: post
 ---
 
 I have finally found my portable MP3 and OGG player to use on the go

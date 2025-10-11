@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Iniciando o servico Avahi no Ubuntu Edgy
+type: post
 ---
 
 Depois de quebrar a cabeca por 2 dias tentando descobrir porque eu nao

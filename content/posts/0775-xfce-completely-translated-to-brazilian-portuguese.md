@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: XFCE completely translated to Brazilian Portuguese
+type: post
 ---
 
 I'm extremely proud to announce that the [XFCE](http://www.xfce.org)

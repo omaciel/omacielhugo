@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Coffee, a personal history
+type: post
 ---
 
 \[caption id="attachment_979" align="alignleft" width="240"

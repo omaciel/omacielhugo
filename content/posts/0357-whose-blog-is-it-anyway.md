@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Whose Blog Is It Anyway?
+type: post
 ---
 
 It seems that for some reason beyond my understanding, one of my latest

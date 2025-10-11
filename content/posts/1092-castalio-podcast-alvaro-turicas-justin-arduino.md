@@ -9,6 +9,7 @@ tags:
  - podcast
  - castalio
 title: "Castálio Podcast: Álvaro \\\"Turicas\\\" Justin - Arduino"
+type: post
 ---
 No episódio de hoje conversei com o **Álvaro "Turicas" Justen** sobre um
 monte de coisas relacionadas ao **Arduino**, e como usá-lo junto com

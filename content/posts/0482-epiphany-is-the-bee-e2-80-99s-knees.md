@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Epiphany is the Bee\'s Knees
+type: post
 ---
 
 I just have to agree with [Foresight](http://www.foresightlinux.com/)\'s

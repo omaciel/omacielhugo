@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Using FlickrUploadr in Ubuntu
+type: post
 ---
 
 Every time I need to add an image to one of my posts, I use a very

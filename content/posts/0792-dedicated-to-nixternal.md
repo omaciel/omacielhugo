@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Dedicated to Nixternal
+type: post
 ---
 
 [![Walking on

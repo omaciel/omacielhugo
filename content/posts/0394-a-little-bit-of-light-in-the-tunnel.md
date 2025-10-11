@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: A little bit of light in the tunnel
+type: post
 ---
 
 First off I need to thank you all who contacted me, either directly or

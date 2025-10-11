@@ -12,6 +12,7 @@ tags:
  - Dropbox
  - english
 title: Setting up Vim for Clojure development notes
+type: post
 ---
 
 Started the process of getting jiggy with [Clojure](http://clojure.org/)

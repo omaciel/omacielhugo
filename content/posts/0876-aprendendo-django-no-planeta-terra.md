@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Aprendendo Django no Planeta Terra
+type: post
 ---
 
 A dica veio do meu amigo [Elyezer](http://elyezer.com/) quando me enviou

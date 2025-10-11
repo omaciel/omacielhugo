@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Foresight Linux 1.3 released!
+type: post
 ---
 
 Congratulations to the entire [Foresight

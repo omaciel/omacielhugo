@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Don\'t forget to pay your bills again\... or else!
+type: post
 ---
 
 [![BillReminder1](http://farm1.static.flickr.com/155/426001389_82fe3885b7_m.jpg)](http://www.flickr.com/photos/25563799@N00/426001389/)

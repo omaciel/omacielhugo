@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Openbox 3.4.2 and ObConf 2.0.1 released
+type: post
 ---
 
 As the title says, **Openbox 3.4.2** and **ObConf 2.0.1** were just

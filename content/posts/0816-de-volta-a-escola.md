@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: De volta à escola
+type: post
 ---
 
 Agora eu posso finalmente falar sobre minha grande novidade: **Eu estou

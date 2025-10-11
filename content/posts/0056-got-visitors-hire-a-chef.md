@@ -7,6 +7,7 @@ tags:
  - ximian
  - life
 title: Got Visitors? Hire a Chef!
+type: post
 ---
 
 Interesting\...

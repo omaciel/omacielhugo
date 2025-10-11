@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: When Dia saved my Day!
+type: post
 ---
 
 Everyone who knows me online or is used to seeing me hanging out on

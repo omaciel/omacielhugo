@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Firefox 2 Release Schedule
+type: post
 ---
 
 -   2006/02/10 : Alpha 1

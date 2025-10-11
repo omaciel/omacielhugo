@@ -7,6 +7,7 @@ tags:
  - english
  - movie
 title: Sideways
+type: post
 ---
 
 On a previous post I had promised to comment on the movie

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Instalando TurboGears no Ubuntu Edgy
+type: post
 ---
 
 Devido ao meu trabalho com python e

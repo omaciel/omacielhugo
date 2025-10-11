@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: How many are there in a Brazilian?
+type: post
 ---
 
 For the [second](http://l10n.gnome.org/languages/pt_BR) release cycle in

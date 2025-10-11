@@ -9,6 +9,7 @@ tags:
  - castalio
  - podcast
 title: "Castálio Podcast: Johan Dahlin"
+type: post
 ---
 
 Neste novo episódio conversei com o [Johan Dahlin](http://blogs.gnome.org/johan), um dos programadores do mundo do

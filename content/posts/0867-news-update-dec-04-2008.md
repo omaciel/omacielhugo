@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: News Update - Dec. 04, 2008
+type: post
 ---
 
 -   Built a MT-Daapd Linux appliance to share my music at home.

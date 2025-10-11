@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Online music recommendation systems
+type: post
 ---
 
 I don't know how your work environment is, but where I work all the

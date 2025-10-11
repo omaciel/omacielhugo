@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Winforms com Mono
+type: post
 ---
 
 Ontem trabalhei um pouco em converter meu cÃƒÂ³digo original do meu

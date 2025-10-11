@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "O.G.: Observation Guardian"
+type: post
 ---
 
 Just because I'm a geek and the guys at p.d.o. are doing it... ;)

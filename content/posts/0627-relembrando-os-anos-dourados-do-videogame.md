@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Relembrando os anos dourados do videogame
+type: post
 ---
 
 Eu nunca publiquei um vÃ­deo do YouTube em nenhum dos meus posts, mas

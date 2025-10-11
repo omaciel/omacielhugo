@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Smell the flowers
+type: post
 ---
 
 I never really considered any of my photos to be anything out of the

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Xml Performance Checklist
+type: post
 ---
 
 Straight from Microsoft's [Improving .NET Application Performance and

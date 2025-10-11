@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Watching the wheels go \'round and \'round
+type: post
 ---
 
 This is going to be a very emotional post for me... Emotional for a good

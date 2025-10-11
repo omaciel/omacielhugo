@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Virtual Windows XP
+type: post
 ---
 
 [![houdini](http://photos22.flickr.com/26099980_e5ab52bf41.jpg)](http://www.flickr.com/photos/25563799@N00/26099980/)

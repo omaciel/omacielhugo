@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: "Week in Review: May 24th â€\" May 28th, 2010"
+type: post
 ---
 
 ![Week in Review](http://bit.ly/DogReview)

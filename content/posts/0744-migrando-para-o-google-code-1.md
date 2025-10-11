@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Migrando para o Google Code \\#1"
+type: post
 ---
 
 Na semana passada eu tinha [escrito](http://www.ogmaciel.com/?p=453) no

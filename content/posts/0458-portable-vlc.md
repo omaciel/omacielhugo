@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Portable VLC
+type: post
 ---
 
 My good friend [Otavio](http://otavio.canetatinteiro.org/) enjoying his

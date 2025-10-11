@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Novo Planeta Brasileiro
+type: post
 ---
 
 Gostaria de anunciar o lancamento do mais novo agregador de blogs

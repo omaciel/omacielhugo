@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath
 title: Servidor de músicas Bailout MT-Daapd
+type: post
 ---
 
 No finalzinho do ano passado eu passei alguns dias trabalhando para

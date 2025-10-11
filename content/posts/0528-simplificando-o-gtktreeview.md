@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Simplificando o gtk.TreeView?
+type: post
 ---
 
 Estes dias quando estava trabalhando em uma nova interface grÃ¡fica para

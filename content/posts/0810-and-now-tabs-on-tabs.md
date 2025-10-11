@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: And now\... tabs\... on tabs!!!
+type: post
 ---
 
 [![What now? Tabs on

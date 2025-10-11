@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Mais um momento Kodak
+type: post
 ---
 
 -   Cesta de roupas: US\$15

@@ -7,6 +7,7 @@ tags:
  - rpath
  - foresight
 title: Because Your Distro Should Be Cool!
+type: post
 ---
 
 It is with my **Community Manager** hat and as a **Linux enthusiast**

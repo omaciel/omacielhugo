@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: A resposta é X, mas fala diferente
+type: post
 ---
 
 Há vários meses, quando eu ainda era parte do Conselho do Ubuntu Brasil,

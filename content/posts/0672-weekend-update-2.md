@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Weekend Update
+type: post
 ---
 
 A couple of updates before heading out to the weekend:

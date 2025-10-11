@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Bombril
+type: post
 ---
 
 Dor de ouvido?Ã‚Â  Unha incravada?Ã‚Â  Sarampo?Ã‚Â  Servidor nÃƒÂ£o

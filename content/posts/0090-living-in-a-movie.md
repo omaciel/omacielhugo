@@ -9,6 +9,7 @@ tags:
  - nycsca
  - life
 title: Living In A Movie
+type: post
 ---
 
 Kinda scary when you can relate your job to a

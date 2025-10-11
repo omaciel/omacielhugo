@@ -10,6 +10,7 @@ tags:
  - language
  - substack
 title: "Too Much Spanglish, Not Enough Story"
+type: post
 ---
 
 ![Cover Image](/images/spanglish-story-cover.heic)

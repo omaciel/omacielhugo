@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Women\'s Summer Outreach Program 2006
+type: post
 ---
 
 ![image0](http://static.flickr.com/73/167249435_432244b22a_o.jpg)

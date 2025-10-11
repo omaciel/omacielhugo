@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: A volta dos que não foram
+type: post
 ---
 
 [![De

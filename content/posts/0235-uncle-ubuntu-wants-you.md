@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Uncle Ubuntu Wants You!
+type: post
 ---
 
 This year's [Linux World Expo &

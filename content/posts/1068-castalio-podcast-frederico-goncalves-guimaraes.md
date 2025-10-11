@@ -9,6 +9,7 @@ tags:
  - castalio
  - podcast
 title: "Castálio Podcast: Frederico Gonçalves Guimaraes"
+type: post
 ---
 Não resisti esperar até segunda-feira para publicar o mais novo episódio
 do Castálio Podcast, então lá vai!

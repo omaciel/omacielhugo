@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath
 title: "Castálio Podcast: Og Maciel: Red Hat"
+type: post
 ---
 
 ![image](http://bit.ly/OMhBUp)

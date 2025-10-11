@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Launchpad has a new face-lift
+type: post
 ---
 
 I really liked the new "face-lift" given to

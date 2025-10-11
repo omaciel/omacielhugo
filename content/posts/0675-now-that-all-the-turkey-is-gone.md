@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Now that all the turkey is gone\...
+type: post
 ---
 
 This last week has been but a blur to me due to the holidays

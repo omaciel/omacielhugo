@@ -7,6 +7,7 @@ tags:
  - english
 title: "GNOME Desktop 2.18: Almost 100% localized to Brazilian
   Portuguese"
+type: post
 ---
 
 Been working hard with the GNOME Brazilian team to finish up the

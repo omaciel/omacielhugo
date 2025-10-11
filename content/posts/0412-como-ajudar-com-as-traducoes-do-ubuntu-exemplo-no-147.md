@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Como ajudar com as traduÃ§Ãµes do Ubuntu - Exemplo No. 147
+type: post
 ---
 
 **Nome**: Roger

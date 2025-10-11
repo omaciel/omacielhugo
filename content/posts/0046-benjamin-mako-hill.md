@@ -8,6 +8,7 @@ tags:
  - meetup
  - life
 title: Benjamin Mako Hill
+type: post
 ---
 
 It's official!!! I have arranged for [Benjamin Mako

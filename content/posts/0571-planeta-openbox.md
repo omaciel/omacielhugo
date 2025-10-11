@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Planeta Openbox
+type: post
 ---
 
 Acho que incomodei tanto o pessoal do

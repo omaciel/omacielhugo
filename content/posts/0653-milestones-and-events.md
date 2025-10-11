@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Milestones and Events
+type: post
 ---
 
 Quick post to mention a couple of personal milestones and events:

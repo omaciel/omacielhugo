@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Ignorance is Strength
+type: post
 ---
 
 ![Dead

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: poEdit and translate-toolkit packaged in Foresight
+type: post
 ---
 
 Just finished packaging

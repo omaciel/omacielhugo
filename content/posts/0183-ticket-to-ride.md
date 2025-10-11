@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Ticket to Ride
+type: post
 ---
 
 For the third time in my life I got a traffic ticket this past Friday.

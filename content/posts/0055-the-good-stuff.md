@@ -8,6 +8,7 @@ tags:
  - work
  - nycsca
 title: The Good Stuff
+type: post
 ---
 
 Wow!!! It is amazing how great this whole week has been for me so far at

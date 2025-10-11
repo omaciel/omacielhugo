@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Ata da ReuniÃ£o de Planejamento do XFCE Brasil
+type: post
 ---
 
 **ATA DA REUNIÃƒO DE PLANEJAMENTO / XFCE** IRC (Freenode, \#tradutores)

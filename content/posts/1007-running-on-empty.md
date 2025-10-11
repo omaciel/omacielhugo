@@ -8,6 +8,7 @@ tags:
  - rpath
  - life
 title: Running On Empty
+type: post
 ---
 ![Running on empty](http://www.ogmaciel.com/wp-content/uploads/2010/08/3340658838_c421fd5737_m.jpg)
 

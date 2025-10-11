@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Cuidado com a Katilce!
+type: post
 ---
 
 Aparentemente a tal da

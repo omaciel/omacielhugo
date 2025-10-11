@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Belgian Beers Rule!
+type: post
 ---
 
 \'nough said!

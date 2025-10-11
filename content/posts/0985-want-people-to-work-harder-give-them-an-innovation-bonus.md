@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Want people to work harder? Give them an innovation bonus!
+type: post
 ---
 
 \[caption id="" align="alignleft" width="240" caption="Can Money Buy

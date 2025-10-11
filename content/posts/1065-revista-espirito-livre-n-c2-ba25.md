@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Revista Espiríto Livre Nº25
+type: post
 ---
 ![Revista Espiríto Livre](http://revista.espiritolivre.org/img/REL025_Capa.jpg)
 

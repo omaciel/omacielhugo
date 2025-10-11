@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Ubuntu Breezy Sexyness
+type: post
 ---
 
 Managed to install Ubuntu 5.10 (Breezy Badger) on my laptop last night!

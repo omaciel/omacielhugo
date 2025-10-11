@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: A DVCS model that embraces your model?
+type: post
 ---
 
 My good friend [Mario Ä?aniÄ‡](http://pygi.wordpress.com/) (pygi) wrote

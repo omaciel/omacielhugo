@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: "Foresight Linux KDE Edition: The start of the odyssey!"
+type: post
 ---
 
 As I mentioned in my previous post, I decided to give KDE a chance on my

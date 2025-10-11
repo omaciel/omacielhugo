@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Para a crianÃ§a em vocÃª
+type: post
 ---
 
 ... ou para a crianÃ§ada de verdade, trÃªs jogos super divertidos (e

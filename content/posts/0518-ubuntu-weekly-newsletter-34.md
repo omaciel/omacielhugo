@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Ubuntu Weekly Newsletter \\#34"
+type: post
 ---
 
 GraÃ§as ao **Augusto Cezar Amaral**, agora temos a [Ubuntu Weekly

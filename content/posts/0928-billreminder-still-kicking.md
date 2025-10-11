@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "BillReminder: Still Kicking"
+type: post
 ---
 
 If you still remember my pet project

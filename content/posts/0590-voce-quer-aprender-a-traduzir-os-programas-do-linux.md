@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: VocÃª quer aprender a traduzir os programas do Linux?
+type: post
 ---
 
 Quase todos os dias eu encontro alguÃ©m que acabou de experimentar o

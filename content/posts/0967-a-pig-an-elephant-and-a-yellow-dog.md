@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: A Pig, an Elephant and a Yellow Dog
+type: post
 ---
 
 From the "**Read a Book to a Child**\" department, I'd like to recommend

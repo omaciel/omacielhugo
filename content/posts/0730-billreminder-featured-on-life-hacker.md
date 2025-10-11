@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: BillReminder featured on Life Hacker
+type: post
 ---
 
 Boy was I surprised when someone told me that

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Still about music sites
+type: post
 ---
 
 I came across [Global Pandora](http://globalpandora.com/) after checking

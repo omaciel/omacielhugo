@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Try the upcoming Openbox 3.4.8
+type: post
 ---
 
 if you like [Openbox](http://icculus.org/openbox) and want to play with

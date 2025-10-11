@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Generic Gtk.TreeView Generator
+type: post
 ---
 
 Quite a few people have asked me to publish my attempt at simplifying

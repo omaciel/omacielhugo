@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Running for the GNOME Board of Directors
+type: post
 ---
 
 So yesterday I finally managed to find some time to send in my

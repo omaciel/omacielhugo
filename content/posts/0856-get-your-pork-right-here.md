@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Get your pork right here!
+type: post
 ---
 
 This is

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Weekend Update
+type: post
 ---
 
 After enjoying several days of free wi-fi hotspots pretty much **every

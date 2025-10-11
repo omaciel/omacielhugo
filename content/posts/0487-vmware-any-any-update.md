@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: VMware any any update
+type: post
 ---
 
 Hoje, depois de atualizar o kernel do meu sistema para **2.6.20.1**,

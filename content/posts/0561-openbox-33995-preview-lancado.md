@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Openbox 3.3.995 preview lanÃ§ado
+type: post
 ---
 
 Para aqueles que estÃ£o acompanhando os lanÃ§amentos do

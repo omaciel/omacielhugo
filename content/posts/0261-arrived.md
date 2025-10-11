@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Arrived
+type: post
 ---
 
 Took me 3 1/2 hours to drive from Jersey to Boston...Ã‚Â  Arrived around

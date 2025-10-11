@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath
 title: Experimente a versão Openbox 3.4.8-RC1
+type: post
 ---
 
 Se você curte o [Openbox](http://icculus.org/openbox) e quer brincar com

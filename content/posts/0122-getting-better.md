@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Getting Better
+type: post
 ---
 
 Some more coding today gave me this:

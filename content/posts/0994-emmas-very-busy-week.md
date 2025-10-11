@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Emma\'s Very Busy Week
+type: post
 ---
 
 I'm the proud father of two voracious young readers! From very early on

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: New version of the Transifex Appliance
+type: post
 ---
 
 [![Transifex](http://bit.ly/TxLogo)](http://bit.ly/Transifex)A newer

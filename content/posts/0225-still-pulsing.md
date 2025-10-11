@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Still pulsing
+type: post
 ---
 
 Gandalf, my Pentium 4 that has seen more OSes than any other computer

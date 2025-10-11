@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Que lingua falo eu?
+type: post
 ---
 
 Para os interessados que notaram o meu sumiÃ§o este fim de semana, a

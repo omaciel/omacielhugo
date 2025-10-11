@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Where should your money go today?
+type: post
 ---
 
 [\$162 billion for the wars in Iraq and

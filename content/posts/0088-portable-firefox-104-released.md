@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: Portable Firefox 1.0.4 Released
+type: post
 ---
 
 Get your fresh copy of Portable Firefox

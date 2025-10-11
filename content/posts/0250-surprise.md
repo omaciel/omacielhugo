@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Surprise!!!
+type: post
 ---
 
 Tive uma bela surpresa quando cheguei hoje em casa:  2 pacotes!  A caixa

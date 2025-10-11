@@ -7,6 +7,7 @@ tags:
  - english
  - canonical
 title: Disgusted
+type: post
 ---
 
 ![Peeewww](http://www.ogmaciel.com/wp-content/uploads/2010/09/imagejpeg_2-300x179.jpg)

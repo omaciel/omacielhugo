@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath, turbogears, raa
 title: Monoglotism in TurboGears\...
+type: post
 ---
 
 or how the support for localization in [Turbo

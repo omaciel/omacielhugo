@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Primeiro dia de Aula: Log"
+type: post
 ---
 
 Caso vocÃƒÂª nÃƒÂ£o teve uma oportunidade de comparecer a nossa primeira

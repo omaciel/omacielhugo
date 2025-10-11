@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Week in Review: April 12 - 16th, 2010"
+type: post
 ---
 
 Here's what happened this week:

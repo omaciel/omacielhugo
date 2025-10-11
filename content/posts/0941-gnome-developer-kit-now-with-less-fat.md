@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: GNOME Developer Kit, now with less fat!
+type: post
 ---
 
 **UPDATE**: Thanks [Alberto Ruiz](http://aruiz.synaptia.net/) for

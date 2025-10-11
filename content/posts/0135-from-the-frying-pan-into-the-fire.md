@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: From The Frying Pan Into The Fire
+type: post
 ---
 
 Literally! Spent an agonizing sleep-less night after my surgery

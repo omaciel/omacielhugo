@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Mentalidade \> /dev/null
+type: post
 ---
 
 Hoje o Licio me passou um link que me deixou bastante pensativo, e ao

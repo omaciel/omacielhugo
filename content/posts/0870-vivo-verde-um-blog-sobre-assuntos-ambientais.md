@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Vivo Verde, um blog sobre assuntos ambientais
+type: post
 ---
 
 A Daiane entrou em contado comigo esta semana para me apresentar ao seu

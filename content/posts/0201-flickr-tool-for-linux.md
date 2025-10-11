@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Flickr Tool for Linux
+type: post
 ---
 
 Browsing [Flickr](http://www.flickr.com) the other day for pictures

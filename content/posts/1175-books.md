@@ -5,6 +5,7 @@ tags:
  - books
  - life
 title: Books
+type: post
 ---
 
 Woke up this morning and, as usual, sat down to read the **Books**

@@ -7,6 +7,7 @@ tags:
  - portuguese
  - brazil
 title: Bota água no feijão!
+type: post
 ---
 
 ![Bota água no feijão!](http://blog.ogmaciel.com/wp-content/uploads/2010/07/2689110111_1d22ee7eed_m.jpg)

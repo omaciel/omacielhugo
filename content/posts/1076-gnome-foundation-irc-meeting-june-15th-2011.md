@@ -7,6 +7,7 @@ tags:
  - english
  - gnome foundation
 title: "GNOME Foundation IRC Meeting: June 15th, 2011"
+type: post
 ---
 
 ![IRC Meeting](http://blogs.gnome.org/foundation/files/2011/01/Screenshot-11-300x130.png)

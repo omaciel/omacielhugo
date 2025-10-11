@@ -9,6 +9,7 @@ tags:
  - podcast
  - castalio
 title: Novo Episódio do Castálio Podcast
+type: post
 ---
 ![KurtKraut](http://www.castalio.info/wp-content/uploads/2011/03/avatar-ktk.png)
 

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Scratching One\'s Itch
+type: post
 ---
 
 On his latest

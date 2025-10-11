@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: OpenBox 3.4
+type: post
 ---
 
 Fiquei simplesmente maravilhado quando li hoje a lista de modificaÃ§Ãµes

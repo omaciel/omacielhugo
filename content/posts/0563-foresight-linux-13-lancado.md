@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Foresight Linux 1.3 lanÃ§ado!
+type: post
 ---
 
 Gostaria de parabenizar a equipe do [Foresight

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: My 5 a day
+type: post
 ---
 
 Can't see it? Click [here](http://www.youtube.com/watch?v=VhDRVKDcXQo)

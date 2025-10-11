@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Another open source project 100% translated
+type: post
 ---
 
 Thanks to the incredible work of **Henrique P. Machado**, Brazilian

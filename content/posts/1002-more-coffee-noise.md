@@ -7,6 +7,7 @@ tags:
  - english
  - coffee
 title: More Coffee Noise
+type: post
 ---
 
 ![Coffee Cup](http://www.ogmaciel.com/wp-content/uploads/2010/06/coffeecup-300x237.jpg)

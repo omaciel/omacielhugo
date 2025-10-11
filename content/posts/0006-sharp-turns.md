@@ -8,6 +8,7 @@ tags:
  - work
  - nycsca
 title: Sharp Turns
+type: post
 ---
 
 Today was my first day back to work since last Wednesday when I flew to

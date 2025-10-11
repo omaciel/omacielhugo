@@ -8,6 +8,7 @@ tags:
  - creative commons
 title: Everything You Ever Wanted To Know About The Creative Commons
   Licenses But Was Afraid To Ask
+type: post
 ---
 
 A while back my friend **Karlisson Bezerra**, author of the

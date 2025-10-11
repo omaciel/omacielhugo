@@ -8,6 +8,7 @@ tags:
  - meetup
  - life
 title: Open Source Alliance - March 24th, 2005
+type: post
 ---
 
 I completely forgot to mention about this last Thursday's first [Open

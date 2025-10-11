@@ -8,6 +8,7 @@ tags:
  - coding
  - pet project
 title: State of RssReaderNET
+type: post
 ---
 
 [![image0](http://photos11.flickr.com/12678075_cbf9730de9_m.jpg)](http://www.flickr.com/photos/25563799@N00/12678075/)

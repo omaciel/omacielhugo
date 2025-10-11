@@ -8,6 +8,7 @@ tags:
  - random
  - links
 title: Blogetarium
+type: post
 ---
 
 A few new entries to my daily reading list:

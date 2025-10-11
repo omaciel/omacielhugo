@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath, north carolina, new jersey
 title: Veni, Vidi, Vici
+type: post
 ---
 
 Gracas a uma conexao de wireless perto de minha casa, posso escrever uma

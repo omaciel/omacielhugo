@@ -10,6 +10,7 @@ tags:
  - concerts
  - substack
 title: "The Night I Became a Man (Musically Speaking)"
+type: post
 ---
 
 ![Radio Image](/images/became-man-musically-cover.heic)

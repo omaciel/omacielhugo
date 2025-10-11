@@ -5,6 +5,7 @@ tags:
  - family
  - life
 title: Twenty Three Years
+type: post
 ---
 
 My parents were eagerly awaiting our arrival on an early Spring morning,

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Um ano passou\...
+type: post
 ---
 
 ... e hoje, conversando com o [AndrÃ© Noel](http://andrenoel.com.br)

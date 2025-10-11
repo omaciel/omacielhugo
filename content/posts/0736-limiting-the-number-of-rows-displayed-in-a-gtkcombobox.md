@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Limiting the number of rows displayed in a gtk.ComboBox
+type: post
 ---
 
 Dear lazyweb, is there a way to limit the number of rows displayed by a

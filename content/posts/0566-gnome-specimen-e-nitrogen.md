@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Gnome-Specimen e Nitrogen
+type: post
 ---
 
 Acabei de empacotar dois novos aplicativos hoje para ver se melhorava

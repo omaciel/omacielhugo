@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Introducing Open-Tran.eu
+type: post
 ---
 
 Everyone who works with the translation of free and open source software

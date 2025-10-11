@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: I\'m in a NC state of mind
+type: post
 ---
 
 Arrived at Chapel Hill, NC early this morning and drove around the Duke

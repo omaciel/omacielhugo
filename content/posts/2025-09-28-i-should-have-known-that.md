@@ -11,6 +11,7 @@ tags:
  - parenting
  - substack
 title: "I Should Have Known That!"
+type: post
 ---
 
 ## Trying Something New

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Problemas usando o VMware Workstation 6 (Beta)?
+type: post
 ---
 
 Testando a versÃ£o 6 do VMware Workstation (ainda em beta), eu recebi a

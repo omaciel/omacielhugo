@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Novos Autores no Planeta
+type: post
 ---
 
 Hoje eu adicionei 3 novos autores no [Planeta GNU/Linux

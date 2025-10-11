@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Long overdue post \\#1"
+type: post
 ---
 
 Life has shifted to high gear these last 2 weeks and my time was mostly

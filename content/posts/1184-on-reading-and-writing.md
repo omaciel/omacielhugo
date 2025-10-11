@@ -12,6 +12,7 @@ tags:
  - writing
  - stephen king
 title: On Reading and writing
+type: post
 ---
 
 ![On Writing](/images/stephen-king-on-writing.jpg)

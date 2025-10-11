@@ -9,6 +9,7 @@ tags:
  - unc
  - life
 title: There And Back Again
+type: post
 ---
 
 After driving approximately 1,014 miles over this Memorial Day weekend,

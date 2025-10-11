@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Stormy weekend in Chapel Hill
+type: post
 ---
 
 This 3-day weekend (it was the Independence Day here in the US this

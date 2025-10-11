@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Mais fotos do FISL
+type: post
 ---
 
 [Fotos](http://fotos.leleobhz.org/main.php) do FISL tiradas pela equipe

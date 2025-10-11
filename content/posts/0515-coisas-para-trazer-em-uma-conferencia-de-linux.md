@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Coisas para trazer em uma conferÃªncia de Linux
+type: post
 ---
 
 Como eu jÃ¡ participei de vÃ¡rias conferÃªncias e eventos de Linux

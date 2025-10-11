@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Almost 200% new translations for BillReminder
+type: post
 ---
 
 **Amazing!** There's no other better way to describe the turn around for

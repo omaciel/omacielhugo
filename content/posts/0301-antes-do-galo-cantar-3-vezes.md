@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Antes do galo cantar 3 vezes
+type: post
 ---
 
 Meu ÃƒÂºltimo post no Planeta Ubuntu Brasil recebeu alguns

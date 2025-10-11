@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Wicked Reader 0.4
+type: post
 ---
 
 Forgot to post a screenie for my last changes to WickedReader: Buttons

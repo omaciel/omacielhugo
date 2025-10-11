@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Artigo sobre Conary
+type: post
 ---
 
 Hoje tive a bela surpresa de receber um envelope com postagem

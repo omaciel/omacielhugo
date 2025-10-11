@@ -8,6 +8,7 @@ tags:
  - random
  - life
 title: Saving The World, One Plugin AT A Time
+type: post
 ---
 
 Today I added the [Dynamic Text

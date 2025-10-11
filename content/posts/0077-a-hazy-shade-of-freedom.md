@@ -9,6 +9,7 @@ tags:
  - nycsca
  - life
 title: A Hazy Shade Of Freedom
+type: post
 ---
 
 After battling for a few days with a certain **free** (as in

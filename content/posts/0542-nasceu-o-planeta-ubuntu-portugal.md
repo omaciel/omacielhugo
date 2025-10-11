@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Nasceu o Planeta Ubuntu Portugal
+type: post
 ---
 
 Fiquei muito feliz ao ler a seguinte notÃ­cia hoje:

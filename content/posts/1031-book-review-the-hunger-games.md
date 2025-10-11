@@ -7,6 +7,7 @@ tags:
  - english
  - books
 title: "Book Review: The Hunger Games"
+type: post
 ---
 ![The Hunger Games](http://www.ogmaciel.com/wp-content/uploads/2011/01/cover-212x300.jpg)
 

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Dica Matuta
+type: post
 ---
 
 Sei que tenho andado meio sumido este ÃƒÂºltimos dias, mas com a minha

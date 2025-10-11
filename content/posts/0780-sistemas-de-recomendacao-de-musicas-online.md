@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Sistemas de recomendação de músicas online
+type: post
 ---
 
 Eu não sei como é o ambiente onde vocês trabalham, mas onde trabalho

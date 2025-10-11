@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: GNOME, Foresight, and Two Smocking Barrels
+type: post
 ---
 
 Or something like that!Ã‚Â  My buddy [Ken

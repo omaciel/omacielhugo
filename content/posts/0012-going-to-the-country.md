@@ -7,6 +7,7 @@ tags:
  - english
  - life
 title: Going To The Country
+type: post
 ---
 
 The day I fly to North Carolina has finally arrived. I'm **extremelly**

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: New XFCE Hat
+type: post
 ---
 
 I'm very excited to announce that I have taken the role of committer for

@@ -7,6 +7,7 @@ tags:
  - english
  - brazil
 title: Back from the Tropics
+type: post
 ---
 
 It's been a while since I last posted anything new. That's because I

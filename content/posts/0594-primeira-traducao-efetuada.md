@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Primeira traduÃ§Ã£o efetuada!
+type: post
 ---
 
 Hoje consegui falar, via Skype, com o [Daniel

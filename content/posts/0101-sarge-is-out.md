@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Sarge Is Out
+type: post
 ---
 
 Congratulations to all [Debian](http://www.debian.org)

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: TÃƒÂ¡ tudo cinza sem vocÃƒÂª\...
+type: post
 ---
 
 ... ou, onde estavam os tradutores Brasileiros neste fim de semana?Ã‚Â 

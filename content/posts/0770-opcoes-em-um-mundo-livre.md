@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Opções em um mundo livre
+type: post
 ---
 
 **Observação importante**: Este artigo não será publicado no **Planeta

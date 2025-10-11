@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Re: is Foresight Linux dead?"
+type: post
 ---
 
 On his latest post titled "[Foresight Linux is

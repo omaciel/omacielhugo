@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Eu Ubuntu\... Tu Ubuntas?
+type: post
 ---
 
 Nos ÃƒÂºltimos dias, um espÃƒÂ­rito circula pela web. Ele atravessa

@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: TriZPUG, Fabric, epdb, oh my!
+type: post
 ---
 
 Yesterday I attended my first [TriZPUG](http://trizpug.org/) meeting to

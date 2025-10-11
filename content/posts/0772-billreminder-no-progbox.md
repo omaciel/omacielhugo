@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: BillReminder no ProgBox
+type: post
 ---
 
 O meu programa [BillReminder](http://code.google.com/p/billreminder/)

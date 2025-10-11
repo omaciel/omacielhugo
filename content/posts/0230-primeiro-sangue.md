@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Primeiro Sangue!
+type: post
 ---
 
 Mesmo com o pequeno pÃƒÂºblico que apareceu para o primeiro torneio do

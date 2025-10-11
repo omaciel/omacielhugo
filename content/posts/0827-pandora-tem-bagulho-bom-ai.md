@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Pandora: Tem bagulho bom aí"
+type: post
 ---
 
 Hoje recebi um pacote misterioso pelo correio. Trata-se de uns bagulhos

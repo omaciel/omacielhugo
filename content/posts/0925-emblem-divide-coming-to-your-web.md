@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Emblem Divide coming to your web!
+type: post
 ---
 
 I was extremely thrilled to learn that my good friend **Pete

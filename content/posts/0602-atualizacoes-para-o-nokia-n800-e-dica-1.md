@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "AtualizaÃ§Ãµes para o Nokia N800 e Dica \\#1"
+type: post
 ---
 
 Hoje foi anunciado o lanÃ§amento da antecipada atualizaÃ§Ã£o do

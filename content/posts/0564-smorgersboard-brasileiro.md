@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Smorgersboard Brasileiro
+type: post
 ---
 
 Algumas novidades do mundo de software livre Brasileiro:

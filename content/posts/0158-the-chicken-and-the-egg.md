@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: The Chicken and the Egg
+type: post
 ---
 
 During one of those lucid moments of spontaneous philosophical

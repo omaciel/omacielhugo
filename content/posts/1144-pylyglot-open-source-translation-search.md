@@ -9,6 +9,7 @@ tags:
  - pylyglot
  - translations
 title: "Pylyglot: Open Source Translation Search"
+type: post
 ---
 
 It's been a while since I wrote about

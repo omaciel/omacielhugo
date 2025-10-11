@@ -7,6 +7,7 @@ slug: |
 tags:
  - portuguese
 title: Apresentando o Castálio Podcast
+type: post
 ---
 ![Castálio Episódio Zero](http://blog.ogmaciel.com/wp-content/uploads/2011/02/4342631214_1d27a28700-300x225.jpg)
 

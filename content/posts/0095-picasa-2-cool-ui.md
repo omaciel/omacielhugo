@@ -8,6 +8,7 @@ tags:
  - random
  - life
 title: "Picasa 2: Cool UI"
+type: post
 ---
 
 I needed to do some image editing the other day and didn't feel like

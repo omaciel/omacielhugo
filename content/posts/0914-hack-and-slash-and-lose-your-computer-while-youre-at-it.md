@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Hack and Slash and lose your computer while you\'re at it!
+type: post
 ---
 
 I was browsing through my favorite Linux magazine (it's **Linux Format**

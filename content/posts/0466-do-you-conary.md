@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Do you conary?
+type: post
 ---
 
 Hoje conversando com crimeboy no \#ubuntu-br sobre Openbox, fiquei

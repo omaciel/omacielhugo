@@ -8,6 +8,7 @@ tags:
  - random
  - life
 title: Lynx Browser on Windows
+type: post
 ---
 
 So I'm a geek!

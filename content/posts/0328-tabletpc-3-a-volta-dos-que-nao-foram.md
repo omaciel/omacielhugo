@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "TabletPC 3: A volta dos que nÃƒÂ£o foram!"
+type: post
 ---
 
 Como tinha prometido antes, aqui estÃƒÂ£o algums fotos do meu TabletPC

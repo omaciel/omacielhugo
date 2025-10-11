@@ -7,6 +7,7 @@ tags:
  - rpath
  - rbuilder
 title: "When Hard Work Pays Off: rBuilder 5.8 for Linux and Windows"
+type: post
 ---
 
 It's been a while since I last wrote anything here, mainly because I

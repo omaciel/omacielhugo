@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Get out and vote!
+type: post
 ---
 
 If you are elligible to vote for the election taking place in the United

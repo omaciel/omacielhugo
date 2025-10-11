@@ -9,6 +9,7 @@ tags:
  - castalio
  - podcast
 title: "Castálio Podcast -- Ana Cristina Fricke Matte: Text Livre"
+type: post
 ---
 
 Olá pessoal! Sejam muito bem-vindos a mais um episódio, que quase não

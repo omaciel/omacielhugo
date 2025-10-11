@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Python Magazine
+type: post
 ---
 
 As pointed out by [Jonathan

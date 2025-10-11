@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Ubuntu Developer Summit, Mountain View - Primeiro dia
+type: post
 ---
 
 O dia hoje comecou bem cedo, com um cafe' "continental", que para quem

@@ -11,6 +11,7 @@ tags:
  - teamwork
  - substack
 title: "Oops… Did I Really Say That?"
+type: post
 ---
 
 Have you ever had one of those days when you say one thing, hear yourself say that one thing, but later realize that you had been saying something completely different all along?

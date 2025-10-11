@@ -9,6 +9,7 @@ tags:
  - castálio
  - podcast
 title: "Castálio Podcast - Rudá Moura: Conectiva Linux"
+type: post
 ---
 Dando continuidade ao plano de trazer mais uma entrevista com um membro
 do Conectiva Linux, desta vez conversei com o **Rudá Moura** que

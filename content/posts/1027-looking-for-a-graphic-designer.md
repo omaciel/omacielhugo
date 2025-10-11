@@ -7,6 +7,7 @@ tags:
  - english
  - foresight
 title: Looking For a Graphic Designer
+type: post
 ---
 ![Foresight Linux](http://www.ogmaciel.com/wp-content/uploads/2010/12/FL.logo_.a4-300x45.png)
 

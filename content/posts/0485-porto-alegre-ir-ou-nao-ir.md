@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Porto Alegre: Ir ou nÃ£o ir?"
+type: post
 ---
 
 Caramba!!! Depois de ter corrido atrÃ¡s de um monte de coisas para dar

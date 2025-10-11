@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Stephan Hermann\'s influence
+type: post
 ---
 
 ... or, how I finally got off my butt and became more involved with the

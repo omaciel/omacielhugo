@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Taking Drivel For A Spin
+type: post
 ---
 
 Just taking [Drivel](http://www.dropline.net/drivel) for a spin! So far

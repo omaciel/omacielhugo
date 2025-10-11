@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Live CD do GNOME, versÃ£o 2.17.92
+type: post
 ---
 
 Saiu hoje pela manhÃ£ a tÃ£o esperada versÃ£o **Live CD** do **GNOME**,

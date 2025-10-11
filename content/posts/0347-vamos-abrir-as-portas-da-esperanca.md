@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Vamos Abrir as Portas da EsperanÃƒÂ§a
+type: post
 ---
 
 Na semana passada tive a grande oportunidade de ver de perto como que o

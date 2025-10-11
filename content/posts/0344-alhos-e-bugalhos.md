@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Alhos e Bugalhos
+type: post
 ---
 
 Ainda ontem recebi um comentÃƒÂ¡rio em meu blog que mostrou um lado que

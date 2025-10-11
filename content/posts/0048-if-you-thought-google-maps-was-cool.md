@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: If You Thought Google Maps Was Cool
+type: post
 ---
 
 If you thought [Google Maps](http://maps.google.com/maps) was cool, wait

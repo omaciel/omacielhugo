@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: A Hamster, a Lynx and The Princess Bride\... What???
+type: post
 ---
 
 ![Keep track of your

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Ask and you shall receive
+type: post
 ---
 
 So last night's post brought me quite a few replies, and I thank you all

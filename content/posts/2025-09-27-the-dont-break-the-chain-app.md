@@ -12,6 +12,7 @@ tags:
  - learning
  - substack
 title: "The \"Don't Break the Chain\" App?"
+type: post
 ---
 
 After writing about the "[Don't Break the Chain](https://open.substack.com/pub/ogmaciel/p/dont-break-the-chain?r=404nvh&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)" technique, the software engineering side of me got thinking: is there a "Don't Break the Chain" app similar to the "[National Novel Writing Month](https://en.wikipedia.org/wiki/National_Novel_Writing_Month)" (NaNoWriMo) website that lets you track goals on your phone?

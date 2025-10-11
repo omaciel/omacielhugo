@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Buteco do Mendeleyev
+type: post
 ---
 
 Escutado no Buteco do

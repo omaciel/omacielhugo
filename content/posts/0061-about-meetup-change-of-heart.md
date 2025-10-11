@@ -8,6 +8,7 @@ tags:
  - random
  - meetup
 title: About MeetUp Change of Heart
+type: post
 ---
 
 Recently [MeetUp](http://www.meetup.com), a then **free** group

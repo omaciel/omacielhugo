@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Texto Livre for All
+type: post
 ---
 
 When I first heard of the project [Texto

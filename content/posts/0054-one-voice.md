@@ -8,6 +8,7 @@ tags:
  - work
  - nycsca
 title: One Voice
+type: post
 ---
 
 Yesterday our recently elected CIO paid us a little visit for the first

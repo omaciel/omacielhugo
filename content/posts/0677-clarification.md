@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Clarification
+type: post
 ---
 
 It seems that my post didn't quite express what I really meant and some

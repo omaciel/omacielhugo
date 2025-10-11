@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Honest or Stupid?
+type: post
 ---
 
 Today I went for a job interview for a company about 35 miles West of

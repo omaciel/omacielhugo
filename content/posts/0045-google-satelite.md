@@ -8,6 +8,7 @@ tags:
  - random
  - life
 title: Google Satellite
+type: post
 ---
 
 Amazing upgrade to the already amazing [Google

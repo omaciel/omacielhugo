@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Google Highly Open Participation Contest and Translations
+type: post
 ---
 
 If you're participating in the [Google Highly Open Participation

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Summer of Code 2008
+type: post
 ---
 
 So I submitted my idea for [GNOME's Summer of

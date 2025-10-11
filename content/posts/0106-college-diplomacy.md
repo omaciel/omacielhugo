@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: College Diplomacy
+type: post
 ---
 
 ![College

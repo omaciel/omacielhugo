@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Socorram-me, subi no ÃƒÂ´nibus em Marrocos!
+type: post
 ---
 
 Estou aqui no aeroporto JFK em New York, esperando por meu vÃƒÂ´o para

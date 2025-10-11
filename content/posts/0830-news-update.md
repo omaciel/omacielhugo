@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: News Update
+type: post
 ---
 
 It's been a while since I last wrote anything, mostly due to a few new

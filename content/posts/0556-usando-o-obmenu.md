@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Usando o OBMenu
+type: post
 ---
 
 Para os usuarios do Openbox que nao gostam de modificar seu menu pela

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Ubuntu 6.10 (Edgy Eft) Knot-1
+type: post
 ---
 
 Para aqueles que gostam de viver fortes emoÃƒÂ§ÃƒÂµes, foi

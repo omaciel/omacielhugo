@@ -9,6 +9,7 @@ tags:
  - castalio
  - podcast
 title: "Castálio Podcast: Igor Pires Soares - Projeto Fedora"
+type: post
 ---
 No episódio de hoje tive o privilégio de conversar com o **Igor Pires
 Soares**, ex-coordenador da equipe de traduções do **Fedora** para o

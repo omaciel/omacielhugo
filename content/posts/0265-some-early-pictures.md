@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Some early pictures
+type: post
 ---
 
 Didn't get around to take a lot of pictures due to the craziness from

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: For those who remember the golden days of videogames
+type: post
 ---
 
 I've never posted a YouTube video in any of my posts, but this one had a

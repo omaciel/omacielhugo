@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Ideas
+type: post
 ---
 
 I was really glad to see **David Bolter**\'s post today about

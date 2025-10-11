@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Bailout MT-Daapd Appliance
+type: post
 ---
 
 For the past few days I've been working on setting up a minimalistic

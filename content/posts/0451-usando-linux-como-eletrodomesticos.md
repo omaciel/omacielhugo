@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath, appliance
 title: Usando Linux como eletrodomesticos
+type: post
 ---
 
 Hoje um dos meus amigos no trabalho

@@ -7,6 +7,7 @@ tags:
  - portuguese
 title: Acompanhando o desenvolvimento de projetos hospedados no Google
   Code
+type: post
 ---
 
 Se você tem um projeto hospedado no [Google

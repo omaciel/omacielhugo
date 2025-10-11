@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Firefox 1.0.7 Upgrade for Ubuntu Linux
+type: post
 ---
 
 Yesterday a lot of people hanging out on \#ubuntu @ FREENODE were

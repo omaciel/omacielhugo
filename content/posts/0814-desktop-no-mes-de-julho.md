@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Desktop no mês de julho
+type: post
 ---
 
 [![Screenshot from

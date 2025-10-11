@@ -7,6 +7,7 @@ tags:
  - rpath, life, 206, books, rhce, billreminder, ubuntu, linux world,
   united nations
 title: 2006 in Pictures!
+type: post
 ---
 
 Well, after going almost 2 weeks with a very nasty cold, I got better

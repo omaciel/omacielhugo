@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Call to arms!
+type: post
 ---
 
 I've been using Firefox for what seems to be a long time now... As a

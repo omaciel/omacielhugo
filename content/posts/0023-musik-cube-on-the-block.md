@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: Musik Cube On The Block
+type: post
 ---
 
 [![image0](http://photos7.flickr.com/6535141_1620a5c98e_m.jpg)](http://www.flickr.com/photos/25563799@N00/6535141/)

@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath
 title: Mais noticias sobre o GNOME!
+type: post
 ---
 
 Ok, agora ja' temos [Live

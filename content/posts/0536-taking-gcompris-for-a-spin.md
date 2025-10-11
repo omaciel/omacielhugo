@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Taking GCompris for a spin
+type: post
 ---
 
 Yesterday I managed to package GCompris 8.3 BETA 3-2 and successfuly run

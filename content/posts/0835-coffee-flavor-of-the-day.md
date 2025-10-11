@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Coffee flavor of the day
+type: post
 ---
 
 [![Coffee flavor of the day at

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Fear and Loathing In Brazil
+type: post
 ---
 
 This last May 17th there was a controversial article published by the

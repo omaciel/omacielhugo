@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: IntegraÃ§Ã£o com o GNOME clock
+type: post
 ---
 
 Hoje o **Ken Vandine** estava exibindo o programa **intlclock** com o

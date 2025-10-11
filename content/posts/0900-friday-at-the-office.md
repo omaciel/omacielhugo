@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Friday at the office
+type: post
 ---
 
 Just another Friday at work. "Wearing my colors" today.

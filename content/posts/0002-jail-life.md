@@ -8,6 +8,7 @@ tags:
  - work
  - nycsca
 title: Jail Life
+type: post
 ---
 
 ![image0](/images/jail_life.png)

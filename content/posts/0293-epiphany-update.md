@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Epiphany Update
+type: post
 ---
 
 Ever since I wrote my last post about the state of Epiphany as the

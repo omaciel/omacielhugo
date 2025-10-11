@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath
 title: ApresentaÃ§Ã£o ao Planeta Mandriva Brasil
+type: post
 ---
 
 Fui gentilmente convidado a participar do [Planeta Mandriva

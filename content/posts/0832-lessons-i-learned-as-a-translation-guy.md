@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Lessons I learned as a translation guy
+type: post
 ---
 
 This post is my 2 cents about Jad's latest post trying to [stir things

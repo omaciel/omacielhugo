@@ -10,6 +10,7 @@ tags:
  - google
  - yahoo
 title: Bigger GMail
+type: post
 ---
 
 I'm really loving this "war" between [Google](http://www.google.com) and

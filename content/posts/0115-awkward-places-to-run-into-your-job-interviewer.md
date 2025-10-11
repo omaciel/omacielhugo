@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Awkward Places To Run Into Your Job Interviewer
+type: post
 ---
 
 Another gem from [Piled Higher and Deeper](http://www.phdcomics.com)

@@ -8,6 +8,7 @@ tags:
  - random
  - work
 title: Cute Visitor
+type: post
 ---
 
 ![Cute Visitor](/images/cute_visitor.png)

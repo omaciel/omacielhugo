@@ -8,6 +8,7 @@ tags:
  - random
  - life
 title: "It's A Wireless World After All"
+type: post
 ---
 
 Incredible! Here I am waiting outside my wife's doctor's office, bored

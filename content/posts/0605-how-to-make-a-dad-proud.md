@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: How to make a dad proud?
+type: post
 ---
 
 [![Start them

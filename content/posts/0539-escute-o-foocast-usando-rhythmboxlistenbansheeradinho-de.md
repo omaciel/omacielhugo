@@ -7,6 +7,7 @@ tags:
  - portuguese
 title: Escute o Foocast usando Rhythmbox/Listen/Banshee/Radinho de
   pilha!
+type: post
 ---
 
 Para as pessoas que preferem acompanhar podcasts via um mecanismo de

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Learning Inkscape?
+type: post
 ---
 
 [![Inkscape](http://www.ogmaciel.com/wp-content/uploads/2010/04/inkscape-logo-300x290.png)](http://www.ogmaciel.com/wp-content/uploads/2010/04/inkscape-logo.png)Lately

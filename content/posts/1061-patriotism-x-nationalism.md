@@ -6,6 +6,7 @@ slug: |
 tags:
  - quote
 title: Patriotism x Nationalism
+type: post
 ---
 
 Quote:

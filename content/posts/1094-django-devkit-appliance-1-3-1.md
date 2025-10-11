@@ -7,6 +7,7 @@ tags:
  - english
  - django
 title: Django DevKit Appliance 1.3.1
+type: post
 ---
 I rebuilt the appliance to use the latest [Django 1.3.1 release](https://www.djangoproject.com/weblog/2011/sep/09/security-releases-issued/)
 to deliver the **security fixes** found in the previous version. There

@@ -8,6 +8,7 @@ tags:
  - podcast
  - ubuntu
 title: Uma Sessao Gravando Um Episodio Do Castalio
+type: post
 ---
 
 ![image0](http://40.media.tumblr.com/tumblr_m2uzh6G9vz1rpc21fo1_1280.jpg)

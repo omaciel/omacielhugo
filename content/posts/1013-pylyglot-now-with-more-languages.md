@@ -8,6 +8,7 @@ tags:
  - pylyglot
  - translations
 title: Pylyglot, Now With More Languages
+type: post
 ---
 ![Blooming Translations](http://www.ogmaciel.com/wp-content/uploads/2010/10/2459439697_4f383f7212-300x199.jpg)
 

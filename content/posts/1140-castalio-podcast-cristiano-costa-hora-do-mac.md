@@ -10,6 +10,7 @@ tags:
  - ubuntu
  - mandriva
 title: "Castálio Podcast: Cristiano Costa - Hora do Mac"
+type: post
 ---
 
 ![image0](http://media.tumblr.com/tumblr_m2jf6aE8Ic1r7yex1.jpg)

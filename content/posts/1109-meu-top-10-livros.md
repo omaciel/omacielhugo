@@ -7,6 +7,7 @@ tags:
  - portuguese
  - pessoal
 title: "Meu Top 10: Livros"
+type: post
 ---
 
 [![Livros](http://farm1.staticflickr.com/17/20539223_7bf5092918_m_d.jpg)](http://www.flickr.com/photos/paulwatson/20539223/)

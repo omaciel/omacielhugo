@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: MÃƒÂ¡quina do Tempo
+type: post
 ---
 
 Se eu tivesse uma mÃƒÂ¡quina do tempo e fosse dado a opÃƒÂ§ÃƒÂ£o de

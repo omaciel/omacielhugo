@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath
 title: Milestones e Eventos
+type: post
 ---
 
 Um post rapidinho para anunciar alguns milestones e eventos pessoais:

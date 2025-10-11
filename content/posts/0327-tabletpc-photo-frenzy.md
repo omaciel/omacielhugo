@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: TabletPC photo frenzy
+type: post
 ---
 
 As promissed, here are some pictures of my TabletPC running Ubuntu

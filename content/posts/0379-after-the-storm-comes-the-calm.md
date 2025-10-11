@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: After the storm, comes the calm
+type: post
 ---
 
 My post about the bombing of Nagasaki yesterday seems to have caused

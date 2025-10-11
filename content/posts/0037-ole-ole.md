@@ -8,6 +8,7 @@ tags:
  - article
  - random
 title: "Olé, Olé"
+type: post
 ---
 
 An interesting

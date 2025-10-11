@@ -8,6 +8,7 @@ tags:
  - random
  - life
 title: Using Audioscrobbler
+type: post
 ---
 
 Read

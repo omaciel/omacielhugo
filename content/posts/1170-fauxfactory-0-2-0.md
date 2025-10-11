@@ -6,6 +6,7 @@ tags:
  - testing
  - qe
 title: FauxFactory 0.2.0
+type: post
 ---
 
 Today I\'m releasing **FauxFactory 0.2.0** with a new feature, a \"Lorem

@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: A Few Good People
+type: post
 ---
 
 \<shameless_plug\>We here at [rPath](http://www.rpath.com/corp) are

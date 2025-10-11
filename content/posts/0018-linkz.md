@@ -8,6 +8,7 @@ tags:
  - random
  - links
 title: Linkz
+type: post
 ---
 
 Just added a few more links to some of my favorite sites, visited

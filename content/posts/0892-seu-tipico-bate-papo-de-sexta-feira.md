@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Seu típico bate-papo de sexta-feira
+type: post
 ---
 
 -   13:02:50 \<devnet\> DUDE 

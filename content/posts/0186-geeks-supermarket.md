@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Geek\'s Supermarket?
+type: post
 ---
 
 ![Supermarket displaying all items with the word Linux on

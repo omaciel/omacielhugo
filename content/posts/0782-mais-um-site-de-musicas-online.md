@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Mais um site de músicas online
+type: post
 ---
 
 Descobri o [Global Pandora](http://globalpandora.com/) depois de checar

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Visual Studio 2005 Launch
+type: post
 ---
 
 Got my reservation for Dec. 1st... Should be very interesting! Not to

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Metas para 2009
+type: post
 ---
 
 Assim como muitas pessoas já fizeram, decidi escrever no formato de um

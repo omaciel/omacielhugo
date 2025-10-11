@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: I want my MTV
+type: post
 ---
 
 Having just seen [Lucas

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Burn Motherfucker, burn!
+type: post
 ---
 
 [![Joke about Brazilian Portuguese language being killed by social

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Fearmongering, Nuclear agreements and a US\$700B pork barrel
+type: post
 ---
 
 With last night's VP debate still fresh in my memory and the entire

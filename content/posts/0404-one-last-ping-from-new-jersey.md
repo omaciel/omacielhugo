@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: One last ping from New Jersey
+type: post
 ---
 
 The apartment is completely "packed" and what for the last 2 years had

@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: See America, One Mile At A Time
+type: post
 ---
 
 [Matt Frondorf](http://www.kodak.com/US/en/corp/features/onTheRoad/home/index.shtml)

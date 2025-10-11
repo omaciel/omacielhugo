@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Foocast!
+type: post
 ---
 
 Anunciando o lanÃ§amento do

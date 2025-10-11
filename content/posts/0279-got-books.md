@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Got Books
+type: post
 ---
 
 The amazing guys at [Wiley Books](http://www.wiley.com/WileyCDA/) (and

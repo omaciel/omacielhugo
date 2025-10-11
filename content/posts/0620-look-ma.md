@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Look Ma!
+type: post
 ---
 
 My good friend [JosÃƒÂ© Vitor](http://josevitor.blog.br/) sent me

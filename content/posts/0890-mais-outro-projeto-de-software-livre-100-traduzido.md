@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Mais outro projeto de software livre 100% traduzido
+type: post
 ---
 
 Graças ao excelente trabalho do **Henrique P. Machado**, usuários

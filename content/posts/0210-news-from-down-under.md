@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: News from down under
+type: post
 ---
 
 No, I'm not in Australia but the other down under... South America!

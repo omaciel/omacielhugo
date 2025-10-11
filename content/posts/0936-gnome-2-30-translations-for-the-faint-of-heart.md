@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: GNOME 2.30 Translations for the Faint of Heart
+type: post
 ---
 
 With the **GNOME 2.30** release just around the corner, translators are

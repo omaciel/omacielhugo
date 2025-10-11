@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Late Post-GUADEC\... Post?
+type: post
 ---
 
 Ok, my apologies for not having written up a post on my trip to the

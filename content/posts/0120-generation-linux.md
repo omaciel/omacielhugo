@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Generation Linux
+type: post
 ---
 
 ![Generation Linux](http://photos23.flickr.com/25223071_641b0d90a1.jpg)

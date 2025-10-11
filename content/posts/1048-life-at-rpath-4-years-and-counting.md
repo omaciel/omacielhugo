@@ -11,6 +11,7 @@ tags:
  - conary
  - souschef
 title: "Life at rPath: 4+ Years And Counting"
+type: post
 ---
 
 ![The Road](http://www.ogmaciel.com/wp-content/uploads/2011/03/roadmap.png)

@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: All you ever wanted to know about Conary and was afraid of asking
+type: post
 ---
 
 Ken has just [announced](http://ken.vandine.org/?p=285) the very first

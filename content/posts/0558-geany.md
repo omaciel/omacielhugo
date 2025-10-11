@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Geany
+type: post
 ---
 
 Last week I started using the text editor and IDE

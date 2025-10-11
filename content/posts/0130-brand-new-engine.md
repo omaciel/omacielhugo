@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Brand New Engine
+type: post
 ---
 
 Have spent the last 3-4 days re-designing Wicked Reader. I completely

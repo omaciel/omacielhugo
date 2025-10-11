@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Hall of Fame
+type: post
 ---
 
 Just nominated who I think should be "inducted" into the Ubuntu [Hall of

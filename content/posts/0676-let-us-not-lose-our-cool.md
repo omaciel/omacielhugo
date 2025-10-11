@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Let us not lose our cool
+type: post
 ---
 
 About today's

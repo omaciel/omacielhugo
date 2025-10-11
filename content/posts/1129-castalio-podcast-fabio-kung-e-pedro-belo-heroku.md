@@ -10,6 +10,7 @@ tags:
  - castálio
  - ubuntu
 title: "Castálio Podcast: Fábio Kung e Pedro Belo: Heroku"
+type: post
 ---
 
 ![image0](http://media.tumblr.com/tumblr_m2jf6aE8Ic1r7yex1.jpg)

@@ -7,6 +7,7 @@ tags:
  - english
  - meetup
 title: The Northern NJ Open Source Alliance
+type: post
 ---
 
 Following up on a previous post, my good friend [Steve

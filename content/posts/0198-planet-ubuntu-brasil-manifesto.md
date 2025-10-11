@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Planet Ubuntu Brasil Manifesto
+type: post
 ---
 
 **Regras de utilizaÃƒÂ§ÃƒÂ£o**

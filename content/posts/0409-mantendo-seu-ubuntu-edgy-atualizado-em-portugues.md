@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Mantendo seu Ubuntu Edgy atualizado em portugues
+type: post
 ---
 
 So' um lembrete para os usuarios que nao querem ficar contando com o

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Smogarsboard
+type: post
 ---
 
 **Time Travel**:Ã‚Â  I received a good number of replies to my

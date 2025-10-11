@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Live Gnome VMware Image
+type: post
 ---
 
 Want to see what the new GNOME 2.18 will be like and can't wait for the

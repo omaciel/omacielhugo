@@ -8,6 +8,7 @@ tags:
  - NC
  - politics
 title: Now My Adopted State Has Chosen To Turn Its Back
+type: post
 ---
 
 Now my adopted state has chosen to turn its back on its tradition of

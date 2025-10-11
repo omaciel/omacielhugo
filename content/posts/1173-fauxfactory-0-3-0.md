@@ -6,6 +6,7 @@ tags:
  - testing
  - qe
 title: FauxFactory 0.3.0
+type: post
 ---
 
 Took some time from my vacation and released **FauxFactory 0.3.0** to

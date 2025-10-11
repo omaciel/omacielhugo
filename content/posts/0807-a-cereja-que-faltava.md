@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: A cereja que faltava!
+type: post
 ---
 
 Um dos meus web services favoritos

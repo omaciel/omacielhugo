@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Translating Ubuntu Breezy
+type: post
 ---
 
 Early this week I decided to lure more people into participating more

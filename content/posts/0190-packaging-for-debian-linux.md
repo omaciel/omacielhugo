@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Packaging for Debian Linux
+type: post
 ---
 
 Complying with my decision to learn how to package software for

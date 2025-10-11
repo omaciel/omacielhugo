@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Você se lembra da minha voz?
+type: post
 ---
 
 Nossa, quanto tempo que não escrevia no meu blog em português!!! Muitas

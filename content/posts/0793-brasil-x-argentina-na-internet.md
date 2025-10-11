@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Brasil x Argentina na internet
+type: post
 ---
 
 Infelizmente o jogo de hoje entre Brasil e Argentina não foi

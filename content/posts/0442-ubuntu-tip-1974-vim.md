@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Ubuntu Tip \\#1974: Vim"
+type: post
 ---
 
 Hoje conversando com o [KurtKraut](http://kurtkraut.wordpress.com/) pelo

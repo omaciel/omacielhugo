@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: VMWare and World of Warcraft
+type: post
 ---
 
 My first attempt to install and play World of Warcraft on a virtual

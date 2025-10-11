@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Transifex to provide translation platform for LXDE
+type: post
 ---
 
 \[caption id="attachment_701" align="aligncenter" width="140"

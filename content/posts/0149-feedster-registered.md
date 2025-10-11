@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Feedster Registered
+type: post
 ---
 
 Title says it all.

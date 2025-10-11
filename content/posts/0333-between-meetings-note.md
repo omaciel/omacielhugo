@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Between Meetings Note
+type: post
 ---
 
 Work has caught up to me and I have been flooded with small projects

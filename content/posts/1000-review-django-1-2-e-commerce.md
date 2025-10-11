@@ -8,6 +8,7 @@ tags:
  - django
  - books
 title: "Review: Django 1.2 E-Commerce"
+type: post
 ---
 ![Django 1.2 E-Commerce](http://www.ogmaciel.com/wp-content/uploads/2010/05/Django-1.2-E-Commerce-243x300.jpg)
 

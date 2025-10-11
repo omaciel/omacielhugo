@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Transifex adds new features, wins more hearts
+type: post
 ---
 
 \[caption id="" align="alignleft" width="400" caption="Spring signs by

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Windowless Existence
+type: post
 ---
 
 When you spend most of your time "locked up" in a cubicle maze (as I do)

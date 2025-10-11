@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Rise to the challenge!
+type: post
 ---
 
 For anyone who has read my previous

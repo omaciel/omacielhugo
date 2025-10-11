@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Ubuntu Weekly News \\#35"
+type: post
 ---
 
 JÃ¡ estÃ¡ disponÃ­vel a ediÃ§Ã£o [NÂº

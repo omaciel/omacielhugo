@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Linux World Expo 2006 - Dia 3
+type: post
 ---
 
 ![image0](http://static.flickr.com/55/125470251_d266d705a7.jpg)

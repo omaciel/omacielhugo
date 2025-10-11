@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Book Review: Django 1.0 Website Development"
+type: post
 ---
 
 \[caption id="attachment_860" align="alignleft" width="300"

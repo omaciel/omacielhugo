@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Ubuntu Sweepstake 2005
+type: post
 ---
 
 In order to celebrate the holidays and the success of the Brazilian

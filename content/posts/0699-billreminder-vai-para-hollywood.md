@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: BillReminder vai para Hollywood
+type: post
 ---
 
 Brincadeira... mas eu criei este pequeno webcast para mostrar para o

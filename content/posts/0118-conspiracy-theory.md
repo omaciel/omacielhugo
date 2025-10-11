@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Conspiracy Theory
+type: post
 ---
 
 More [interesting

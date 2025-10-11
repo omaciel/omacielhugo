@@ -9,6 +9,7 @@ tags:
  - castálio
  - podcast
 title: "Castálio Podcast - Rodrigo Padula de Oliveira: UFRJ"
+type: post
 ---
 
 [![Rodrigo

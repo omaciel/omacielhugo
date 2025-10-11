@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Linux para a Humanidade Portuguesa
+type: post
 ---
 
 Depois dos vÃ¡rios artigos publicados sobre o lanÃ§amento da nova

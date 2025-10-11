@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Launchpad de cara nova
+type: post
 ---
 
 Para os que ainda nÃ£o sabem, o [Launchpad](http://launchpad.net)

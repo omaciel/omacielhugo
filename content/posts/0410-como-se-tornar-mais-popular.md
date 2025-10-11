@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Como se tornar mais popular
+type: post
 ---
 
 Recebi um comentÃ¡rio muito importante em meu Ãºltimo post sobre como

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Before the storm\...
+type: post
 ---
 
 Before I go into a major rant attack against Macromedia (or whatever

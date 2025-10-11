@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: For the little kid in you
+type: post
 ---
 
 ... or for the "real" kids, three fun educational games that are

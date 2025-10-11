@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Sabor do café do dia
+type: post
 ---
 
 [![Coffee flavor of the day at

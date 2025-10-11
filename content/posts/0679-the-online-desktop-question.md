@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: The Online Desktop Question
+type: post
 ---
 
 I'm glad **Bryan Clark**

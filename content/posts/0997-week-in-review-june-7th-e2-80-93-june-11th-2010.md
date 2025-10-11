@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Week in Review: June 7th - June 11th, 2010"
+type: post
 ---
 
 ![Week in Review](http://bit.ly/DogReview)

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Apresentando Thematographer
+type: post
 ---
 
 Como tinha prometido ao [Crimeboy](http://celo.wordpress.com/), escrevi

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Sobre as regras de ingressÃ£o Ã  equipe de tradutores
+type: post
 ---
 
 Este post Ã© direcionado Ã  todas as pessoas que criticaram as minhas

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: This day in history
+type: post
 ---
 
 Today we remember what happened on December 7, 1941: The [attack on

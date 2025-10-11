@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Subscribe to feeds from projects hosted on Google Code
+type: post
 ---
 
 If you have a project hosted on [Google Code](http://code.google.com)

@@ -8,6 +8,7 @@ tags:
  - portuguese
  - mandriva
 title: "ANÚNCIO: Final do Planeta GNU/Linux Brasil"
+type: post
 ---
 
 ![The

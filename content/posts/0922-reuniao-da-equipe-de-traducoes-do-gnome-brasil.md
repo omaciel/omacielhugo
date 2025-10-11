@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Reunião da equipe de traduções do GNOME Brasil
+type: post
 ---
 
 Na noite de outubro 16 de 2009 aconteceu a primeira reunião da equipe de

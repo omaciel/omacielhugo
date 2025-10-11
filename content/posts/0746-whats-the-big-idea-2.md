@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: What\'s the Big Idea?
+type: post
 ---
 
 Starting this Thursday, April 3, 2008 I'll be attending this year's

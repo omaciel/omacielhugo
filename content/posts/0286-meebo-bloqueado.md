@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Meebo Bloqueado?
+type: post
 ---
 
 Por incrÃƒÂ­vel que pareÃƒÂ§a, o termo mais usado na internet que

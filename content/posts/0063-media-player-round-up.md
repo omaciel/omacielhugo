@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: Media Player Round Up
+type: post
 ---
 
 Someone had commented on a previous post about a media player for

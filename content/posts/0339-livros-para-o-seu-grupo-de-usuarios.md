@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Livros para o seu grupo de usuÃƒÂ¡rios
+type: post
 ---
 
 Caso vocÃƒÂª seja membro de um grupo de usuÃƒÂ¡rios do Linux e esteja

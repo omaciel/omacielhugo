@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Educational GCompris Live CD
+type: post
 ---
 
 Shortly after receiving a comment on my

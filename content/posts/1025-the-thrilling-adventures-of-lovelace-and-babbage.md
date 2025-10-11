@@ -7,6 +7,7 @@ tags:
  - english
  - books
 title: The Thrilling Adventures of Lovelace and Babbage
+type: post
 ---
 ![Lovelace and Babbage Vs The Organist!](http://www.ogmaciel.com/wp-content/uploads/2010/12/organistNOWPLAYINGbutton-235x300.jpg)
 

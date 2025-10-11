@@ -7,6 +7,7 @@ tags:
  - english
 title: A few reasons why Rosetta should not be considered as a
   translation platform for existing open source projects
+type: post
 ---
 
 Last week I received an invitation to join the [LXDE](http://lxde.org/)

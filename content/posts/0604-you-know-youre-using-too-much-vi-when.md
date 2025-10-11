@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: You know you\'re using too much Vi when\...
+type: post
 ---
 
 ... you press ESC after filling out web forms!

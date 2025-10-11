@@ -15,6 +15,7 @@ tags:
  - iOS
  - english
 title: Adventures in the Music Streaming World
+type: post
 ---
 
 These last couple of years have brought (along with some new wrinkles

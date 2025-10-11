@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: The Name Game
+type: post
 ---
 
 I wanted to comment on [Tristan

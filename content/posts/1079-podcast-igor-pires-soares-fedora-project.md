@@ -8,6 +8,7 @@ tags:
  - castalio
  - podcast
 title: "Podcast: Igor Pires Soares - Fedora Project"
+type: post
 ---
 
 I had a chance to interview [Igor Pires Soares](http://igorsoares.com/)

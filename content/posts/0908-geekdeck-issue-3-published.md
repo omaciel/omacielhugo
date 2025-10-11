@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: GeekDeck Issue 3 Published
+type: post
 ---
 
 [GeekDeck](http://geekdeck.wordpress.com) has just released **Issue 3**,

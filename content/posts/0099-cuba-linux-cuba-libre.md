@@ -8,6 +8,7 @@ tags:
  - linux
  - random
 title: Cuba + Linux = Cuba Libre
+type: post
 ---
 
 I completely missed this

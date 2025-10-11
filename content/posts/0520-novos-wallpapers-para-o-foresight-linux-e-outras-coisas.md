@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Novos wallpapers para o Foresight Linux e outras coisas mais
+type: post
 ---
 
 Um de nossos colaboradores criou uma nova coleÃ§Ã£o de wallpapers para o

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Transifex Upcoming Feature: Translation Review"
+type: post
 ---
 
 Just wanted to tease you guys out there about a new feature that the

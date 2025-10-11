@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Agora sim\...
+type: post
 ---
 
 Com o lanÃƒÂ§amento da nova versÃƒÂ£o (**1.0-8756)**do driver da Nvidia,

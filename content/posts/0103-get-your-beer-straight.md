@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Get Your Beer Straight
+type: post
 ---
 
 I've been known to drink "socially" a few beers here and there but I

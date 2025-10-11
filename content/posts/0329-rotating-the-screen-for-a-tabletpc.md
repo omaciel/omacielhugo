@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Rotating the screen for a TabletPC
+type: post
 ---
 
 This was a very busy Sunday, with a lot of soccer on tv (or how we call

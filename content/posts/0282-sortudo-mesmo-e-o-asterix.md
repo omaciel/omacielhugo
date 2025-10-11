@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Sortudo mesmo ÃƒÂ© o Asterix!
+type: post
 ---
 
 ... e o **Obelix**, que davam porrada nos **Romanos**, comiam carne de

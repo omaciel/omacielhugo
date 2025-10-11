@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Continuidade
+type: post
 ---
 
 Ontem eu enviei um e-mail para os membros do Conselho Ubuntu Brasil

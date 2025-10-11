@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Sync BillReminder with GNOME clock
+type: post
 ---
 
 In an attempt to integrate [BillReminder](http://billreminder.sf.net) to

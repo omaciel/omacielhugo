@@ -6,6 +6,7 @@ tags:
  - redhat
  - anniversary
 title: Three Years and Counting!
+type: post
 ---
 
 Making a quick pit stop to mark this milestone in my professional

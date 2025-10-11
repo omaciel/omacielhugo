@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Crossing Paths
+type: post
 ---
 
 It was interesting to see an

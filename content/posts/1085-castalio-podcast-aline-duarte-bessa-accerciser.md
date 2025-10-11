@@ -9,6 +9,7 @@ tags:
  - castalio
  - podcast
 title: "Castálio Podcast: Aline Duarte Bessa - Accerciser"
+type: post
 ---
 Mais um episódio do [Castálio Podcast](http://castalio.info), desta vez
 com um bate-papo com a **Aline Duarte Bessa**, mais uma Brasileira que

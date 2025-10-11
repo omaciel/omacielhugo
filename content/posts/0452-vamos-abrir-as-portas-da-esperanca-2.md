@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Vamos abrir as portas da esperanca!
+type: post
 ---
 
 Foi anunciado hoje o desbloqueio de envio de arquivos \*.po para o

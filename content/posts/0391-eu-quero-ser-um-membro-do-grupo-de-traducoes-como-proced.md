@@ -7,6 +7,7 @@ tags:
  - portuguese
 title: Eu quero ser um membro do grupo de traduÃƒÂ§ÃƒÂµes! Como
   proceder?
+type: post
 ---
 
 Semana passada houve uma boa discussÃƒÂ£o (por email na lista de

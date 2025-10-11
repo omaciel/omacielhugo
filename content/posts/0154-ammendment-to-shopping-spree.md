@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Ammendment to shopping spree
+type: post
 ---
 
 I forgot to add 2 other items purchased during said shopping spree:

@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:omaciel/omaciel.github.io.git
 	branch = main
+[submodule "themes/gokarna"]
+	path = themes/gokarna
+	url = https://github.com/gokarna-theme/gokarna-hugo.git

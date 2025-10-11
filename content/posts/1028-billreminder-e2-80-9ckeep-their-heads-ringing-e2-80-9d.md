@@ -7,6 +7,7 @@ tags:
  - english
  - billreminder
 title: BillReminder "Keep Their Heads Ringing" Released
+type: post
 ---
 ![BillReminder "Keep Their Heads Ringing" 0.4.0](http://www.ogmaciel.com/wp-content/uploads/2010/12/billreminder-0.4.0-300x300.png)
 

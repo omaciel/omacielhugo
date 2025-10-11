@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Gerador GenÃ©rico de Gtk.TreeView
+type: post
 ---
 
 Muitas pessoas jÃ¡ me pediram para publicar meu cÃ³digo que tenta

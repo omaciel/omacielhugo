@@ -11,6 +11,7 @@ tags:
  - mandriva
  - portuguese
 title: "Castálio Podcast: Alexandre Gaigalas: Yahoo"
+type: post
 ---
 
 ![image](http://bit.ly/OMhBUp)

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Do I feel lucky?
+type: post
 ---
 
 Over the weekend my next door neighbor managed to damage the passenger

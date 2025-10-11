@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Can you hear the crickets?
+type: post
 ---
 
 Well, so far nobody who read this blog (contrary to the

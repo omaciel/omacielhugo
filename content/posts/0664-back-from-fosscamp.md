@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Back from FossCamp
+type: post
 ---
 
 For those who noticed my sudden disappearance from the web late last

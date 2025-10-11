@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Your translations update
+type: post
 ---
 
 Proud to have been a part of delivering the following upstream projects

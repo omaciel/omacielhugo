@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath
 title: Usando o Dropbox com o Openbox
+type: post
 ---
 
 Dando continuidade ao

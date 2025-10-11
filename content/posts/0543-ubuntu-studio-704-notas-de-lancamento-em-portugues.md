@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Ubuntu Studio 7.04: Notas de lanÃ§amento em portuguÃªs"
+type: post
 ---
 
 Como tenho andado muito doente esta semana com uma "gripe mutante", nÃ£o

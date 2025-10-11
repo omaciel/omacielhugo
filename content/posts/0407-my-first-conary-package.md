@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath, conary
 title: My first conary package
+type: post
 ---
 
 W00t!!! With the help (and lots of patience) from

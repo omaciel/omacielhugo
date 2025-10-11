@@ -8,6 +8,7 @@ tags:
  - gnome
  - translations
 title: GNOME 3.0 Translations
+type: post
 ---
 ![Pylyglot](http://www.ogmaciel.com/wp-content/uploads/2011/03/logo-179x119.jpg)
 

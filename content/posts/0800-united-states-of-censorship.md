@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: United States of Censorship
+type: post
 ---
 
 it is amazing just how little real information gets its way to the

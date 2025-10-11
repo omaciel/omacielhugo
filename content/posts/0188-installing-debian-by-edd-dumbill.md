@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Installing Debian by Edd Dumbill
+type: post
 ---
 
 Edd Dumbill's

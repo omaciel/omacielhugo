@@ -8,6 +8,7 @@ tags:
  - work
  - nycsca
 title: "Amazing..."
+type: post
 ---
 
 Sometimes I wonder how certain people get employed... really! I usually

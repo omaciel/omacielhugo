@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: We Built This City!
+type: post
 ---
 
 Este domingo, dia 25 de junho de junho, marcou um dos momentos mais

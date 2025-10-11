@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Paterfamilias
+type: post
 ---
 
 This is very off topic but I couldn't resit.Ã‚Â  My wife and I have been

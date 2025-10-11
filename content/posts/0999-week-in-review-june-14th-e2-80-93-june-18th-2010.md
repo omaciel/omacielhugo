@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Week in Review: June 14th â€\" June 18th, 2010"
+type: post
 ---
 
 \[caption id="attachment_1154" align="aligncenter" width="278"

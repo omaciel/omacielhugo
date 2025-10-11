@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: You got the medicine that can cure my disease
+type: post
 ---
 
 After the first shock-wave caused by the announcement of [Google

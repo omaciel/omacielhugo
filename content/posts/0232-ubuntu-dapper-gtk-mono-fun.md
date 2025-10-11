@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Ubuntu Dapper + Gtk\\# + Mono = Fun!"
+type: post
 ---
 
 Pois lÃƒÂ¡ fui eu pegar a mesma base do meu programa, e adaptei para

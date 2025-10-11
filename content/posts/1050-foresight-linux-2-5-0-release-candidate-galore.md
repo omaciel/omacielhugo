@@ -7,6 +7,7 @@ tags:
  - rpath
  - foresight
 title: Foresight Linux 2.5.0 Release Candidate Galore!
+type: post
 ---
 ![Foresight Linux 2.5.0 RC](http://www.ogmaciel.com/wp-content/uploads/2011/03/Screenshot-5.png)
 

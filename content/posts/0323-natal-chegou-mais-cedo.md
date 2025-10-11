@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Natal chegou mais cedo?
+type: post
 ---
 
 Eu nÃƒÂ£o sabia que o monodevelop com o mÃƒÂ³dulo de desenho grÃƒÂ¡fico

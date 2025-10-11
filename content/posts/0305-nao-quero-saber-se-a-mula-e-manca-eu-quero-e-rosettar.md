@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: NÃƒÂ£o quero saber se a mula ÃƒÂ© manca, eu quero ÃƒÂ© Rosettar!
+type: post
 ---
 
 Foi anunciado hoje na lista de membros do Rosetta e Tradutores do Ubuntu

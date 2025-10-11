@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Chiclete com Banana 2: A Revanche"
+type: post
 ---
 
 Que bela surpresa me deixaram no correio hoje pela manhÃ£.

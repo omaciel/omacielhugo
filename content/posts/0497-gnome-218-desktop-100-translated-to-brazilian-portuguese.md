@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "GNOME 2.18 DEsktop: 100% translated to Brazilian Portuguese!"
+type: post
 ---
 
 We did it!

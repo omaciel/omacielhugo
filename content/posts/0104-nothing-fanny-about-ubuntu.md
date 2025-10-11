@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Nothing Fanny About Ubuntu
+type: post
 ---
 
 [Parody](http://www.gnome.org/~jdub/blog/projects/ubuntu/1118337956) to

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Janela Indiscreta
+type: post
 ---
 
 Quando iniciei o [Planeta GNU/Linux

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Picasa Ripple Effects
+type: post
 ---
 
 Today's Google's announcement of a Linux supported version of their

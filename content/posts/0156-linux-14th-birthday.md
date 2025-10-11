@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Linux 14th Birthday
+type: post
 ---
 
 Tomorrow will be the [14th

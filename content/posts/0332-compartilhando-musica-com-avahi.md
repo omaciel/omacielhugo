@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Compartilhando mÃƒÂºsica com Avahi
+type: post
 ---
 
 O que posso dizer, fou um fim de semana muito movimentadoÃ¢â‚¬Â¦Ã‚Â 

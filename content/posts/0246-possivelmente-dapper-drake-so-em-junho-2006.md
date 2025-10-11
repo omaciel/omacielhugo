@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Possivelmente Dapper Drake sÃƒÂ³ em Junho 2006!
+type: post
 ---
 
 Em mensagem (anexada) enviada hoje por Mark Shuttleworth, ÃƒÂ© provavel

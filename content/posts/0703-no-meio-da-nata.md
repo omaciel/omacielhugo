@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: No meio da nata
+type: post
 ---
 
 As

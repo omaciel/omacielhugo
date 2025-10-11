@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath
 title: Empacotando software com Conary
+type: post
 ---
 
 Muitas pessoas jÃ¡ tinham me pedido para escrever um pequeno tutorial

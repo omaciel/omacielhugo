@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Appliances Updates
+type: post
 ---
 
 Work has kept me really busy these days but I still managed to update

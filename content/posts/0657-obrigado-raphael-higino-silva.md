@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Obrigado Raphael Higino Silva
+type: post
 ---
 
 Ã‰ com um grande peso no meu coraÃ§Ã£o que venho comunicar a trÃ¡gica

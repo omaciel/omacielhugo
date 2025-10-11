@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: TweetStats
+type: post
 ---
 
 My [Twitter](http://www.twitter.com/OgMaciel)

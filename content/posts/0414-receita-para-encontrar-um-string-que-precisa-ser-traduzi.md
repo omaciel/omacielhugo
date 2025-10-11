@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Receita para encontrar um string que precisa ser traduzido
+type: post
 ---
 
 Alguem compartilhou um script que ajuda na hora de procurar o pacote que

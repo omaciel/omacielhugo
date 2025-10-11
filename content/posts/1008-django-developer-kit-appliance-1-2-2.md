@@ -8,6 +8,7 @@ tags:
  - django
  - django developer kit
 title: Django Developer Kit Appliance 1.2.2
+type: post
 ---
 ![Foresight Django Pony](http://www.ogmaciel.com/wp-content/uploads/2010/09/foresightpony-300x230.png)
 

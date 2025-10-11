@@ -9,6 +9,7 @@ tags:
  - podcast
  - castalio
 title: "Castálio Podcast: Murilo Queiroz"
+type: post
 ---
 
 Neste último episódio tive um bate-papo super divertido com o **Murilo

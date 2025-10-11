@@ -9,6 +9,7 @@ tags:
  - castálio
  - podcast
 title: "Castálio Podcast - Marcelo Hashimoto: Polly Twitter Client"
+type: post
 ---
 
 [![Marcelo

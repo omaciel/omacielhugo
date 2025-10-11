@@ -7,6 +7,7 @@ tags:
  - rpath
 title: What do Moblin, Xfce, Fedora plus a few other projects have in
   common?
+type: post
 ---
 
 Just to follow up on one of my earlier messages to

@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Xfce using Transifex
+type: post
 ---
 
 In case you've missed it, the [Xfce](http://www.xfce.org) project has

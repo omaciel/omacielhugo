@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Name meaning Meme
+type: post
 ---
 
 **Og**

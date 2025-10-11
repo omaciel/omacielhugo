@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Procura-se
+type: post
 ---
 
 Procura-se um **web designer** para re-desenhar o agregador de blogs

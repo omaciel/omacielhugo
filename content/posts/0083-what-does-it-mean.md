@@ -9,6 +9,7 @@ tags:
  - nycsca
  - life
 title: What Does It Mean???
+type: post
 ---
 
 What does it mean when your direct supervisor keeps asking you to do

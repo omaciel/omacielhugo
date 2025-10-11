@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: BillReminder keep on rocking
+type: post
 ---
 
 [BillReminder](http://billreminder.gnulinuxbrasil.org/) now has **inline

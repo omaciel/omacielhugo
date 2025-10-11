@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: "Django Developer Kit Appliance: First Steps"
+type: post
 ---
 
 I'll make it quick so I can go back to watching TV:

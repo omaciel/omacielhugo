@@ -12,6 +12,7 @@ tags:
  - mandriva
 title: "Castálio Podcast - Enrico Nicoletto e Rafael Ferreira: Projeto
   GNOME"
+type: post
 ---
 
 ![image](http://bit.ly/OMhBUp)

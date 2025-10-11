@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: The road to GNOME 2.20
+type: post
 ---
 
 When I started my [GNOME](http://www.gnome.org) trip, we were on mile

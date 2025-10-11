@@ -12,6 +12,7 @@ tags:
  - creativity
  - substack
 title: "Nods, Lightbulbs, and Why I Still Love Being a Builder"
+type: post
 ---
 
 Over the last month and a half, I've spent considerable time giving presentations at work on how AI tools can help people in their day-to-day activities. Most of these sessions focus on software engineering tasks like writing code, automated testing, setting standards, and using tools like Jira more effectively.

@@ -9,6 +9,7 @@ tags:
  - podcast
  - castalio
 title: Mais Um Episódio do Castálio Podcast
+type: post
 ---
 
 Desta vez tive o prazer de conversar com a [Luciana Fujii

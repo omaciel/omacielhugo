@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: LinCity-ng
+type: post
 ---
 
 Este aqui vai para o **CoringÃƒÂ£o** e o pessoal por trÃƒÂ¡s do

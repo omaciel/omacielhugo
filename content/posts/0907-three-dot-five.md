@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Three Dot Five
+type: post
 ---
 
 Celebrating my 35th birthday today! A year older, a year (hopefully)

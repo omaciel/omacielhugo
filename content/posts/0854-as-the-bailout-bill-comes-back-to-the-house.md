@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: As the bailout bill comes back to the House\...
+type: post
 ---
 
 ... let your [US Congressmen](http://www.house.gov/) know your opinion.

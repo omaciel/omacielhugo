@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Sobre o beryl e jogos no Ubuntu
+type: post
 ---
 
 Confesso que resisti ao mÃ¡ximo Ã  "tentaÃ§Ã£o" de instalar o beryl no

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Se correr o bicho pega\...
+type: post
 ---
 
 Cheguei em North Carolina na terÃƒÂ§a-feira pela manhÃƒÂ£ e fui apanhado

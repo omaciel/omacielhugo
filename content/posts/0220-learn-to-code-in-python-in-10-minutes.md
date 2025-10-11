@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Learn to code in Python in 10 minutes
+type: post
 ---
 
 Short and quick 10-minutes

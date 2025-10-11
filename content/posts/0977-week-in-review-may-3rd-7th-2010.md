@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: "Week in Review: May 3rd - 7th, 2010"
+type: post
 ---
 
 \[caption id="" align="aligncenter" width="286" caption="Week in

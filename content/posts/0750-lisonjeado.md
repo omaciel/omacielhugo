@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Lisonjeado
+type: post
 ---
 
 Esta última quinta-feira fui surpreendido pelo **Johan Dahlin** quando

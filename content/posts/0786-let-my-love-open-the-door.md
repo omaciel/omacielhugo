@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Let My Love Open the Door
+type: post
 ---
 
 Dedicated to my wife...

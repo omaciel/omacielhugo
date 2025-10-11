@@ -33,6 +33,7 @@ tags:
  - Alexandre Dumas
  - Henry Miller
 title: Books - August 2015
+type: post
 ---
 
 ![](https://omaciel.fedorapeople.org/book_review.png){.align-left}

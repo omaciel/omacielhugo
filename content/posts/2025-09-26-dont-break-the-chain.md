@@ -13,6 +13,7 @@ tags:
  - health
  - substack
 title: "Don't Break the Chain"
+type: post
 ---
 
 I don't remember exactly when I first heard of the **Don't Break the Chain** method (or technique, if that's even what it is), but I remember that it was something people said would help me establish a habit that would stick and also keep me motivated to keep going.

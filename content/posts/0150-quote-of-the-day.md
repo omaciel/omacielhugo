@@ -6,6 +6,7 @@ slug: |
 tags:
  - quote, computer science
 title: Quote of the day
+type: post
 ---
 
 Quote:

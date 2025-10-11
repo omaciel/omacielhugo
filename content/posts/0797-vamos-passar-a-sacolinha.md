@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Vamos passar a sacolinha!
+type: post
 ---
 
 **Ajude a sustentar a Wikipédia e outros projetos, sem colocar a mão no

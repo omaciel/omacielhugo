@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: NYC Claims Another Victim!
+type: post
 ---
 
 This is it folks, I'm quitting the rat race! After working my butt off

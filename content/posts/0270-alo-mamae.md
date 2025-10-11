@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: AlÃƒÂ´ mamÃƒÂ£e!!!
+type: post
 ---
 
 Fui "entrevistado" pelo pessoal do [Lulu TV](http://www.lulu.tv/) no

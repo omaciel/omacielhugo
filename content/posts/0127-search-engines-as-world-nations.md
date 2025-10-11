@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Search Engines As World Nations
+type: post
 ---
 
 Funny [write

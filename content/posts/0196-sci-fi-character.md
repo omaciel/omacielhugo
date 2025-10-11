@@ -6,6 +6,7 @@ slug: |
 tags:
  - meme
 title: Sci-Fi Character
+type: post
 ---
 
 Which Fantasy/SciFi Character Are You?

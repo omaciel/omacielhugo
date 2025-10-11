@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Yv Scarlett Maciel: the first year"
+type: post
 ---
 
 \[caption id="attachment_519" align="alignnone" width="300" caption="Yv

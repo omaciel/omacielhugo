@@ -9,6 +9,7 @@ tags:
  - self-care
  - substack
 title: "Because Reading Counts as Self-Care"
+type: post
 ---
 
 ![Book and Coffee Image](/images/reading-self-care-cover.heic)

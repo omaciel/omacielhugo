@@ -10,6 +10,7 @@ tags:
  - work-life-balance
  - substack
 title: "My Google Calendar Tried to Kill Me Today"
+type: post
 ---
 
 ![Calendar Image](/images/google-calendar-kill-cover.heic)

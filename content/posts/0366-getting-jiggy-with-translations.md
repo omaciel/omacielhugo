@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Getting Jiggy With Translations
+type: post
 ---
 
 This past weekend the [Ubuntu Brazilian Portuguese

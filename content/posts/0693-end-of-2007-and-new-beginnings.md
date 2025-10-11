@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: End of 2007 and new beginnings
+type: post
 ---
 
 It's was the end of the year and my head has been spinning with ideas!

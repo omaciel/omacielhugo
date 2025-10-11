@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: BillReminder has a new house!
+type: post
 ---
 
 My pet project [BillReminder](http://billreminder.gnulinuxbrasil.org)

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Preview: Python Testing: Beginner\\'s Guide"
+type: post
 ---
 
 [![Python Testing: Beginner\'s

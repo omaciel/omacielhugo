@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: My own F.A.Q.
+type: post
 ---
 
 It is 04:18 EST and instead of being in bed, I'm in front of the

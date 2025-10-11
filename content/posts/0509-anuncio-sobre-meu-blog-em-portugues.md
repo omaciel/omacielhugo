@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: AnÃºncio sobre meu blog em portuguÃªs
+type: post
 ---
 
 Buenas,

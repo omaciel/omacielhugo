@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Atualização sobre o vídeo aula
+type: post
 ---
 
 Graças ao meu amigo [Laudeci](http://laudecioliveira.org/blog), o vídeo

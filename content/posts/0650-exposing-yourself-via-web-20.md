@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Exposing yourself via Web 2.0
+type: post
 ---
 
 Interesting how it is relatively easy to follow what someone is

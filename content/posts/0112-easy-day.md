@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Easy Day
+type: post
 ---
 
 It was a pretty easy day today. Made the best out of my [new

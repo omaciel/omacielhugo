@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Technorati Brasileiro
+type: post
 ---
 
 Hoje me inscrevi no [BlogBlogs](http://blogblogs.com.br), uma espÃƒÂ©cie

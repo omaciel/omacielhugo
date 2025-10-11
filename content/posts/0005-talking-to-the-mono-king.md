@@ -12,6 +12,7 @@ tags:
  - monodevelop
  - evolution
 title: Talking To The Mono King
+type: post
 ---
 
 This last Friday was the second day of my trip to Boston. The agenda was

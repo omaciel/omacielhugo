@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: MIA / POW
+type: post
 ---
 
 That is, Missing In Action / Prisoner Of **WORK**! Here at

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Mais novidades sobre o BillReminder
+type: post
 ---
 
 O [BillReminder](http://billreminder.gnulinuxbrasil.org/) agora tem um

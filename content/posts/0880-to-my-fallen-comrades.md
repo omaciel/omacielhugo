@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: To my fallen comrades
+type: post
 ---
 
 Quote:

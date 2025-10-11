@@ -7,6 +7,7 @@ tags:
  - english
  - books
 title: "Book Review: Mockingjay"
+type: post
 ---
 ![Mockingjay](http://www.ogmaciel.com/wp-content/uploads/2011/01/cover2-231x300.jpg)
 

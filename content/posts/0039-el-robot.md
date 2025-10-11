@@ -9,6 +9,7 @@ tags:
  - random
  - life
 title: El Robot
+type: post
 ---
 
 My sister had told me about

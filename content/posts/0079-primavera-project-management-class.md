@@ -8,6 +8,7 @@ tags:
  - work
  - nycsca
 title: Primavera Project Management Class
+type: post
 ---
 
 I didn't really know what I was getting into when I was told to attend

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Newer packages of BillReminder for Gutsy
+type: post
 ---
 
 Some people reported dependency errors when using one of the two .deb

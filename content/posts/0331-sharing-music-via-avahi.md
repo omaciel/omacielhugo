@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Sharing music via Avahi
+type: post
 ---
 
 What can I say, it was a busy weekend...Ã‚Â  ;)Ã‚Â  Prior to following

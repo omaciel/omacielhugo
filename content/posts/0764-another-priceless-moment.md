@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Another priceless moment
+type: post
 ---
 
 -   Laundry basket: US\$15

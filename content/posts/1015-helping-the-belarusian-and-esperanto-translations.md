@@ -8,6 +8,7 @@ tags:
  - pylyglot
  - translations
 title: Helping the Belarusian and Esperanto Translations
+type: post
 ---
 ![Two New Languages](http://www.ogmaciel.com/wp-content/uploads/2010/10/2397379457_f8345ee812-214x300.jpg)
 

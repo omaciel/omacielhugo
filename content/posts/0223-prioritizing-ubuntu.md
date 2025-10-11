@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Prioritizing Ubuntu
+type: post
 ---
 
 Continuing with my new year's resolution of working harder at the

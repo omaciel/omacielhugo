@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: GNOME Foundation update
+type: post
 ---
 
 I'd like to extend my (unofficial) congratulations to the new **GNOME

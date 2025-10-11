@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Stop whining and improve your life
+type: post
 ---
 
 [![image0](http://farm4.static.flickr.com/3025/2587484034_5f251f4583_m_d.jpg)](http://www.flickr.com/photos/addrox/2587484034/)

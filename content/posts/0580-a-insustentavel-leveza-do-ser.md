@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: A InsustentÃ¡vel Leveza do Ser
+type: post
 ---
 
 HÃ¡ mais ou meno 1 mÃªs minha filha enviou o desenho abaixo para um

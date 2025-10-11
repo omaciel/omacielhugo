@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Talk to your kids about Linux
+type: post
 ---
 
 Snagged from the original "[Cautionary](http://xkcd.com/456/)\" strip.

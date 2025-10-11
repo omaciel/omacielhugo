@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Switching from SourceForge to Google Code
+type: post
 ---
 
 For the last 2 weeks I have (unsuccesfully) tried to migrate

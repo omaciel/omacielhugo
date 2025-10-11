@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Bug no Rosetta
+type: post
 ---
 
 Meu amigo **Ricardo Cropalato** me alertou sobre um bug muito importante

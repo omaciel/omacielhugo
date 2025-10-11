@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Django Debug Toolbar
+type: post
 ---
 
 I meant to write about the [Django Debug

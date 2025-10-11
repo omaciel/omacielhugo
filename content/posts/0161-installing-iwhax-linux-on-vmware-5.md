@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Installing iWhax Linux on VMWare 5
+type: post
 ---
 
 My good friend from **\`The Land of the Rum

@@ -21,6 +21,7 @@ tags:
  - Michael Lopp
  - Erich Maria Remarque
 title: Books - July 2015
+type: post
 ---
 
 ![](https://omaciel.fedorapeople.org/book_review.png){.align-left}

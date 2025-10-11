@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Open-Tran.eu agora traduzido para o Português do Brasil
+type: post
 ---
 
 Toda a turma que trabalha com traduções de software livre deve conhecer

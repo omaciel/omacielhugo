@@ -6,6 +6,7 @@ slug: |
 tags:
  - trilug
 title: Overheard at the TriLUG meeting
+type: post
 ---
 
 Interesting:

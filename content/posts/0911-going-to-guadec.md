@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Going to GUADEC
+type: post
 ---
 
 ![GUADEC

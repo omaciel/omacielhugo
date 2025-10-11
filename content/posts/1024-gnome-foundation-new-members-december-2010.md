@@ -7,6 +7,7 @@ tags:
  - english
  - gnome board of directors
 title: "GNOME Foundation New Members: December 2010"
+type: post
 ---
 ![Congratulations](http://www.ogmaciel.com/wp-content/uploads/2010/12/4844537329_999803af49_m.jpg)
 

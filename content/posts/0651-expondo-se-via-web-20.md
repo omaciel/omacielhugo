@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Expondo-se via Web 2.0
+type: post
 ---
 
 Interessante como Ã© relativamente fÃ¡cil acompanhar o que alguÃ©m

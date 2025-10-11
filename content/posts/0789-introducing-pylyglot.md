@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Introducing PyLyglot
+type: post
 ---
 
 As everyone knows I'm very involved with the translation efforts of

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: BillReminder na TV?
+type: post
 ---
 
 AlguÃ©m me mostrou que jÃ¡ existe um

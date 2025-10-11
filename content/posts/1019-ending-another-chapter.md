@@ -7,6 +7,7 @@ tags:
  - english
  - ubuntu
 title: Ending Another Chapter
+type: post
 ---
 Woke up this morning to find the following email in my inbox:
 

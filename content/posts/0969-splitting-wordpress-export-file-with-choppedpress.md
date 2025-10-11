@@ -6,6 +6,7 @@ slug: |
 tags:
  - english, lxml, python, optparse, wordpress
 title: Splitting WordPress Export File with ChoppedPress
+type: post
 ---
 
 [![Four Views of a Book Press by

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Achtung, Baby!
+type: post
 ---
 
 Been away from this blog for quite some time now. Obviously, a great

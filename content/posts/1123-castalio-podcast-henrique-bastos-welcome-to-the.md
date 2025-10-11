@@ -10,6 +10,7 @@ tags:
  - portuguese
  - ubuntu
 title: "Castálio Podcast: Henrique Bastos - Welcome to the Django"
+type: post
 ---
 
 ![castalio podcast](http://dl.dropbox.com/u/102224/castalio-ipod.jpg)

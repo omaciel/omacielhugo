@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath
 title: NÃ£o se esqueÃ§a de pagar suas contas novamente, se nÃ£o\...
+type: post
 ---
 
 [![BillReminder1](http://farm1.static.flickr.com/155/426001389_82fe3885b7_m.jpg)](http://www.flickr.com/photos/25563799@N00/426001389/)

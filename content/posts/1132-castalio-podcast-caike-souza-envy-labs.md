@@ -9,6 +9,7 @@ tags:
  - castálio
  - portuguese
 title: "Castálio Podcast: Caike Souza - Envy Labs"
+type: post
 ---
 
 ![image0](http://media.tumblr.com/tumblr_m2jf6aE8Ic1r7yex1.jpg)

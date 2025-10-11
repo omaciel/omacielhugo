@@ -12,6 +12,7 @@ tags:
  - life
  - book
 title: "Software Quality Engineering: Tales From The Trenches"
+type: post
 ---
 First of all, I have to say that I absolutely love being a Quality Engineer, something that I have been doing for a living for the last 11 years of my life! During these 11 years, I have had the pleasure (yes, pleasure!) of being tossed around, torn to pieces and thrown at a lot of scary and difficult situations in the world of software testing!
 

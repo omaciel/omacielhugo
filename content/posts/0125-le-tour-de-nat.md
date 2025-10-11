@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Le Tour de Nat
+type: post
 ---
 
 Very amusing [play-by-play](http://rlove.org/log/2005071601) recount of

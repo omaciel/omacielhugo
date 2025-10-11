@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Nova Edição da Revista Espírito Livre \"Nas Bancas\"!
+type: post
 ---
 
 Saiu a mais nova edição da [Revista Espírito Livre](http://www.revista.espiritolivre.org/?p=1288)! Parabéns ao **João

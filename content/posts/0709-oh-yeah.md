@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Oh yeah\...
+type: post
 ---
 
 While I was busy at work, [Openbox

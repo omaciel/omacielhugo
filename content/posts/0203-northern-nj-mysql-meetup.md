@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Northern NJ MySQL Meetup
+type: post
 ---
 
 **When:** Wednesday, November 2, 2005, 8:00 PM

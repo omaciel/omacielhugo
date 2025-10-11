@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Recipe: Enemy Territory"
+type: post
 ---
 
 First of all, I want to thank all the kind comments on my previous post.

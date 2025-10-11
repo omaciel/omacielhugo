@@ -10,6 +10,7 @@ tags:
  - podcast
  - ubuntu
 title: "Castálio Podcast: Júlio Monteiro - JobScore"
+type: post
 ---
 
 ![image0](http://media.tumblr.com/tumblr_m2jf6aE8Ic1r7yex1.jpg)Depois de

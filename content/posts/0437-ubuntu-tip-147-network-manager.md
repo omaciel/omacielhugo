@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Ubuntu Tip \\#147: Network Manager"
+type: post
 ---
 
 A primeira coisa que eu adiciono Ã  uma nova instalaÃ§Ã£o de Gnu/Linux

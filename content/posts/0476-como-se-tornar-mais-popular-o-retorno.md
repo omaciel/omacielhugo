@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Como se tornar mais popular - O Retorno
+type: post
 ---
 
 Estou re-publicando um post antigo, de outubro do ano passado, com a

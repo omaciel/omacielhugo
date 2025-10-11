@@ -7,6 +7,7 @@ tags:
  - english
  - wordpress
 title: I screwed up!
+type: post
 ---
 
 I officially screwed up my site!!! I completely fucked it up!!! It turns

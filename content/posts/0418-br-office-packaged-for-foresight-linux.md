@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath, foresight linux, conary, br-office
 title: BR-Office empacotado para o Foresight Linux
+type: post
 ---
 
 Aproveitei o dia hoje para empacotar o

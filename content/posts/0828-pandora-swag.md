@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Pandora swag
+type: post
 ---
 
 Today I received a mysterious package in the mail. Turns out it was some

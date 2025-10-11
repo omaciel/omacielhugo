@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Back From The Dead
+type: post
 ---
 
 Nice to see my close friend

@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: Three Simple Rules For Writing Specifications
+type: post
 ---
 
 [Jakub Steiner](http://jimmac.musichall.cz/weblog.php) from [Planet

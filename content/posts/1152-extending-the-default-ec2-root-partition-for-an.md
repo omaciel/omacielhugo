@@ -9,6 +9,7 @@ tags:
  - Katello
  - english
 title: Extending the default EC2 root partition for an instance
+type: post
 ---
 
 ![EC2

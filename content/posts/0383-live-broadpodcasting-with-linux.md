@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Live \[Broad\|Pod\]casting with Linux
+type: post
 ---
 
 I was wondering if anyone out there would have a "recipe" for doing live

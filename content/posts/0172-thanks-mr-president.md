@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Thanks Mr. President
+type: post
 ---
 
 Thanks to our President visiting NYC for that U.N. meeting "thing," it

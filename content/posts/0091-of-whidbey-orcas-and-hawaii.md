@@ -8,6 +8,7 @@ tags:
  - random
  - article
 title: Of Whidbey, Orcas, and Hawaii
+type: post
 ---
 
 With the upcoming release of Whidbey (Visual Studio 2005) scheduled for

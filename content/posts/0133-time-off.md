@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Time Off
+type: post
 ---
 
 Having spent the last week doing some actual work and preparing for a

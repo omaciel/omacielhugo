@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: XFCE Completamente Traduzido
+type: post
 ---
 
 É com um enorme orgulho que venho anunciar que o ambiente de de desktop

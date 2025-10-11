@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Comunicado Importante
+type: post
 ---
 
 Nas Ãºltimas semanas o canal de apoio do \#ubuntu-br (e fiquei sabendo

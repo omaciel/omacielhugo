@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: My first blueprint for Ubuntu
+type: post
 ---
 
 Today I created a blueprint I intend to promote for

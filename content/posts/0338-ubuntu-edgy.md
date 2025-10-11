@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Ubuntu Edgy
+type: post
 ---
 
 Esta semana estÃƒÂ¡ acontecendo [Ubuntu Paris Developer

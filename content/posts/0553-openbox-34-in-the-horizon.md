@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Openbox 3.4 in the horizon
+type: post
 ---
 
 I was extremely pleased/amazed when I read the change log with the

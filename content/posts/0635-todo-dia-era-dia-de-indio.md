@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Todo dia, era dia de Ã­ndio!
+type: post
 ---
 
 Todos dias eu vejo vÃ¡rios sites publicando notÃ­cias sobre embelezar

@@ -9,6 +9,7 @@ tags:
  - castalio
  - podcast
 title: "Castálio Podcast: Lucas Rocha - The Board (Parte 1)"
+type: post
 ---
 
 Neste episódio tive o prazer de conversar (por um bom tempo) com o

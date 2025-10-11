@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "TabletPC 4: Entrei de gaiato no navio"
+type: post
 ---
 
 O domingo foi super corrido, com muito jogo de futebol, regado ÃƒÂ 

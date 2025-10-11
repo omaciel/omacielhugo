@@ -11,6 +11,7 @@ tags:
  - castálio
  - podcast
 title: "Castálio Podcast: Luciano Ramalho: Oficinas Turing"
+type: post
 ---
 
 ![image](http://bit.ly/OMhBUp)Um dias destes eu estava procurando

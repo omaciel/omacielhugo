@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: De grÃƒÂ£o em grÃƒÂ£o\...
+type: post
 ---
 
 ... o Ubuntu fica cheio de brasileiros! ParabÃƒÂ©ns ao [Alexandre Otto

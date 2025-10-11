@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath
 title: Experimente o GNOME 2.17.92 agora!
+type: post
 ---
 
 Quer ver como esta' o GNOME 2.18 agora mas nao quer esperar ate' o dia

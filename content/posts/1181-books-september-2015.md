@@ -25,6 +25,7 @@ tags:
  - Nick   Hornby
  - Ariano Suassuma
 title: Books - September 2015
+type: post
 ---
 
 ![](https://omaciel.fedorapeople.org/book_review.png){.align-left}

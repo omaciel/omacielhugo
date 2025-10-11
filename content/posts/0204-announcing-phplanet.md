@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Announcing PhPlanet
+type: post
 ---
 
 It is with an enormous pleasure that I come to announce the birth of

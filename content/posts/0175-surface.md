@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Surface
+type: post
 ---
 
 Yesterday I caught a huge break (my daughter fell asleep much earlier

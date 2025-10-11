@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Gtk\\# Hacking"
+type: post
 ---
 
 [![Gtk\#

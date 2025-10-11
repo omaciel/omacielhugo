@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Cute Git Tip
+type: post
 ---
 
 \[caption id="" align="alignnone" width="500" caption="Happiness by

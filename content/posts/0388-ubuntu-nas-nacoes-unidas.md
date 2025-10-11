@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Ubuntu nas NaÃƒÂ§ÃƒÂµes Unidas
+type: post
 ---
 
 AmanhÃƒÂ£ estarei representando o Ubuntu Linux em um simpÃƒÂ³sio na ONU

@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: To the Transifex Appliance users out there
+type: post
 ---
 
 Some time around the middle of **2008** I was asked if I would be

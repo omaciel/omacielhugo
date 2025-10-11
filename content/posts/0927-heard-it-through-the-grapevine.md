@@ -6,6 +6,7 @@ slug: |
 tags:
  - conary, foresight linux, red hat
 title: Heard it through the grapevine
+type: post
 ---
 
 Interesting:

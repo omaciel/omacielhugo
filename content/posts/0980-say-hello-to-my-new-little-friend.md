@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Say Hello To My New Little Friend
+type: post
 ---
 
 Had a great surprise when I arrived home from work last night! My good

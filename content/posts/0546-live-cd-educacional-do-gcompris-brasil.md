@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Live CD Educacional do GCompris Brasil
+type: post
 ---
 
 Logo apÃ³s receber o comentÃ¡rio do **Armando Silva** sobre um Live CD

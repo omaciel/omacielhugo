@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Amazing Wallpapers
+type: post
 ---
 
 Absolutely amazing wall papers at [VladStudio

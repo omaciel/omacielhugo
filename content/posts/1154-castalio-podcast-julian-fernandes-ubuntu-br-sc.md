@@ -11,6 +11,7 @@ tags:
  - ubuntu
  - mandriva
 title: "Castálio Podcast: Julian Fernandes: Ubuntu BR SC"
+type: post
 ---
 
 ![image0](http://bit.ly/OMhBUp)

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Translating Linux
+type: post
 ---
 
 In the attempt to attract more people to the organized effort of

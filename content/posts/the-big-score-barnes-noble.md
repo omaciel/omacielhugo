@@ -8,6 +8,7 @@ tags:
  - book
  - the big score
  - young adult
+type: post
 ---
 ![The Big Score available at Barnes and Noble](/images/the-big-score_barnesnoble.png)
 

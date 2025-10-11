@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Caminho das Pedras
+type: post
 ---
 
 Estou pegando o termo "emprestado" do comentÃƒÂ¡rio do **Carlos Araujo**

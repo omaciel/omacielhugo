@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: King of the Hill
+type: post
 ---
 
 [![I am nerdier than 93% of all people. Are you nerdier? Click here to

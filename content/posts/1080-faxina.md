@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Faxina
+type: post
 ---
 
 ![Faxina](http://farm5.static.flickr.com/4098/4950442535_3d0e9a7b7d_d.jpg)

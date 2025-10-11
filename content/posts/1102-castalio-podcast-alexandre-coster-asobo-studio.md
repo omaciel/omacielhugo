@@ -9,6 +9,7 @@ tags:
  - castálio
  - podcast
 title: "Castálio Podcast: Alexandre Coster - Asobo Studio"
+type: post
 ---
 
 [![Alexandre Coster - Asobo

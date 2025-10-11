@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Book Preview: Python Testing: Beginner\\'s Guide"
+type: post
 ---
 
 \[caption id="attachment_813" align="alignleft" width="243"

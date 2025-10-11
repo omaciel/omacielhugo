@@ -8,6 +8,7 @@ tags:
  - unc
  - life
 title: The Saga Continues
+type: post
 ---
 
 My personal quest of gathering as much information as possible on the

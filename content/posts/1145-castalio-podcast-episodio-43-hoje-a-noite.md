@@ -11,6 +11,7 @@ tags:
  - ubuntu
  - mandriva
 title: "Castálio Podcast: Episódio 43 hoje a noite!"
+type: post
 ---
 
 ![Gravação pelo

@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: "What's The Frequency, Kenneth?"
+type: post
 ---
 
 The depth of the WWW never ceases to amaze me. Every day there's a new

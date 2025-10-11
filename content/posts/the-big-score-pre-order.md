@@ -8,6 +8,7 @@ tags:
  - book
  - the big score
  - young adult
+type: post
 ---
 I'm pleased to announce that you can now **pre-order** the ebook for my latest Young Adult novel "The Big Score" at the following places:
 

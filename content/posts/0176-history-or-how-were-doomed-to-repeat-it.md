@@ -6,6 +6,7 @@ slug: |
 tags:
  - history
 title: History, or how we\'re doomed to repeat it.
+type: post
 ---
 
 Interesting:

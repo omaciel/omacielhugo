@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Recipe: Ubuntu Dapper Media"
+type: post
 ---
 
 With the release of Ubuntu Dapper, many were the new users who initiated

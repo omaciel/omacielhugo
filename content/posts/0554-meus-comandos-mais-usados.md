@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Meus comandos mais usados?
+type: post
 ---
 
 Respondendo indiretamente a pergunta do [Walter

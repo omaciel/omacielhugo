@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Follow up on MySQL Meetup
+type: post
 ---
 
 This is a couple of days late, but worth to mention anyhow. This last

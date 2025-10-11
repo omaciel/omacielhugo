@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Foresight Linux on The Linux Link Tech Show
+type: post
 ---
 
 Listen to [Ken Vandine](http://ken.vandine.org/) talk about [Foresight

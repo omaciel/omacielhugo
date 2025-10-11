@@ -7,6 +7,7 @@ tags:
  - english
  - linux world expo
 title: Linux World Expo 2005
+type: post
 ---
 
 ![Linux World Expo 2005](/images/linux_world_expo_2005.png)

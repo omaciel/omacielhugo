@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: For Those \"Celebrating\" Columbus Day
+type: post
 ---
 
 [![Depiction of Spanish atrocities in the New

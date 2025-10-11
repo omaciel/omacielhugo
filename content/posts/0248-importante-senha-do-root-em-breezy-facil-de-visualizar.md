@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Importante: Senha do root em Breezy fÃƒÂ¡cil de visualizar"
+type: post
 ---
 
 De acordo com

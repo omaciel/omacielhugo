@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Gnome, Ubuntu, and Samba
+type: post
 ---
 
 Well, I guess the [cat is out of the

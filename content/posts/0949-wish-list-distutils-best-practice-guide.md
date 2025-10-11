@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Wish list: Distutils best practice guide"
+type: post
 ---
 
 \[caption id="" align="alignleft" width="500" caption="Prayers by

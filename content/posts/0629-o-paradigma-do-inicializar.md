@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: O paradigma do \"inicializar\"
+type: post
 ---
 
 O tÃ­tulo deste post foi produto de um e-mail que recebi hoje do **Bruno

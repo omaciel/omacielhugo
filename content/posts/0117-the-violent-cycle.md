@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: The Violent Cycle
+type: post
 ---
 
 [Dom

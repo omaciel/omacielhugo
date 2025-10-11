@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: BillReminder de casa nova!
+type: post
 ---
 
 Meu projeto [BillReminder](http://billreminder.gnulinuxbrasil.org)

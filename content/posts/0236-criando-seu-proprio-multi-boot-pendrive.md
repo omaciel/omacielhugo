@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Criando seu prÃƒÂ³prio Multi-Boot Pendrive
+type: post
 ---
 
 Estou tÃƒÂ£o acostumado a usar Linux que passo aperto quando visito

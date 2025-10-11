@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath
 title: Instale o Foresight Linux em 7 minutos!
+type: post
 ---
 
 Isso Ã© o que vocÃª pode esperar da nova versÃ£o do [Foresight

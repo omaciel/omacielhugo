@@ -9,6 +9,7 @@ tags:
  - castálio
  - podcast
 title: "Castálio Podcast - Guilherme Salgado: Canonical e Linaro"
+type: post
 ---
 O convidado de hoje é o **Guilherme Salgado**. Durante nosso bate-papo,
 conversamos sobre como que ele começou a usar computadores e **Linux**,

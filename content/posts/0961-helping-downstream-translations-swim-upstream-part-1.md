@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Helping downstream translations swim upstream: Part 1"
+type: post
 ---
 
 **\*Sometimes, contributing back to upstream open source projects is not

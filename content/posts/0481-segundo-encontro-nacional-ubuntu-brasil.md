@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Segundo Encontro Nacional Ubuntu Brasil
+type: post
 ---
 
 SerÃ¡ realizado em abril durante o [8Âº FÃ³rum Internacional Software

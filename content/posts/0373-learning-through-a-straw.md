@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Learning through a straw
+type: post
 ---
 
 Yesterday while waiting for my wife at the doctor's office, I managed to

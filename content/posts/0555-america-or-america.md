@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: America or America?
+type: post
 ---
 
 First of all I want to thank every and each one of you who took the time

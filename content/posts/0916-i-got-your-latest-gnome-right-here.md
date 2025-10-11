@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: I got your latest GNOME right here!
+type: post
 ---
 
 Just wanted to re-enforce what

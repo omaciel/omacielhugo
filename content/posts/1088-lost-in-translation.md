@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Lost in Translation
+type: post
 ---
 
 [!Deformed Man Toilet](http://en.ogmaciel.com/wp-content/uploads/2011/08/imagejpeg_2_6-300x225.jpg)]

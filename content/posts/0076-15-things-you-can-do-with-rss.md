@@ -8,6 +8,7 @@ tags:
  - random
  - article
 title: 15 things you can do with RSS
+type: post
 ---
 
 I didn't know you could do all of these with rss!!! Wow!!! Read the

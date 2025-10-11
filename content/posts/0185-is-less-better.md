@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Is Less Better?
+type: post
 ---
 
 I've been following a very interesting discussion that has taken place

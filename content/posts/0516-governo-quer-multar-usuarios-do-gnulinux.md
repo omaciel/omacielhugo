@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Governo quer multar usuÃ¡rios do GNU/Linux
+type: post
 ---
 
 Aunciado hoje em reuniÃ£o extraordinÃ¡ria no senado nacional, governo

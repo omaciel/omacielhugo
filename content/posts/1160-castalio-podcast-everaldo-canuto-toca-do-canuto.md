@@ -11,6 +11,7 @@ tags:
  - ubuntu
  - mandriva
 title: "Castálio Podcast: Everaldo Canuto: Toca do Canuto"
+type: post
 ---
 
 ![image](http://bit.ly/OMhBUp)

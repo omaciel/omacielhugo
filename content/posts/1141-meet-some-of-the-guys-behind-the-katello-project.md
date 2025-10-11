@@ -7,6 +7,7 @@ tags:
  - katello
  - english
 title: Meet Some Of The Guys Behind The Katello Project
+type: post
 ---
 
 ![image0](http://40.media.tumblr.com/tumblr_m8ekkpeWKw1rpc21fo1_1280.jpg)

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Gentoo GUI Installer
+type: post
 ---
 
 From the Gentoo documentation page:

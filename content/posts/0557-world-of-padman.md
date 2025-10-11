@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: World of Padman
+type: post
 ---
 
 I was reading Digg this morning when I came across a post talking about

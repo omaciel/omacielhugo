@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Dennis Kucinich
+type: post
 ---
 
 "*one Nation under God, indivisible, with liberty and justice for all."*

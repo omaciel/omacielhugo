@@ -7,6 +7,7 @@ tags:
  - english
  - barrabin barrabash
 title: "Barrabin Barrabash: Penal Process"
+type: post
 ---
 
 **Barrabin Barrabash**, the Great, yearns for his freedom and digs deep

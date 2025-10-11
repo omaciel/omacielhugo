@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Recipe for a good translation team
+type: post
 ---
 
 A while back I was asked by a member of a Ubuntu translation team (who

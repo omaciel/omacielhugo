@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Novo visual no Planeta GNU/Linux Brasil
+type: post
 ---
 
 Finalmente sentei-me na frente do computador para dar uma garibada no

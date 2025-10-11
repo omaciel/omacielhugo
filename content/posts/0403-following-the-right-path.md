@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath, north carolina, new jersey
 title: Following the Right Path
+type: post
 ---
 
 It's been a while since I last blogged but my life has been pretty

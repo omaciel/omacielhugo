@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Novo ChapÃ©u: XFCE"
+type: post
 ---
 
 A pedido do [AndrÃ© Noel](http://andrenoel.com.br/)... Tenho o enorme

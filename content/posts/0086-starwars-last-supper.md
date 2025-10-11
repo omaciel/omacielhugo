@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: StarWars \"Last Supper\"
+type: post
 ---
 
 [![Picture of Star Wars as in The Last

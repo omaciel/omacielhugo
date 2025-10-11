@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Coisas Frequentemente Escutadas
+type: post
 ---
 
 ... nas ÃƒÂºltimas feiras ou exposições de tecnologia que eu fui este

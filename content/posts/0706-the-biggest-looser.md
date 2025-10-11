@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: The Biggest Loser
+type: post
 ---
 
 Just watched the Republican debate on TV and was perplexed by the

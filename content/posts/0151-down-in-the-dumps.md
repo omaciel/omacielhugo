@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Down in the dumps
+type: post
 ---
 
 Once again, I see my chance of relocating to Chapel Hill, NC crumble

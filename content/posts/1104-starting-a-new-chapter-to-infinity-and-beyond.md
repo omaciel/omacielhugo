@@ -7,6 +7,7 @@ tags:
  - rpath
  - red hat
 title: "Starting a New Chapter: To Infinity, and Beyond!"
+type: post
 ---
 
 [![New

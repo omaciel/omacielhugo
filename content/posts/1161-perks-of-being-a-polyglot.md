@@ -8,6 +8,7 @@ tags:
  - unc
  - english
 title: Perks of being a polyglot
+type: post
 ---
 
 ￼

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Wish List
+type: post
 ---
 
 With my 34th birthday fast approaching I figured I'd publish my [wish

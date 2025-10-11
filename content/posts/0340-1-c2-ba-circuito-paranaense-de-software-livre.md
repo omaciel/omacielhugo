@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: 1Ã‚Âº Circuito Paranaense de Software Livre
+type: post
 ---
 
 O Christiano Alves me deu o

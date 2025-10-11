@@ -1,0 +1,40 @@
+baseURL: "https://omaciel.github.io/"
+languageCode: "en-us"
+title: "Og Maciel's Journal"
+theme: "hugo-profile"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+# googleanalytics: UA-xxxxxxx-x
+disqusShortname: journalofanopensourcee
+pagination:
+  pagerSize: 7
+
+taxonomies:
+  tag: "tags"
+#  category: "categories"
+
+params:
+  favicon: "/images/fav.png"
+  description: ""
+  copyright: "2021"
+
+  # social
+  name: "Og Maciel"
+  github: "https://github.com/omaciel"
+  linkedin: "https://www.linkedin.com/in/ogmaciel/"
+  twitter: "https://twitter.com/OgMaciel"
+  instagram: "http://instagram.com/ogmaciel"
+  amazon: "https://www.amazon.com/author/ogmaciel"
+  goodreads: "https://www.goodreads.com/author/show/7762080.Og_Maciel"
+
+
+  #blog ( Description for seo. If you want to show description in your listing or single page, let's make it true)
+  showdescription: false
+
+Author:
+  name: "Og Maciel"
+  website: "https://omaciel.github.io"

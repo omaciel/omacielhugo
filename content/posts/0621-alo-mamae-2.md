@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: AlÃ´ MamÃ£e!
+type: post
 ---
 
 Meu amigo [JosÃ© Vitor](http://josevitor.blog.br/) me enviou esta foto

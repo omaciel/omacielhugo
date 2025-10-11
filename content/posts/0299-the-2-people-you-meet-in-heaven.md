@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: The 2 people you meet in Heaven
+type: post
 ---
 
 Hipothetically speaking, if I were giving the opportunity to travel back

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Lazy Summer Day
+type: post
 ---
 
 Spent a uneventful and quiet day with my dad. Played a bit of tennis in

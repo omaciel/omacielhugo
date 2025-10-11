@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Ajuda necessÃ¡ria no projeto de traduÃ§Ã£o e documentaÃ§Ã£o
+type: post
 ---
 
 Aos usuÃ¡rios do Arch Linux Brasileiros:

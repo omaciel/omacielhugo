@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Em Memória de André Gondim
+type: post
 ---
 
 Olá pessoal! Foi com um enorme pezar que eu recebi a

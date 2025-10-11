@@ -9,6 +9,7 @@ tags:
  - foresight
  - django developer kit
 title: Django Devel Kit Appliance 1.2.3
+type: post
 ---
 ![Oops!](http://www.ogmaciel.com/wp-content/uploads/2010/09/508647245_178fc7941d-300x199.jpg)
 

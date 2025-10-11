@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Top Percentile
+type: post
 ---
 
 GNOME Bugzilla

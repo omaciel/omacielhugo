@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Linux World Expo - Boston 2006
+type: post
 ---
 
 O [Linux World

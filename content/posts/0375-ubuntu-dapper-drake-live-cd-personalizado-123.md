@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Ubuntu Dapper Drake Live CD Personalizado 1,2,3
+type: post
 ---
 
 O artigo de hoje foi inspirado no artigo de meu amigo [Alex

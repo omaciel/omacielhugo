@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: On Parallel Peer Programming
+type: post
 ---
 
 Reading Scott James Remnant's latest

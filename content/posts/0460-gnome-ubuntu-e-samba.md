@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Gnome, Ubuntu, e Samba!
+type: post
 ---
 
 Bem, como a notÃ­cia jÃ¡ foi

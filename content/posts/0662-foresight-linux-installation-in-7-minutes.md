@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Foresight Linux installation in 7 minutes!
+type: post
 ---
 
 That is what the new version of [Foresight

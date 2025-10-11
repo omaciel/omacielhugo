@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Procura-se: conhecedor de geografia mundial"
+type: post
 ---
 
 Você gostaria de ajudar o projeto Brasileiro de traduções do GNOME? Você

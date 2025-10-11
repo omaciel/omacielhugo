@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Year of Translations?
+type: post
 ---
 
 What a great month for open source translators this has been! The latest

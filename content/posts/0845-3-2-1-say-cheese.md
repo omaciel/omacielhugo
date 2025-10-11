@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: 3\... 2\... 1\... Say Cheese!
+type: post
 ---
 
 With the soon to be released GNOME version 2.24, you'll find the new

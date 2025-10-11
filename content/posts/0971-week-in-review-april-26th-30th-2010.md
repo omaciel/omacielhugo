@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Week in Review: April 26th - 30th, 2010"
+type: post
 ---
 
 \[caption id="attachment_963" align="aligncenter" width="279"

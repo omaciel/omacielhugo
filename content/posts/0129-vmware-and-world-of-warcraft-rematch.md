@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "VMWare and World of Warcraft: Rematch"
+type: post
 ---
 
 Here I am on my second attempt at installing World of Warcraft into my

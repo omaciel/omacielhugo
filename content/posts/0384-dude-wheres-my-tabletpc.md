@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Dude, Where\'s my TabletPC?
+type: post
 ---
 
 It has been a while since I last wrote about my TabletPC.Ã‚Â  About 2-3

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Classe de Aula do Ubuntu Online
+type: post
 ---
 
 Foi anunciado pelo pessoal do [New User

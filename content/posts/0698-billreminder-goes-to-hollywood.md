@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: BillReminder goes to Hollywood
+type: post
 ---
 
 Not really... but I did create this small webcast to show it off so

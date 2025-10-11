@@ -7,6 +7,7 @@ tags:
  - portuguese
  - gnome board of directors
 title: "Reunião do GNOME Foundation: Março 23, 2011"
+type: post
 ---
 ![IRC Meeting](http://blogs.gnome.org/foundation/files/2011/01/Screenshot-11-300x130.png)
 

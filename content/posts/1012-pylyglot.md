@@ -8,6 +8,7 @@ tags:
  - pylyglot
  - translations
 title: Pylyglot
+type: post
 ---
 
 Been working on a pet project to help out with theÂ **GNOME**

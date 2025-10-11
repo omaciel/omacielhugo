@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Minha experiÃƒÂªncia nas NaÃƒÂ§ÃƒÂµes Unidas
+type: post
 ---
 
 Como jÃƒÂ¡ havia mencionado antes, ontem tive a oportunidade de

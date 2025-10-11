@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: LanÃ§ado o GNOME 2.20!
+type: post
 ---
 
 [GNOME 2.20](http://www.gnome.org/start/2.20/notes/pt_BR/) acabou de

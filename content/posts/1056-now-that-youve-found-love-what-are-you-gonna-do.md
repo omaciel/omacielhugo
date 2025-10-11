@@ -7,6 +7,7 @@ tags:
  - english
  - foresight
 title: Now That You've Found Love What Are You Gonna Do?
+type: post
 ---
 
 Now that you have downloaded and installed the latest [Foresight Linux

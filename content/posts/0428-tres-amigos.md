@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: TrÃªs Amigos!
+type: post
 ---
 
 Buenas!Â  UsuÃ¡rios do Ubuntu Linux da lÃ­ngua portuguesa brasileira

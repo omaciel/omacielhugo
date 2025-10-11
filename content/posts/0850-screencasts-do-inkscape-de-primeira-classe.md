@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Screencasts do Inkscape de primeira classe
+type: post
 ---
 
 Tive de tirar um tempinho para comentar sobre este site super maneiro

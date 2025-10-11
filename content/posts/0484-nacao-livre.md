@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: NaÃ§Ã£o Livre
+type: post
 ---
 
 Ã‰ com um grande prazer que venho apresentar a mais nova fonte de

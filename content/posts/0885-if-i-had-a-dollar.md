@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: If I had a dollar\...
+type: post
 ---
 
 ... for everytime a heard a pediatrician say:

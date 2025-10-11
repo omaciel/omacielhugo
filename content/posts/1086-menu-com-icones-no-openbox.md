@@ -7,6 +7,7 @@ tags:
  - portuguese
  - openbox
 title: Menu com ícones no Openbox
+type: post
 ---
 
 [![Openbox \"fancy\"

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Perfil: Ubuntuser"
+type: post
 ---
 
 Nossa comunidade tem crescido muito neste ÃƒÂºltimos meses, sinal que

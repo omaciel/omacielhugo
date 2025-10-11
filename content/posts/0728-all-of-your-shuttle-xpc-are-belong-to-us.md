@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: All of your Shuttle KPC are belong to us
+type: post
 ---
 
 Following the trend of computer companies shipping GNU/Linux

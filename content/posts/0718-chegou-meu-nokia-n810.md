@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Chegou meu Nokia N810
+type: post
 ---
 
 Minha vida deu uma acelerada nas Ãºltimas 2 semanas e passei meu tempo

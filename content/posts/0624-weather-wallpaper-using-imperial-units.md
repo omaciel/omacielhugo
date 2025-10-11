@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Weather Wallpaper using Imperial Units
+type: post
 ---
 
 Yesterday I heard/read from someone about this cool application that

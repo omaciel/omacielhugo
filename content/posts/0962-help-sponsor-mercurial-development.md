@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Help sponsor Mercurial development!
+type: post
 ---
 
 \[caption id="" align="alignright" width="240" caption="Mercurial is the

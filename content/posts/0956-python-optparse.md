@@ -6,6 +6,7 @@ slug: |
 tags:
  - english, optparse, python, wordpress, xml
 title: Command Line Tools with Python OptParse
+type: post
 ---
 
 [![image0](http://farm4.static.flickr.com/3237/2381346935_d6a6c92b63_m_d.jpg)](http://www.flickr.com/photos/pmtorrone/2381346935/)It

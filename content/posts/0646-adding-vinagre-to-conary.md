@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Adding Vinagre to Conary
+type: post
 ---
 
 Tonight during our [TriLUG](http://www.trilug.org/) meeting,

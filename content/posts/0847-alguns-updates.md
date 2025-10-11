@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Alguns updates
+type: post
 ---
 
 -   [BillReminder](http://billreminder.gnulinuxbrasil.org/) atraiu um

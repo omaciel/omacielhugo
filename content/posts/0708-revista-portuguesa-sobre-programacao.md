@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Revista Portuguesa sobre programaÃ§Ã£o
+type: post
 ---
 
 A dica veio do meu amigo

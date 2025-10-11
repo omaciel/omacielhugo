@@ -8,6 +8,7 @@ tags:
  - movies
  - random
 title: Pulp Fiction In 30 Seconds
+type: post
 ---
 
 Want to see [Pulp Fiction](http://www.imdb.com/title/tt0110912/)

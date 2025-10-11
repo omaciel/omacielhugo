@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Aprendizagem Mastigada
+type: post
 ---
 
 Ontem, esperando por minha esposa duramte sua consulta mÃƒÂ©dica, me

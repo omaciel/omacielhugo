@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: This site is certified 27% EVIL
+type: post
 ---
 
 It has been officially determined now and it is only fair I let people

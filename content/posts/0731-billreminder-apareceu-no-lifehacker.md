@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: BillReminder apareceu no LifeHacker
+type: post
 ---
 
 Fiquei super surpreso quando me falaram que o

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: heh\... why not?
+type: post
 ---
 
 [![meme](http://farm4.static.flickr.com/3090/2870461855_6ae1c89245.jpg)](http://www.flickr.com/photos/ogmaciel/2870461855/)

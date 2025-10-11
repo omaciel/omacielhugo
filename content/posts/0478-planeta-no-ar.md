@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Planeta no Ar!
+type: post
 ---
 
 O [Planeta GNU/Linux Brasil](http://planeta.gnulinuxbrasil.org/) esteve

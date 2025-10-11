@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: VÃ­deo Aula - Aprenda a utilizar o Gimp em 10 aulas simples
+type: post
 ---
 
 Foi com um enorme prazer que eu recebi a notÃ­cia sobre o projeto

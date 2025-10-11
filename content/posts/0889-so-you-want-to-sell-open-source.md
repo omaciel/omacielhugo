@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: So you want to sell open source
+type: post
 ---
 
 I wanted to write about the concept of selling open source ideas and

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Talk like a pirate!
+type: post
 ---
 
 Para as pessoas que nÃ£o acompanham o [Planeta GNU/Linux

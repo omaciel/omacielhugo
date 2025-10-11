@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Back To School
+type: post
 ---
 
 Feeling a bit rusty with your linux skills? Are you a new Ubuntu linux

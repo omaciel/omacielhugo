@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Dialog remodeling and playing with wbar
+type: post
 ---
 
 I have spent a total of 3 hours working on

@@ -7,6 +7,7 @@ slug: |
 tags:
  - rpath, turbogears, conary, foresight linux, ubuntu
 title: sudo apt-get dist-upgrade
+type: post
 ---
 
 Para os meus amigos que estao curiosos por onde estou, aqui vao algumas

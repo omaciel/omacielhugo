@@ -8,6 +8,7 @@ tags:
  - random
  - article
 title: "A (Not) Hacker's Tale"
+type: post
 ---
 
 This is just too [funny](http://www.jellyslab.com/~bteo/hacker.htm)!!!

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Living La Vida Geek
+type: post
 ---
 
 I was very pleased when my good friend **Pete** asked me to be a

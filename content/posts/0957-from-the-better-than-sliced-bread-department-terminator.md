@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "From the \\\"Better Than Sliced Bread\\\" Department: Terminator"
+type: post
 ---
 
 \[caption id="" align="alignleft" width="240" caption="can i keep the

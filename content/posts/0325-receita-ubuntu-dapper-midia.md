@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Receita Ubuntu Dapper MÃƒÂ­dia
+type: post
 ---
 
 Com o novo lanÃƒÂ§amento do Ubuntu Dapper, foram muitas as pessoas que

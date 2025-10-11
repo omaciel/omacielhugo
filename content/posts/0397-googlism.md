@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Googlism
+type: post
 ---
 
 My younger sister showed me this site:

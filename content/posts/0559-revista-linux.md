@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Revista Linux
+type: post
 ---
 
 Saiu o [terceiro](http://www.revista-linux.com/index.php?menu=issues)

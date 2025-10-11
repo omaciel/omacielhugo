@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Snowy Day
+type: post
 ---
 
 Today we had snow in **Chapel Hill** for the first time since I moved

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "The Name Game 2: The Rematch"
+type: post
 ---
 
 My last post brought in a few interesting replies, the great majority of

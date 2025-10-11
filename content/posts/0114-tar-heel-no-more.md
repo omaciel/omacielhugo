@@ -6,6 +6,7 @@ slug: |
 tags:
  - tar heel, life, unc
 title: Tar Heel No More
+type: post
 ---
 
 Once again I avoided mentioning about a very serious job lead I had with

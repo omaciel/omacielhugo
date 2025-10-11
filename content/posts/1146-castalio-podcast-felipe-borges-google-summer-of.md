@@ -11,6 +11,7 @@ tags:
  - ubuntu
  - mandriva
 title: "Castálio Podcast: Felipe Borges: Google Summer of Code"
+type: post
 ---
 
 ![image0](http://media.tumblr.com/tumblr_m2jf6aE8Ic1r7yex1.jpg)

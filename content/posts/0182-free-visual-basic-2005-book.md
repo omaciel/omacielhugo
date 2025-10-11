@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Free Visual Basic 2005 Book
+type: post
 ---
 
 Thought I'd share with my fellow programmers my latest finding:

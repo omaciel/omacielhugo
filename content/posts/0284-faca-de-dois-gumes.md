@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Faca de dois gumes
+type: post
 ---
 
 Publicidade ÃƒÂ© uma coisa que pode ser encarada como uma faca de dois

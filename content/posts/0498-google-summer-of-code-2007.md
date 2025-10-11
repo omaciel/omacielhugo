@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Google Summer of Code 2007
+type: post
 ---
 
 Distribua o poster do **Google Summer of Code 2007** em sua escola e

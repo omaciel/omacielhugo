@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Continuando com Nagasaki
+type: post
 ---
 
 PeÃƒÂ§o perdÃƒÂ£o aos leitores que estÃƒÂ£o acostumados a lerem meus

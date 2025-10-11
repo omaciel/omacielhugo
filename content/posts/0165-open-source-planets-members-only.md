@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: "Open Source Planets: Members Only?"
+type: post
 ---
 
 I meant to post

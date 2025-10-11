@@ -9,6 +9,7 @@ tags:
  - personal-story
  - substack
 title: "How a Thumb Drive Saved My Sanity"
+type: post
 ---
 
 ![Cover Image](/images/thumb-drive-sanity-cover.heic)

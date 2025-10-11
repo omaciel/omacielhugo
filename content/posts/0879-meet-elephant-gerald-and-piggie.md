@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Meet Elephant Gerald and Piggie
+type: post
 ---
 
 Got back home tonight to find our dining table covered by books that Yv

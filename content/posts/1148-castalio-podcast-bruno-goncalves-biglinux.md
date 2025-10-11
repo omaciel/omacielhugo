@@ -11,6 +11,7 @@ tags:
  - podcast
  - portuguese
 title: "Castálio Podcast: Bruno Gonçalves - BigLinux"
+type: post
 ---
 
 ![image0](http://bit.ly/OMhBUp)

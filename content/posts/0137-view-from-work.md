@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: View From Work
+type: post
 ---
 
 [![image0](http://photos22.flickr.com/31966817_aaa3bb1898_m.jpg)](http://photos22.flickr.com/31966817_aaa3bb1898_o.jpg)

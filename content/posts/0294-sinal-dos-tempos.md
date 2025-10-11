@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Sinal dos Tempos
+type: post
 ---
 
 Parece inacreditavel, mas devido a algumas modificaÃƒÂ§ÃƒÂµes da forma

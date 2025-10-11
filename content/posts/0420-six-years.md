@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Six Years
+type: post
 ---
 
 Yesterday was my 6th wedding anniversary... Elizabeth and I lived

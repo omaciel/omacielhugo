@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: ROTFL
+type: post
 ---
 
 \[caption id="attachment_652" align="alignnone" width="650" caption="So

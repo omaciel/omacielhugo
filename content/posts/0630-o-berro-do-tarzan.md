@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: O berro do Tarzan!
+type: post
 ---
 
 O assunto de ontem sobre traduÃ§Ãµes do software livre Brasileiro e

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: It Was A Fix
+type: post
 ---
 
 ![It was a fix](http://www.bbspot.com/Images/News_Features/2003/01/os_quiz/windows_95.jpg)

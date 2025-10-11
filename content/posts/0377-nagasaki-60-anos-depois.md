@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Nagasaki: 60 anos depois"
+type: post
 ---
 
 Hoje marca um dia negro na histÃƒÂ³ria da humanidade, o dia que o

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: WinForms on Mono
+type: post
 ---
 
 Been spending some time converting my pet application BillReminder

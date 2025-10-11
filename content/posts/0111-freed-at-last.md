@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Freed At Last!
+type: post
 ---
 
 FREE NON-PROXY WIFI ACCESS AT WORK, thanks to my buddy

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Thematographer
+type: post
 ---
 
 I took advantage of an unexpected break I had over the weekend to create

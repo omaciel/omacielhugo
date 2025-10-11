@@ -9,6 +9,7 @@ tags:
  - podcast
  - castalio
 title: Castálio Podcast, or Three Times is a Charm
+type: post
 ---
 
 ![Castálio Podcast](http://farm6.static.flickr.com/5149/5574058090_18863ca261_d.jpg)

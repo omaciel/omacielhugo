@@ -8,6 +8,7 @@ tags:
  - wordpress
  - ec2
 title: Moving WordPress Blog to Amazon's EC2
+type: post
 ---
 
 ![King Cloud](http://www.ogmaciel.com/wp-content/uploads/2011/02/704056791_63f1e492d8.jpg)

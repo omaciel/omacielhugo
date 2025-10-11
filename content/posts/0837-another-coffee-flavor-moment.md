@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Another coffee flavor moment
+type: post
 ---
 
 From the same people that brought you **Frank Sumatra**, I present you

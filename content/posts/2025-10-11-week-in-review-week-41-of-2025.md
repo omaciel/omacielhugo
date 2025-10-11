@@ -8,6 +8,7 @@ tags:
  - personal
  - substack
 title: "Week in Review — Week 41 of 2025"
+type: post
 ---
 
 ![Cover Image](/images/week-41-2025-cover.heic)

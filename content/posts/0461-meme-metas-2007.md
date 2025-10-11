@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "Meme: Metas 2007"
+type: post
 ---
 
 Respondendo ao chamado do [LÃ­cio](http://blog.licio.eti.br/?p=53), aqui

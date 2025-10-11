@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Porque traduções com QUALIDADE são importantes!
+type: post
 ---
 
 Meus parabéns para todos aqueles envolvidos com a tradução de software

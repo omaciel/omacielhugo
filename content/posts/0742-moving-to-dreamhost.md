@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Moving to Dreamhost
+type: post
 ---
 
 For more than 4 years I had been a happy customer of phpwebhosting.com.

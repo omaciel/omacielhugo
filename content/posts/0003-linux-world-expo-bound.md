@@ -7,6 +7,7 @@ tags:
  - english
  - linux world expo
 title: Linux World Expo Bound
+type: post
 ---
 
 So here I am, counting the minutes until I get the hell out of work and

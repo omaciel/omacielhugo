@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Openbox 3.4 Released!
+type: post
 ---
 
 It is finally here!!! **Openbox 3.4** was just released, together with a

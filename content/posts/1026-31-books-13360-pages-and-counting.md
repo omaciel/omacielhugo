@@ -7,6 +7,7 @@ tags:
  - english
  - books
 title: 31 Books, 13360 Pages and Counting
+type: post
 ---
 
 ![My Book - Bound Edge by Kate Elliot](http://www.ogmaciel.com/wp-content/uploads/2010/12/2249857435_e52eb9c6ba-240x300.jpg)

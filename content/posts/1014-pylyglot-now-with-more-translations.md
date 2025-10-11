@@ -8,6 +8,7 @@ tags:
  - pylyglot
  - translations
 title: Pylyglot, Now With More Translations
+type: post
 ---
 ![In Every Language](http://www.ogmaciel.com/wp-content/uploads/2010/10/2476125646_c16090b3bd-300x228.jpg)
 

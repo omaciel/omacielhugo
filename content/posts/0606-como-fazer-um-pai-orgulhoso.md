@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Como fazer um pai orgulhoso?
+type: post
 ---
 
 [![Start them

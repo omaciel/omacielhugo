@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Brazil x Argentina online
+type: post
 ---
 
 Unfortunately the match between Brazil and Argentina was not broadcasted

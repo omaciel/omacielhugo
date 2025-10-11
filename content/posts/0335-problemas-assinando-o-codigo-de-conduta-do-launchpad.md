@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Problemas assinando o CÃƒÂ³digo de Conduta do Launchpad?
+type: post
 ---
 
 Aparentemente existe um bug que estÃƒÂ¡ afetando os usuÃƒÂ¡rios tentando

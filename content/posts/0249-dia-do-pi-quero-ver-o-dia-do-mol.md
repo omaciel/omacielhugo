@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Dia do Pi? Quero ver o dia do Mol!
+type: post
 ---
 
 Hoje foi "celebrado" o dia do [Pi](http://en.wikipedia.org/wiki/Pi_Day)

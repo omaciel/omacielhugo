@@ -9,6 +9,7 @@ tags:
  - life
  - article
 title: Good Debian Server Setup HOWTO
+type: post
 ---
 
 Earlier this year [OSNews](http://www.osnews.com) published my

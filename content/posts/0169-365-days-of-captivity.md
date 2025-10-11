@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: 365 Days of Captivity
+type: post
 ---
 
 Yesterday I completed my first year of work at this NYC departmental

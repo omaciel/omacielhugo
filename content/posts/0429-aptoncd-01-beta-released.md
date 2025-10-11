@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: APTonCD 0.1 beta Released!
+type: post
 ---
 
 # What is it?

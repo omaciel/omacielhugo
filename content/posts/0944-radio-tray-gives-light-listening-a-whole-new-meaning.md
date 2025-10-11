@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Radio Tray gives \"light listening\" a whole new meaning!
+type: post
 ---
 
 **The need to be thin!**

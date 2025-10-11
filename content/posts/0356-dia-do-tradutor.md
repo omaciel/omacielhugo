@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Dia do Tradutor
+type: post
 ---
 
 Seguindo os mesmos passos dos famosos Hug Day e Bug Day, gostaria de

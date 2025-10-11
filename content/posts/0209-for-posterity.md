@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: For Posterity
+type: post
 ---
 
 **Disclaimer**: I am definitely not a show off and am only posting this

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: BillReminder available for Ubuntu Hardy
+type: post
 ---
 
 I finally have my pet project

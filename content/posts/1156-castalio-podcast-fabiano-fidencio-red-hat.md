@@ -11,6 +11,7 @@ tags:
  - ubuntu
  - mandriva
 title: "Castálio Podcast: Fabiano Fidêncio: Red Hat"
+type: post
 ---
 
 ![image](http://bit.ly/OMhBUp)

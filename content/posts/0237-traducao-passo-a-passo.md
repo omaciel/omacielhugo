@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: TraduÃƒÂ§ÃƒÂ£o passo a passo
+type: post
 ---
 
 Ontem foi perguntado no \#ubuntu-br qual o procedimento correto para

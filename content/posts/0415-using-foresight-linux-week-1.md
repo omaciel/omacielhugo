@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath, foresight linux, conary
 title: "Using Foresight Linux: Week 1"
+type: post
 ---
 
 Been using [Foresight Linux](http://foresightlinux.com/) at work for the

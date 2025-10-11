@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: Portable FireFox 1.0.2
+type: post
 ---
 
 For all you crazy USB-Portable-Device-Lovers out there: [Portable

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: I\'m Superman!
+type: post
 ---
 
 \'Cause all the "cool" guys are doing it... =)

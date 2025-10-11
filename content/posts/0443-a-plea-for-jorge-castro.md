@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: A Plea for Jorge Castro
+type: post
 ---
 
 I was extremely sad to find out over the weekend that the always lovable

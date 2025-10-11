@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Palestra no GUADEC aceita
+type: post
 ---
 
 Semana passada tive a seguinte surpresa me esperando no meu inbox:

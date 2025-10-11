@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Secret Santa Made Easy
+type: post
 ---
 
 This X-Mas will be the first time I'll have to travel to be with my

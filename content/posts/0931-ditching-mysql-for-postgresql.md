@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Ditching MySQL for PostgreSQL
+type: post
 ---
 
 In order to better follow what the [Transifex](http://www.transifex.org)

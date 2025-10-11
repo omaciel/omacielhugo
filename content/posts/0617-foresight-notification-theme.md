@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Foresight Notification Theme
+type: post
 ---
 
 [![image0](http://farm2.static.flickr.com/1300/1196043909_1df773324c_m.jpg)](http://www.flickr.com/photos/kenvandine/1196043909/)

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Como eu \"blogo\"?
+type: post
 ---
 
 O Andre' Noel me perguntou "como que eu 'blogo'" em um de seus ultimos

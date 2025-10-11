@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Fresh material for all the professional Tweeters out there
+type: post
 ---
 
 My friend [devnet](http://linux-blog.org/) told me today as we got some

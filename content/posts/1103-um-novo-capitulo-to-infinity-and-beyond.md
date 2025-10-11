@@ -9,6 +9,7 @@ tags:
  - red hat
  - portuguese
 title: "Um Novo Capítulo: To Infinity, and Beyond!"
+type: post
 ---
 
 [![New

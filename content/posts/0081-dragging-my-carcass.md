@@ -9,6 +9,7 @@ tags:
  - nycsca
  - pet project
 title: Dragging My Carcass
+type: post
 ---
 
 Been really busy attending the Project Management class these last 3

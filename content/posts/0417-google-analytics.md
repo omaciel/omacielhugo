@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Google Analytics
+type: post
 ---
 
 Comecei a brincar com a nova ferramenta da Google, [Google

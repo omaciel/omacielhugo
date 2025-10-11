@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Get your oven mittens on because Transifex Pyro is out!
+type: post
 ---
 
 Last weekend the [Indifex](http://www.indifex.com/) developers released

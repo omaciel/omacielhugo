@@ -11,6 +11,7 @@ tags:
  - Github
  - Tumblr
 title: How to import WordPress XML files
+type: post
 ---
 
 ... or, how I brought an old python code back from the dead!

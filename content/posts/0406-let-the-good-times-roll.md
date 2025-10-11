@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath, ubuntu
 title: Let the good times roll!
+type: post
 ---
 
 Just a quick note since I still have no internet at home and have been

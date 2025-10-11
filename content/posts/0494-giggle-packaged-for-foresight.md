@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Giggle packaged for Foresight
+type: post
 ---
 
 Giggle is the new "GTK+ based GIT interface". Get [Giggle

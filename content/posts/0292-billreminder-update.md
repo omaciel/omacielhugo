@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: BillReminder Update
+type: post
 ---
 
 Due to the proximity to the release date for Dapper Drake, Ubuntu

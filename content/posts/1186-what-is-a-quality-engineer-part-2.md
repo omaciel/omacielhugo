@@ -11,6 +11,7 @@ tags:
  - quality engineering
  - work
 title: Just What Is A Quality Engineer? Part 2
+type: post
 ---
 
 ![Picture of Batman](/images/batman-is-qe.jpeg)

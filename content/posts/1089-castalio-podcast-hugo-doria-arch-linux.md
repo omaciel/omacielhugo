@@ -9,6 +9,7 @@ tags:
  - castalio
  - podcast
 title: "Castálio Podcast: Hugo Dória - Arch Linux"
+type: post
 ---
 
 [![Rock N\' Roll

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: O misterioso sangramento do Lício
+type: post
 ---
 
 Desde os dias do FISL comecei a acompanhar o bate-papo que rola pelo

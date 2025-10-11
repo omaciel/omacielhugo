@@ -8,6 +8,7 @@ tags:
  - books
  - irani de castro
 title: "Procura-se: Irani de Castro"
+type: post
 ---
 
 ![Os Seis e o Teco-teco Misterioso](http://blog.ogmaciel.com/wp-content/uploads/2011/05/os_seis-198x300.jpg)

@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Is it progress?
+type: post
 ---
 
 It has been roughly a week since I learned about the "new" repository

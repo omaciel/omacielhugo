@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: \"Caving\" In
+type: post
 ---
 
 I finally caved in and gave **beryl** a try. After being literally

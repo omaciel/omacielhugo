@@ -7,6 +7,7 @@ tags:
  - english
  - random
 title: Windows Security
+type: post
 ---
 
 [![Windows

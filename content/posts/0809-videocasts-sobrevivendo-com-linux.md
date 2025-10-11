@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: VideoCasts e Planetas
+type: post
 ---
 
 Para vocês que querem aprender um pouco mais sobre como fazer coisas

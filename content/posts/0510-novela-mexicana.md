@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Novela Mexicana
+type: post
 ---
 
 Aparentemente meu Ãºltimo artigo feriu os sentimentos de algumas

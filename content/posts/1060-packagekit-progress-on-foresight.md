@@ -8,6 +8,7 @@ tags:
  - foresight
  - packagekit
 title: PackageKit Progress on Foresight
+type: post
 ---
 
 For a while [Foresight Linux](http://foresightlinux.org) users had no

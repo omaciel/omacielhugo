@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Instalando o Enlightenment 17 no Ubuntu
+type: post
 ---
 
 Uma receitazinha para nao perder o costume. :) Eu sempre estive

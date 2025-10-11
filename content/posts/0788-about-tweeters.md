@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: About Tweeters
+type: post
 ---
 
 \[10:29:10 AM\] Dude: there's way too many "social" networks to keep

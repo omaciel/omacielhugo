@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: First impression of the OLPC OS
+type: post
 ---
 
 Shortly after reading the

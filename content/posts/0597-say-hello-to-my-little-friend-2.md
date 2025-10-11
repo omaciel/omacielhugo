@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Say hello to my little friend!
+type: post
 ---
 
 Say hello to my little friend **NTrunko,** my Nokia N800 tablet! It

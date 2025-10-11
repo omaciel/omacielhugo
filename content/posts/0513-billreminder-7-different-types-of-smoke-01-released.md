@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: BillReminder \"7 Different Types of Smoke\" 0.1 Released
+type: post
 ---
 
 Release soon, release often they say, right? Well, here it is then!

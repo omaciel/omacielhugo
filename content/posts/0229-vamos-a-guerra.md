@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Vamos ÃƒÂ  Guerra?
+type: post
 ---
 
 Inspirado pelo meu ÃƒÂºltimo artigo, resolvi anunciar o primeiro

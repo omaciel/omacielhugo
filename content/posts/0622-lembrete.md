@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Lembrete
+type: post
 ---
 
 A equipe de traduÃ§Ã£o Brasileira do XFCE terÃ¡ sua primeira reuniÃ£o

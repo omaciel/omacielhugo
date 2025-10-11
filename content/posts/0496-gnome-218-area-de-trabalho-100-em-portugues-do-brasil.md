@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: "GNOME 2.18: Area de Trabalho 100% em Portugues do Brasil!"
+type: post
 ---
 
 Conseguimos! Agora o GNOME ja' possui todos os seus programas padrao da

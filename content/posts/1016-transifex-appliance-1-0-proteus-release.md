@@ -7,6 +7,7 @@ tags:
  - rpath
  - transifex
 title: Transifex Appliance 1.0 (Proteus) Release
+type: post
 ---
 
 [![Transifex](http://bit.ly/TxLogo)](http://bit.ly/Transifex)A newer

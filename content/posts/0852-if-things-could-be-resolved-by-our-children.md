@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: If things could be resolved by our children
+type: post
 ---
 
 Something interesting happened today. As my wife and I talked about the

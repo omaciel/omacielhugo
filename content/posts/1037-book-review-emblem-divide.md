@@ -7,6 +7,7 @@ tags:
  - english
  - books
 title: "Book Review: Emblem Divide"
+type: post
 ---
 ![Emblem Divide](http://www.ogmaciel.com/wp-content/uploads/2011/02/emblem-divide-cover.png)
 

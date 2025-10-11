@@ -8,6 +8,7 @@ tags:
  - gnome
  - boston summit
 title: Let Me Hear Your Voices
+type: post
 ---
 ![Speakup](http://www.ogmaciel.com/wp-content/uploads/2010/11/2848828560_6d36a3fbeb-225x300.jpg)
 

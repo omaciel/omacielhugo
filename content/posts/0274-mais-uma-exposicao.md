@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Mais uma exposiÃƒÂ§ÃƒÂ£o!
+type: post
 ---
 
 Nos dias 23 e 24 de abril vou estar mais uma vez "na estrada", desta vez

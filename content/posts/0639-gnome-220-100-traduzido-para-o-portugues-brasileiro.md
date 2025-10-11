@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: GNOME 2.20 100% traduzido para o PortuguÃªs Brasileiro!
+type: post
 ---
 
 Tenho o grande prazer de anunciar que o **GNOME 2.20**

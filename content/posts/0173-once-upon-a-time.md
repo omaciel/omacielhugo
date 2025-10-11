@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Once upon a time
+type: post
 ---
 
 ![memories](http://static.flickr.com/24/44509688_41a56446cc.jpg)

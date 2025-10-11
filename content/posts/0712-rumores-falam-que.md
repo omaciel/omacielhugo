@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Rumores falam que\...
+type: post
 ---
 
 ... que isso (abaixo) pode ser uma nova distribuiÃ§Ã£o GNU/Linux baseada

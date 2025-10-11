@@ -9,6 +9,7 @@ tags:
  - foresight
  - banshee
 title: GNOME 3.0, Banshee 2.0 and Foresight Linux
+type: post
 ---
 
 First off, congratulations to everyone involved in the release of [GNOME

@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Atualizações de traduções
+type: post
 ---
 
 Orgulhoso de ter participado da entrega dos seguintes projetos upstream

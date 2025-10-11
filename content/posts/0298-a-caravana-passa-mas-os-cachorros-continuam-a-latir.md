@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: A caravana passa mas os cachorros continuam a latir
+type: post
 ---
 
 Um efeito colateral de se morar fora do Brasil por tanto tempo ÃƒÂ© que,

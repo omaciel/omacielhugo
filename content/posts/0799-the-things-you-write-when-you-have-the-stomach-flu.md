@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: The things you write when you have the stomach flu
+type: post
 ---
 
 Been suffering from a nasty stomach flu since yesterday and, needless to

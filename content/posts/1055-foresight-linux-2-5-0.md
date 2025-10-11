@@ -7,6 +7,7 @@ tags:
  - english
  - foresight
 title: Foresight Linux 2.5.0!
+type: post
 ---
 
 At last, after a long hiatus, I can shout out for the whole world to

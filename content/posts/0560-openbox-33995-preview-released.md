@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Openbox 3.3.995 preview released
+type: post
 ---
 
 For those following along with the preview releases of

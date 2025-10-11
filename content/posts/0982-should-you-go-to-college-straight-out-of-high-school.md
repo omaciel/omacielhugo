@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Should you go to college straight out of high school?
+type: post
 ---
 
 \[caption id="" align="alignleft" width="240" caption="Should you go to

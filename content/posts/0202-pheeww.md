@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Pheeww
+type: post
 ---
 
 Thanks to [Clint](http://xana.scru.org/bamamba/goodparenting.html), I

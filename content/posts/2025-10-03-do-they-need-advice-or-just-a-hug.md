@@ -11,6 +11,7 @@ tags:
  - relationships
  - substack
 title: "Do They Need Advice — or Just a Hug?"
+type: post
 ---
 
 A few days ago, I encountered a note with a simple message: *"Don't give a lecture to someone who needs a hug."*

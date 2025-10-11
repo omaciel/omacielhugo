@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Slavery is still well and alive in small town Brazil!
+type: post
 ---
 
 I have just watched this

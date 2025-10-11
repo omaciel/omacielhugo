@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Ubuntu Brazilian Portuguese Translators F.C.
+type: post
 ---
 
 Finally!!! After so many months of working hard on the brazilian

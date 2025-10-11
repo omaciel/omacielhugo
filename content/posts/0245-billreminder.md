@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: BillReminder
+type: post
 ---
 
 Ãƒâ€° com um enorme prazer que venho anunciar o "nascimento" oficial do

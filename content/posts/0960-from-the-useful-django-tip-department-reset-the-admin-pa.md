@@ -7,6 +7,7 @@ tags:
  - english
 title: "From the \\\"Useful Django Tip\\\" Department: Reset The Admin
   Password"
+type: post
 ---
 
 This comes straight from the **Useful Django Tip** department: How do

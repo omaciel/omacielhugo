@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Got milk?
+type: post
 ---
 
 One of my favorite web services ever

@@ -8,6 +8,7 @@ tags:
  - random
  - life
 title: Let Me Introduce You To My Little Friend
+type: post
 ---
 
 I was really bad over this weekend... I not only had a cup of (gasp!)

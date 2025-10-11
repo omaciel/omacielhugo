@@ -15,6 +15,7 @@ tags:
  - grooveshark
  - emacs
 title: "Life Update: July 15th, 2012"
+type: post
 ---
 
 ![image0](http://media.tumblr.com/tumblr_m78fjqhJfA1r7yex1.png)It's been

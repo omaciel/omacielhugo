@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Moving on
+type: post
 ---
 
 Yesterday I sent out an email to the members of the Ubuntu Brazilian

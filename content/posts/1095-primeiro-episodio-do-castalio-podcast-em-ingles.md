@@ -9,6 +9,7 @@ tags:
  - castalio
  - podcast
 title: Primeiro Episódio do Castálio Podcast em Inglês!
+type: post
 ---
 
 [![Pete Savage: Git In The

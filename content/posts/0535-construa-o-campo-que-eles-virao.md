@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Construa o campo que eles virÃ£o!
+type: post
 ---
 
 Assim falou [Maudy

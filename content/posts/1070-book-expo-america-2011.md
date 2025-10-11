@@ -8,6 +8,7 @@ tags:
  - books
  - book expo america
 title: Book Expo America 2011
+type: post
 ---
 ![BookExpo America](http://www.bookexpoamerica.com/RNA/RNA_BookExpo_V2/images/2011/logo_BEA11.jpg)
 

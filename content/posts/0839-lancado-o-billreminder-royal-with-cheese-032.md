@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Lançado o BillReminder \"Royale with cheese\" 0.3.2
+type: post
 ---
 
 [![BillReminder](http://farm1.static.flickr.com/155/426001389_82fe3885b7_m.jpg)](http://www.flickr.com/photos/ogmaciel/426001389/)

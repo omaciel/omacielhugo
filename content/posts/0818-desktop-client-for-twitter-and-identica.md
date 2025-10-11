@@ -6,6 +6,7 @@ slug: |
 tags:
  - gwibber
 title: Desktop client for Twitter and Identi.ca
+type: post
 ---
 
 I've been using Ping.FM to update my Twitter and Identi.ca accounts for

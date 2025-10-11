@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: GeraÃ§Ã£o Bitolada
+type: post
 ---
 
 JÃ¡ faz um bom tempo que nÃ£o escrevo nada, mas nÃ£o foi por falta de

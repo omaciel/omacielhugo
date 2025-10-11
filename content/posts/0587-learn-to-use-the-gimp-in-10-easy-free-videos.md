@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Learn to use the GIMP in 10 easy FREE videos
+type: post
 ---
 
 **Shameless plug ahead**:

@@ -8,6 +8,7 @@ tags:
  - gaming
  - life
 title: Beware of Crabs When Fishing
+type: post
 ---
 
 Last night I decided to work on my plan of racking up World of Warcraft

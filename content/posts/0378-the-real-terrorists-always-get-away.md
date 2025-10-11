@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: The real terrorists always get away
+type: post
 ---
 
 Today, 60 years ago:

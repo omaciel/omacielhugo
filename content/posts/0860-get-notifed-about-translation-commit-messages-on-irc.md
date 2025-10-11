@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Get notifed about translation commit messages on IRC
+type: post
 ---
 
 A few years back I created the irc channel **\#tradutores** (translators

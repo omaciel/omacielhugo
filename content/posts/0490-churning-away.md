@@ -6,6 +6,7 @@ slug: |
 tags:
  - rpath
 title: Churning away
+type: post
 ---
 
 Ok, so we now have [Live

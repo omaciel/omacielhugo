@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: True Colors
+type: post
 ---
 
 [![Brazil and Ubuntu: Perfect

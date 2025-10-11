@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Prá que complicar?
+type: post
 ---
 
 -   Aug 04 12:06:15 ---- gmazk has changed the topic to: Canal oficial

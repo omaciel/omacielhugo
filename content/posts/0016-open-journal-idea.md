@@ -7,6 +7,7 @@ tags:
  - english
  - pet project
 title: Open Journal Idea
+type: post
 ---
 
 It has been a long time since I last blogged on my other web site [Linux

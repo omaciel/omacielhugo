@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Idiot Of The Year Award\...
+type: post
 ---
 
 ... goes to 18-year-old Scott Harper of Armonk, N.Y., who "plunged from

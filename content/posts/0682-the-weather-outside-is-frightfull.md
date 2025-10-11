@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: \"The weather outside is frightfull\...
+type: post
 ---
 
 ... but here in North Carolina is so delightfull!"

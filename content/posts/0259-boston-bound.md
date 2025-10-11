@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Boston Bound
+type: post
 ---
 
 Tomorrow I'll be travelling once again to Boston, this time to represent

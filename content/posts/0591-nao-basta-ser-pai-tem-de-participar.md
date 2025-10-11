@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: NÃ£o basta ser pai\... tem de participar!
+type: post
 ---
 
 O nÃºmero de pessoas que me contactaram sobre meu Ãºltimo post, chamado

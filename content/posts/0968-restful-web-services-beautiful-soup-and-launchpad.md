@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: RESTful Web Services, Beautiful Soup and Launchpad
+type: post
 ---
 
 \[caption id="" align="alignleft" width="160" caption="Pumpkin Black

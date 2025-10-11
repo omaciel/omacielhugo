@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Pegando os Espanhois de Tapas
+type: post
 ---
 
 Calma, calma gente...Ã‚Â  NÃƒÂ£o estou partindo para a ignorÃƒÂ¢ncia e

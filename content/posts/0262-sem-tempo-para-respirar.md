@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Sem tempo para respirar!!!
+type: post
 ---
 
 Que loucura!!!Ã‚ Ubuntu estÃƒÂ¡ realmente fazendo uma boa campanha

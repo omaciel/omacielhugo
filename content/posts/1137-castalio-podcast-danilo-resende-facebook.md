@@ -11,6 +11,7 @@ tags:
  - podcast
  - castálio
 title: "Castálio Podcast: Danilo Resende - Facebook"
+type: post
 ---
 
 ![image0](http://media.tumblr.com/tumblr_m2jf6aE8Ic1r7yex1.jpg)

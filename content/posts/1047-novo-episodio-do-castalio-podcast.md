@@ -9,6 +9,7 @@ tags:
  - podcast
  - castalio
 title: Novo Episódio do Castálio Podcast
+type: post
 ---
 ![Nerdson](http://blog.ogmaciel.com/wp-content/uploads/2011/03/nerdson.png)
 

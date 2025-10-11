@@ -6,6 +6,7 @@ slug: |
 tags:
  - portuguese
 title: Para Frente Ãƒâ€° Que Se Anda
+type: post
 ---
 
 JÃƒÂ¡ faz mais ou menos uma semana que fiquei sabendo que a Canonical

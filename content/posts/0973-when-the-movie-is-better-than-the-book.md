@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: When the movie is better than the book
+type: post
 ---
 
 \[caption id="attachment_1022" align="alignleft" width="264"

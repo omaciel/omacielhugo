@@ -8,6 +8,7 @@ tags:
  - life
  - perforce
 title: Trying Out Perforce
+type: post
 ---
 
 Tonight I want to take a quick break from playing WoW and install

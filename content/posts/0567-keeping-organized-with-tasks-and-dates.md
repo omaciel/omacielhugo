@@ -6,6 +6,7 @@ slug: |
 tags:
  - english
 title: Keeping organized with Tasks and Dates
+type: post
 ---
 
 After talking to a few other guys about
