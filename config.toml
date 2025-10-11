@@ -24,8 +24,8 @@ title = "Og Maciel's Journal"
   amazon = "https://www.amazon.com/author/ogmaciel"
   goodreads = "https://www.goodreads.com/user/show/26849474-og-maciel"
   
-  # Custom head HTML for Font Awesome
-  customHeadHTML = '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">'
+  # Custom head HTML for Font Awesome and favicon
+  customHeadHTML = '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"><link rel="icon" href="/favicon.ico"><link rel="shortcut icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/images/ogmaciel.jpg">'
 
   socialIcons = [
     {name = "github", url = "https://github.com/omaciel"},
