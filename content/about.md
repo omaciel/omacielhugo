@@ -24,7 +24,7 @@ I work remotely as a **Software Engineering Senior Manager** for [Red Hat](https
 
 I first learned to program in Basic on a [TK90X](https://en.wikipedia.org/wiki/TK90X) while reading [Input](https://en.wikipedia.org/wiki/Input_(magazine)) magazines, which my mom would order specially for me. But what I really wanted to do was [gene therapy](https://en.wikipedia.org/wiki/Gene_therapy), which is the reason why I earned a B.S. in [Biochemistry](https://en.wikipedia.org/wiki/Biochemistry) from [Pace University](https://www.pace.edu/dyson/) in Pleasantville, New York.
 
-After knocking around a couple of pharmaceutical startups, big and small, I eventually [quit the rat race](https://omaciel.github.io/posts/nyc-claims-another-victim-/) and moved from New Jersey to **Chapel Hill, North Carolina**, to join my very first Open Source company, [rPath](https://en.wikipedia.org/wiki/RPath), where I learned some of the most important lessons of my life, starting with how to [Sweep the Floor](https://omaciel.github.io/posts/sweep-the-floor/).
+After knocking around a couple of pharmaceutical startups, big and small, I eventually [quit the rat race](https://omaciel.github.io/posts/nyc-claims-another-victim-/) and moved from New Jersey to **Chapel Hill, North Carolina**, to join my very first Open Source company, [rPath](https://en.wikipedia.org/wiki/RPath), where I learned some of the most important lessons of my life, starting with how to [Sweep the Floor](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch04.html) which is one of the [Apprenticeship Patters](https://www.oreilly.com/library/view/apprenticeship-patterns/).
 
 ## What I Enjoy
 
