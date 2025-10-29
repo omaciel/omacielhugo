@@ -10,7 +10,7 @@ title = "Og Maciel's Journal"
 [params]
   avatarAltText = "Og Maciel"
   avatarSize = "size-m"
-  avatarURL = "/images/ogmaciel.jpg"
+  avatarURL = "/images/cartoon_avatar.png"
   description = "Reflections on technology, reading, life, and everything in between"
   footer = "Og Maciel © 2005-2025"
   metaKeywords = ["blog", "technology", "books", "reading", "software engineering", "quality engineering"]
