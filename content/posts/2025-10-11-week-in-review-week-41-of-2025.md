@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-11
-description: A week of meetings, milestones, and moments that mattered - reconnecting with family and finding balance
+description: "A week of meetings, milestones, and moments that mattered - reconnecting with family and finding balance"
 tags:
  - weekly-review
  - personal

@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-26
-description: If you're new here, this is part of my ongoing experiment where I'm publishing raw, completely unedited chapters of a novel I've been writing (and rewriting… deleting… swearing at… and rewriting again) for the past couple of years.
+description: "If you're new here, this is part of my ongoing experiment where I'm publishing raw, completely unedited chapters of a novel I've been writing (and rewriting… deleting… swearing at… and rewriting again) for the past couple of years."
 tags:
  - creativity
  - fact

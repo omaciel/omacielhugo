@@ -3,8 +3,7 @@ author:
 - Og Maciel
 
 date: 2015-10-06
-description: |
-  Books from September 2015
+description: "Books from September 2015"
 tags:
  - Rubem Fonseca
  - Saul Bellow

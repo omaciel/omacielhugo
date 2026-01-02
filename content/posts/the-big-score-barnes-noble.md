@@ -2,7 +2,7 @@
 title: "The Big Score Barnes Noble"
 date: 2021-09-03T11:54:55-04:00
 draft: false
-description: My latest YA novel hardcover can now be preordered on Barnes and Noble.
+description: "My latest YA novel hardcover can now be preordered on Barnes and Noble."
 tags:
  - writing
  - book

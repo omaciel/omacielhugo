@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-25
-description: Another week in the books, and this one was a reminder that life is a balancing act between chaos and comfort—between AWS meltdowns and Japanese takeout, between one-on-one meetings and long overdue naps.
+description: "Another week in the books, and this one was a reminder that life is a balancing act between chaos and comfort—between AWS meltdowns and Japanese takeout, between one-on-one meetings and long overdue naps."
 tags:
  - game night
  - personal

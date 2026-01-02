@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-04
-description: A reflection on an intense work week balanced with intentional family time, maintaining fitness routines, and a 2,134-day reading streak.
+description: "A reflection on an intense work week balanced with intentional family time, maintaining fitness routines, and a 2,134-day reading streak."
 tags:
  - weekly-review
  - work-life-balance

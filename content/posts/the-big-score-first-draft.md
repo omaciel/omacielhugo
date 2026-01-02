@@ -2,7 +2,7 @@
 title: "The Big Score - First Draft"
 date: 2021-06-12T12:07:20-04:00
 draft: false
-description: The first draft of my latest YA novel is ready.
+description: "The first draft of my latest YA novel is ready."
 tags:
  - writing
  - book

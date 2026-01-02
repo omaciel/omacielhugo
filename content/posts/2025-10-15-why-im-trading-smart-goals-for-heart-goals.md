@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-15
-description: A leadership reflection on trading SMART goals for HEART goals - exploring how purpose-driven, transformative goal-setting can create more meaningful professional and personal growth
+description: "A leadership reflection on trading SMART goals for HEART goals - exploring how purpose-driven, transformative goal-setting can create more meaningful professional and personal growth"
 tags:
  - leadership
  - management

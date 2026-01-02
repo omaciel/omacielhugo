@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-17
-description: A heartfelt reflection on 25 years of marriage - how opposites attract and the quiet girl who became the steady foundation of a beautiful family
+description: "A heartfelt reflection on 25 years of marriage - how opposites attract and the quiet girl who became the steady foundation of a beautiful family"
 tags:
  - marriage
  - love

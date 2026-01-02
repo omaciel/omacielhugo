@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-18
-description: A week in review covering work chaos, team management, infrastructure challenges, and celebrating 25 years of marriage - Week 42 of 2025
+description: "A week in review covering work chaos, team management, infrastructure challenges, and celebrating 25 years of marriage - Week 42 of 2025"
 tags:
  - week-in-review
  - work-life-balance

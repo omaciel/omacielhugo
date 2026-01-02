@@ -2,7 +2,7 @@
 title: "The Big Score Pre Order"
 date: 2021-08-28T14:52:11-04:00
 draft: false
-description: You can now pre-order my latest YA novel.
+description: "You can now pre-order my latest YA novel."
 tags:
  - writing
  - book

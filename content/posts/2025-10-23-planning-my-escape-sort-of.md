@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-23
-description: Today I stumbled across an article claiming that the magic number you need to save for a "comfortable" retirement is $1.5 million. I only skimmed the article, but I'm pretty sure it was written for people living in the U.S. who plan to retire around 67. And by "comfortable," I'm guessing they mean having a roof that doesn't leak, food that isn't ramen, and health insurance that doesn't send you straight into bankruptcy.
+description: "Today I stumbled across an article claiming that the magic number you need to save for a \"comfortable\" retirement is $1.5 million. I only skimmed the article, but I'm pretty sure it was written for people living in the U.S. who plan to retire around 67. And by \"comfortable,\" I'm guessing they mean having a roof that doesn't leak, food that isn't ramen, and health insurance that doesn't send you straight into bankruptcy."
 tags:
  - reflection
  - personal

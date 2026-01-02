@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-21
-description: Over the weekend, my wife and I were talking about how good it would be to finally replace our old, beat-up couch in the living room.
+description: "Over the weekend, my wife and I were talking about how good it would be to finally replace our old, beat-up couch in the living room."
 tags:
  - personal
  - reflection

@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-08
-description: Reflections on back-to-back meetings, remote work culture, and the struggle to maintain work-life boundaries
+description: "Reflections on back-to-back meetings, remote work culture, and the struggle to maintain work-life boundaries"
 tags:
  - work
  - remote-work

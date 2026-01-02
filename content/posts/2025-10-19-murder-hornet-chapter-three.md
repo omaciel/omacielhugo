@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-19
-description: Chapter Three of Murder Hornet - continuing the story of Thomas Conrad and his family in Chapel Hill, featuring dinner conversations about Linux appliances and soccer dreams
+description: "Chapter Three of Murder Hornet - continuing the story of Thomas Conrad and his family in Chapel Hill, featuring dinner conversations about Linux appliances and soccer dreams"
 tags:
  - fiction
  - writing

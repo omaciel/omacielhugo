@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-05
-description: First chapter of an unfinished fiction project about a new student in Chapel Hill and his encounter with a mysterious girl on a yellow Vespa
+description: "First chapter of an unfinished fiction project about a new student in Chapel Hill and his encounter with a mysterious girl on a yellow Vespa"
 tags:
  - fiction
  - writing

@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-09
-description: Thoughts on excessive code-switching in fiction and when multilingual writing crosses from enriching to distracting
+description: "Thoughts on excessive code-switching in fiction and when multilingual writing crosses from enriching to distracting"
 tags:
  - books
  - reading

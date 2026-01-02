@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-09-27
-description: Exploring apps for tracking the "Don't Break the Chain" productivity method, while contemplating building a custom solution as a learning opportunity.
+description: "Exploring apps for tracking the \"Don't Break the Chain\" productivity method, while contemplating building a custom solution as a learning opportunity."
 tags:
  - productivity
  - software-development

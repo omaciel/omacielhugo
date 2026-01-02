@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-14
-description: A journey from self-hosted LAMP stacks to using AI for blog migration - exploring the balance between automation and technical understanding
+description: "A journey from self-hosted LAMP stacks to using AI for blog migration - exploring the balance between automation and technical understanding"
 tags:
  - creativity
  - ai

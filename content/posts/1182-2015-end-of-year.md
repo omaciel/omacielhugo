@@ -3,8 +3,7 @@ author:
 - Og Maciel
 
 date: 2015-12-31
-description: |
-  Review of 2015
+description: "Review of 2015"
 tags:
  - brno
  - czech republic

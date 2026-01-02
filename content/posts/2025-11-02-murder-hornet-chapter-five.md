@@ -2,20 +2,19 @@
 author:
 - Og Maciel
 date: 2025-11-02
-description: If you're new here, this is part of my ongoing experiment where I'm publishing raw, completely unedited chapters of a novel I've been writing (and rewriting… deleting… swearing at… and rewriting again) for the past couple of years.
+description: "If you're new here, this is part of my ongoing experiment where I'm publishing raw, completely unedited chapters of a novel I've been writing (and rewriting… deleting… swearing at… and rewriting again) for the past couple of years."
+title: "Murder Hornet: Chapter Five"
 tags:
- - creativity
- - young adult
- - Murder Hornet (Book Series)
- - chapel hill
  - fiction
  - writing
+ - chapel hill
+ - young adult
  - substack
-title: "Murder Hornet: Chapter Five"
 type: post
 cover:
   image: /images/murder-hornet-chapter-five-cover.heic
 ---
+
 ![Cover Image](/images/murder-hornet-chapter-two.heic)
 *Photo by [Tatiana Tochilova](https://unsplash.com/@keffi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-yellow-scooter-parked-in-front-of-a-building-fZRDvnovaiA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*
 

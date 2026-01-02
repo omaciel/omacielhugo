@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-10
-description: How portable apps on a thumb drive helped me survive working at a government agency with no internet access
+description: "How portable apps on a thumb drive helped me survive working at a government agency with no internet access"
 tags:
  - career
  - technology

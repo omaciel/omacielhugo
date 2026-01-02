@@ -3,9 +3,8 @@ author:
 - Og Maciel
 
 date: 2017-06-27
-description: |
-  Great advice from Stephen King about writing which also applies to
-  reading.
+description: "Great advice from Stephen King about writing which also applies to
+  reading."
 tags:
  - books
  - reading

@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-12
-description: Chapter Two of Murder Hornet - Tommy learns about Allison Engelhardt's dark past and faces an unexpected challenge
+description: "Chapter Two of Murder Hornet - Tommy learns about Allison Engelhardt's dark past and faces an unexpected challenge"
 tags:
  - creativity
  - writing

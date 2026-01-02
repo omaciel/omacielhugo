@@ -3,8 +3,7 @@ author:
 - Og Maciel
 
 date: 2015-07-29
-description: |
-  A post about the books I read this July 2015
+description: "A post about the books I read this July 2015"
 tags:
  - Azar Nafisi
  - Junot Díaz

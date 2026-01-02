@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-27
-description: When I walked into Synaptic Pharmaceuticals for my first official software developer job interview, I had never written a line of professional code.
+description: "When I walked into Synaptic Pharmaceuticals for my first official software developer job interview, I had never written a line of professional code."
 tags:
  - growth
  - journey

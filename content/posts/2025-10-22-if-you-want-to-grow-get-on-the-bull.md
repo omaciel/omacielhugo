@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-22
-description: I can't remember exactly when I first heard the advice about taking ownership of your own career and destiny instead of leaving it up to chance. Maybe it came from a book, maybe a talk—I can't remember. But I do know the exact day when it finally hit me
+description: "I can't remember exactly when I first heard the advice about taking ownership of your own career and destiny instead of leaving it up to chance. Maybe it came from a book, maybe a talk—I can't remember. But I do know the exact day when it finally hit me"
 tags:
  - personal
  - career

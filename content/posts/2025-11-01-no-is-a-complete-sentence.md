@@ -2,19 +2,14 @@
 author:
 - Og Maciel
 date: 2025-11-01
-description: Google Calendar says I spend an average of 20 hours a week in meetings. Add to that the fact that I have to block my own lunch just to prevent people from scheduling over it, and suddenly 25 hours of a 40-hour week are already spoken for. Then there are the ad-hoc calls that pop up out of nowhere and don't even show up on the calendar. So I'm pretty convinced I actually spend
-tags:
- - leadership
- - Work-Life Balance
- - career
- - boundaries
- - management
- - personal
- - meetings
- - saying no
- - workplace culture
- - substack
+description: "Google Calendar says I spend an average of 20 hours a week in meetings. Add to that the fact that I have to block my own lunch just to prevent people from scheduling over it, and suddenly 25 hours of a 40-hour week are already spoken for. Then there are the ad-hoc calls that pop up out of nowhere and don't even show up on the calendar. So I'm pretty convinced I actually spend"
 title: "No Is a Complete Sentence"
+tags:
+ - personal
+ - boundaries
+ - growth
+ - life lessons
+ - substack
 type: post
 ---
 

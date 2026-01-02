@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-07
-description: A personal story about discovering music's power and how it shaped a lifetime of memories and self-expression
+description: "A personal story about discovering music's power and how it shaped a lifetime of memories and self-expression"
 tags:
  - music
  - personal-story

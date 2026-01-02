@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-06
-description: A brief celebration of buying new books as a form of stress relief and self-care
+description: "A brief celebration of buying new books as a form of stress relief and self-care"
 tags:
  - books
  - reading

@@ -3,8 +3,7 @@ author:
 - Og Maciel
 
 date: 2015-08-31
-description: |
-  A post about the books I read this August 2015
+description: "A post about the books I read this August 2015"
 tags:
  - Edgar Allan Poe
  - Marcel Proust

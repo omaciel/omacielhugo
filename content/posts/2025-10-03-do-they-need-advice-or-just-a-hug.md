@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-03
-description: A reflection on the importance of listening and empathy, and learning to discern when someone needs advice versus just someone to listen to their struggles.
+description: "A reflection on the importance of listening and empathy, and learning to discern when someone needs advice versus just someone to listen to their struggles."
 tags:
  - empathy
  - listening

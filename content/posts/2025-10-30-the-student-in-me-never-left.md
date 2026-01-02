@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-30
-description: This morning I started work late because I had to run a couple of errands.
+description: "This morning I started work late because I had to run a couple of errands."
 tags:
  - education
  - personal growth

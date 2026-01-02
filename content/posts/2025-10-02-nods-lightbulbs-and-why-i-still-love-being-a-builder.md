@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-02
-description: Reflections on the joy of being a builder and problem-solver, inspired by experiences giving AI tool presentations and watching engineers' curiosity spark.
+description: "Reflections on the joy of being a builder and problem-solver, inspired by experiences giving AI tool presentations and watching engineers' curiosity spark."
 tags:
  - software-engineering
  - AI

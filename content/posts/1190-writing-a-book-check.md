@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2019-05-23
-description: Story behind my book on Software Quality Engineering
+description: "Story behind my book on Software Quality Engineering"
 tags:
  - writing
  - quality engineering

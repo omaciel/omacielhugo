@@ -3,8 +3,7 @@ author:
 - Og Maciel
 
 date: 2017-06-30
-description: |
-  Part 1 of a series of posts talking about quality engineering.
+description: "Part 1 of a series of posts talking about quality engineering."
 tags:
  - qa
  - qe

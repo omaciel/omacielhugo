@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2021-01-23
-description: My new book, "I.C.Q." is available to preorder on Amazon.
+description: "My new book, 'I.C.Q.' is available to preorder on Amazon."
 tags:
 - book
 - writing

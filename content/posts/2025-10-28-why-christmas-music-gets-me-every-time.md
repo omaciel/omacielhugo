@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-28
-description: I know it may sound weird to start talking about Christmas when Halloween hasn't even come up yet.
+description: "I know it may sound weird to start talking about Christmas when Halloween hasn't even come up yet."
 tags:
  - nostalgia
  - personal

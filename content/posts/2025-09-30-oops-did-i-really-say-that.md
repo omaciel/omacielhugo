@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-09-30
-description: A humbling experience of miscommunicating a deadline by eight days and the importance of having the right people around you when mistakes happen.
+description: "A humbling experience of miscommunicating a deadline by eight days and the importance of having the right people around you when mistakes happen."
 tags:
  - work
  - mistakes

@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-16
-description: A writer's journey back to the page - discovering forgotten work on an ICQ sequel and committing to daily writing practice despite a busy work schedule
+description: "A writer's journey back to the page - discovering forgotten work on an ICQ sequel and committing to daily writing practice despite a busy work schedule"
 tags:
  - writing
  - creativity

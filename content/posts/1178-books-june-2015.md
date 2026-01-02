@@ -3,8 +3,7 @@ author:
 - Og Maciel
 
 date: 2015-06-30
-description: |
-  A post about the books I read this June 2015
+description: "A post about the books I read this June 2015"
 tags:
  - Anton Chekhov
  - Arthur Conan Doyle

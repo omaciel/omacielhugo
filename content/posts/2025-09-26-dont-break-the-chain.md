@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-09-26
-description: How the "Don't Break the Chain" productivity method helped achieve remarkable life transformations, from losing 50 pounds to maintaining a 2,100+ day reading streak.
+description: "How the \"Don't Break the Chain\" productivity method helped achieve remarkable life transformations, from losing 50 pounds to maintaining a 2,100+ day reading streak."
 tags:
  - productivity
  - weight-loss

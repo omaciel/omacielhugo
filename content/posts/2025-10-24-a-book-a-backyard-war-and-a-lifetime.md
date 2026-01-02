@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-24
-description: Reading has always been part of my family for as long as I can remember.
+description: "Reading has always been part of my family for as long as I can remember."
 tags:
  - nostalgia
  - books

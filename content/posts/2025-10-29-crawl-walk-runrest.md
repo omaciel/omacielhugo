@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-29
-description: Yesterday was a day of quiet time and reflection for me—a forced slowdown after my body decided it had had enough of my constant multitasking and ignored warnings.
+description: "Yesterday was a day of quiet time and reflection for me—a forced slowdown after my body decided it had had enough of my constant multitasking and ignored warnings."
 tags:
  - software engineering
  - burnout

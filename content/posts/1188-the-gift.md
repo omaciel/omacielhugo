@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2019-05-12
-description: The (many) tribulations of a Quality Engineer
+description: "The (many) tribulations of a Quality Engineer"
 tags:
  - arthrogryposis
  - brazil

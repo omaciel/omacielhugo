@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-20
-description: Sometimes the path finds you long before you recognize you're walking it - my journey from biochemistry to software engineering
+description: "Sometimes the path finds you long before you recognize you're walking it - my journey from biochemistry to software engineering"
 tags:
  - personal
  - origin-story

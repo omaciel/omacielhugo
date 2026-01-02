@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-13
-description: Missing the All Things Open 2025 conference to prioritize team deliverables and end-of-year responsibilities
+description: "Missing the All Things Open 2025 conference to prioritize team deliverables and end-of-year responsibilities"
 tags:
  - reflection
  - leadership reflections

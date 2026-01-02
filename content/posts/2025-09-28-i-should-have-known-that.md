@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-09-28
-description: Discovering a trivia game that might finally create the cherished family game night tradition, reminiscent of childhood memories playing board games.
+description: "Discovering a trivia game that might finally create the cherished family game night tradition, reminiscent of childhood memories playing board games."
 tags:
  - family
  - games

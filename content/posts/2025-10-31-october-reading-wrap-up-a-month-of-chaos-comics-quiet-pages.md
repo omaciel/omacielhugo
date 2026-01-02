@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-31
-description: This month of October has been… a very busy one at work, and as a result, I didn't spend nearly as much time reading as I usually do.
+description: "This month of October has been… a very busy one at work, and as a result, I didn't spend nearly as much time reading as I usually do."
 tags:
  - personal
  - books

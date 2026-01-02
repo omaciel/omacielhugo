@@ -3,8 +3,7 @@ author:
 - Og Maciel
 
 date: 2016-09-13
-description: |
-  Some of the podcasts I\'ve been listening to lately.
+description: "Some of the podcasts I've been listening to lately."
 tags:
  - podcasts
 title: Podcasts I've Been Listening To Lately

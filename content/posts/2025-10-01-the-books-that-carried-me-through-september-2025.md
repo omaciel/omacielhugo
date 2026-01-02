@@ -2,7 +2,7 @@
 author:
 - Og Maciel
 date: 2025-10-01
-description: A journey through the books that filled September 2025, from Shakespeare to science fiction, with unexpected detours and delightful discoveries.
+description: "A journey through the books that filled September 2025, from Shakespeare to science fiction, with unexpected detours and delightful discoveries."
 tags:
  - books
  - reading
