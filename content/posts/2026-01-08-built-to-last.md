@@ -19,7 +19,7 @@ type: post
 
 # Built To Last
 
-## On Ego, Alignment, and the Power of Pausing Before You Leap
+## On learning by building, lowering the bar to entry, and the quiet legacy of useful work
 
 ![Illustration generated using AI image tools, prompted and directed by the author.](/images/built-to-last-01.png)Built To Last
 
