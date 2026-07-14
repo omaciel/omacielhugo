@@ -7,6 +7,17 @@
             --accent-color: {{ .Site.Params.AccentColor | default "#FF4D4D" }};
             --font-size: {{ .Site.Params.FontSize | default "1.1rem" }};
         }
+
+        /* Fit the entire avatar (including the hair) inside its circular frame:
+           scale the image down within transparent padding so the corners fall
+           inside the circle instead of being clipped by it. The source GIF has a
+           fully transparent background, so the ring around the head reads as the
+           page background in both light and dark themes. */
+        .home-about .avatar img.size-m {
+            padding: 1.75rem;
+            box-sizing: border-box;
+            object-fit: contain;
+        }
     </style>
 
     {{ $title := .Title | markdownify | default .Site.Title }}
