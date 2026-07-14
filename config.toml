@@ -10,7 +10,10 @@ title = "Og Maciel's Journal"
 [params]
   avatarAltText = "Og Maciel"
   avatarSize = "size-m"
-  avatarURL = "/images/cartoon_avatar.png"
+  avatarURL = "/images/cartoon_avatar.gif"
+  # Static image used for social-share previews (og:image/twitter:image),
+  # since animated GIFs render poorly (first frame only) on X/LinkedIn/Facebook.
+  ogImage = "/images/cartoon_avatar_og.png"
   description = "Reflections on technology, reading, life, and everything in between"
   footer = "Og Maciel © 2005-2025"
   metaKeywords = ["blog", "technology", "books", "reading", "software engineering", "quality engineering"]
@@ -102,3 +105,8 @@ disqusShortname = "journalofanopensourcee"
 
 [minify]
   minifyOutput = true
+
+# Allow raw-HTML content files (e.g. content/books.html). Hugo v0.158+ tightened
+# the default security.allowContent policy and otherwise rejects them at build time.
+[security]
+  allowContent = ['.*']
