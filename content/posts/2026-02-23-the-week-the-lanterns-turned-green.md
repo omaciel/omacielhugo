@@ -7,6 +7,8 @@ title: "The Week the Lanterns Turned Green"
 tags:
  - substack
 type: post
+series:
+ - The Mill
 ---
 
 # The Week the Lanterns Turned Green

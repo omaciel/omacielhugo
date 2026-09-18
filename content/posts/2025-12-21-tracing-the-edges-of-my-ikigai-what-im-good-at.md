@@ -11,6 +11,8 @@ tags:
  - leadership
  - substack
 type: post
+series:
+ - Tracing the Edges of My Ikigai
 ---
 
 # Tracing the Edges of My Ikigai: What I’m Good At

@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Og Maciel — Rough Draft</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="binding">
+  <a class="wordmark" href="index.html">Og Maciel</a>
+  <nav aria-label="Main">
+    <a href="#drafts">Posts</a>
+    <a href="#books">Books</a>
+    <a href="#">Projects</a>
+    <a href="#">About</a>
+    <a href="https://ogmaciel.substack.com/">Newsletter</a>
+  </nav>
+</header>
+
+<main class="page">
+
+  <section class="hero" aria-label="Introduction">
+    <div>
+      <h1>Og Maciel</h1>
+      <p class="claim">Brazilian-American software engineer and
+        <span class="revision"><del>aspiring</del><ins>award-winning</ins></span> novelist.</p>
+      <p class="bio">I was born in the northernmost corner of Brazil, landed at JFK in 1991 with one suitcase and a box of stamps, and now live in Chapel Hill, North Carolina, with my family. By day I lead software engineers at Red Hat. The rest of the time I write novels in English and Portuguese, and a newsletter called <a href="https://ogmaciel.substack.com/">Life in Rough Draft</a>.</p>
+    </div>
+    <figure class="snapshot">
+      <svg class="clip" viewBox="0 0 22 64" aria-hidden="true"><path d="M6 60V12a5 5 0 0 1 10 0v40a8 8 0 0 1-16 0V8a8 8 0 0 1 16 0" fill="none" stroke="#8b8f99" stroke-width="2.4" stroke-linecap="round"/></svg>
+      <img src="../assets/avatar.gif" alt="Cartoon portrait of Og Maciel, smiling behind round glasses" width="463" height="520">
+      <figcaption>me, roughly</figcaption>
+    </figure>
+  </section>
+
+  <section id="drafts" aria-labelledby="drafts-h">
+    <h2 id="drafts-h">Latest pages</h2>
+    <ol class="drafts">
+      <li><span class="margin-note">Jul 4</span>
+        <a class="title" href="post.html">More Than Words</a>
+        <span class="dek">My own declaration of independence didn’t come on a Fourth of July. It came on an ordinary November afternoon.</span></li>
+      <li><span class="margin-note">Jun 8</span>
+        <a class="title" href="#">What I’ve Been Up To</a>
+        <span class="dek">The 52nd birthday edition.</span></li>
+      <li><span class="margin-note">Jun 5</span>
+        <a class="title" href="#">Reorganization Fatigue</a>
+        <span class="dek">A few thoughts on change that never seems to settle.</span></li>
+      <li><span class="margin-note">May 28</span>
+        <a class="title" href="#">Defeatism at Work</a>
+        <span class="dek">AI, anxiety, and the quiet erosion of trust in engineering culture.</span></li>
+      <li><span class="margin-note">Mar 31</span>
+        <a class="title" href="#">Ollama Drama</a>
+        <span class="dek">Where engineers herd LLMs and wrangle prompts.</span></li>
+      <li><span class="margin-note">Mar 6</span>
+        <a class="title" href="#">The Characters Are Still Knocking</a>
+        <span class="dek">Why some stories refuse to let go, even when life leaves little room for them.</span></li>
+      <li><span class="margin-note">Mar 2</span>
+        <a class="title" href="#">The Week the Mill Ran Ahead of Its Keepers</a><span class="series">The Mill, part 5</span>
+        <span class="dek">When the machine moved faster than the people around it.</span></li>
+    </ol>
+    <a class="more" href="#">All 1,280 pages, back to 2005</a>
+  </section>
+
+  <section id="books" aria-labelledby="books-h">
+    <h2 id="books-h">Books</h2>
+    <div class="shelf">
+      <a class="book" href="#">
+        <img src="../assets/bookcover3.jpg" alt="Cover of The Big Score">
+        <span class="name">The Big Score</span><span class="lang">Young adult, 2021</span>
+      </a>
+      <a class="book" href="#">
+        <span class="award" aria-label="First place, Young Adult in Portuguese, 2023 International Latino Book Awards">
+          <svg viewBox="0 0 124 84" aria-hidden="true"><path d="M70 5C34 0 4 16 6 42c2 26 44 40 80 32s40-32 26-50C100 10 76 2 50 7" transform="scale(.98)" fill="#fbf3c9" fill-opacity=".94" stroke="#c2272d" stroke-width="2.2" stroke-linecap="round"/></svg>
+          1st place, Latino Book Awards</span>
+        <img src="../assets/bookcover4.jpg" alt="Cover of O Grande Desafio">
+        <span class="name">O Grande Desafio</span><span class="lang">The Big Score, Portuguese edition</span>
+      </a>
+      <a class="book" href="#">
+        <img src="../assets/bookcover2.jpeg" alt="Cover of I.C.Q.">
+        <span class="name">I.C.Q.</span><span class="lang">A novel, 2021</span>
+      </a>
+      <a class="book" href="#">
+        <img src="../assets/bookcover5.jpg" alt="Cover of ICQ, the Portuguese edition of I.C.Q.">
+        <span class="name">ICQ</span><span class="lang">I.C.Q., Portuguese edition</span>
+      </a>
+      <a class="book" href="#">
+        <img src="../assets/bookcover1.png" alt="Cover of Software Quality Engineering">
+        <span class="name">Software Quality Engineering</span><span class="lang">A career story, 2019</span>
+      </a>
+    </div>
+  </section>
+
+  <section class="letter" aria-labelledby="letter-h">
+    <h2 id="letter-h">Life in Rough Draft</h2>
+    <p>Weekly-ish letters about reading, writing, leading engineers, and the stories I keep telling my kids. Unfinished on purpose.</p>
+    <form action="https://ogmaciel.substack.com/subscribe" method="get">
+      <input id="email" type="email" aria-label="Email address" name="email" placeholder="you@example.com" required>
+      <button type="submit">Subscribe</button>
+    </form>
+  </section>
+
+  <footer class="foot">
+    <span>Og Maciel, 2005–2026</span>
+    <a href="https://github.com/omaciel">GitHub</a>
+    <a href="https://www.goodreads.com/author/show/7762080.Og_Maciel">Goodreads</a>
+    <a href="https://www.amazon.com/author/ogmaciel">Amazon</a>
+    <a href="https://www.linkedin.com/in/ogmaciel/">LinkedIn</a>
+    <a href="/index.xml">RSS</a>
+  </footer>
+</main>
+</body>
+</html>

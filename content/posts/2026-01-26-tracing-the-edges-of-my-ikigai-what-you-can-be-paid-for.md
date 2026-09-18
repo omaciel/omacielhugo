@@ -7,6 +7,8 @@ title: "Tracing the Edges of My Ikigai: What You Can Be Paid For"
 tags:
  - substack
 type: post
+series:
+ - Tracing the Edges of My Ikigai
 ---
 
 # Tracing the Edges of My Ikigai: What You Can Be Paid For

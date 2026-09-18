@@ -1,0 +1,5 @@
+{{- with partial "series-of.html" . -}}
+{{- partial "tile.html" (dict "motif" .motif "color" .color "class" "chip") -}}
+{{- else -}}
+<i class="chip chip-none" aria-hidden="true"></i>
+{{- end -}}

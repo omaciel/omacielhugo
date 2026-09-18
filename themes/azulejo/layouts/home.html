@@ -1,0 +1,86 @@
+{{ define "main" }}
+{{- $posts := (where site.RegularPages "Type" "post").ByDate.Reverse }}
+{{- with site.Params.hero }}
+<section class="hero" aria-label="Introduction">
+  <div class="wrap">
+    <div>
+      <h1>{{ .before }} <span class="revision"><del>{{ .struck }}</del><ins>{{ .inserted }}</ins></span> {{ .after }}</h1>
+      <div class="intro">{{ $.Content }}</div>
+    </div>
+    {{- with site.Params.avatarURL }}
+    <img class="avatar" src="{{ . | relURL }}" alt="{{ site.Params.avatarAltText | default "Avatar" }}" width="463" height="520">
+    {{- end }}
+  </div>
+</section>
+{{- end }}
+
+<section class="section" id="writing" aria-labelledby="writing-h">
+  <div class="wrap">
+    <div class="head"><h2 id="writing-h">Writing</h2></div>
+    <div class="legend" aria-label="Series key">
+      {{- range hugo.Data.series }}
+      <span>{{ partial "tile.html" (dict "motif" .motif "color" .color) }}{{ .short | default .name }}</span>
+      {{- end }}
+      <span><i class="chip chip-none" aria-hidden="true"></i>Standalone post</span>
+    </div>
+    <ol class="posts">
+      {{- range first (site.Params.homePostCount | default 6) $posts }}
+      {{ partial "post-item.html" . }}
+      {{- end }}
+    </ol>
+    <a class="all" href="{{ "posts/" | relURL }}">Browse all {{ lang.FormatNumber 0 (len $posts) }} posts since {{ (index $posts.ByDate 0).Date.Year }}</a>
+  </div>
+</section>
+
+{{- with hugo.Data.series }}
+<section class="section" aria-labelledby="series-h">
+  <div class="wrap">
+    <div class="head"><h2 id="series-h">Series</h2></div>
+    <div class="series">
+      {{- range . }}
+      {{- $colors := dict "cobalt" "#1f47a8" "sun" "#f2b705" "leaf" "#0f7a4f" }}
+      {{- $term := site.GetPage (printf "/series/%s" (urlize .name)) }}
+      <a href="{{ with $term }}{{ .RelPermalink }}{{ end }}">
+        <svg viewBox="0 0 300 150" aria-hidden="true" focusable="false"><g fill="{{ index $colors .color }}">{{ .art | safeHTML }}</g></svg>
+        <h3>{{ .name }}</h3>
+        <p>{{ .blurb }}{{ with $term }} {{ len .Pages }} parts.{{ end }}</p>
+      </a>
+      {{- end }}
+    </div>
+  </div>
+</section>
+{{- end }}
+
+{{- with hugo.Data.books }}
+<section class="section books" id="books" aria-labelledby="books-h">
+  <div class="wrap">
+    <div class="head"><h2 id="books-h">Books</h2></div>
+    <div class="shelf">
+      {{- range . }}
+      <a class="book" href="{{ .page | default "/books/" | relURL }}">
+        <img src="{{ .cover | relURL }}" alt="Cover of {{ .title }}" loading="lazy">
+        <strong>{{ .title }}</strong>
+        <span>{{ .subtitle }}</span>
+        {{- with .prize }}<em class="prize">{{ . }}</em>{{ end }}
+      </a>
+      {{- end }}
+    </div>
+  </div>
+</section>
+{{- end }}
+
+{{- with site.Params.newsletter }}
+<section class="section letter" aria-labelledby="letter-h">
+  <div class="wrap">
+    <div>
+      <div class="head"><h2 id="letter-h">{{ .name }}</h2></div>
+      <p>{{ .blurb }}</p>
+    </div>
+    <form action="{{ .url }}subscribe" method="get">
+      <input type="email" name="email" aria-label="Email address" placeholder="Your email" required>
+      <button type="submit">Subscribe</button>
+    </form>
+  </div>
+</section>
+{{- end }}
+{{ end }}

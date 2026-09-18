@@ -1,0 +1,13 @@
+{{- $here := .RelPermalink -}}
+<header class="top">
+  <div class="wrap">
+    <a class="mark" href="{{ "/" | relURL }}">{{ partial "tile.html" (dict "motif" 0 "color" "cobalt" "class" "") }}{{ site.Params.name | default site.Title }}</a>
+    <nav aria-label="Main">
+      {{- range site.Menus.main }}
+      {{- $current := and (ne .URL "/") (not (strings.HasPrefix .URL "http")) (strings.HasPrefix $here .URL) }}
+      {{- if and (eq .URL "/posts/") (or (strings.HasPrefix $here "/tags/") (strings.HasPrefix $here "/series/")) }}{{ $current = true }}{{ end }}
+      <a href="{{ .URL | relURL }}"{{ if $current }} aria-current="page"{{ end }}>{{ .Name }}</a>
+      {{- end }}
+    </nav>
+  </div>
+</header>

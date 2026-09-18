@@ -7,6 +7,8 @@ title: "The Week the Mill Ran Ahead of Its Keepers"
 tags:
  - substack
 type: post
+series:
+ - The Mill
 ---
 
 # The Week the Mill Ran Ahead of Its Keepers

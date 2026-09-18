@@ -1,0 +1,24 @@
+<div class="wrap">
+  <section class="book-detail" aria-labelledby="book-h">
+    <img src="{{ .cover | relURL }}" alt="Cover of {{ .title }}">
+    <div>
+      <h1 id="book-h">{{ .title }}</h1>
+      <p class="sub">{{ .subtitle }}</p>
+      <p class="blurb">{{ .blurb }}</p>
+      <div class="actions">
+        <a class="btn primary" href="{{ .buy }}" rel="noopener">Buy the book</a>
+        {{- with .sample }}<a class="btn" href="{{ . | relURL }}">Read a sample</a>{{ end }}
+      </div>
+      {{- with .editions }}
+      <p class="editions">
+        {{- range . }}
+        {{- with index (where hugo.Data.books "id" .) 0 }}
+        Also available in {{ .language }} as <a href="{{ .buy }}" rel="noopener"><em>{{ .title }}</em></a>.
+        {{- with .prize }} {{ . }}.{{ end }}
+        {{- end }}
+        {{- end }}
+      </p>
+      {{- end }}
+    </div>
+  </section>
+</div>

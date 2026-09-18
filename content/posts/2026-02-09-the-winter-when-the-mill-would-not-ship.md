@@ -7,6 +7,8 @@ title: "The Winter When the Mill Would Not Ship"
 tags:
  - substack
 type: post
+series:
+ - The Mill
 ---
 
 # The Winter When the Mill Would Not Ship

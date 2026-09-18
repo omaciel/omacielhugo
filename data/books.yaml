@@ -1,0 +1,44 @@
+# Books shown on the home page, /books/, and each book's own page.
+# `page` is the content section that shows the book in detail (e.g. /thebigscore/).
+- id: the-big-score
+  title: The Big Score
+  subtitle: Young adult novel, 2021
+  cover: /images/bookcover3.jpg
+  page: /thebigscore/
+  blurb: Friendships and alliances will be tested during a challenge to see who is the best car emblem thief in town.
+  buy: https://www.amazon.com/dp/B0CHDFYDGW/
+  sample: /images/the-big-score-SAMPLE.pdf
+  editions: [o-grande-desafio]
+
+- id: o-grande-desafio
+  title: O Grande Desafio
+  subtitle: The Big Score, Portuguese edition, 2022
+  language: Portuguese
+  cover: /images/bookcover4.jpg
+  blurb: The Portuguese edition of The Big Score.
+  prize: First place, Young Adult in Portuguese, 2023 International Latino Book Awards
+  buy: https://www.amazon.com.br/gp/product/6589851948/
+
+- id: icq
+  title: I.C.Q.
+  subtitle: A novel, 2021
+  cover: /images/bookcover2.jpeg
+  page: /icq/
+  blurb: Before there were dating apps, people met online on AOL and ICQ.
+  buy: https://www.amazon.com/gp/product/B08THVG8YY/
+  editions: [icq-um-romance-de-internet]
+
+- id: icq-um-romance-de-internet
+  title: ICQ
+  subtitle: I.C.Q., Portuguese edition, 2022
+  language: Portuguese
+  cover: /images/bookcover5.jpg
+  blurb: The Portuguese edition of I.C.Q., a love story set in the early days of online chat.
+  buy: https://www.editorainverso.com.br/pagina-de-produto/icq-um-romance-de-internet
+
+- id: software-quality-engineering
+  title: Software Quality Engineering
+  subtitle: Tales from the trenches, 2019
+  cover: /images/bookcover1.png
+  blurb: My personal journey to become a software quality engineer.
+  buy: https://www.amazon.com/gp/product/B09274CN22/

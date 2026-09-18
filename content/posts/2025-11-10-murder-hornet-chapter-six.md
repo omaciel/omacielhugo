@@ -11,6 +11,8 @@ tags:
  - young adult
  - substack
 type: post
+series:
+ - Murder Hornet
 ---
 
 # Murder Hornet: Chapter Six

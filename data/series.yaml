@@ -1,0 +1,20 @@
+# Series on the home page. `name` must match the `series` value in each post's
+# front matter. `color` is one of cobalt, sun, leaf; `motif` is a tile (0-3).
+- name: The Mill
+  color: cobalt
+  motif: 0
+  blurb: Engineering parables about a mill, its keepers, and the machines that outpace them.
+  art: '<path d="M0 0H150A150 150 0 0 1 0 150Z"/><path d="M150 150H300A150 150 0 0 0 150 0Z"/>'
+
+- name: Murder Hornet
+  color: sun
+  motif: 1
+  blurb: Serialized fiction, published a chapter a week through the fall of 2025.
+  art: '<path d="M0 0H150L0 150Z"/><circle cx="110" cy="110" r="18"/><path d="M150 0H300L150 150Z"/><circle cx="260" cy="110" r="18"/>'
+
+- name: Tracing the Edges of My Ikigai
+  short: Ikigai
+  color: leaf
+  motif: 3
+  blurb: Essays on what I love, what I'm good at, what the world needs, and what pays.
+  art: '<path d="M0 0H75A75 75 0 0 1 0 75Z M150 150H75A75 75 0 0 1 150 75Z"/><path d="M150 0H225A75 75 0 0 1 150 75Z M300 150H225A75 75 0 0 1 300 75Z"/><path d="M0 75H75A75 75 0 0 1 0 150Z"/><path d="M300 0V75A75 75 0 0 1 225 0Z"/>'

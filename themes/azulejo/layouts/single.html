@@ -1,0 +1,72 @@
+{{ define "main" }}
+<article class="article">
+  {{- if eq .Type "post" }}
+  <p class="meta">
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    <span>{{ .ReadingTime }} minute read</span>
+    {{- with partial "series-of.html" . }}
+    <a href="{{ (site.GetPage (printf "/series/%s" (urlize .name))).RelPermalink }}">{{ partial "tile.html" (dict "motif" .motif "color" .color) }}{{ .name }}</a>
+    {{- end }}
+  </p>
+  {{- end }}
+  <h1>{{ .Title | markdownify }}</h1>
+  {{- with .Description }}
+  <p class="dek">{{ . | markdownify }}</p>
+  {{- end }}
+
+  {{- /* Posts imported from Substack repeat the title (h1) and subtitle (h2)
+         at the top of the body; drop them since the header already shows both. */}}
+  {{- $content := .Content }}
+  {{- with findRESubmatch `^\s*<h1[^>]*>(.*?)</h1>` $content 1 }}
+    {{- if eq (index (index . 0) 1 | plainify | htmlUnescape) ($.Title | markdownify | plainify | htmlUnescape) }}
+      {{- $content = replaceRE `^\s*<h1[^>]*>.*?</h1>\s*` "" $content 1 }}
+    {{- end }}
+  {{- end }}
+  {{- with $.Description }}
+    {{- with findRESubmatch `^\s*<h2[^>]*>(.*?)</h2>` $content 1 }}
+      {{- if eq (index (index . 0) 1 | plainify | htmlUnescape) ($.Description | markdownify | plainify | htmlUnescape) }}
+        {{- $content = replaceRE `^\s*<h2[^>]*>.*?</h2>\s*` "" $content 1 }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+  <div class="prose">
+    {{ $content | safeHTML }}
+  </div>
+
+  {{- if eq .Type "post" }}
+  {{- with partial "series-of.html" . }}
+  {{- $term := site.GetPage (printf "/series/%s" (urlize .name)) }}
+  <aside class="series-box" aria-labelledby="series-box-h">
+    <h2 id="series-box-h">{{ partial "tile.html" (dict "motif" .motif "color" .color) }}{{ .name }}</h2>
+    <ol>
+      {{- range $term.Pages.ByDate }}
+      <li{{ if eq .RelPermalink $.RelPermalink }} aria-current="page"{{ end }}><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>
+      {{- end }}
+    </ol>
+  </aside>
+  {{- end }}
+
+  {{- with .GetTerms "tags" }}
+  <ul class="tags" aria-label="Tags">
+    {{- range . }}
+    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+    {{- end }}
+  </ul>
+  {{- end }}
+
+  {{- $posts := (where site.RegularPages "Type" "post").ByDate }}
+  {{- $older := $posts.Prev . }}
+  {{- $newer := $posts.Next . }}
+  {{- if or $older $newer }}
+  <nav class="after" aria-label="More posts">
+    {{- with $older }}<a class="older" href="{{ .RelPermalink }}"><small>Older</small><strong>{{ .Title | markdownify }}</strong></a>{{ end }}
+    {{- with $newer }}<a class="newer" href="{{ .RelPermalink }}"><small>Newer</small><strong>{{ .Title | markdownify }}</strong></a>{{ end }}
+  </nav>
+  {{- end }}
+
+  {{- if site.Config.Services.Disqus.Shortname }}
+  <div class="comments">{{ template "_internal/disqus.html" . }}</div>
+  {{- end }}
+  {{- end }}
+</article>
+{{ end }}

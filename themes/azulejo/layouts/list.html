@@ -1,0 +1,50 @@
+{{ define "main" }}
+{{- if .Params.book }}
+  {{- with index (where hugo.Data.books "id" .Params.book) 0 }}{{ partial "book-detail.html" . }}{{ end }}
+{{- else if or (eq .Kind "term") (eq .Section "posts") }}
+  {{- $series := false }}
+  {{- if eq .Data.Plural "series" }}
+    {{- range hugo.Data.series }}{{ if eq (urlize .name) (urlize $.Title) }}{{ $series = . }}{{ end }}{{ end }}
+  {{- end }}
+  <div class="wrap">
+    <header class="page-head">
+      {{- with $series }}{{ partial "tile.html" (dict "motif" .motif "color" .color "class" "chip") }}{{ end }}
+      <h1>{{ if eq .Section "posts" }}Writing{{ else }}{{ .Title }}{{ end }}</h1>
+      <p>
+        {{- if $series }}{{ $series.blurb }} {{ len .Pages }} parts, in reading order.
+        {{- else if eq .Kind "term" }}{{ lang.FormatNumber 0 (len .Pages) }} posts tagged “{{ .Title }}”.
+        {{- else }}{{ lang.FormatNumber 0 (len .Pages) }} posts since {{ (index .Pages.ByDate 0).Date.Year }}, newest first. Browse by <a href="{{ "tags/" | relURL }}">tag</a> or <a href="{{ "series/" | relURL }}">series</a>.
+        {{- end }}
+      </p>
+    </header>
+    <div class="archive">
+      {{- if $series }}
+      <ol class="posts">
+        {{- range .Pages.ByDate }}{{ partial "post-item.html" . }}{{ end }}
+      </ol>
+      {{- else }}
+      {{- $pager := .Paginate .Pages.ByDate.Reverse }}
+      {{- range $pager.Pages.GroupByDate "2006" }}
+      <h2>{{ .Key }}</h2>
+      <ol class="posts">
+        {{- range .Pages }}{{ partial "post-item.html" . }}{{ end }}
+      </ol>
+      {{- end }}
+      {{- if gt $pager.TotalPages 1 }}
+      <nav class="pager" aria-label="Pages">
+        {{- with $pager.Prev }}<a href="{{ .URL }}" rel="prev">Newer posts</a>{{ else }}<i></i>{{ end }}
+        <span>Page {{ $pager.PageNumber }} of {{ $pager.TotalPages }}</span>
+        {{- with $pager.Next }}<a href="{{ .URL }}" rel="next">Older posts</a>{{ else }}<i></i>{{ end }}
+      </nav>
+      {{- end }}
+      {{- end }}
+    </div>
+  </div>
+{{- else }}
+  <article class="article">
+    <h1>{{ .Title | markdownify }}</h1>
+    {{- with .Description }}<p class="dek">{{ . | markdownify }}</p>{{ end }}
+    <div class="prose">{{ .Content }}</div>
+  </article>
+{{- end }}
+{{ end }}

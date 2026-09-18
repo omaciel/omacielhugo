@@ -7,6 +7,8 @@ title: "The Mandate and the Mill"
 tags:
  - substack
 type: post
+series:
+ - The Mill
 ---
 
 # The Mandate and the Mill

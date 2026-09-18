@@ -13,6 +13,8 @@ tags:
  - chapter-three
 title: "Murder Hornet: Chapter Three"
 type: post
+series:
+ - Murder Hornet
 ---
 
 ![Cover Image](/images/murder-hornet-chapter-two.heic)

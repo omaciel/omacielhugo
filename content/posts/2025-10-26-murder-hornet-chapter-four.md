@@ -11,6 +11,8 @@ tags:
  - substack
 title: "Murder Hornet: Chapter Four"
 type: post
+series:
+ - Murder Hornet
 cover:
   image: /images/murder-hornet-chapter-two.heic
 ---

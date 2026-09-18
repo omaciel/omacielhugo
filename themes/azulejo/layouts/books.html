@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="wrap books-page">
+  <header class="page-head">
+    <h1>{{ .Title }}</h1>
+    {{- with .Content }}<div>{{ . }}</div>{{ end }}
+  </header>
+  <ul class="catalog">
+    {{- range hugo.Data.books }}
+    <li>
+      <a href="{{ .page | default .buy }}"><img src="{{ .cover | relURL }}" alt="Cover of {{ .title }}" loading="lazy"></a>
+      <div>
+        <h2><a href="{{ .page | default .buy }}">{{ .title }}</a></h2>
+        <p class="sub">{{ .subtitle }}</p>
+        <p class="blurb">{{ .blurb }}</p>
+        {{- with .prize }}<p class="prize">{{ . }}</p>{{ end }}
+        <div class="actions">
+          <a class="btn primary" href="{{ .buy }}" rel="noopener">Buy the book</a>
+          {{- with .sample }}<a class="btn" href="{{ . | relURL }}">Read a sample</a>{{ end }}
+        </div>
+      </div>
+    </li>
+    {{- end }}
+  </ul>
+</div>
+{{ end }}

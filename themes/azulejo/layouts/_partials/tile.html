@@ -1,0 +1,9 @@
+{{- /* A Bulcão-style tile. Context: dict "motif" 0-3, "color" cobalt|sun|leaf, "class". */ -}}
+{{- $motifs := slice
+  `<path d="M0 0H100A100 100 0 0 1 0 100Z"/>`
+  `<path d="M0 0H100L0 100Z"/><circle cx="74" cy="74" r="12"/>`
+  `<path d="M0 100A50 50 0 0 1 100 100Z"/><rect width="100" height="18"/>`
+  `<path d="M0 0H50A50 50 0 0 1 0 50Z M100 100H50A50 50 0 0 1 100 50Z"/>` -}}
+{{- $colors := dict "cobalt" "#1f47a8" "sun" "#f2b705" "leaf" "#0f7a4f" -}}
+<svg class="{{ .class | default "chip" }}" viewBox="0 0 100 100" aria-hidden="true" focusable="false"><g fill="{{ index $colors (.color | default "cobalt") }}">{{ index $motifs (int (.motif | default 0)) | safeHTML }}</g></svg>
+{{- /**/ -}}

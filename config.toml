@@ -4,31 +4,20 @@ enableEmoji = true
 enableRobotsTXT = true
 locale = "en-us"
 pygmentsStyle = "monokai"
-theme = "gokarna"
+theme = "azulejo"
 title = "Og Maciel's Journal"
 
 [params]
-  avatarAltText = "Og Maciel"
-  avatarSize = "size-m"
+  name = "Og Maciel"
+  since = 2005
+  description = "Reflections on technology, reading, life, and everything in between"
+  metaKeywords = ["blog", "technology", "books", "reading", "software engineering", "quality engineering"]
   avatarURL = "/images/cartoon_avatar.gif"
+  avatarAltText = "Cartoon portrait of Og Maciel, smiling behind round glasses"
   # Static image used for social-share previews (og:image/twitter:image),
   # since animated GIFs render poorly (first frame only) on X/LinkedIn/Facebook.
   ogImage = "/images/cartoon_avatar_og.png"
-  description = "Reflections on technology, reading, life, and everything in between"
-  footer = "Og Maciel © 2005-2025"
-  metaKeywords = ["blog", "technology", "books", "reading", "software engineering", "quality engineering"]
-  showBackToTopButton = true
-  showPostsOnHomePage = "recent"
-  numberPostsOnHomePage = 7
-  name = "Og Maciel"
-  github = "https://github.com/omaciel"
-  linkedin = "https://www.linkedin.com/in/ogmaciel/"
-  instagram = "http://instagram.com/ogmaciel"
-  amazon = "https://www.amazon.com/author/ogmaciel"
-  goodreads = "https://www.goodreads.com/user/show/26849474-og-maciel"
-  
-  # Custom head HTML for Font Awesome and favicon
-  customHeadHTML = '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"><link rel="icon" href="/favicon.ico"><link rel="shortcut icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/images/ogmaciel.jpg">'
+  homePostCount = 6
 
   socialIcons = [
     {name = "github", url = "https://github.com/omaciel"},
@@ -41,49 +30,44 @@ title = "Og Maciel's Journal"
     {name = "rss", url = "/index.xml"}
   ]
 
+  # Home page headline: "<before> <struck> (corrected to <inserted>) <after>"
+  [params.hero]
+    before = "Brazilian-American software engineer and"
+    struck = "aspiring"
+    inserted = "award-winning"
+    after = "novelist."
+
+  [params.newsletter]
+    name = "Life in Rough Draft"
+    url = "https://ogmaciel.substack.com/"
+    blurb = "My newsletter on Substack. Reading, writing, leading engineers, and stories from Brazil, New Jersey, and Chapel Hill."
+
+
 [menu]
   [[menu.main]]
-    name = "Home"
-    pre = "<span data-feather='home'></span>"
-    url = "/"
+    name = "Writing"
+    url = "/posts/"
     weight = 1
 
   [[menu.main]]
     name = "Books"
-    pre = "<span data-feather='book-open'></span>"
     url = "/books/"
     weight = 2
 
   [[menu.main]]
-    name = "Posts"
-    pre = "<span data-feather='book'></span>"
-    url = "/posts/"
+    name = "Projects"
+    url = "/projects/"
     weight = 3
 
   [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    pre = "<span data-feather='code'></span>"
-    url = "/projects/"
+    name = "About"
+    url = "/about/"
     weight = 4
 
   [[menu.main]]
-    name = "Tags"
-    pre = "<span data-feather='tag'></span>"
-    url = "/tags/"
+    name = "Newsletter"
+    url = "https://ogmaciel.substack.com/"
     weight = 5
-
-  [[menu.main]]
-    name = "About"
-    pre = "<span data-feather='user'></span>"
-    url = "/about/"
-    weight = 6
-
-  [[menu.main]]
-    identifier = "rss"
-    pre = "<span data-feather='rss'></span>"
-    url = "/index.xml"
-    weight = 7
 
 [markup]
   [markup.goldmark]
@@ -95,10 +79,11 @@ title = "Og Maciel's Journal"
     ordered = false
 
 [pagination]
-  pagerSize = 7
+  pagerSize = 25
 
 [taxonomies]
   tag = "tags"
+  series = "series"
 
 # Disqus comments
 disqusShortname = "journalofanopensourcee"

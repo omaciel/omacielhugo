@@ -7,6 +7,8 @@ title: "The Week the Mill Began Watching Itself"
 tags:
  - substack
 type: post
+series:
+ - The Mill
 ---
 
 # The Week the Mill Began Watching Itself

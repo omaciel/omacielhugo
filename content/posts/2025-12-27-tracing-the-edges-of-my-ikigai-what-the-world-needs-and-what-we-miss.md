@@ -11,6 +11,8 @@ tags:
  - management
  - substack
 type: post
+series:
+ - Tracing the Edges of My Ikigai
 ---
 
 # Tracing the Edges of My Ikigai: What the World Needs, and What We Miss

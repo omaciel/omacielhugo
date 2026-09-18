@@ -1,0 +1,13 @@
+{{- $labels := dict "github" "GitHub" "linkedin" "LinkedIn" "instagram" "Instagram" "amazon" "Amazon" "goodreads" "Goodreads" "substack" "Substack" "email" "Email" "rss" "RSS" -}}
+<div class="band" aria-hidden="true"></div>
+<footer class="foot">
+  <div class="wrap">
+    <span>{{ site.Params.name | default site.Title }}, {{ site.Params.since | default 2005 }}–{{ now.Year }}</span>
+    <nav aria-label="Elsewhere">
+      {{- range site.Params.socialIcons }}
+      <a href="{{ .url }}"{{ if strings.HasPrefix .url "http" }} rel="me noopener"{{ end }}>{{ index $labels .name | default (title .name) }}</a>
+      {{- end }}
+      <a href="{{ "tags/" | relURL }}">Tags</a>
+    </nav>
+  </div>
+</footer>

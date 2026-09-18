@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="wrap">
+  <header class="page-head">
+    <h1>{{ .Title }}</h1>
+    <p>{{ len .Data.Terms }} {{ .Data.Plural }}, most used first.</p>
+  </header>
+  <ul class="terms">
+    {{- range .Data.Terms.ByCount }}
+    <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <small>{{ .Count }}</small></a></li>
+    {{- end }}
+  </ul>
+</div>
+{{ end }}

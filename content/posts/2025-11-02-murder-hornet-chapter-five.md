@@ -11,6 +11,8 @@ tags:
  - young adult
  - substack
 type: post
+series:
+ - Murder Hornet
 cover:
   image: /images/murder-hornet-chapter-five-cover.heic
 ---

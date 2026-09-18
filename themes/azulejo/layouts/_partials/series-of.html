@@ -1,0 +1,9 @@
+{{- /* Returns the data/series.yaml entry for a page's first series, or nil. */ -}}
+{{- $found := false -}}
+{{- with .Params.series -}}
+  {{- $name := index . 0 -}}
+  {{- range hugo.Data.series -}}
+    {{- if eq .name $name -}}{{- $found = . -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $found -}}

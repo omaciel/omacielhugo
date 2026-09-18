@@ -3,6 +3,7 @@ author:
 - Og Maciel
 date: 2025-11-04
 description: "I Asked AI to Analyze My Reading"
+title: "I Asked AI to Analyze My Reading Habits. My Wallet Almost Didn’t Survive."
 tags:
  - ai
  - books

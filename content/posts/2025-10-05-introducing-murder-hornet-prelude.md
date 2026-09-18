@@ -12,6 +12,8 @@ tags:
  - substack
 title: "Introducing Murder Hornet: Prelude + Chapter One"
 type: post
+series:
+ - Murder Hornet
 ---
 
 ![Cover Image](/images/murder-hornet-cover.heic)
