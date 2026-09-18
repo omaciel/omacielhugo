@@ -8,7 +8,10 @@
       <div class="intro">{{ $.Content }}</div>
     </div>
     {{- with site.Params.avatarURL }}
-    <img class="avatar" src="{{ . | relURL }}" alt="{{ site.Params.avatarAltText | default "Avatar" }}" width="463" height="520">
+    <picture class="avatar">
+      {{- with site.Params.avatarWebP }}<source srcset="{{ . | relURL }}" type="image/webp">{{ end }}
+      <img src="{{ . | relURL }}" alt="{{ site.Params.avatarAltText | default "Avatar" }}" width="463" height="520">
+    </picture>
     {{- end }}
   </div>
 </section>

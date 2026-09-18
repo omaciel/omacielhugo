@@ -13,6 +13,8 @@ title = "Og Maciel's Journal"
   description = "Reflections on technology, reading, life, and everything in between"
   metaKeywords = ["blog", "technology", "books", "reading", "software engineering", "quality engineering"]
   avatarURL = "/images/cartoon_avatar.gif"
+  # Animated WebP of the same avatar: ~80% smaller, served to browsers that support it.
+  avatarWebP = "/images/cartoon_avatar.webp"
   avatarAltText = "Cartoon portrait of Og Maciel, smiling behind round glasses"
   # Static image used for social-share previews (og:image/twitter:image),
   # since animated GIFs render poorly (first frame only) on X/LinkedIn/Facebook.
